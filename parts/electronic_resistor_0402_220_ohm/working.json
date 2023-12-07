@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "8UWE8",
     "md5_10": "e307804ecd",
     "md5_10_upper": "E307804ECD",
+    "oomp_word": "rowboat cry hourglass",
+    "oomp_word_list": [
+        "rowboat",
+        "cry",
+        "hourglass"
+    ],
+    "oomp_word_emoji": ":rowboat: :cry: :hourglass:",
+    "oomp_word_emoji_list": [
+        ":rowboat:",
+        ":cry:",
+        ":hourglass:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "220",

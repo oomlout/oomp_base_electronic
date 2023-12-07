@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "1QGK9",
     "md5_10": "2c77597a93",
     "md5_10_upper": "2C77597A93",
+    "oomp_word": "snowflake gift dragon",
+    "oomp_word_list": [
+        "snowflake",
+        "gift",
+        "dragon"
+    ],
+    "oomp_word_emoji": ":snowflake: :gift: :dragon:",
+    "oomp_word_emoji_list": [
+        ":snowflake:",
+        ":gift:",
+        ":dragon:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "560",

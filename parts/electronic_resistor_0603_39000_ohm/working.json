@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "7Q6T7",
     "md5_10": "c60bfbc953",
     "md5_10_upper": "C60BFBC953",
+    "oomp_word": "lollipop sunglasses ok",
+    "oomp_word_list": [
+        "lollipop",
+        "sunglasses",
+        "ok"
+    ],
+    "oomp_word_emoji": ":lollipop: :sunglasses: :ok:",
+    "oomp_word_emoji_list": [
+        ":lollipop:",
+        ":sunglasses:",
+        ":ok:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "39000",

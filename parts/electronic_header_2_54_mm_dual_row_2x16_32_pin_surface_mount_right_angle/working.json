@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "2RQLT",
     "md5_10": "470171fde8",
     "md5_10_upper": "470171FDE8",
+    "oomp_word": "baby_chick smile bamboo",
+    "oomp_word_list": [
+        "baby_chick",
+        "smile",
+        "bamboo"
+    ],
+    "oomp_word_emoji": ":baby_chick: :smile: :bamboo:",
+    "oomp_word_emoji_list": [
+        ":baby_chick:",
+        ":smile:",
+        ":bamboo:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21632",

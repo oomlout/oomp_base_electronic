@@ -75,6 +75,16 @@ name_no_size: 17 Pin Surface Mount Right Angle
 name_no_size_short: 17 Pin Surface Mount Right Angle
 name_no_type: 2 54 Mm 17 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_2_54_mm_17_pin_surface_mount_right_angle
+oomp_word: school crown car
+oomp_word_emoji: ':school: :crown: :car:'
+oomp_word_emoji_list:
+- ':school:'
+- ':crown:'
+- ':car:'
+oomp_word_list:
+- school
+- crown
+- car
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

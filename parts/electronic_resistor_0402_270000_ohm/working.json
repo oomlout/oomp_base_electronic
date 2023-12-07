@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "7EKVU",
     "md5_10": "bdc83a4711",
     "md5_10_upper": "BDC83A4711",
+    "oomp_word": "rice apple koala",
+    "oomp_word_list": [
+        "rice",
+        "apple",
+        "koala"
+    ],
+    "oomp_word_emoji": ":rice: :apple: :koala:",
+    "oomp_word_emoji_list": [
+        ":rice:",
+        ":apple:",
+        ":koala:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "270000",

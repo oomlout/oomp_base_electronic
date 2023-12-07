@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2UVYX",
     "md5_10": "493f590baf",
     "md5_10_upper": "493F590BAF",
+    "oomp_word": "hatching_chick horse dragon",
+    "oomp_word_list": [
+        "hatching_chick",
+        "horse",
+        "dragon"
+    ],
+    "oomp_word_emoji": ":hatching_chick: :horse: :dragon:",
+    "oomp_word_emoji_list": [
+        ":hatching_chick:",
+        ":horse:",
+        ":dragon:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "680",

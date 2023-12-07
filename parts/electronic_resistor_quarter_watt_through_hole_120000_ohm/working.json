@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "F7N0",
     "md5_10": "0ad46cc8e0",
     "md5_10_upper": "0AD46CC8E0",
+    "oomp_word": "sleepy corn blossom",
+    "oomp_word_list": [
+        "sleepy",
+        "corn",
+        "blossom"
+    ],
+    "oomp_word_emoji": ":sleepy: :corn: :blossom:",
+    "oomp_word_emoji_list": [
+        ":sleepy:",
+        ":corn:",
+        ":blossom:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "120000",

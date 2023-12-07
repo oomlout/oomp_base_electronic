@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "4TNQX",
     "md5_10": "7ba179d9a3",
     "md5_10_upper": "7BA179D9A3",
+    "oomp_word": "computer trophy balloon",
+    "oomp_word_list": [
+        "computer",
+        "trophy",
+        "balloon"
+    ],
+    "oomp_word_emoji": ":computer: :trophy: :balloon:",
+    "oomp_word_emoji_list": [
+        ":computer:",
+        ":trophy:",
+        ":balloon:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "5",

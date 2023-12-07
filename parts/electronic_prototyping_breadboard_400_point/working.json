@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "147ZE",
     "md5_10": "1ca26a7e99",
     "md5_10_upper": "1CA26A7E99",
+    "oomp_word": "dancer violin palm_tree",
+    "oomp_word_list": [
+        "dancer",
+        "violin",
+        "palm_tree"
+    ],
+    "oomp_word_emoji": ":dancer: :violin: :palm_tree:",
+    "oomp_word_emoji_list": [
+        ":dancer:",
+        ":violin:",
+        ":palm_tree:"
+    ],
     "size_only_numbers": "400",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "",

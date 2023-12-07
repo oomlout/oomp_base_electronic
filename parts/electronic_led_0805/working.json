@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "5IMA5",
     "md5_10": "8d664d2da6",
     "md5_10_upper": "8D664D2DA6",
+    "oomp_word": "scroll leaves bug",
+    "oomp_word_list": [
+        "scroll",
+        "leaves",
+        "bug"
+    ],
+    "oomp_word_emoji": ":scroll: :leaves: :bug:",
+    "oomp_word_emoji_list": [
+        ":scroll:",
+        ":leaves:",
+        ":bug:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "",

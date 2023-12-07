@@ -67,6 +67,16 @@ name_no_size: Yellow
 name_no_size_short: Yellow
 name_no_type: 0402 Yellow
 oomp_key: oomp_electronic_led_0402_yellow
+oomp_word: dizzy ox spades
+oomp_word_emoji: ':dizzy: :ox: :spades:'
+oomp_word_emoji_list:
+- ':dizzy:'
+- ':ox:'
+- ':spades:'
+oomp_word_list:
+- dizzy
+- ox
+- spades
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

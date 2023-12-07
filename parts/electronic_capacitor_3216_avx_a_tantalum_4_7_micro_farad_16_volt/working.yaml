@@ -78,6 +78,16 @@ name_no_size: Tantalum 4 7 Micro Farad 16 Volt
 name_no_size_short: Tantalum 4 7 Micro Farad 16 Volt
 name_no_type: 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt
 oomp_key: oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+oomp_word: telescope angel car
+oomp_word_emoji: ':telescope: :angel: :car:'
+oomp_word_emoji_list:
+- ':telescope:'
+- ':angel:'
+- ':car:'
+oomp_word_list:
+- telescope
+- angel
+- car
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

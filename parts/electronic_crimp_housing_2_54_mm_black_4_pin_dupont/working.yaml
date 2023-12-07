@@ -54,6 +54,16 @@ name_no_size: Black 4 Pin Dupont
 name_no_size_short: Black 4 Pin Dupont
 name_no_type: 2 54 Mm Black 4 Pin Dupont
 oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_4_pin_dupont
+oomp_word: clap hospital nose
+oomp_word_emoji: ':clap: :hospital: :nose:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':hospital:'
+- ':nose:'
+oomp_word_list:
+- clap
+- hospital
+- nose
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -66,6 +66,16 @@ name_no_size: 2200 Ohm
 name_no_size_short: 2k2 Ohm
 name_no_type: 0201 2200 Ohm
 oomp_key: oomp_electronic_resistor_0201_2200_ohm
+oomp_word: eyes penguin headphones
+oomp_word_emoji: ':eyes: :penguin: :headphones:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':penguin:'
+- ':headphones:'
+oomp_word_list:
+- eyes
+- penguin
+- headphones
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "9VJGM",
     "md5_10": "fd1d4641de",
     "md5_10_upper": "FD1D4641DE",
+    "oomp_word": "parking baby bird",
+    "oomp_word_list": [
+        "parking",
+        "baby",
+        "bird"
+    ],
+    "oomp_word_emoji": ":parking: :baby: :bird:",
+    "oomp_word_emoji_list": [
+        ":parking:",
+        ":baby:",
+        ":bird:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "47",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "5XP3N",
     "md5_10": "982253cc68",
     "md5_10_upper": "982253CC68",
+    "oomp_word": "tennis lips fish",
+    "oomp_word_list": [
+        "tennis",
+        "lips",
+        "fish"
+    ],
+    "oomp_word_emoji": ":tennis: :lips: :fish:",
+    "oomp_word_emoji_list": [
+        ":tennis:",
+        ":lips:",
+        ":fish:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "",

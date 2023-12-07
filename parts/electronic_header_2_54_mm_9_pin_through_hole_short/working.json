@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "151TA",
     "md5_10": "1d396ee6dd",
     "md5_10_upper": "1D396EE6DD",
+    "oomp_word": "baby tiger new_moon",
+    "oomp_word_list": [
+        "baby",
+        "tiger",
+        "new_moon"
+    ],
+    "oomp_word_emoji": ":baby: :tiger: :new_moon:",
+    "oomp_word_emoji_list": [
+        ":baby:",
+        ":tiger:",
+        ":new_moon:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "9",

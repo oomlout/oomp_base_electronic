@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "8PNUA",
     "md5_10": "df4cf259f0",
     "md5_10_upper": "DF4CF259F0",
+    "oomp_word": "fountain turtle one",
+    "oomp_word_list": [
+        "fountain",
+        "turtle",
+        "one"
+    ],
+    "oomp_word_emoji": ":fountain: :turtle: :one:",
+    "oomp_word_emoji_list": [
+        ":fountain:",
+        ":turtle:",
+        ":one:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "12",

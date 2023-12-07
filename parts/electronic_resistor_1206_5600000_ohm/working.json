@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "2G1UL",
     "md5_10": "3eaf5deeea",
     "md5_10_upper": "3EAF5DEEEA",
+    "oomp_word": "monkey tophat blowfish",
+    "oomp_word_list": [
+        "monkey",
+        "tophat",
+        "blowfish"
+    ],
+    "oomp_word_emoji": ":monkey: :tophat: :blowfish:",
+    "oomp_word_emoji_list": [
+        ":monkey:",
+        ":tophat:",
+        ":blowfish:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "5600000",

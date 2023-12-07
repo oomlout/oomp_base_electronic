@@ -64,6 +64,16 @@ name_no_size: Basic Single Through Hole Right Angle
 name_no_size_short: Basic Single Through Hole Right Angle
 name_no_type: Oobb Basic Single Through Hole Right Angle
 oomp_key: oomp_electronic_header_oobb_basic_single_through_hole_right_angle
+oomp_word: tennis lips fish
+oomp_word_emoji: ':tennis: :lips: :fish:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':lips:'
+- ':fish:'
+oomp_word_list:
+- tennis
+- lips
+- fish
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

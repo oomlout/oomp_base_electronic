@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "18A43",
     "md5_10": "1f86336d7d",
     "md5_10_upper": "1F86336D7D",
+    "oomp_word": "princess bath dog",
+    "oomp_word_list": [
+        "princess",
+        "bath",
+        "dog"
+    ],
+    "oomp_word_emoji": ":princess: :bath: :dog:",
+    "oomp_word_emoji_list": [
+        ":princess:",
+        ":bath:",
+        ":dog:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "56000",

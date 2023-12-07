@@ -64,6 +64,16 @@ name_no_size: 31 Pin Through Hole Long
 name_no_size_short: 31 Pin Through Hole Long
 name_no_type: 2 54 Mm 31 Pin Through Hole Long
 oomp_key: oomp_electronic_header_2_54_mm_31_pin_through_hole_long
+oomp_word: lipstick bank door
+oomp_word_emoji: ':lipstick: :bank: :door:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':bank:'
+- ':door:'
+oomp_word_list:
+- lipstick
+- bank
+- door
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

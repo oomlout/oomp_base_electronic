@@ -67,6 +67,16 @@ name_no_size: Smd
 name_no_size_short: Smd
 name_no_type: 4 Nets Smd
 oomp_key: oomp_electronic_nettie_4_nets_smd
+oomp_word: strawberry dolls cry
+oomp_word_emoji: ':strawberry: :dolls: :cry:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':dolls:'
+- ':cry:'
+oomp_word_list:
+- strawberry
+- dolls
+- cry
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

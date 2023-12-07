@@ -95,6 +95,16 @@ name_no_size: 560 Ohm
 name_no_size_short: 560 Ohm
 name_no_type: 1206 560 Ohm
 oomp_key: oomp_electronic_resistor_1206_560_ohm
+oomp_word: cookie pear anger
+oomp_word_emoji: ':cookie: :pear: :anger:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':pear:'
+- ':anger:'
+oomp_word_list:
+- cookie
+- pear
+- anger
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

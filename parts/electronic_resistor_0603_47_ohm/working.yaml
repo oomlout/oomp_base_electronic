@@ -95,6 +95,16 @@ name_no_size: 47 Ohm
 name_no_size_short: 47 Ohm
 name_no_type: 0603 47 Ohm
 oomp_key: oomp_electronic_resistor_0603_47_ohm
+oomp_word: guitar shirt blossom
+oomp_word_emoji: ':guitar: :shirt: :blossom:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':shirt:'
+- ':blossom:'
+oomp_word_list:
+- guitar
+- shirt
+- blossom
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

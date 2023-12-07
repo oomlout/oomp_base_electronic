@@ -54,6 +54,16 @@ name_no_size: 2X36 72 Pin Surface Mount
 name_no_size_short: 2X36 72 Pin Surface Mount
 name_no_type: 2 54 Mm Dual Row 2X36 72 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x36_72_pin_surface_mount
+oomp_word: watermelon camel diamonds
+oomp_word_emoji: ':watermelon: :camel: :diamonds:'
+oomp_word_emoji_list:
+- ':watermelon:'
+- ':camel:'
+- ':diamonds:'
+oomp_word_list:
+- watermelon
+- camel
+- diamonds
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

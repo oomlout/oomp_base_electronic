@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2OMKP",
     "md5_10": "44ca496a72",
     "md5_10_upper": "44CA496A72",
+    "oomp_word": "panda_face cherries hatching_chick",
+    "oomp_word_list": [
+        "panda_face",
+        "cherries",
+        "hatching_chick"
+    ],
+    "oomp_word_emoji": ":panda_face: :cherries: :hatching_chick:",
+    "oomp_word_emoji_list": [
+        ":panda_face:",
+        ":cherries:",
+        ":hatching_chick:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "75000",

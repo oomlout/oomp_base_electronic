@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "56R1K",
     "md5_10": "84f3687285",
     "md5_10_upper": "84F3687285",
+    "oomp_word": "key two mushroom",
+    "oomp_word_list": [
+        "key",
+        "two",
+        "mushroom"
+    ],
+    "oomp_word_emoji": ":key: :two: :mushroom:",
+    "oomp_word_emoji_list": [
+        ":key:",
+        ":two:",
+        ":mushroom:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "220000",

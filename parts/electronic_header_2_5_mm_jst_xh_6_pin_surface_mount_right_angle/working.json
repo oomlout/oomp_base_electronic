@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "1J61F",
     "md5_10": "2746534384",
     "md5_10_upper": "2746534384",
+    "oomp_word": "nose bird fish",
+    "oomp_word_list": [
+        "nose",
+        "bird",
+        "fish"
+    ],
+    "oomp_word_emoji": ":nose: :bird: :fish:",
+    "oomp_word_emoji_list": [
+        ":nose:",
+        ":bird:",
+        ":fish:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "6",

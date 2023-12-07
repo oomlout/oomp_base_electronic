@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "JQSG",
     "md5_10": "0e0e60a10a",
     "md5_10_upper": "0E0E60A10A",
+    "oomp_word": "cupid cupid poodle",
+    "oomp_word_list": [
+        "cupid",
+        "cupid",
+        "poodle"
+    ],
+    "oomp_word_emoji": ":cupid: :cupid: :poodle:",
+    "oomp_word_emoji_list": [
+        ":cupid:",
+        ":cupid:",
+        ":poodle:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "4700",

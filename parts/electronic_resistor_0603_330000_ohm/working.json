@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "88342",
     "md5_10": "d2c9c2cf52",
     "md5_10_upper": "D2C9C2CF52",
+    "oomp_word": "pineapple lemon birthday",
+    "oomp_word_list": [
+        "pineapple",
+        "lemon",
+        "birthday"
+    ],
+    "oomp_word_emoji": ":pineapple: :lemon: :birthday:",
+    "oomp_word_emoji_list": [
+        ":pineapple:",
+        ":lemon:",
+        ":birthday:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "330000",

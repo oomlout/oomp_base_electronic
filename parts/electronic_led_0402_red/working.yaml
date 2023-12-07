@@ -67,6 +67,16 @@ name_no_size: Red
 name_no_size_short: Red
 name_no_type: 0402 Red
 oomp_key: oomp_electronic_led_0402_red
+oomp_word: banana eight blowfish
+oomp_word_emoji: ':banana: :eight: :blowfish:'
+oomp_word_emoji_list:
+- ':banana:'
+- ':eight:'
+- ':blowfish:'
+oomp_word_list:
+- banana
+- eight
+- blowfish
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

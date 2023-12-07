@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "1M7QZ",
     "md5_10": "2971bbfd1e",
     "md5_10_upper": "2971BBFD1E",
+    "oomp_word": "sunny bamboo curry",
+    "oomp_word_list": [
+        "sunny",
+        "bamboo",
+        "curry"
+    ],
+    "oomp_word_emoji": ":sunny: :bamboo: :curry:",
+    "oomp_word_emoji_list": [
+        ":sunny:",
+        ":bamboo:",
+        ":curry:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "13",

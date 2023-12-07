@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "X9W6",
     "md5_10": "17b056637c",
     "md5_10_upper": "17B056637C",
+    "oomp_word": "thumbsdown crown ram",
+    "oomp_word_list": [
+        "thumbsdown",
+        "crown",
+        "ram"
+    ],
+    "oomp_word_emoji": ":thumbsdown: :crown: :ram:",
+    "oomp_word_emoji_list": [
+        ":thumbsdown:",
+        ":crown:",
+        ":ram:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "15000",

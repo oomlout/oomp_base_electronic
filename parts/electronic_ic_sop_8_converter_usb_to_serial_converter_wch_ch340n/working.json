@@ -116,6 +116,18 @@
     "md5_6_alpha_upper": "6RTIO",
     "md5_10": "ad943042c1",
     "md5_10_upper": "AD943042C1",
+    "oomp_word": "dress microscope foggy",
+    "oomp_word_list": [
+        "dress",
+        "microscope",
+        "foggy"
+    ],
+    "oomp_word_emoji": ":dress: :microscope: :foggy:",
+    "oomp_word_emoji_list": [
+        ":dress:",
+        ":microscope:",
+        ":foggy:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "",

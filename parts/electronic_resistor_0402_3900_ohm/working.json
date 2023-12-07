@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "6DTPF",
     "md5_10": "a39da3c2b0",
     "md5_10_upper": "A39DA3C2B0",
+    "oomp_word": "pencil hearts pencil",
+    "oomp_word_list": [
+        "pencil",
+        "hearts",
+        "pencil"
+    ],
+    "oomp_word_emoji": ":pencil: :hearts: :pencil:",
+    "oomp_word_emoji_list": [
+        ":pencil:",
+        ":hearts:",
+        ":pencil:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "3900",

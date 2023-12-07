@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "853UH",
     "md5_10": "d0aab990b5",
     "md5_10_upper": "D0AAB990B5",
+    "oomp_word": "banana lipstick fries",
+    "oomp_word_list": [
+        "banana",
+        "lipstick",
+        "fries"
+    ],
+    "oomp_word_emoji": ":banana: :lipstick: :fries:",
+    "oomp_word_emoji_list": [
+        ":banana:",
+        ":lipstick:",
+        ":fries:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "6800000",

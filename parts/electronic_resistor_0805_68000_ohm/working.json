@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "4MB1K",
     "md5_10": "766568a1ec",
     "md5_10_upper": "766568A1EC",
+    "oomp_word": "santa maple_leaf mushroom",
+    "oomp_word_list": [
+        "santa",
+        "maple_leaf",
+        "mushroom"
+    ],
+    "oomp_word_emoji": ":santa: :maple_leaf: :mushroom:",
+    "oomp_word_emoji_list": [
+        ":santa:",
+        ":maple_leaf:",
+        ":mushroom:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "68000",

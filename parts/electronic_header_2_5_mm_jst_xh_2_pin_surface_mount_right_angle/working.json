@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "2F12Z",
     "md5_10": "3df53b0be0",
     "md5_10_upper": "3DF53B0BE0",
+    "oomp_word": "cow four bear",
+    "oomp_word_list": [
+        "cow",
+        "four",
+        "bear"
+    ],
+    "oomp_word_emoji": ":cow: :four: :bear:",
+    "oomp_word_emoji_list": [
+        ":cow:",
+        ":four:",
+        ":bear:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "2",

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "4E2FG",
     "md5_10": "7087cc4c48",
     "md5_10_upper": "7087CC4C48",
+    "oomp_word": "squirrel toilet watermelon",
+    "oomp_word_list": [
+        "squirrel",
+        "toilet",
+        "watermelon"
+    ],
+    "oomp_word_emoji": ":squirrel: :toilet: :watermelon:",
+    "oomp_word_emoji_list": [
+        ":squirrel:",
+        ":toilet:",
+        ":watermelon:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "470000",

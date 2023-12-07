@@ -70,6 +70,16 @@ name_no_size: Sensor Accelerometer Sensortek Stk8321
 name_no_size_short: Sensor Accelerometer Sensortek Stk8321
 name_no_type: Lga 12 Pin 2 Mm X 2 Mm Sensor Accelerometer Sensortek Stk8321
 oomp_key: oomp_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+oomp_word: fish headphones sleeping
+oomp_word_emoji: ':fish: :headphones: :sleeping:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':headphones:'
+- ':sleeping:'
+oomp_word_list:
+- fish
+- headphones
+- sleeping
 part_number: stk8321
 part_number_capital: Stk8321
 part_number_first_letter: s

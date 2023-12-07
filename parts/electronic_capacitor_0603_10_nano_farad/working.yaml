@@ -74,6 +74,16 @@ name_no_size: 10 Nano Farad
 name_no_size_short: 10nf Nano Farad
 name_no_type: 0603 10 Nano Farad
 oomp_key: oomp_electronic_capacitor_0603_10_nano_farad
+oomp_word: dog birthday scissors
+oomp_word_emoji: ':dog: :birthday: :scissors:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':birthday:'
+- ':scissors:'
+oomp_word_list:
+- dog
+- birthday
+- scissors
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

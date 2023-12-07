@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "83XJM",
     "md5_10": "cfd492863e",
     "md5_10_upper": "CFD492863E",
+    "oomp_word": "melon corn paperclip",
+    "oomp_word_list": [
+        "melon",
+        "corn",
+        "paperclip"
+    ],
+    "oomp_word_emoji": ":melon: :corn: :paperclip:",
+    "oomp_word_emoji_list": [
+        ":melon:",
+        ":corn:",
+        ":paperclip:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "470",

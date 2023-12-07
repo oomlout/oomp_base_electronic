@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "8GFSC",
     "md5_10": "d8bbecb5b4",
     "md5_10_upper": "D8BBECB5B4",
+    "oomp_word": "hospital curry taxi",
+    "oomp_word_list": [
+        "hospital",
+        "curry",
+        "taxi"
+    ],
+    "oomp_word_emoji": ":hospital: :curry: :taxi:",
+    "oomp_word_emoji_list": [
+        ":hospital:",
+        ":curry:",
+        ":taxi:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "9",

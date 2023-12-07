@@ -95,6 +95,16 @@ name_no_size: 3300 Ohm
 name_no_size_short: 3k3 Ohm
 name_no_type: 0603 3300 Ohm
 oomp_key: oomp_electronic_resistor_0603_3300_ohm
+oomp_word: droplet pizza ant
+oomp_word_emoji: ':droplet: :pizza: :ant:'
+oomp_word_emoji_list:
+- ':droplet:'
+- ':pizza:'
+- ':ant:'
+oomp_word_list:
+- droplet
+- pizza
+- ant
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

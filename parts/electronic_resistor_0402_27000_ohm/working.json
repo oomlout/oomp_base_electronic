@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "1G5SY",
     "md5_10": "2522622948",
     "md5_10_upper": "2522622948",
+    "oomp_word": "ear lips tulip",
+    "oomp_word_list": [
+        "ear",
+        "lips",
+        "tulip"
+    ],
+    "oomp_word_emoji": ":ear: :lips: :tulip:",
+    "oomp_word_emoji_list": [
+        ":ear:",
+        ":lips:",
+        ":tulip:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "27000",

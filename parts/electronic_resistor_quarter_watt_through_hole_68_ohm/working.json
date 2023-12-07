@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6UBR0",
     "md5_10": "af5cfc3e81",
     "md5_10_upper": "AF5CFC3E81",
+    "oomp_word": "tophat ox up",
+    "oomp_word_list": [
+        "tophat",
+        "ox",
+        "up"
+    ],
+    "oomp_word_emoji": ":tophat: :ox: :up:",
+    "oomp_word_emoji_list": [
+        ":tophat:",
+        ":ox:",
+        ":up:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "68",

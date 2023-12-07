@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "4VXEJ",
     "md5_10": "7d3edbc4f5",
     "md5_10_upper": "7D3EDBC4F5",
+    "oomp_word": "phone monkey tent",
+    "oomp_word_list": [
+        "phone",
+        "monkey",
+        "tent"
+    ],
+    "oomp_word_emoji": ":phone: :monkey: :tent:",
+    "oomp_word_emoji_list": [
+        ":phone:",
+        ":monkey:",
+        ":tent:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "1000",

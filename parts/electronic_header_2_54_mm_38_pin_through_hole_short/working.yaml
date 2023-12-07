@@ -64,6 +64,16 @@ name_no_size: 38 Pin Through Hole Short
 name_no_size_short: 38 Pin Through Hole Short
 name_no_type: 2 54 Mm 38 Pin Through Hole Short
 oomp_key: oomp_electronic_header_2_54_mm_38_pin_through_hole_short
+oomp_word: cactus feet sunflower
+oomp_word_emoji: ':cactus: :feet: :sunflower:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':feet:'
+- ':sunflower:'
+oomp_word_list:
+- cactus
+- feet
+- sunflower
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "2MMDL",
     "md5_10": "435cc9c7d7",
     "md5_10_upper": "435CC9C7D7",
+    "oomp_word": "elephant ox lemon",
+    "oomp_word_list": [
+        "elephant",
+        "ox",
+        "lemon"
+    ],
+    "oomp_word_emoji": ":elephant: :ox: :lemon:",
+    "oomp_word_emoji_list": [
+        ":elephant:",
+        ":ox:",
+        ":lemon:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "18000",

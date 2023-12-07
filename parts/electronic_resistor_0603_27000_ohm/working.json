@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "2768P",
     "md5_10": "385d5933f6",
     "md5_10_upper": "385D5933F6",
+    "oomp_word": "frog blowfish dragon",
+    "oomp_word_list": [
+        "frog",
+        "blowfish",
+        "dragon"
+    ],
+    "oomp_word_emoji": ":frog: :blowfish: :dragon:",
+    "oomp_word_emoji_list": [
+        ":frog:",
+        ":blowfish:",
+        ":dragon:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "27000",

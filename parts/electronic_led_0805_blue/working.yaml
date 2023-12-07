@@ -67,6 +67,16 @@ name_no_size: Blue
 name_no_size_short: Blue
 name_no_type: 0805 Blue
 oomp_key: oomp_electronic_led_0805_blue
+oomp_word: rooster poop pill
+oomp_word_emoji: ':rooster: :poop: :pill:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':poop:'
+- ':pill:'
+oomp_word_list:
+- rooster
+- poop
+- pill
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

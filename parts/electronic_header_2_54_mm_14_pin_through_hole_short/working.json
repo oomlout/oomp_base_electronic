@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "8TWYG",
     "md5_10": "e254181b05",
     "md5_10_upper": "E254181B05",
+    "oomp_word": "sailboat whale hand",
+    "oomp_word_list": [
+        "sailboat",
+        "whale",
+        "hand"
+    ],
+    "oomp_word_emoji": ":sailboat: :whale: :hand:",
+    "oomp_word_emoji_list": [
+        ":sailboat:",
+        ":whale:",
+        ":hand:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "14",

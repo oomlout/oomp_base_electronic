@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "31RE4",
     "md5_10": "4e23ec4bad",
     "md5_10_upper": "4E23EC4BAD",
+    "oomp_word": "honeybee kiss taxi",
+    "oomp_word_list": [
+        "honeybee",
+        "kiss",
+        "taxi"
+    ],
+    "oomp_word_emoji": ":honeybee: :kiss: :taxi:",
+    "oomp_word_emoji_list": [
+        ":honeybee:",
+        ":kiss:",
+        ":taxi:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "750000",

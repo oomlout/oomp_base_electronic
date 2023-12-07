@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "40RVN",
     "md5_10": "6711234d0c",
     "md5_10_upper": "6711234D0C",
+    "oomp_word": "herb dizzy kiss",
+    "oomp_word_list": [
+        "herb",
+        "dizzy",
+        "kiss"
+    ],
+    "oomp_word_emoji": ":herb: :dizzy: :kiss:",
+    "oomp_word_emoji_list": [
+        ":herb:",
+        ":dizzy:",
+        ":kiss:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3618",

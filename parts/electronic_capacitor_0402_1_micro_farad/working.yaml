@@ -67,6 +67,16 @@ name_no_size: 1 Micro Farad
 name_no_size_short: 1uf Micro Farad
 name_no_type: 0402 1 Micro Farad
 oomp_key: oomp_electronic_capacitor_0402_1_micro_farad
+oomp_word: thumbsup dancer guitar
+oomp_word_emoji: ':thumbsup: :dancer: :guitar:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':dancer:'
+- ':guitar:'
+oomp_word_list:
+- thumbsup
+- dancer
+- guitar
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

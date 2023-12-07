@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "3JY22",
     "md5_10": "5b162aff39",
     "md5_10_upper": "5B162AFF39",
+    "oomp_word": "rooster thumbsup umbrella",
+    "oomp_word_list": [
+        "rooster",
+        "thumbsup",
+        "umbrella"
+    ],
+    "oomp_word_emoji": ":rooster: :thumbsup: :umbrella:",
+    "oomp_word_emoji_list": [
+        ":rooster:",
+        ":thumbsup:",
+        ":umbrella:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "220",

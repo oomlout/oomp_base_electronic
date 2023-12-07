@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "2MT0P",
     "md5_10": "437e6915d5",
     "md5_10_upper": "437E6915D5",
+    "oomp_word": "elephant fax cactus",
+    "oomp_word_list": [
+        "elephant",
+        "fax",
+        "cactus"
+    ],
+    "oomp_word_emoji": ":elephant: :fax: :cactus:",
+    "oomp_word_emoji_list": [
+        ":elephant:",
+        ":fax:",
+        ":cactus:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "220000",

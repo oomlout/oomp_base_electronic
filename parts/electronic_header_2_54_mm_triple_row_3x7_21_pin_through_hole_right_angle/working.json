@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "3D2P8",
     "md5_10": "5631ec1a50",
     "md5_10_upper": "5631EC1A50",
+    "oomp_word": "ram ocean taxi",
+    "oomp_word_list": [
+        "ram",
+        "ocean",
+        "taxi"
+    ],
+    "oomp_word_emoji": ":ram: :ocean: :taxi:",
+    "oomp_word_emoji_list": [
+        ":ram:",
+        ":ocean:",
+        ":taxi:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3721",

@@ -156,6 +156,18 @@
     "md5_6_alpha_upper": "LE7S",
     "md5_10": "0f3b38de4b",
     "md5_10_upper": "0F3B38DE4B",
+    "oomp_word": "sparkles bear frog",
+    "oomp_word_list": [
+        "sparkles",
+        "bear",
+        "frog"
+    ],
+    "oomp_word_emoji": ":sparkles: :bear: :frog:",
+    "oomp_word_emoji_list": [
+        ":sparkles:",
+        ":bear:",
+        ":frog:"
+    ],
     "size_only_numbers": "16",
     "size_only_numbers_no_zeros": "16",
     "description_only_numbers": "",

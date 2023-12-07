@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "1C7WR",
     "md5_10": "22540b6247",
     "md5_10_upper": "22540B6247",
+    "oomp_word": "lips whale sunglasses",
+    "oomp_word_list": [
+        "lips",
+        "whale",
+        "sunglasses"
+    ],
+    "oomp_word_emoji": ":lips: :whale: :sunglasses:",
+    "oomp_word_emoji_list": [
+        ":lips:",
+        ":whale:",
+        ":sunglasses:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "11",

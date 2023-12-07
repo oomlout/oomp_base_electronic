@@ -71,6 +71,16 @@ name_no_size: 10 Pin Surface Mount
 name_no_size_short: 10 Pin Surface Mount
 name_no_type: 2 54 Mm 10 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_54_mm_10_pin_surface_mount
+oomp_word: feet snowflake eyes
+oomp_word_emoji: ':feet: :snowflake: :eyes:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':snowflake:'
+- ':eyes:'
+oomp_word_list:
+- feet
+- snowflake
+- eyes
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

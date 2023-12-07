@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9M9NY",
     "md5_10": "f6836edc1a",
     "md5_10_upper": "F6836EDC1A",
+    "oomp_word": "five lock new_moon",
+    "oomp_word_list": [
+        "five",
+        "lock",
+        "new_moon"
+    ],
+    "oomp_word_emoji": ":five: :lock: :new_moon:",
+    "oomp_word_emoji_list": [
+        ":five:",
+        ":lock:",
+        ":new_moon:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "23",

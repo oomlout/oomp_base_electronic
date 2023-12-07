@@ -64,6 +64,16 @@ name_no_size: 36 Pin Through Hole Long
 name_no_size_short: 36 Pin Through Hole Long
 name_no_type: 2 54 Mm 36 Pin Through Hole Long
 oomp_key: oomp_electronic_header_2_54_mm_36_pin_through_hole_long
+oomp_word: ski cactus hourglass
+oomp_word_emoji: ':ski: :cactus: :hourglass:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':cactus:'
+- ':hourglass:'
+oomp_word_list:
+- ski
+- cactus
+- hourglass
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

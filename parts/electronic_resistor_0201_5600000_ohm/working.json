@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8L6IC",
     "md5_10": "dc1c342b03",
     "md5_10_upper": "DC1C342B03",
+    "oomp_word": "factory dancer mouse",
+    "oomp_word_list": [
+        "factory",
+        "dancer",
+        "mouse"
+    ],
+    "oomp_word_emoji": ":factory: :dancer: :mouse:",
+    "oomp_word_emoji_list": [
+        ":factory:",
+        ":dancer:",
+        ":mouse:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "5600000",

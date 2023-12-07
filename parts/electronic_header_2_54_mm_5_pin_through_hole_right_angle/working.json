@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "8H0RS",
     "md5_10": "d926285e11",
     "md5_10_upper": "D926285E11",
+    "oomp_word": "bank eyes tongue",
+    "oomp_word_list": [
+        "bank",
+        "eyes",
+        "tongue"
+    ],
+    "oomp_word_emoji": ":bank: :eyes: :tongue:",
+    "oomp_word_emoji_list": [
+        ":bank:",
+        ":eyes:",
+        ":tongue:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "5",

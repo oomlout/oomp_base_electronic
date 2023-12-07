@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "5459A",
     "md5_10": "83189e226f",
     "md5_10_upper": "83189E226F",
+    "oomp_word": "lock hand clubs",
+    "oomp_word_list": [
+        "lock",
+        "hand",
+        "clubs"
+    ],
+    "oomp_word_emoji": ":lock: :hand: :clubs:",
+    "oomp_word_emoji_list": [
+        ":lock:",
+        ":hand:",
+        ":clubs:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "75000",

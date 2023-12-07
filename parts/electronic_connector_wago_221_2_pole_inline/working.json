@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "94FQC",
     "md5_10": "e9d1a42f1d",
     "md5_10_upper": "E9D1A42F1D",
+    "oomp_word": "bike pear book",
+    "oomp_word_list": [
+        "bike",
+        "pear",
+        "book"
+    ],
+    "oomp_word_emoji": ":bike: :pear: :book:",
+    "oomp_word_emoji_list": [
+        ":bike:",
+        ":pear:",
+        ":book:"
+    ],
     "size_only_numbers": "221",
     "size_only_numbers_no_zeros": "221",
     "description_only_numbers": "2",

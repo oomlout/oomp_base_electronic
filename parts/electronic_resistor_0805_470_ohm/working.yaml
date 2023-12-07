@@ -95,6 +95,16 @@ name_no_size: 470 Ohm
 name_no_size_short: 470 Ohm
 name_no_type: 0805 470 Ohm
 oomp_key: oomp_electronic_resistor_0805_470_ohm
+oomp_word: helicopter sleepy recycle
+oomp_word_emoji: ':helicopter: :sleepy: :recycle:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':sleepy:'
+- ':recycle:'
+oomp_word_list:
+- helicopter
+- sleepy
+- recycle
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

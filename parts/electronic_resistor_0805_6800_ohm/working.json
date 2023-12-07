@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "2U094",
     "md5_10": "489ec8ba0e",
     "md5_10_upper": "489EC8BA0E",
+    "oomp_word": "hatched_chick clubs apple",
+    "oomp_word_list": [
+        "hatched_chick",
+        "clubs",
+        "apple"
+    ],
+    "oomp_word_emoji": ":hatched_chick: :clubs: :apple:",
+    "oomp_word_emoji_list": [
+        ":hatched_chick:",
+        ":clubs:",
+        ":apple:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "6800",

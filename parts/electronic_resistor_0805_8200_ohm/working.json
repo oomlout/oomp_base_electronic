@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "55O26",
     "md5_10": "842e0ecc56",
     "md5_10_upper": "842E0ECC56",
+    "oomp_word": "key zap cupid",
+    "oomp_word_list": [
+        "key",
+        "zap",
+        "cupid"
+    ],
+    "oomp_word_emoji": ":key: :zap: :cupid:",
+    "oomp_word_emoji_list": [
+        ":key:",
+        ":zap:",
+        ":cupid:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "8200",

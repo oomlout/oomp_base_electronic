@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1GFH",
     "md5_10": "01096dbc33",
     "md5_10_upper": "01096DBC33",
+    "oomp_word": "smile angry shell",
+    "oomp_word_list": [
+        "smile",
+        "angry",
+        "shell"
+    ],
+    "oomp_word_emoji": ":smile: :angry: :shell:",
+    "oomp_word_emoji_list": [
+        ":smile:",
+        ":angry:",
+        ":shell:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "150",

@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "56GT8",
     "md5_10": "84bf9c4d7a",
     "md5_10_upper": "84BF9C4D7A",
+    "oomp_word": "key egg spades",
+    "oomp_word_list": [
+        "key",
+        "egg",
+        "spades"
+    ],
+    "oomp_word_emoji": ":key: :egg: :spades:",
+    "oomp_word_emoji_list": [
+        ":key:",
+        ":egg:",
+        ":spades:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "7",

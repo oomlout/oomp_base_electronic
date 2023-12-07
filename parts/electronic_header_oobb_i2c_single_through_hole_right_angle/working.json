@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "2NZP3",
     "md5_10": "4456779cce",
     "md5_10_upper": "4456779CCE",
+    "oomp_word": "panda_face ram gift",
+    "oomp_word_list": [
+        "panda_face",
+        "ram",
+        "gift"
+    ],
+    "oomp_word_emoji": ":panda_face: :ram: :gift:",
+    "oomp_word_emoji_list": [
+        ":panda_face:",
+        ":ram:",
+        ":gift:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "",

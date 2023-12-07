@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "1C1Y7",
     "md5_10": "2235dfe0a5",
     "md5_10_upper": "2235DFE0A5",
+    "oomp_word": "lips hamster fountain",
+    "oomp_word_list": [
+        "lips",
+        "hamster",
+        "fountain"
+    ],
+    "oomp_word_emoji": ":lips: :hamster: :fountain:",
+    "oomp_word_emoji_list": [
+        ":lips:",
+        ":hamster:",
+        ":fountain:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "75",

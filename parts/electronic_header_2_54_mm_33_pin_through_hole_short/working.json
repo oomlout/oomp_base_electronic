@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "2UEIV",
     "md5_10": "48e707d708",
     "md5_10_upper": "48E707D708",
+    "oomp_word": "hatched_chick helicopter cry",
+    "oomp_word_list": [
+        "hatched_chick",
+        "helicopter",
+        "cry"
+    ],
+    "oomp_word_emoji": ":hatched_chick: :helicopter: :cry:",
+    "oomp_word_emoji_list": [
+        ":hatched_chick:",
+        ":helicopter:",
+        ":cry:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "33",

@@ -67,6 +67,16 @@ name_no_size: 100 Ohm
 name_no_size_short: 100 Ohm
 name_no_type: Quarter Watt Through Hole 100 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_100_ohm
+oomp_word: calendar telescope balloon
+oomp_word_emoji: ':calendar: :telescope: :balloon:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':telescope:'
+- ':balloon:'
+oomp_word_list:
+- calendar
+- telescope
+- balloon
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

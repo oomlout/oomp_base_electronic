@@ -67,6 +67,16 @@ name_no_size: Smd
 name_no_size_short: Smd
 name_no_type: 2 Nets Smd
 oomp_key: oomp_electronic_nettie_2_nets_smd
+oomp_word: honeybee two blowfish
+oomp_word_emoji: ':honeybee: :two: :blowfish:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':two:'
+- ':blowfish:'
+oomp_word_list:
+- honeybee
+- two
+- blowfish
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

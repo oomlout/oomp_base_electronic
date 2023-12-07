@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "386TU",
     "md5_10": "52b7920200",
     "md5_10_upper": "52B7920200",
+    "oomp_word": "octopus pizza paperclip",
+    "oomp_word_list": [
+        "octopus",
+        "pizza",
+        "paperclip"
+    ],
+    "oomp_word_emoji": ":octopus: :pizza: :paperclip:",
+    "oomp_word_emoji_list": [
+        ":octopus:",
+        ":pizza:",
+        ":paperclip:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "15",

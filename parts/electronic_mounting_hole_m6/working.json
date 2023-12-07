@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9TUUD",
     "md5_10": "fbea6534b8",
     "md5_10_upper": "FBEA6534B8",
+    "oomp_word": "ok tractor maple_leaf",
+    "oomp_word_list": [
+        "ok",
+        "tractor",
+        "maple_leaf"
+    ],
+    "oomp_word_emoji": ":ok: :tractor: :maple_leaf:",
+    "oomp_word_emoji_list": [
+        ":ok:",
+        ":tractor:",
+        ":maple_leaf:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "",

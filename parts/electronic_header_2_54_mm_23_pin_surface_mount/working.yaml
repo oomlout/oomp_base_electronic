@@ -71,6 +71,16 @@ name_no_size: 23 Pin Surface Mount
 name_no_size_short: 23 Pin Surface Mount
 name_no_type: 2 54 Mm 23 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_54_mm_23_pin_surface_mount
+oomp_word: grapes scream bouquet
+oomp_word_emoji: ':grapes: :scream: :bouquet:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':scream:'
+- ':bouquet:'
+oomp_word_list:
+- grapes
+- scream
+- bouquet
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

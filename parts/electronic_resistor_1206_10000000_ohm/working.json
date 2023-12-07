@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "49YHS",
     "md5_10": "6d9ae0df91",
     "md5_10_upper": "6D9AE0DF91",
+    "oomp_word": "shell golf ship",
+    "oomp_word_list": [
+        "shell",
+        "golf",
+        "ship"
+    ],
+    "oomp_word_emoji": ":shell: :golf: :ship:",
+    "oomp_word_emoji_list": [
+        ":shell:",
+        ":golf:",
+        ":ship:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "10000000",

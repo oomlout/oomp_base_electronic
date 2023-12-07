@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9PIUN",
     "md5_10": "f8d4af1ddc",
     "md5_10_upper": "F8D4AF1DDC",
+    "oomp_word": "seven corn tophat",
+    "oomp_word_list": [
+        "seven",
+        "corn",
+        "tophat"
+    ],
+    "oomp_word_emoji": ":seven: :corn: :tophat:",
+    "oomp_word_emoji_list": [
+        ":seven:",
+        ":corn:",
+        ":tophat:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "17",

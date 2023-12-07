@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "6QPAR",
     "md5_10": "acc893ed53",
     "md5_10_upper": "ACC893ED53",
+    "oomp_word": "shirt apple books",
+    "oomp_word_list": [
+        "shirt",
+        "apple",
+        "books"
+    ],
+    "oomp_word_emoji": ":shirt: :apple: :books:",
+    "oomp_word_emoji_list": [
+        ":shirt:",
+        ":apple:",
+        ":books:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "820000",

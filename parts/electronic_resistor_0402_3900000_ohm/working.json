@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "R4ZD",
     "md5_10": "1351f9bfe9",
     "md5_10_upper": "1351F9BFE9",
+    "oomp_word": "question snail eight",
+    "oomp_word_list": [
+        "question",
+        "snail",
+        "eight"
+    ],
+    "oomp_word_emoji": ":question: :snail: :eight:",
+    "oomp_word_emoji_list": [
+        ":question:",
+        ":snail:",
+        ":eight:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "3900000",

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "4ELZZ",
     "md5_10": "70eadfc5ff",
     "md5_10_upper": "70EADFC5FF",
+    "oomp_word": "squirrel tractor fountain",
+    "oomp_word_list": [
+        "squirrel",
+        "tractor",
+        "fountain"
+    ],
+    "oomp_word_emoji": ":squirrel: :tractor: :fountain:",
+    "oomp_word_emoji_list": [
+        ":squirrel:",
+        ":tractor:",
+        ":fountain:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "1800",

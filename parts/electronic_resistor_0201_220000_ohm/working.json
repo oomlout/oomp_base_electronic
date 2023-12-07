@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2JJZJ",
     "md5_10": "412def9957",
     "md5_10_upper": "412DEF9957",
+    "oomp_word": "camel snowman truck",
+    "oomp_word_list": [
+        "camel",
+        "snowman",
+        "truck"
+    ],
+    "oomp_word_emoji": ":camel: :snowman: :truck:",
+    "oomp_word_emoji_list": [
+        ":camel:",
+        ":snowman:",
+        ":truck:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "220000",

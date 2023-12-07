@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "H4TC",
     "md5_10": "0c32a095f8",
     "md5_10_upper": "0C32A095F8",
+    "oomp_word": "alien cat ring",
+    "oomp_word_list": [
+        "alien",
+        "cat",
+        "ring"
+    ],
+    "oomp_word_emoji": ":alien: :cat: :ring:",
+    "oomp_word_emoji_list": [
+        ":alien:",
+        ":cat:",
+        ":ring:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "1500",

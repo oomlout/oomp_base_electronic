@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "9JDJ1",
     "md5_10": "f4743d64d6",
     "md5_10_upper": "F4743D64D6",
+    "oomp_word": "three fireworks cow",
+    "oomp_word_list": [
+        "three",
+        "fireworks",
+        "cow"
+    ],
+    "oomp_word_emoji": ":three: :fireworks: :cow:",
+    "oomp_word_emoji_list": [
+        ":three:",
+        ":fireworks:",
+        ":cow:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "12000",

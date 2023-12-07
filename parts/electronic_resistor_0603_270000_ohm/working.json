@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "6YATR",
     "md5_10": "b2314fddd3",
     "md5_10_upper": "B2314FDDD3",
+    "oomp_word": "handbag ocean ant",
+    "oomp_word_list": [
+        "handbag",
+        "ocean",
+        "ant"
+    ],
+    "oomp_word_emoji": ":handbag: :ocean: :ant:",
+    "oomp_word_emoji_list": [
+        ":handbag:",
+        ":ocean:",
+        ":ant:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "270000",

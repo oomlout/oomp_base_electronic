@@ -90,6 +90,16 @@ name_no_size: 100 Nano Farad
 name_no_size_short: 100nf Nano Farad
 name_no_type: 0603 100 Nano Farad
 oomp_key: oomp_electronic_capacitor_0603_100_nano_farad
+oomp_word: pill parking pushpin
+oomp_word_emoji: ':pill: :parking: :pushpin:'
+oomp_word_emoji_list:
+- ':pill:'
+- ':parking:'
+- ':pushpin:'
+oomp_word_list:
+- pill
+- parking
+- pushpin
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

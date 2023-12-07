@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7LMU7",
     "md5_10": "c2cddfbc87",
     "md5_10_upper": "C2CDDFBC87",
+    "oomp_word": "birthday strawberry fountain",
+    "oomp_word_list": [
+        "birthday",
+        "strawberry",
+        "fountain"
+    ],
+    "oomp_word_emoji": ":birthday: :strawberry: :fountain:",
+    "oomp_word_emoji_list": [
+        ":birthday:",
+        ":strawberry:",
+        ":fountain:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "7500000",

@@ -54,6 +54,16 @@ name_no_size: Black 6 Pin Dupont
 name_no_size_short: Black 6 Pin Dupont
 name_no_type: 2 54 Mm Black 6 Pin Dupont
 oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_6_pin_dupont
+oomp_word: dog penguin wrench
+oomp_word_emoji: ':dog: :penguin: :wrench:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':penguin:'
+- ':wrench:'
+oomp_word_list:
+- dog
+- penguin
+- wrench
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2Y45O",
     "md5_10": "4b8b8cc8c6",
     "md5_10_upper": "4B8B8CC8C6",
+    "oomp_word": "penguin door pill",
+    "oomp_word_list": [
+        "penguin",
+        "door",
+        "pill"
+    ],
+    "oomp_word_emoji": ":penguin: :door: :pill:",
+    "oomp_word_emoji_list": [
+        ":penguin:",
+        ":door:",
+        ":pill:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "2200000",

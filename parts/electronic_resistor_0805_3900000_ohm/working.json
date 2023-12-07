@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "1W2EY",
     "md5_10": "30753acf54",
     "md5_10_upper": "30753ACF54",
+    "oomp_word": "foggy ghost koala",
+    "oomp_word_list": [
+        "foggy",
+        "ghost",
+        "koala"
+    ],
+    "oomp_word_emoji": ":foggy: :ghost: :koala:",
+    "oomp_word_emoji_list": [
+        ":foggy:",
+        ":ghost:",
+        ":koala:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "3900000",

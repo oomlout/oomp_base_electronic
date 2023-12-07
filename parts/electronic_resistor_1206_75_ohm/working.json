@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "21HU5",
     "md5_10": "34528d88f3",
     "md5_10_upper": "34528D88F3",
+    "oomp_word": "mouse octopus scroll",
+    "oomp_word_list": [
+        "mouse",
+        "octopus",
+        "scroll"
+    ],
+    "oomp_word_emoji": ":mouse: :octopus: :scroll:",
+    "oomp_word_emoji_list": [
+        ":mouse:",
+        ":octopus:",
+        ":scroll:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "75",

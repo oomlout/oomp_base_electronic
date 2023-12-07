@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "8OCKE",
     "md5_10": "de5d9ea5b9",
     "md5_10_upper": "DE5D9EA5B9",
+    "oomp_word": "rainbow blowfish clubs",
+    "oomp_word_list": [
+        "rainbow",
+        "blowfish",
+        "clubs"
+    ],
+    "oomp_word_emoji": ":rainbow: :blowfish: :clubs:",
+    "oomp_word_emoji_list": [
+        ":rainbow:",
+        ":blowfish:",
+        ":clubs:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "750",

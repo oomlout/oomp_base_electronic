@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "1V0G0",
     "md5_10": "2fb500e4a7",
     "md5_10_upper": "2FB500E4A7",
+    "oomp_word": "cyclone tea bowtie",
+    "oomp_word_list": [
+        "cyclone",
+        "tea",
+        "bowtie"
+    ],
+    "oomp_word_emoji": ":cyclone: :tea: :bowtie:",
+    "oomp_word_emoji_list": [
+        ":cyclone:",
+        ":tea:",
+        ":bowtie:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "12",

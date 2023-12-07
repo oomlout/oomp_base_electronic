@@ -95,6 +95,16 @@ name_no_size: 68 Ohm
 name_no_size_short: 68 Ohm
 name_no_type: 1206 68 Ohm
 oomp_key: oomp_electronic_resistor_1206_68_ohm
+oomp_word: phone bug four
+oomp_word_emoji: ':phone: :bug: :four:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':bug:'
+- ':four:'
+oomp_word_list:
+- phone
+- bug
+- four
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

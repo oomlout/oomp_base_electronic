@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "VX14",
     "md5_10": "16b8f851ba",
     "md5_10_upper": "16B8F851BA",
+    "oomp_word": "thumbsup hamburger seven",
+    "oomp_word_list": [
+        "thumbsup",
+        "hamburger",
+        "seven"
+    ],
+    "oomp_word_emoji": ":thumbsup: :hamburger: :seven:",
+    "oomp_word_emoji_list": [
+        ":thumbsup:",
+        ":hamburger:",
+        ":seven:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "3300000",

@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "7GTRV",
     "md5_10": "bf61bb1f22",
     "md5_10_upper": "BF61BB1F22",
+    "oomp_word": "egg bouquet curry",
+    "oomp_word_list": [
+        "egg",
+        "bouquet",
+        "curry"
+    ],
+    "oomp_word_emoji": ":egg: :bouquet: :curry:",
+    "oomp_word_emoji_list": [
+        ":egg:",
+        ":bouquet:",
+        ":curry:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2816",

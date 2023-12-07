@@ -95,6 +95,16 @@ name_no_size: 180 Ohm
 name_no_size_short: 180 Ohm
 name_no_type: 0805 180 Ohm
 oomp_key: oomp_electronic_resistor_0805_180_ohm
+oomp_word: racehorse briefcase blossom
+oomp_word_emoji: ':racehorse: :briefcase: :blossom:'
+oomp_word_emoji_list:
+- ':racehorse:'
+- ':briefcase:'
+- ':blossom:'
+oomp_word_list:
+- racehorse
+- briefcase
+- blossom
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -79,6 +79,16 @@ name_no_size: 22 Pico Farad
 name_no_size_short: 22pf Pico Farad
 name_no_type: 0603 22 Pico Farad
 oomp_key: oomp_electronic_capacitor_0603_22_pico_farad
+oomp_word: bus elephant up
+oomp_word_emoji: ':bus: :elephant: :up:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':elephant:'
+- ':up:'
+oomp_word_list:
+- bus
+- elephant
+- up
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

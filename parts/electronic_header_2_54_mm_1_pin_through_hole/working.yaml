@@ -65,6 +65,16 @@ name_no_size: 1 Pin Through Hole
 name_no_size_short: 1 Pin Through Hole
 name_no_type: 2 54 Mm 1 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_1_pin_through_hole
+oomp_word: ocean shirt dolphin
+oomp_word_emoji: ':ocean: :shirt: :dolphin:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':shirt:'
+- ':dolphin:'
+oomp_word_list:
+- ocean
+- shirt
+- dolphin
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

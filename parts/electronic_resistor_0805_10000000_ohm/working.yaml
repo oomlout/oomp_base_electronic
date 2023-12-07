@@ -67,6 +67,16 @@ name_no_size: 10000000 Ohm
 name_no_size_short: 1M Ohm
 name_no_type: 0805 10000000 Ohm
 oomp_key: oomp_electronic_resistor_0805_10000000_ohm
+oomp_word: cry bread ambulance
+oomp_word_emoji: ':cry: :bread: :ambulance:'
+oomp_word_emoji_list:
+- ':cry:'
+- ':bread:'
+- ':ambulance:'
+oomp_word_list:
+- cry
+- bread
+- ambulance
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -60,6 +60,16 @@ name_no_size: 2 Pin Surface Mount
 name_no_size_short: 2 Pin Surface Mount
 name_no_type: 1 Mm Jst Sh 2 Pin Surface Mount
 oomp_key: oomp_electronic_header_1_mm_jst_sh_2_pin_surface_mount
+oomp_word: nose hamster tiger
+oomp_word_emoji: ':nose: :hamster: :tiger:'
+oomp_word_emoji_list:
+- ':nose:'
+- ':hamster:'
+- ':tiger:'
+oomp_word_list:
+- nose
+- hamster
+- tiger
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

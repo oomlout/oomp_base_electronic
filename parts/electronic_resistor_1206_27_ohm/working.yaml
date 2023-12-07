@@ -95,6 +95,16 @@ name_no_size: 27 Ohm
 name_no_size_short: 27 Ohm
 name_no_type: 1206 27 Ohm
 oomp_key: oomp_electronic_resistor_1206_27_ohm
+oomp_word: bike sunny palm_tree
+oomp_word_emoji: ':bike: :sunny: :palm_tree:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':sunny:'
+- ':palm_tree:'
+oomp_word_list:
+- bike
+- sunny
+- palm_tree
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -60,6 +60,16 @@ name_no_size: 2X11 22 Pin Through Hole Right Angle
 name_no_size_short: 2X11 22 Pin Through Hole Right Angle
 name_no_type: 2 54 Mm Dual Row 2X11 22 Pin Through Hole Right Angle
 oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x11_22_pin_through_hole_right_angle
+oomp_word: four banana rainbow
+oomp_word_emoji: ':four: :banana: :rainbow:'
+oomp_word_emoji_list:
+- ':four:'
+- ':banana:'
+- ':rainbow:'
+oomp_word_list:
+- four
+- banana
+- rainbow
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

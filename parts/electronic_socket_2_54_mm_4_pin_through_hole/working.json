@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "6SG4J",
     "md5_10": "ae06a3ae9e",
     "md5_10_upper": "AE06A3AE9E",
+    "oomp_word": "jeans sleeping pencil",
+    "oomp_word_list": [
+        "jeans",
+        "sleeping",
+        "pencil"
+    ],
+    "oomp_word_emoji": ":jeans: :sleeping: :pencil:",
+    "oomp_word_emoji_list": [
+        ":jeans:",
+        ":sleeping:",
+        ":pencil:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "4",

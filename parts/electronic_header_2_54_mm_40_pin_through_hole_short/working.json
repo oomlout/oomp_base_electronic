@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6E81S",
     "md5_10": "a3e640f408",
     "md5_10_upper": "A3E640F408",
+    "oomp_word": "pencil airplane racehorse",
+    "oomp_word_list": [
+        "pencil",
+        "airplane",
+        "racehorse"
+    ],
+    "oomp_word_emoji": ":pencil: :airplane: :racehorse:",
+    "oomp_word_emoji_list": [
+        ":pencil:",
+        ":airplane:",
+        ":racehorse:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "40",

@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "D1XW",
     "md5_10": "094b142589",
     "md5_10_upper": "094B142589",
+    "oomp_word": "angry penguin fire",
+    "oomp_word_list": [
+        "angry",
+        "penguin",
+        "fire"
+    ],
+    "oomp_word_emoji": ":angry: :penguin: :fire:",
+    "oomp_word_emoji_list": [
+        ":angry:",
+        ":penguin:",
+        ":fire:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2",

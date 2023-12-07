@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "2Z6WV",
     "md5_10": "4c4fbf9290",
     "md5_10_upper": "4C4FBF9290",
+    "oomp_word": "turtle ant egg",
+    "oomp_word_list": [
+        "turtle",
+        "ant",
+        "egg"
+    ],
+    "oomp_word_emoji": ":turtle: :ant: :egg:",
+    "oomp_word_emoji_list": [
+        ":turtle:",
+        ":ant:",
+        ":egg:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "8",

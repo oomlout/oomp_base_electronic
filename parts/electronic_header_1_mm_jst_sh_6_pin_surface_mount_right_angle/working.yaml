@@ -71,6 +71,16 @@ name_no_size: 6 Pin Surface Mount Right Angle
 name_no_size_short: 6 Pin Surface Mount Right Angle
 name_no_type: 1 Mm Jst Sh 6 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle
+oomp_word: headphones up ramen
+oomp_word_emoji: ':headphones: :up: :ramen:'
+oomp_word_emoji_list:
+- ':headphones:'
+- ':up:'
+- ':ramen:'
+oomp_word_list:
+- headphones
+- up
+- ramen
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

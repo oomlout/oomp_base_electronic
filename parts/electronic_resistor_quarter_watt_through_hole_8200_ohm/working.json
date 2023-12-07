@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9WGQ0",
     "md5_10": "fdc5a8331c",
     "md5_10_upper": "FDC5A8331C",
+    "oomp_word": "parking candy shoe",
+    "oomp_word_list": [
+        "parking",
+        "candy",
+        "shoe"
+    ],
+    "oomp_word_emoji": ":parking: :candy: :shoe:",
+    "oomp_word_emoji_list": [
+        ":parking:",
+        ":candy:",
+        ":shoe:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "8200",

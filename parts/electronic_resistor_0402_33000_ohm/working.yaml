@@ -84,6 +84,16 @@ name_no_size: 33000 Ohm
 name_no_size_short: 33k Ohm
 name_no_type: 0402 33000 Ohm
 oomp_key: oomp_electronic_resistor_0402_33000_ohm
+oomp_word: anchor poop sparkles
+oomp_word_emoji: ':anchor: :poop: :sparkles:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':poop:'
+- ':sparkles:'
+oomp_word_list:
+- anchor
+- poop
+- sparkles
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

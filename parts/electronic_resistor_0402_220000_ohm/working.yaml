@@ -56,6 +56,16 @@ name_no_size: 220000 Ohm
 name_no_size_short: 220k Ohm
 name_no_type: 0402 220000 Ohm
 oomp_key: oomp_electronic_resistor_0402_220000_ohm
+oomp_word: elephant fax cactus
+oomp_word_emoji: ':elephant: :fax: :cactus:'
+oomp_word_emoji_list:
+- ':elephant:'
+- ':fax:'
+- ':cactus:'
+oomp_word_list:
+- elephant
+- fax
+- cactus
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

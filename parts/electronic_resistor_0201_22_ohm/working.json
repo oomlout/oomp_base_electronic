@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "4RH0S",
     "md5_10": "7a12ec4ecf",
     "md5_10_upper": "7A12EC4ECF",
+    "oomp_word": "camera anger taxi",
+    "oomp_word_list": [
+        "camera",
+        "anger",
+        "taxi"
+    ],
+    "oomp_word_emoji": ":camera: :anger: :taxi:",
+    "oomp_word_emoji_list": [
+        ":camera:",
+        ":anger:",
+        ":taxi:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "22",

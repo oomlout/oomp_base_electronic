@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "496AM",
     "md5_10": "6d0c1e4efb",
     "md5_10_upper": "6D0C1E4EFB",
+    "oomp_word": "shell alien angel",
+    "oomp_word_list": [
+        "shell",
+        "alien",
+        "angel"
+    ],
+    "oomp_word_emoji": ":shell: :alien: :angel:",
+    "oomp_word_emoji_list": [
+        ":shell:",
+        ":alien:",
+        ":angel:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "38",

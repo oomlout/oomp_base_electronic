@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "7QTI8",
     "md5_10": "c67ee0306c",
     "md5_10_upper": "C67EE0306C",
+    "oomp_word": "lollipop fax ship",
+    "oomp_word_list": [
+        "lollipop",
+        "fax",
+        "ship"
+    ],
+    "oomp_word_emoji": ":lollipop: :fax: :ship:",
+    "oomp_word_emoji_list": [
+        ":lollipop:",
+        ":fax:",
+        ":ship:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "12",

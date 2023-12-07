@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "522XW",
     "md5_10": "81a0640109",
     "md5_10_upper": "81A0640109",
+    "oomp_word": "watch ring sunflower",
+    "oomp_word_list": [
+        "watch",
+        "ring",
+        "sunflower"
+    ],
+    "oomp_word_emoji": ":watch: :ring: :sunflower:",
+    "oomp_word_emoji_list": [
+        ":watch:",
+        ":ring:",
+        ":sunflower:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "34",

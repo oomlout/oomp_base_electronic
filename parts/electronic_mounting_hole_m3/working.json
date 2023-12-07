@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "59VY9",
     "md5_10": "872f01e756",
     "md5_10_upper": "872F01E756",
+    "oomp_word": "toilet cyclone smile",
+    "oomp_word_list": [
+        "toilet",
+        "cyclone",
+        "smile"
+    ],
+    "oomp_word_emoji": ":toilet: :cyclone: :smile:",
+    "oomp_word_emoji_list": [
+        ":toilet:",
+        ":cyclone:",
+        ":smile:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "",

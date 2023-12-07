@@ -64,6 +64,16 @@ name_no_size: 7 Pin Through Hole Short
 name_no_size_short: 7 Pin Through Hole Short
 name_no_type: 2 54 Mm 7 Pin Through Hole Short
 oomp_key: oomp_electronic_header_2_54_mm_7_pin_through_hole_short
+oomp_word: kissing cyclone ghost
+oomp_word_emoji: ':kissing: :cyclone: :ghost:'
+oomp_word_emoji_list:
+- ':kissing:'
+- ':cyclone:'
+- ':ghost:'
+oomp_word_list:
+- kissing
+- cyclone
+- ghost
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

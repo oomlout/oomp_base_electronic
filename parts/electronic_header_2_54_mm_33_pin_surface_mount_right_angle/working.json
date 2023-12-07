@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "5O8PH",
     "md5_10": "91671522b6",
     "md5_10_upper": "91671522B6",
+    "oomp_word": "pushpin herb poop",
+    "oomp_word_list": [
+        "pushpin",
+        "herb",
+        "poop"
+    ],
+    "oomp_word_emoji": ":pushpin: :herb: :poop:",
+    "oomp_word_emoji_list": [
+        ":pushpin:",
+        ":herb:",
+        ":poop:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "33",

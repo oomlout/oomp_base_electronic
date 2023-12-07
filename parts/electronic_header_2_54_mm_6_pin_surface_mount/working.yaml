@@ -71,6 +71,16 @@ name_no_size: 6 Pin Surface Mount
 name_no_size_short: 6 Pin Surface Mount
 name_no_type: 2 54 Mm 6 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_54_mm_6_pin_surface_mount
+oomp_word: bath train bath
+oomp_word_emoji: ':bath: :train: :bath:'
+oomp_word_emoji_list:
+- ':bath:'
+- ':train:'
+- ':bath:'
+oomp_word_list:
+- bath
+- train
+- bath
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

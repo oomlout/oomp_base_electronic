@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "16XZG",
     "md5_10": "1e928c6250",
     "md5_10_upper": "1E928C6250",
+    "oomp_word": "angel paperclip pill",
+    "oomp_word_list": [
+        "angel",
+        "paperclip",
+        "pill"
+    ],
+    "oomp_word_emoji": ":angel: :paperclip: :pill:",
+    "oomp_word_emoji_list": [
+        ":angel:",
+        ":paperclip:",
+        ":pill:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "10",

@@ -67,6 +67,16 @@ name_no_size: 1 Micro Farad
 name_no_size_short: 1uf Micro Farad
 name_no_type: 0603 1 Micro Farad
 oomp_key: oomp_electronic_capacitor_0603_1_micro_farad
+oomp_word: helicopter violin cow
+oomp_word_emoji: ':helicopter: :violin: :cow:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':violin:'
+- ':cow:'
+oomp_word_list:
+- helicopter
+- violin
+- cow
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

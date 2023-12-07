@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "2PBRO",
     "md5_10": "4549d4cb03",
     "md5_10_upper": "4549D4CB03",
+    "oomp_word": "snake hatching_chick corn",
+    "oomp_word_list": [
+        "snake",
+        "hatching_chick",
+        "corn"
+    ],
+    "oomp_word_emoji": ":snake: :hatching_chick: :corn:",
+    "oomp_word_emoji_list": [
+        ":snake:",
+        ":hatching_chick:",
+        ":corn:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "15",

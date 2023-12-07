@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "9RRNX",
     "md5_10": "fa6dcdd212",
     "md5_10_upper": "FA6DCDD212",
+    "oomp_word": "nine shell strawberry",
+    "oomp_word_list": [
+        "nine",
+        "shell",
+        "strawberry"
+    ],
+    "oomp_word_emoji": ":nine: :shell: :strawberry:",
+    "oomp_word_emoji_list": [
+        ":nine:",
+        ":shell:",
+        ":strawberry:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "30",

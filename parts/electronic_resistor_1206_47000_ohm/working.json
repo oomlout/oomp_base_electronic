@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "2XM6F",
     "md5_10": "4b30873173",
     "md5_10_upper": "4B30873173",
+    "oomp_word": "penguin foggy toilet",
+    "oomp_word_list": [
+        "penguin",
+        "foggy",
+        "toilet"
+    ],
+    "oomp_word_emoji": ":penguin: :foggy: :toilet:",
+    "oomp_word_emoji_list": [
+        ":penguin:",
+        ":foggy:",
+        ":toilet:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "47000",

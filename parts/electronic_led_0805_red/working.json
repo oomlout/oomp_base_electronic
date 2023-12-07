@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "9TEF3",
     "md5_10": "fb973f6013",
     "md5_10_upper": "FB973F6013",
+    "oomp_word": "ok baseball horse",
+    "oomp_word_list": [
+        "ok",
+        "baseball",
+        "horse"
+    ],
+    "oomp_word_emoji": ":ok: :baseball: :horse:",
+    "oomp_word_emoji_list": [
+        ":ok:",
+        ":baseball:",
+        ":horse:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "",

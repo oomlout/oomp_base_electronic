@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "7X6XT",
     "md5_10": "cb08618190",
     "md5_10_upper": "CB08618190",
+    "oomp_word": "grapes scream bouquet",
+    "oomp_word_list": [
+        "grapes",
+        "scream",
+        "bouquet"
+    ],
+    "oomp_word_emoji": ":grapes: :scream: :bouquet:",
+    "oomp_word_emoji_list": [
+        ":grapes:",
+        ":scream:",
+        ":bouquet:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "23",

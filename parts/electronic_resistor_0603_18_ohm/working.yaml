@@ -95,6 +95,16 @@ name_no_size: 18 Ohm
 name_no_size_short: 18 Ohm
 name_no_type: 0603 18 Ohm
 oomp_key: oomp_electronic_resistor_0603_18_ohm
+oomp_word: trident ram phone
+oomp_word_emoji: ':trident: :ram: :phone:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':ram:'
+- ':phone:'
+oomp_word_list:
+- trident
+- ram
+- phone
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

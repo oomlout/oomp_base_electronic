@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "6GYL4",
     "md5_10": "a5d918c0b8",
     "md5_10_upper": "A5D918C0B8",
+    "oomp_word": "headphones bank hand",
+    "oomp_word_list": [
+        "headphones",
+        "bank",
+        "hand"
+    ],
+    "oomp_word_emoji": ":headphones: :bank: :hand:",
+    "oomp_word_emoji_list": [
+        ":headphones:",
+        ":bank:",
+        ":hand:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "10",

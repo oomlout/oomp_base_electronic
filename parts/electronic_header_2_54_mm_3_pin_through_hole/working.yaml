@@ -75,6 +75,16 @@ name_no_size: 3 Pin Through Hole
 name_no_size_short: 3 Pin Through Hole
 name_no_type: 2 54 Mm 3 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_3_pin_through_hole
+oomp_word: baseball shell ant
+oomp_word_emoji: ':baseball: :shell: :ant:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':shell:'
+- ':ant:'
+oomp_word_list:
+- baseball
+- shell
+- ant
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

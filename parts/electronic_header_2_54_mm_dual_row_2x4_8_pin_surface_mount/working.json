@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "7ACVL",
     "md5_10": "bac6b1fb0b",
     "md5_10_upper": "BAC6B1FB0B",
+    "oomp_word": "spaghetti lollipop briefcase",
+    "oomp_word_list": [
+        "spaghetti",
+        "lollipop",
+        "briefcase"
+    ],
+    "oomp_word_emoji": ":spaghetti: :lollipop: :briefcase:",
+    "oomp_word_emoji_list": [
+        ":spaghetti:",
+        ":lollipop:",
+        ":briefcase:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "248",

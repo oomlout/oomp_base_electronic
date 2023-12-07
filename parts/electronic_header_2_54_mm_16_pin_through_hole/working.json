@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3UFZO",
     "md5_10": "628f74b9c4",
     "md5_10_upper": "628F74B9C4",
+    "oomp_word": "tulip calendar fireworks",
+    "oomp_word_list": [
+        "tulip",
+        "calendar",
+        "fireworks"
+    ],
+    "oomp_word_emoji": ":tulip: :calendar: :fireworks:",
+    "oomp_word_emoji_list": [
+        ":tulip:",
+        ":calendar:",
+        ":fireworks:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "16",

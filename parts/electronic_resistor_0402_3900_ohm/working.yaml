@@ -84,6 +84,16 @@ name_no_size: 3900 Ohm
 name_no_size_short: 3k9 Ohm
 name_no_type: 0402 3900 Ohm
 oomp_key: oomp_electronic_resistor_0402_3900_ohm
+oomp_word: pencil hearts pencil
+oomp_word_emoji: ':pencil: :hearts: :pencil:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':hearts:'
+- ':pencil:'
+oomp_word_list:
+- pencil
+- hearts
+- pencil
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

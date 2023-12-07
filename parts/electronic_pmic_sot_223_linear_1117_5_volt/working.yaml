@@ -76,6 +76,16 @@ name_no_size: Linear 1117 5 Volt
 name_no_size_short: Linear 1k1 5 Volt
 name_no_type: Sot 223 Linear 1117 5 Volt
 oomp_key: oomp_electronic_pmic_sot_223_linear_1117_5_volt
+oomp_word: one blossom ship
+oomp_word_emoji: ':one: :blossom: :ship:'
+oomp_word_emoji_list:
+- ':one:'
+- ':blossom:'
+- ':ship:'
+oomp_word_list:
+- one
+- blossom
+- ship
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

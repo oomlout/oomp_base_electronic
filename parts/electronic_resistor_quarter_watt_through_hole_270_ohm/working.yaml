@@ -67,6 +67,16 @@ name_no_size: 270 Ohm
 name_no_size_short: 270 Ohm
 name_no_type: Quarter Watt Through Hole 270 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_270_ohm
+oomp_word: poop grin snake
+oomp_word_emoji: ':poop: :grin: :snake:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':grin:'
+- ':snake:'
+oomp_word_list:
+- poop
+- grin
+- snake
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

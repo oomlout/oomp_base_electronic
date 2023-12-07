@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "613HL",
     "md5_10": "9a8de94ae6",
     "md5_10_upper": "9A8DE94AE6",
+    "oomp_word": "golf scroll bike",
+    "oomp_word_list": [
+        "golf",
+        "scroll",
+        "bike"
+    ],
+    "oomp_word_emoji": ":golf: :scroll: :bike:",
+    "oomp_word_emoji_list": [
+        ":golf:",
+        ":scroll:",
+        ":bike:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "82",

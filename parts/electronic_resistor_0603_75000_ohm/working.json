@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "8D2R0",
     "md5_10": "d6572c28a2",
     "md5_10_upper": "D6572C28A2",
+    "oomp_word": "school rat snowflake",
+    "oomp_word_list": [
+        "school",
+        "rat",
+        "snowflake"
+    ],
+    "oomp_word_emoji": ":school: :rat: :snowflake:",
+    "oomp_word_emoji_list": [
+        ":school:",
+        ":rat:",
+        ":snowflake:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "75000",

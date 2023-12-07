@@ -67,6 +67,16 @@ name_no_size: 33 Ohm
 name_no_size_short: 33 Ohm
 name_no_type: Quarter Watt Through Hole 33 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_33_ohm
+oomp_word: office factory hammer
+oomp_word_emoji: ':office: :factory: :hammer:'
+oomp_word_emoji_list:
+- ':office:'
+- ':factory:'
+- ':hammer:'
+oomp_word_list:
+- office
+- factory
+- hammer
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

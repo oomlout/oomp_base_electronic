@@ -71,6 +71,16 @@ name_no_size: 35 Pin Surface Mount
 name_no_size_short: 35 Pin Surface Mount
 name_no_type: 2 54 Mm 35 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_54_mm_35_pin_surface_mount
+oomp_word: cookie lollipop pencil
+oomp_word_emoji: ':cookie: :lollipop: :pencil:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':lollipop:'
+- ':pencil:'
+oomp_word_list:
+- cookie
+- lollipop
+- pencil
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

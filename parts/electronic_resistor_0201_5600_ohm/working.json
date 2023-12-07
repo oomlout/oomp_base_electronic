@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3H9NE",
     "md5_10": "592e1a1159",
     "md5_10_upper": "592E1A1159",
+    "oomp_word": "dragon zap clap",
+    "oomp_word_list": [
+        "dragon",
+        "zap",
+        "clap"
+    ],
+    "oomp_word_emoji": ":dragon: :zap: :clap:",
+    "oomp_word_emoji_list": [
+        ":dragon:",
+        ":zap:",
+        ":clap:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "5600",

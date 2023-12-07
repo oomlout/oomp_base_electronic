@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6NF55",
     "md5_10": "aa7269c3e7",
     "md5_10_upper": "AA7269C3E7",
+    "oomp_word": "lipstick dolls cactus",
+    "oomp_word_list": [
+        "lipstick",
+        "dolls",
+        "cactus"
+    ],
+    "oomp_word_emoji": ":lipstick: :dolls: :cactus:",
+    "oomp_word_emoji_list": [
+        ":lipstick:",
+        ":dolls:",
+        ":cactus:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "75",

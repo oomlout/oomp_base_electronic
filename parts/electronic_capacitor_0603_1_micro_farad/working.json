@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "91D8D",
     "md5_10": "e7a23d9cf4",
     "md5_10_upper": "E7A23D9CF4",
+    "oomp_word": "helicopter violin cow",
+    "oomp_word_list": [
+        "helicopter",
+        "violin",
+        "cow"
+    ],
+    "oomp_word_emoji": ":helicopter: :violin: :cow:",
+    "oomp_word_emoji_list": [
+        ":helicopter:",
+        ":violin:",
+        ":cow:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "1",

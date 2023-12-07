@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "3TS42",
     "md5_10": "6216927724",
     "md5_10_upper": "6216927724",
+    "oomp_word": "tulip thumbsup paperclip",
+    "oomp_word_list": [
+        "tulip",
+        "thumbsup",
+        "paperclip"
+    ],
+    "oomp_word_emoji": ":tulip: :thumbsup: :paperclip:",
+    "oomp_word_emoji_list": [
+        ":tulip:",
+        ":thumbsup:",
+        ":paperclip:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "",

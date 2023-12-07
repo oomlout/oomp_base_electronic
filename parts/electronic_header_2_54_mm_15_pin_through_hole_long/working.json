@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "33NTR",
     "md5_10": "4f7e5f072c",
     "md5_10_upper": "4F7E5F072C",
+    "oomp_word": "ant fax leopard",
+    "oomp_word_list": [
+        "ant",
+        "fax",
+        "leopard"
+    ],
+    "oomp_word_emoji": ":ant: :fax: :leopard:",
+    "oomp_word_emoji_list": [
+        ":ant:",
+        ":fax:",
+        ":leopard:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "15",

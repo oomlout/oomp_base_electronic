@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "3ZJCJ",
     "md5_10": "662fb35f19",
     "md5_10_upper": "662FB35F19",
+    "oomp_word": "leaves cyclone eyeglasses",
+    "oomp_word_list": [
+        "leaves",
+        "cyclone",
+        "eyeglasses"
+    ],
+    "oomp_word_emoji": ":leaves: :cyclone: :eyeglasses:",
+    "oomp_word_emoji_list": [
+        ":leaves:",
+        ":cyclone:",
+        ":eyeglasses:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "34",

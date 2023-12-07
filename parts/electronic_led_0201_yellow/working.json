@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "84AIB",
     "md5_10": "d0163386b8",
     "md5_10_upper": "D0163386B8",
+    "oomp_word": "banana thumbsup dog",
+    "oomp_word_list": [
+        "banana",
+        "thumbsup",
+        "dog"
+    ],
+    "oomp_word_emoji": ":banana: :thumbsup: :dog:",
+    "oomp_word_emoji_list": [
+        ":banana:",
+        ":thumbsup:",
+        ":dog:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "",

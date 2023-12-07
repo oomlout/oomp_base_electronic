@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6VKMD",
     "md5_10": "b040250fc4",
     "md5_10_upper": "B040250FC4",
+    "oomp_word": "crown racehorse ear",
+    "oomp_word_list": [
+        "crown",
+        "racehorse",
+        "ear"
+    ],
+    "oomp_word_emoji": ":crown: :racehorse: :ear:",
+    "oomp_word_emoji_list": [
+        ":crown:",
+        ":racehorse:",
+        ":ear:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "33",

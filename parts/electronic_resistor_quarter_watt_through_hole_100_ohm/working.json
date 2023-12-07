@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5LOQH",
     "md5_10": "8f9579c7ff",
     "md5_10_upper": "8F9579C7FF",
+    "oomp_word": "calendar telescope balloon",
+    "oomp_word_list": [
+        "calendar",
+        "telescope",
+        "balloon"
+    ],
+    "oomp_word_emoji": ":calendar: :telescope: :balloon:",
+    "oomp_word_emoji_list": [
+        ":calendar:",
+        ":telescope:",
+        ":balloon:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "100",

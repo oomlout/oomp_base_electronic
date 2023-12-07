@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "99T8D",
     "md5_10": "eda53d06bd",
     "md5_10_upper": "EDA53D06BD",
+    "oomp_word": "bus headphones cow",
+    "oomp_word_list": [
+        "bus",
+        "headphones",
+        "cow"
+    ],
+    "oomp_word_emoji": ":bus: :headphones: :cow:",
+    "oomp_word_emoji_list": [
+        ":bus:",
+        ":headphones:",
+        ":cow:"
+    ],
     "size_only_numbers": "221",
     "size_only_numbers_no_zeros": "221",
     "description_only_numbers": "3",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "2PSOZ",
     "md5_10": "459f83af14",
     "md5_10_upper": "459F83AF14",
+    "oomp_word": "snake diamonds lock",
+    "oomp_word_list": [
+        "snake",
+        "diamonds",
+        "lock"
+    ],
+    "oomp_word_emoji": ":snake: :diamonds: :lock:",
+    "oomp_word_emoji_list": [
+        ":snake:",
+        ":diamonds:",
+        ":lock:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "16",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2RDUB",
     "md5_10": "46c0d3e7c7",
     "md5_10_upper": "46C0D3E7C7",
+    "oomp_word": "bird bread tomato",
+    "oomp_word_list": [
+        "bird",
+        "bread",
+        "tomato"
+    ],
+    "oomp_word_emoji": ":bird: :bread: :tomato:",
+    "oomp_word_emoji_list": [
+        ":bird:",
+        ":bread:",
+        ":tomato:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "270000",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "XZK",
     "md5_10": "00ac109cc5",
     "md5_10_upper": "00AC109CC5",
+    "oomp_word": "bowtie shirt star",
+    "oomp_word_list": [
+        "bowtie",
+        "shirt",
+        "star"
+    ],
+    "oomp_word_emoji": ":bowtie: :shirt: :star:",
+    "oomp_word_emoji_list": [
+        ":bowtie:",
+        ":shirt:",
+        ":star:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "7",

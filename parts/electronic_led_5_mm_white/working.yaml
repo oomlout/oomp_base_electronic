@@ -67,6 +67,16 @@ name_no_size: White
 name_no_size_short: White
 name_no_type: 5 Mm White
 oomp_key: oomp_electronic_led_5_mm_white
+oomp_word: computer sparkles shoe
+oomp_word_emoji: ':computer: :sparkles: :shoe:'
+oomp_word_emoji_list:
+- ':computer:'
+- ':sparkles:'
+- ':shoe:'
+oomp_word_list:
+- computer
+- sparkles
+- shoe
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -156,6 +156,18 @@
     "md5_6_alpha_upper": "5FK98",
     "md5_10": "8b394cfe55",
     "md5_10_upper": "8B394CFE55",
+    "oomp_word": "door tiger turtle",
+    "oomp_word_list": [
+        "door",
+        "tiger",
+        "turtle"
+    ],
+    "oomp_word_emoji": ":door: :tiger: :turtle:",
+    "oomp_word_emoji_list": [
+        ":door:",
+        ":tiger:",
+        ":turtle:"
+    ],
     "size_only_numbers": "16",
     "size_only_numbers_no_zeros": "16",
     "description_only_numbers": "",

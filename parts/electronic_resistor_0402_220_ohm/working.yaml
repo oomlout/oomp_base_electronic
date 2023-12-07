@@ -84,6 +84,16 @@ name_no_size: 220 Ohm
 name_no_size_short: 220 Ohm
 name_no_type: 0402 220 Ohm
 oomp_key: oomp_electronic_resistor_0402_220_ohm
+oomp_word: rowboat cry hourglass
+oomp_word_emoji: ':rowboat: :cry: :hourglass:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':cry:'
+- ':hourglass:'
+oomp_word_list:
+- rowboat
+- cry
+- hourglass
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "YXKF",
     "md5_10": "18de6fe05d",
     "md5_10_upper": "18DE6FE05D",
+    "oomp_word": "hand rainbow moon",
+    "oomp_word_list": [
+        "hand",
+        "rainbow",
+        "moon"
+    ],
+    "oomp_word_emoji": ":hand: :rainbow: :moon:",
+    "oomp_word_emoji_list": [
+        ":hand:",
+        ":rainbow:",
+        ":moon:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "5600",

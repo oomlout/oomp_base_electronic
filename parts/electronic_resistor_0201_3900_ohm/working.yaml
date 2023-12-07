@@ -66,6 +66,16 @@ name_no_size: 3900 Ohm
 name_no_size_short: 3k9 Ohm
 name_no_type: 0201 3900 Ohm
 oomp_key: oomp_electronic_resistor_0201_3900_ohm
+oomp_word: cow leopard key
+oomp_word_emoji: ':cow: :leopard: :key:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':leopard:'
+- ':key:'
+oomp_word_list:
+- cow
+- leopard
+- key
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

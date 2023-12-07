@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "5PT9C",
     "md5_10": "92856022d6",
     "md5_10_upper": "92856022D6",
+    "oomp_word": "paperclip bulb poodle",
+    "oomp_word_list": [
+        "paperclip",
+        "bulb",
+        "poodle"
+    ],
+    "oomp_word_emoji": ":paperclip: :bulb: :poodle:",
+    "oomp_word_emoji_list": [
+        ":paperclip:",
+        ":bulb:",
+        ":poodle:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "3300000",

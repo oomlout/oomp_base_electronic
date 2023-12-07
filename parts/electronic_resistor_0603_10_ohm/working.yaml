@@ -95,6 +95,16 @@ name_no_size: 10 Ohm
 name_no_size_short: 10 Ohm
 name_no_type: 0603 10 Ohm
 oomp_key: oomp_electronic_resistor_0603_10_ohm
+oomp_word: snail headphones angry
+oomp_word_emoji: ':snail: :headphones: :angry:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':headphones:'
+- ':angry:'
+oomp_word_list:
+- snail
+- headphones
+- angry
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

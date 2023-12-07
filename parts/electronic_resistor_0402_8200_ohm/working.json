@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "17UUV",
     "md5_10": "1f38f736ce",
     "md5_10_upper": "1F38F736CE",
+    "oomp_word": "princess frog six",
+    "oomp_word_list": [
+        "princess",
+        "frog",
+        "six"
+    ],
+    "oomp_word_emoji": ":princess: :frog: :six:",
+    "oomp_word_emoji_list": [
+        ":princess:",
+        ":frog:",
+        ":six:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "8200",

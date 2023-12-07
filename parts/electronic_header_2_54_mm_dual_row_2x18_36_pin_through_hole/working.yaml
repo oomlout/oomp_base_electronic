@@ -64,6 +64,16 @@ name_no_size: 2X18 36 Pin Through Hole
 name_no_size_short: 2X18 36 Pin Through Hole
 name_no_type: 2 54 Mm Dual Row 2X18 36 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x18_36_pin_through_hole
+oomp_word: helicopter new_moon cherries
+oomp_word_emoji: ':helicopter: :new_moon: :cherries:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':new_moon:'
+- ':cherries:'
+oomp_word_list:
+- helicopter
+- new_moon
+- cherries
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

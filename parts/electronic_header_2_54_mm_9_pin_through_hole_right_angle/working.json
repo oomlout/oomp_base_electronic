@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "46NW5",
     "md5_10": "6b4275af59",
     "md5_10_upper": "6B4275AF59",
+    "oomp_word": "chestnut sheep ghost",
+    "oomp_word_list": [
+        "chestnut",
+        "sheep",
+        "ghost"
+    ],
+    "oomp_word_emoji": ":chestnut: :sheep: :ghost:",
+    "oomp_word_emoji_list": [
+        ":chestnut:",
+        ":sheep:",
+        ":ghost:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "9",

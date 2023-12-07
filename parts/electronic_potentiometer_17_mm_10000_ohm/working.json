@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1GE7A",
     "md5_10": "254ce63b98",
     "md5_10_upper": "254CE63B98",
+    "oomp_word": "ear turtle airplane",
+    "oomp_word_list": [
+        "ear",
+        "turtle",
+        "airplane"
+    ],
+    "oomp_word_emoji": ":ear: :turtle: :airplane:",
+    "oomp_word_emoji_list": [
+        ":ear:",
+        ":turtle:",
+        ":airplane:"
+    ],
     "size_only_numbers": "17",
     "size_only_numbers_no_zeros": "17",
     "description_only_numbers": "10000",

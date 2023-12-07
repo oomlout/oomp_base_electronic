@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3NRV1",
     "md5_10": "5dcfcd2076",
     "md5_10_upper": "5DCFCD2076",
+    "oomp_word": "blowfish melon strawberry",
+    "oomp_word_list": [
+        "blowfish",
+        "melon",
+        "strawberry"
+    ],
+    "oomp_word_emoji": ":blowfish: :melon: :strawberry:",
+    "oomp_word_emoji_list": [
+        ":blowfish:",
+        ":melon:",
+        ":strawberry:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "7",

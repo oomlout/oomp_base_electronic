@@ -95,6 +95,16 @@ name_no_size: 150 Ohm
 name_no_size_short: 150 Ohm
 name_no_type: 1206 150 Ohm
 oomp_key: oomp_electronic_resistor_1206_150_ohm
+oomp_word: ring hamburger dolphin
+oomp_word_emoji: ':ring: :hamburger: :dolphin:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':hamburger:'
+- ':dolphin:'
+oomp_word_list:
+- ring
+- hamburger
+- dolphin
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

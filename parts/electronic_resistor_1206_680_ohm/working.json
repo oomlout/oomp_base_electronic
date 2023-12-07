@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "11FRI",
     "md5_10": "1aa70e29a9",
     "md5_10_upper": "1AA70E29A9",
+    "oomp_word": "clap guitar cupid",
+    "oomp_word_list": [
+        "clap",
+        "guitar",
+        "cupid"
+    ],
+    "oomp_word_emoji": ":clap: :guitar: :cupid:",
+    "oomp_word_emoji_list": [
+        ":clap:",
+        ":guitar:",
+        ":cupid:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "680",

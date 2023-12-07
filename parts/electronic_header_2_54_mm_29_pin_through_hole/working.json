@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "7158L",
     "md5_10": "b437c5ad81",
     "md5_10_upper": "B437C5AD81",
+    "oomp_word": "coffee wolf candy",
+    "oomp_word_list": [
+        "coffee",
+        "wolf",
+        "candy"
+    ],
+    "oomp_word_emoji": ":coffee: :wolf: :candy:",
+    "oomp_word_emoji_list": [
+        ":coffee:",
+        ":wolf:",
+        ":candy:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "29",

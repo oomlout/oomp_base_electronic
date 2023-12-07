@@ -66,6 +66,16 @@ name_no_size: 820 Ohm
 name_no_size_short: 820 Ohm
 name_no_type: 0201 820 Ohm
 oomp_key: oomp_electronic_resistor_0201_820_ohm
+oomp_word: tractor panda_face six
+oomp_word_emoji: ':tractor: :panda_face: :six:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':panda_face:'
+- ':six:'
+oomp_word_list:
+- tractor
+- panda_face
+- six
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "4LFRR",
     "md5_10": "75c7179ce9",
     "md5_10_upper": "75C7179CE9",
+    "oomp_word": "ghost honey_pot thumbsdown",
+    "oomp_word_list": [
+        "ghost",
+        "honey_pot",
+        "thumbsdown"
+    ],
+    "oomp_word_emoji": ":ghost: :honey_pot: :thumbsdown:",
+    "oomp_word_emoji_list": [
+        ":ghost:",
+        ":honey_pot:",
+        ":thumbsdown:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3",

@@ -66,6 +66,16 @@ name_no_size: 18 Ohm
 name_no_size_short: 18 Ohm
 name_no_type: 0201 18 Ohm
 oomp_key: oomp_electronic_resistor_0201_18_ohm
+oomp_word: car baseball palm_tree
+oomp_word_emoji: ':car: :baseball: :palm_tree:'
+oomp_word_emoji_list:
+- ':car:'
+- ':baseball:'
+- ':palm_tree:'
+oomp_word_list:
+- car
+- baseball
+- palm_tree
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

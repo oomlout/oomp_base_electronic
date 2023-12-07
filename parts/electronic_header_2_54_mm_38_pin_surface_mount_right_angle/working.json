@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3PR3C",
     "md5_10": "5f3868ccf1",
     "md5_10_upper": "5F3868CCF1",
+    "oomp_word": "leopard frog mushroom",
+    "oomp_word_list": [
+        "leopard",
+        "frog",
+        "mushroom"
+    ],
+    "oomp_word_emoji": ":leopard: :frog: :mushroom:",
+    "oomp_word_emoji_list": [
+        ":leopard:",
+        ":frog:",
+        ":mushroom:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "38",

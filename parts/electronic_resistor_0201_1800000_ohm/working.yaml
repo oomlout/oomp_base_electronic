@@ -56,6 +56,16 @@ name_no_size: 1800000 Ohm
 name_no_size_short: 1M8 Ohm
 name_no_type: 0201 1800000 Ohm
 oomp_key: oomp_electronic_resistor_0201_1800000_ohm
+oomp_word: shoe trophy mouse
+oomp_word_emoji: ':shoe: :trophy: :mouse:'
+oomp_word_emoji_list:
+- ':shoe:'
+- ':trophy:'
+- ':mouse:'
+oomp_word_list:
+- shoe
+- trophy
+- mouse
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

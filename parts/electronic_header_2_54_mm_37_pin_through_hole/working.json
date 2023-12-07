@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "LNTV",
     "md5_10": "0f6be30955",
     "md5_10_upper": "0F6BE30955",
+    "oomp_word": "sparkles chestnut rowboat",
+    "oomp_word_list": [
+        "sparkles",
+        "chestnut",
+        "rowboat"
+    ],
+    "oomp_word_emoji": ":sparkles: :chestnut: :rowboat:",
+    "oomp_word_emoji_list": [
+        ":sparkles:",
+        ":chestnut:",
+        ":rowboat:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "37",

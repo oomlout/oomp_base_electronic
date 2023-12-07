@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "4PN1Y",
     "md5_10": "78c4f660df",
     "md5_10_upper": "78C4F660DF",
+    "oomp_word": "bell cookie five",
+    "oomp_word_list": [
+        "bell",
+        "cookie",
+        "five"
+    ],
+    "oomp_word_emoji": ":bell: :cookie: :five:",
+    "oomp_word_emoji_list": [
+        ":bell:",
+        ":cookie:",
+        ":five:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "8200000",

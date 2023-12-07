@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "3M4YB",
     "md5_10": "5ca593d159",
     "md5_10_upper": "5CA593D159",
+    "oomp_word": "ox headphones books",
+    "oomp_word_list": [
+        "ox",
+        "headphones",
+        "books"
+    ],
+    "oomp_word_emoji": ":ox: :headphones: :books:",
+    "oomp_word_emoji_list": [
+        ":ox:",
+        ":headphones:",
+        ":books:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "330",

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "794Y",
     "md5_10": "052a02967b",
     "md5_10_upper": "052A02967B",
+    "oomp_word": "kissing umbrella blush",
+    "oomp_word_list": [
+        "kissing",
+        "umbrella",
+        "blush"
+    ],
+    "oomp_word_emoji": ":kissing: :umbrella: :blush:",
+    "oomp_word_emoji_list": [
+        ":kissing:",
+        ":umbrella:",
+        ":blush:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "680000",

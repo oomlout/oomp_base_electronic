@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "9ZCS7",
     "md5_10": "ffd4779a34",
     "md5_10_upper": "FFD4779A34",
+    "oomp_word": "trident corn gift",
+    "oomp_word_list": [
+        "trident",
+        "corn",
+        "gift"
+    ],
+    "oomp_word_emoji": ":trident: :corn: :gift:",
+    "oomp_word_emoji_list": [
+        ":trident:",
+        ":corn:",
+        ":gift:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "39",

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "56DDN",
     "md5_10": "84ae3b7d32",
     "md5_10_upper": "84AE3B7D32",
+    "oomp_word": "key jeans bear",
+    "oomp_word_list": [
+        "key",
+        "jeans",
+        "bear"
+    ],
+    "oomp_word_emoji": ":key: :jeans: :bear:",
+    "oomp_word_emoji_list": [
+        ":key:",
+        ":jeans:",
+        ":bear:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "150",

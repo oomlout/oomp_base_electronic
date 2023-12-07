@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "5WQDW",
     "md5_10": "977294d44a",
     "md5_10_upper": "977294D44A",
+    "oomp_word": "baseball dolls microscope",
+    "oomp_word_list": [
+        "baseball",
+        "dolls",
+        "microscope"
+    ],
+    "oomp_word_emoji": ":baseball: :dolls: :microscope:",
+    "oomp_word_emoji_list": [
+        ":baseball:",
+        ":dolls:",
+        ":microscope:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2918",

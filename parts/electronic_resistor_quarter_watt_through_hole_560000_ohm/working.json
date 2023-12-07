@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7ZGL1",
     "md5_10": "cca5b55a48",
     "md5_10_upper": "CCA5B55A48",
+    "oomp_word": "watermelon headphones tea",
+    "oomp_word_list": [
+        "watermelon",
+        "headphones",
+        "tea"
+    ],
+    "oomp_word_emoji": ":watermelon: :headphones: :tea:",
+    "oomp_word_emoji_list": [
+        ":watermelon:",
+        ":headphones:",
+        ":tea:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "560000",

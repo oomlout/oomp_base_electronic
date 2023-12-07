@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "2R87L",
     "md5_10": "46a451f2b4",
     "md5_10_upper": "46A451F2B4",
+    "oomp_word": "bird book snail",
+    "oomp_word_list": [
+        "bird",
+        "book",
+        "snail"
+    ],
+    "oomp_word_emoji": ":bird: :book: :snail:",
+    "oomp_word_emoji_list": [
+        ":bird:",
+        ":book:",
+        ":snail:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "27",

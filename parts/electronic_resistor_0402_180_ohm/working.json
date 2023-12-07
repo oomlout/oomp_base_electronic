@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "4VI0S",
     "md5_10": "7cf0fca36f",
     "md5_10_upper": "7CF0FCA36F",
+    "oomp_word": "tv train up",
+    "oomp_word_list": [
+        "tv",
+        "train",
+        "up"
+    ],
+    "oomp_word_emoji": ":tv: :train: :up:",
+    "oomp_word_emoji_list": [
+        ":tv:",
+        ":train:",
+        ":up:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "180",

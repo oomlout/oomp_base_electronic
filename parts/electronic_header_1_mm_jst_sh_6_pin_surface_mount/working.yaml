@@ -60,6 +60,16 @@ name_no_size: 6 Pin Surface Mount
 name_no_size_short: 6 Pin Surface Mount
 name_no_type: 1 Mm Jst Sh 6 Pin Surface Mount
 oomp_key: oomp_electronic_header_1_mm_jst_sh_6_pin_surface_mount
+oomp_word: poodle tulip envelope
+oomp_word_emoji: ':poodle: :tulip: :envelope:'
+oomp_word_emoji_list:
+- ':poodle:'
+- ':tulip:'
+- ':envelope:'
+oomp_word_list:
+- poodle
+- tulip
+- envelope
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

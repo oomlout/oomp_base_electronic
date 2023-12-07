@@ -95,6 +95,16 @@ name_no_size: 2200 Ohm
 name_no_size_short: 2k2 Ohm
 name_no_type: 1206 2200 Ohm
 oomp_key: oomp_electronic_resistor_1206_2200_ohm
+oomp_word: rainbow anchor rooster
+oomp_word_emoji: ':rainbow: :anchor: :rooster:'
+oomp_word_emoji_list:
+- ':rainbow:'
+- ':anchor:'
+- ':rooster:'
+oomp_word_list:
+- rainbow
+- anchor
+- rooster
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

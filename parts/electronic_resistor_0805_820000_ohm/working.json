@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "2QMAU",
     "md5_10": "4635666bfc",
     "md5_10_upper": "4635666BFC",
+    "oomp_word": "bird hamster leaves",
+    "oomp_word_list": [
+        "bird",
+        "hamster",
+        "leaves"
+    ],
+    "oomp_word_emoji": ":bird: :hamster: :leaves:",
+    "oomp_word_emoji_list": [
+        ":bird:",
+        ":hamster:",
+        ":leaves:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "820000",

@@ -95,6 +95,16 @@ name_no_size: 56 Ohm
 name_no_size_short: 56 Ohm
 name_no_type: 0805 56 Ohm
 oomp_key: oomp_electronic_resistor_0805_56_ohm
+oomp_word: three sunny boat
+oomp_word_emoji: ':three: :sunny: :boat:'
+oomp_word_emoji_list:
+- ':three:'
+- ':sunny:'
+- ':boat:'
+oomp_word_list:
+- three
+- sunny
+- boat
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

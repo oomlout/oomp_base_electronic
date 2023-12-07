@@ -209,6 +209,18 @@
     "md5_6_alpha_upper": "L3D7",
     "md5_10": "0f044b55d7",
     "md5_10_upper": "0F044B55D7",
+    "oomp_word": "sparkles wink penguin",
+    "oomp_word_list": [
+        "sparkles",
+        "wink",
+        "penguin"
+    ],
+    "oomp_word_emoji": ":sparkles: :wink: :penguin:",
+    "oomp_word_emoji_list": [
+        ":sparkles:",
+        ":wink:",
+        ":penguin:"
+    ],
     "size_only_numbers": "28",
     "size_only_numbers_no_zeros": "28",
     "description_only_numbers": "168",

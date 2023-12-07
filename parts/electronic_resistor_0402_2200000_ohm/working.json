@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "4F1K6",
     "md5_10": "7139a645d7",
     "md5_10_upper": "7139A645D7",
+    "oomp_word": "bamboo tiger trumpet",
+    "oomp_word_list": [
+        "bamboo",
+        "tiger",
+        "trumpet"
+    ],
+    "oomp_word_emoji": ":bamboo: :tiger: :trumpet:",
+    "oomp_word_emoji_list": [
+        ":bamboo:",
+        ":tiger:",
+        ":trumpet:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "2200000",

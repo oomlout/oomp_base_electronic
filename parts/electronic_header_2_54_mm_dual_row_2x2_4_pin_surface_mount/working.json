@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "9K6RY",
     "md5_10": "f5084efc5f",
     "md5_10_upper": "F5084EFC5F",
+    "oomp_word": "four scream honeybee",
+    "oomp_word_list": [
+        "four",
+        "scream",
+        "honeybee"
+    ],
+    "oomp_word_emoji": ":four: :scream: :honeybee:",
+    "oomp_word_emoji_list": [
+        ":four:",
+        ":scream:",
+        ":honeybee:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "224",

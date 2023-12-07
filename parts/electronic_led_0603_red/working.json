@@ -92,6 +92,18 @@
     "md5_6_alpha_upper": "1GG0H",
     "md5_10": "255611ec85",
     "md5_10_upper": "255611EC85",
+    "oomp_word": "ear ram dizzy",
+    "oomp_word_list": [
+        "ear",
+        "ram",
+        "dizzy"
+    ],
+    "oomp_word_emoji": ":ear: :ram: :dizzy:",
+    "oomp_word_emoji_list": [
+        ":ear:",
+        ":ram:",
+        ":dizzy:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "",

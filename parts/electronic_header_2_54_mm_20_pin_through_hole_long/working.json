@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6YT7U",
     "md5_10": "b28e6a7593",
     "md5_10_upper": "B28E6A7593",
+    "oomp_word": "handbag clipboard palm_tree",
+    "oomp_word_list": [
+        "handbag",
+        "clipboard",
+        "palm_tree"
+    ],
+    "oomp_word_emoji": ":handbag: :clipboard: :palm_tree:",
+    "oomp_word_emoji_list": [
+        ":handbag:",
+        ":clipboard:",
+        ":palm_tree:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "20",

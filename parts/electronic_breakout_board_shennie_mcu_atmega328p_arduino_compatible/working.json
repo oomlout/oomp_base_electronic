@@ -220,6 +220,18 @@
     "md5_6_alpha_upper": "6GQAN",
     "md5_10": "a5af1f0cbe",
     "md5_10_upper": "A5AF1F0CBE",
+    "oomp_word": "headphones tophat princess",
+    "oomp_word_list": [
+        "headphones",
+        "tophat",
+        "princess"
+    ],
+    "oomp_word_emoji": ":headphones: :tophat: :princess:",
+    "oomp_word_emoji_list": [
+        ":headphones:",
+        ":tophat:",
+        ":princess:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "328",

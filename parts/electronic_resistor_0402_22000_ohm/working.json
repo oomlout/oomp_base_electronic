@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "4KCCH",
     "md5_10": "74ff819e3d",
     "md5_10_upper": "74FF819E3D",
+    "oomp_word": "fireworks trident watch",
+    "oomp_word_list": [
+        "fireworks",
+        "trident",
+        "watch"
+    ],
+    "oomp_word_emoji": ":fireworks: :trident: :watch:",
+    "oomp_word_emoji_list": [
+        ":fireworks:",
+        ":trident:",
+        ":watch:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "22000",

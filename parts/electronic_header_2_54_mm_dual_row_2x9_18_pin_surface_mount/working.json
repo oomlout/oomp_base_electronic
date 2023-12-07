@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "1MVE5",
     "md5_10": "29e96dbde7",
     "md5_10_upper": "29E96DBDE7",
+    "oomp_word": "sunny bike shell",
+    "oomp_word_list": [
+        "sunny",
+        "bike",
+        "shell"
+    ],
+    "oomp_word_emoji": ":sunny: :bike: :shell:",
+    "oomp_word_emoji_list": [
+        ":sunny:",
+        ":bike:",
+        ":shell:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2918",

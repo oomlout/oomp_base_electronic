@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "8PMKO",
     "md5_10": "df4688df99",
     "md5_10_upper": "DF4688DF99",
+    "oomp_word": "fountain bird wrench",
+    "oomp_word_list": [
+        "fountain",
+        "bird",
+        "wrench"
+    ],
+    "oomp_word_emoji": ":fountain: :bird: :wrench:",
+    "oomp_word_emoji_list": [
+        ":fountain:",
+        ":bird:",
+        ":wrench:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "5",

@@ -70,6 +70,16 @@ name_no_size: Surface Mount Single Pole Double Throw
 name_no_size_short: Surface Mount Single Pole Double Throw
 name_no_type: 2 54 Header Surface Mount Single Pole Double Throw
 oomp_key: oomp_electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
+oomp_word: wink mushroom rose
+oomp_word_emoji: ':wink: :mushroom: :rose:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':mushroom:'
+- ':rose:'
+oomp_word_list:
+- wink
+- mushroom
+- rose
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -60,6 +60,16 @@ name_no_size: 9 Pin Surface Mount
 name_no_size_short: 9 Pin Surface Mount
 name_no_type: 1 Mm Jst Sh 9 Pin Surface Mount
 oomp_key: oomp_electronic_header_1_mm_jst_sh_9_pin_surface_mount
+oomp_word: dog paperclip melon
+oomp_word_emoji: ':dog: :paperclip: :melon:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':paperclip:'
+- ':melon:'
+oomp_word_list:
+- dog
+- paperclip
+- melon
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

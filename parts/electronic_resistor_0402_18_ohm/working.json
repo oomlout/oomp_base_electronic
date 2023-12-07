@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "6MLPW",
     "md5_10": "a9dd7411b9",
     "md5_10_upper": "A9DD7411B9",
+    "oomp_word": "sandal stars fireworks",
+    "oomp_word_list": [
+        "sandal",
+        "stars",
+        "fireworks"
+    ],
+    "oomp_word_emoji": ":sandal: :stars: :fireworks:",
+    "oomp_word_emoji_list": [
+        ":sandal:",
+        ":stars:",
+        ":fireworks:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "18",

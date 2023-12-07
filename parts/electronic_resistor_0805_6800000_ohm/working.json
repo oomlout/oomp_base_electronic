@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "6SRDU",
     "md5_10": "ae3fa2ba5c",
     "md5_10_upper": "AE3FA2BA5C",
+    "oomp_word": "jeans horse violin",
+    "oomp_word_list": [
+        "jeans",
+        "horse",
+        "violin"
+    ],
+    "oomp_word_emoji": ":jeans: :horse: :violin:",
+    "oomp_word_emoji_list": [
+        ":jeans:",
+        ":horse:",
+        ":violin:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "6800000",

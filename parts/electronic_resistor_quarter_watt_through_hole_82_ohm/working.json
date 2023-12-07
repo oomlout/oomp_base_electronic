@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "21HHW",
     "md5_10": "3450d47bda",
     "md5_10_upper": "3450D47BDA",
+    "oomp_word": "mouse beetle corn",
+    "oomp_word_list": [
+        "mouse",
+        "beetle",
+        "corn"
+    ],
+    "oomp_word_emoji": ":mouse: :beetle: :corn:",
+    "oomp_word_emoji_list": [
+        ":mouse:",
+        ":beetle:",
+        ":corn:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "82",

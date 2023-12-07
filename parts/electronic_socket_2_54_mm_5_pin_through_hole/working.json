@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "UNLS",
     "md5_10": "15d30073e8",
     "md5_10_upper": "15D30073E8",
+    "oomp_word": "poop tomato bowtie",
+    "oomp_word_list": [
+        "poop",
+        "tomato",
+        "bowtie"
+    ],
+    "oomp_word_emoji": ":poop: :tomato: :bowtie:",
+    "oomp_word_emoji_list": [
+        ":poop:",
+        ":tomato:",
+        ":bowtie:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "5",

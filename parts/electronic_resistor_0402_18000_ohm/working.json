@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "54L1I",
     "md5_10": "836886f54c",
     "md5_10_upper": "836886F54C",
+    "oomp_word": "lock mushroom bath",
+    "oomp_word_list": [
+        "lock",
+        "mushroom",
+        "bath"
+    ],
+    "oomp_word_emoji": ":lock: :mushroom: :bath:",
+    "oomp_word_emoji_list": [
+        ":lock:",
+        ":mushroom:",
+        ":bath:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "18000",

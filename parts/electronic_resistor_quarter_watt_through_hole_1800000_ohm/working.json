@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1J935",
     "md5_10": "2755c185c3",
     "md5_10_upper": "2755C185C3",
+    "oomp_word": "nose dolphin doughnut",
+    "oomp_word_list": [
+        "nose",
+        "dolphin",
+        "doughnut"
+    ],
+    "oomp_word_emoji": ":nose: :dolphin: :doughnut:",
+    "oomp_word_emoji_list": [
+        ":nose:",
+        ":dolphin:",
+        ":doughnut:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "1800000",

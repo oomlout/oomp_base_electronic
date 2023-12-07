@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "9GDBC",
     "md5_10": "f2506803f1",
     "md5_10_upper": "F2506803F1",
+    "oomp_word": "one beetle mushroom",
+    "oomp_word_list": [
+        "one",
+        "beetle",
+        "mushroom"
+    ],
+    "oomp_word_emoji": ":one: :beetle: :mushroom:",
+    "oomp_word_emoji_list": [
+        ":one:",
+        ":beetle:",
+        ":mushroom:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "23",

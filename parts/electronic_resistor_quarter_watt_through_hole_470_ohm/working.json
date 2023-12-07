@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2YAQ6",
     "md5_10": "4bacced02d",
     "md5_10_upper": "4BACCED02D",
+    "oomp_word": "penguin shirt peach",
+    "oomp_word_list": [
+        "penguin",
+        "shirt",
+        "peach"
+    ],
+    "oomp_word_emoji": ":penguin: :shirt: :peach:",
+    "oomp_word_emoji_list": [
+        ":penguin:",
+        ":shirt:",
+        ":peach:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "470",

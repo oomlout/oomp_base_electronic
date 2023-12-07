@@ -95,6 +95,16 @@ name_no_size: 220 Ohm
 name_no_size_short: 220 Ohm
 name_no_type: 1206 220 Ohm
 oomp_key: oomp_electronic_resistor_1206_220_ohm
+oomp_word: snake spades two
+oomp_word_emoji: ':snake: :spades: :two:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':spades:'
+- ':two:'
+oomp_word_list:
+- snake
+- spades
+- two
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

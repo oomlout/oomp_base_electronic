@@ -60,6 +60,16 @@ name_no_size: 2X14 28 Pin Surface Mount
 name_no_size_short: 2X14 28 Pin Surface Mount
 name_no_type: 2 54 Mm Dual Row 2X14 28 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x14_28_pin_surface_mount
+oomp_word: blowfish trophy sleeping
+oomp_word_emoji: ':blowfish: :trophy: :sleeping:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':trophy:'
+- ':sleeping:'
+oomp_word_list:
+- blowfish
+- trophy
+- sleeping
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -67,6 +67,16 @@ name_no_size: White
 name_no_size_short: White
 name_no_type: 1206 White
 oomp_key: oomp_electronic_led_1206_white
+oomp_word: goat airplane house
+oomp_word_emoji: ':goat: :airplane: :house:'
+oomp_word_emoji_list:
+- ':goat:'
+- ':airplane:'
+- ':house:'
+oomp_word_list:
+- goat
+- airplane
+- house
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

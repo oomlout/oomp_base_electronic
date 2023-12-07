@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "90IBZ",
     "md5_10": "e705cf7eb7",
     "md5_10_upper": "E705CF7EB7",
+    "oomp_word": "helicopter kissing melon",
+    "oomp_word_list": [
+        "helicopter",
+        "kissing",
+        "melon"
+    ],
+    "oomp_word_emoji": ":helicopter: :kissing: :melon:",
+    "oomp_word_emoji_list": [
+        ":helicopter:",
+        ":kissing:",
+        ":melon:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "15",

@@ -67,6 +67,16 @@ name_no_size: 1200000 Ohm
 name_no_size_short: 1M2 Ohm
 name_no_type: 1206 1200000 Ohm
 oomp_key: oomp_electronic_resistor_1206_1200000_ohm
+oomp_word: pray boot dolphin
+oomp_word_emoji: ':pray: :boot: :dolphin:'
+oomp_word_emoji_list:
+- ':pray:'
+- ':boot:'
+- ':dolphin:'
+oomp_word_list:
+- pray
+- boot
+- dolphin
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

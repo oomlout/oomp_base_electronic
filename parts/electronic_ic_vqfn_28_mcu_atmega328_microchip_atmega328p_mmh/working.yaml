@@ -64,6 +64,16 @@ name_no_size: Mcu Atmega328 Microchip Atmega328P Mmh
 name_no_size_short: Mcu Atmega328 Microchip Atmega328P Mmh
 name_no_type: Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh
 oomp_key: oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+oomp_word: ox angel tiger
+oomp_word_emoji: ':ox: :angel: :tiger:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':angel:'
+- ':tiger:'
+oomp_word_list:
+- ox
+- angel
+- tiger
 part_number: atmega328p_mmh
 part_number_capital: Atmega328P mmh
 part_number_first_letter: a

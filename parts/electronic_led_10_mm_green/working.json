@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "3PZXH",
     "md5_10": "5f6525ecaf",
     "md5_10_upper": "5F6525ECAF",
+    "oomp_word": "leopard maple_leaf ear",
+    "oomp_word_list": [
+        "leopard",
+        "maple_leaf",
+        "ear"
+    ],
+    "oomp_word_emoji": ":leopard: :maple_leaf: :ear:",
+    "oomp_word_emoji_list": [
+        ":leopard:",
+        ":maple_leaf:",
+        ":ear:"
+    ],
     "size_only_numbers": "10",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "",

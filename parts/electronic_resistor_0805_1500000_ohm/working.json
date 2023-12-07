@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "3LQMG",
     "md5_10": "5c5d081aca",
     "md5_10_upper": "5C5D081ACA",
+    "oomp_word": "ox blowfish scream",
+    "oomp_word_list": [
+        "ox",
+        "blowfish",
+        "scream"
+    ],
+    "oomp_word_emoji": ":ox: :blowfish: :scream:",
+    "oomp_word_emoji_list": [
+        ":ox:",
+        ":blowfish:",
+        ":scream:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "1500000",

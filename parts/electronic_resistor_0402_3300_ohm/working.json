@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "9VBJY",
     "md5_10": "fcf53e6757",
     "md5_10_upper": "FCF53E6757",
+    "oomp_word": "up four monkey",
+    "oomp_word_list": [
+        "up",
+        "four",
+        "monkey"
+    ],
+    "oomp_word_emoji": ":up: :four: :monkey:",
+    "oomp_word_emoji_list": [
+        ":up:",
+        ":four:",
+        ":monkey:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "3300",

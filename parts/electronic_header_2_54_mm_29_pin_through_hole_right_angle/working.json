@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "2X670",
     "md5_10": "4adf9c4c7c",
     "md5_10_upper": "4ADF9C4C7C",
+    "oomp_word": "chicken fountain spades",
+    "oomp_word_list": [
+        "chicken",
+        "fountain",
+        "spades"
+    ],
+    "oomp_word_emoji": ":chicken: :fountain: :spades:",
+    "oomp_word_emoji_list": [
+        ":chicken:",
+        ":fountain:",
+        ":spades:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "29",

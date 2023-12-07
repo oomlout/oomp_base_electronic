@@ -64,6 +64,16 @@ name_no_size: 21 Pin Through Hole Short
 name_no_size_short: 21 Pin Through Hole Short
 name_no_type: 2 54 Mm 21 Pin Through Hole Short
 oomp_key: oomp_electronic_header_2_54_mm_21_pin_through_hole_short
+oomp_word: hamburger princess boot
+oomp_word_emoji: ':hamburger: :princess: :boot:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':princess:'
+- ':boot:'
+oomp_word_list:
+- hamburger
+- princess
+- boot
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -54,6 +54,16 @@ name_no_size: 25 Pin Through Hole Long
 name_no_size_short: 25 Pin Through Hole Long
 name_no_type: 2 54 Mm 25 Pin Through Hole Long
 oomp_key: oomp_electronic_socket_2_54_mm_25_pin_through_hole_long
+oomp_word: crocodile chicken tennis
+oomp_word_emoji: ':crocodile: :chicken: :tennis:'
+oomp_word_emoji_list:
+- ':crocodile:'
+- ':chicken:'
+- ':tennis:'
+oomp_word_list:
+- crocodile
+- chicken
+- tennis
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

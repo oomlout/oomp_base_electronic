@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6DF6M",
     "md5_10": "a3541e68b4",
     "md5_10_upper": "A3541E68B4",
+    "oomp_word": "pencil whale angel",
+    "oomp_word_list": [
+        "pencil",
+        "whale",
+        "angel"
+    ],
+    "oomp_word_emoji": ":pencil: :whale: :angel:",
+    "oomp_word_emoji_list": [
+        ":pencil:",
+        ":whale:",
+        ":angel:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "7",

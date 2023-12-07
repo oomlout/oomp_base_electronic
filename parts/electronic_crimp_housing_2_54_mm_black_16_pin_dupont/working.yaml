@@ -54,6 +54,16 @@ name_no_size: Black 16 Pin Dupont
 name_no_size_short: Black 16 Pin Dupont
 name_no_type: 2 54 Mm Black 16 Pin Dupont
 oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_16_pin_dupont
+oomp_word: wink six tulip
+oomp_word_emoji: ':wink: :six: :tulip:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':six:'
+- ':tulip:'
+oomp_word_list:
+- wink
+- six
+- tulip
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

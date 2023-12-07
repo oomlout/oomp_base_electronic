@@ -95,6 +95,16 @@ name_no_size: 3300 Ohm
 name_no_size_short: 3k3 Ohm
 name_no_type: 0805 3300 Ohm
 oomp_key: oomp_electronic_resistor_0805_3300_ohm
+oomp_word: crocodile tv snail
+oomp_word_emoji: ':crocodile: :tv: :snail:'
+oomp_word_emoji_list:
+- ':crocodile:'
+- ':tv:'
+- ':snail:'
+oomp_word_list:
+- crocodile
+- tv
+- snail
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "1CBHH",
     "md5_10": "2266258b19",
     "md5_10_upper": "2266258B19",
+    "oomp_word": "lips leaves ear",
+    "oomp_word_list": [
+        "lips",
+        "leaves",
+        "ear"
+    ],
+    "oomp_word_emoji": ":lips: :leaves: :ear:",
+    "oomp_word_emoji_list": [
+        ":lips:",
+        ":leaves:",
+        ":ear:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "13",

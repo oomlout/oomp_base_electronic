@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "45R12",
     "md5_10": "6a9c168866",
     "md5_10_upper": "6A9C168866",
+    "oomp_word": "palm_tree spades thumbsup",
+    "oomp_word_list": [
+        "palm_tree",
+        "spades",
+        "thumbsup"
+    ],
+    "oomp_word_emoji": ":palm_tree: :spades: :thumbsup:",
+    "oomp_word_emoji_list": [
+        ":palm_tree:",
+        ":spades:",
+        ":thumbsup:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "120",

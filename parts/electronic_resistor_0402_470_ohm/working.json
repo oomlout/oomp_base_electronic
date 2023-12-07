@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "21J2M",
     "md5_10": "3458cec1d0",
     "md5_10_upper": "3458CEC1D0",
+    "oomp_word": "mouse water_buffalo peach",
+    "oomp_word_list": [
+        "mouse",
+        "water_buffalo",
+        "peach"
+    ],
+    "oomp_word_emoji": ":mouse: :water_buffalo: :peach:",
+    "oomp_word_emoji_list": [
+        ":mouse:",
+        ":water_buffalo:",
+        ":peach:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "470",

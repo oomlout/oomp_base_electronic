@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2Y9M6",
     "md5_10": "4ba72e7781",
     "md5_10_upper": "4BA72E7781",
+    "oomp_word": "penguin guitar zap",
+    "oomp_word_list": [
+        "penguin",
+        "guitar",
+        "zap"
+    ],
+    "oomp_word_emoji": ":penguin: :guitar: :zap:",
+    "oomp_word_emoji_list": [
+        ":penguin:",
+        ":guitar:",
+        ":zap:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "82000",

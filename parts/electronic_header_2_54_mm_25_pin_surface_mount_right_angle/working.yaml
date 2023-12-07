@@ -64,6 +64,16 @@ name_no_size: 25 Pin Surface Mount Right Angle
 name_no_size_short: 25 Pin Surface Mount Right Angle
 name_no_type: 2 54 Mm 25 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_2_54_mm_25_pin_surface_mount_right_angle
+oomp_word: seven calendar speaker
+oomp_word_emoji: ':seven: :calendar: :speaker:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':calendar:'
+- ':speaker:'
+oomp_word_list:
+- seven
+- calendar
+- speaker
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "2TXTR",
     "md5_10": "48927fe0aa",
     "md5_10_upper": "48927FE0AA",
+    "oomp_word": "hatched_chick paperclip speaker",
+    "oomp_word_list": [
+        "hatched_chick",
+        "paperclip",
+        "speaker"
+    ],
+    "oomp_word_emoji": ":hatched_chick: :paperclip: :speaker:",
+    "oomp_word_emoji_list": [
+        ":hatched_chick:",
+        ":paperclip:",
+        ":speaker:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "20",

@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "5XKSG",
     "md5_10": "980c8083e7",
     "md5_10_upper": "980C8083E7",
+    "oomp_word": "tennis alien hourglass",
+    "oomp_word_list": [
+        "tennis",
+        "alien",
+        "hourglass"
+    ],
+    "oomp_word_emoji": ":tennis: :alien: :hourglass:",
+    "oomp_word_emoji_list": [
+        ":tennis:",
+        ":alien:",
+        ":hourglass:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "",

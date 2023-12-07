@@ -95,6 +95,16 @@ name_no_size: 120 Ohm
 name_no_size_short: 120 Ohm
 name_no_type: 0603 120 Ohm
 oomp_key: oomp_electronic_resistor_0603_120_ohm
+oomp_word: radio water_buffalo tongue
+oomp_word_emoji: ':radio: :water_buffalo: :tongue:'
+oomp_word_emoji_list:
+- ':radio:'
+- ':water_buffalo:'
+- ':tongue:'
+oomp_word_list:
+- radio
+- water_buffalo
+- tongue
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

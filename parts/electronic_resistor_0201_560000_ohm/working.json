@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "822CE",
     "md5_10": "ce805e1e57",
     "md5_10_upper": "CE805E1E57",
+    "oomp_word": "peach hourglass crocodile",
+    "oomp_word_list": [
+        "peach",
+        "hourglass",
+        "crocodile"
+    ],
+    "oomp_word_emoji": ":peach: :hourglass: :crocodile:",
+    "oomp_word_emoji_list": [
+        ":peach:",
+        ":hourglass:",
+        ":crocodile:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "560000",

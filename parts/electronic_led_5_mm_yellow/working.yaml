@@ -67,6 +67,16 @@ name_no_size: Yellow
 name_no_size_short: Yellow
 name_no_type: 5 Mm Yellow
 oomp_key: oomp_electronic_led_5_mm_yellow
+oomp_word: santa pushpin apple
+oomp_word_emoji: ':santa: :pushpin: :apple:'
+oomp_word_emoji_list:
+- ':santa:'
+- ':pushpin:'
+- ':apple:'
+oomp_word_list:
+- santa
+- pushpin
+- apple
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "6F3XT",
     "md5_10": "a487b1d102",
     "md5_10_upper": "A487B1D102",
+    "oomp_word": "book toilet briefcase",
+    "oomp_word_list": [
+        "book",
+        "toilet",
+        "briefcase"
+    ],
+    "oomp_word_emoji": ":book: :toilet: :briefcase:",
+    "oomp_word_emoji_list": [
+        ":book:",
+        ":toilet:",
+        ":briefcase:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "39",

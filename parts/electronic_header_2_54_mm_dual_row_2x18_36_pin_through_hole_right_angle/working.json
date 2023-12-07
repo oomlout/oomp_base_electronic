@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "36Q3A",
     "md5_10": "51ac96f010",
     "md5_10_upper": "51AC96F010",
+    "oomp_word": "snail shirt basketball",
+    "oomp_word_list": [
+        "snail",
+        "shirt",
+        "basketball"
+    ],
+    "oomp_word_emoji": ":snail: :shirt: :basketball:",
+    "oomp_word_emoji_list": [
+        ":snail:",
+        ":shirt:",
+        ":basketball:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21836",

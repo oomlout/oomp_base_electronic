@@ -67,6 +67,16 @@ name_no_size: Yellow
 name_no_size_short: Yellow
 name_no_type: 0805 Yellow
 oomp_key: oomp_electronic_led_0805_yellow
+oomp_word: ox toilet dress
+oomp_word_emoji: ':ox: :toilet: :dress:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':toilet:'
+- ':dress:'
+oomp_word_list:
+- ox
+- toilet
+- dress
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

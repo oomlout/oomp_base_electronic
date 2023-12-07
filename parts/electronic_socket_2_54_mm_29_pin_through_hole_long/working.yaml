@@ -54,6 +54,16 @@ name_no_size: 29 Pin Through Hole Long
 name_no_size_short: 29 Pin Through Hole Long
 name_no_type: 2 54 Mm 29 Pin Through Hole Long
 oomp_key: oomp_electronic_socket_2_54_mm_29_pin_through_hole_long
+oomp_word: blush rose car
+oomp_word_emoji: ':blush: :rose: :car:'
+oomp_word_emoji_list:
+- ':blush:'
+- ':rose:'
+- ':car:'
+oomp_word_list:
+- blush
+- rose
+- car
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

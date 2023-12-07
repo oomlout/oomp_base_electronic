@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "8AWZE",
     "md5_10": "d4cd7a272e",
     "md5_10_upper": "D4CD7A272E",
+    "oomp_word": "corn strawberry camera",
+    "oomp_word_list": [
+        "corn",
+        "strawberry",
+        "camera"
+    ],
+    "oomp_word_emoji": ":corn: :strawberry: :camera:",
+    "oomp_word_emoji_list": [
+        ":corn:",
+        ":strawberry:",
+        ":camera:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "1200",

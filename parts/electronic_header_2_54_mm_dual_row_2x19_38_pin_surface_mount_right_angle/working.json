@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "1TN13",
     "md5_10": "2ebad7f376",
     "md5_10_upper": "2EBAD7F376",
+    "oomp_word": "zap spaghetti office",
+    "oomp_word_list": [
+        "zap",
+        "spaghetti",
+        "office"
+    ],
+    "oomp_word_emoji": ":zap: :spaghetti: :office:",
+    "oomp_word_emoji_list": [
+        ":zap:",
+        ":spaghetti:",
+        ":office:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21938",

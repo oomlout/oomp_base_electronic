@@ -95,6 +95,16 @@ name_no_size: 56 Ohm
 name_no_size_short: 56 Ohm
 name_no_type: 1206 56 Ohm
 oomp_key: oomp_electronic_resistor_1206_56_ohm
+oomp_word: sandal chicken foggy
+oomp_word_emoji: ':sandal: :chicken: :foggy:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':chicken:'
+- ':foggy:'
+oomp_word_list:
+- sandal
+- chicken
+- foggy
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

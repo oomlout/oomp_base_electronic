@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "WCQ0",
     "md5_10": "170868022b",
     "md5_10_upper": "170868022B",
+    "oomp_word": "thumbsdown scream mushroom",
+    "oomp_word_list": [
+        "thumbsdown",
+        "scream",
+        "mushroom"
+    ],
+    "oomp_word_emoji": ":thumbsdown: :scream: :mushroom:",
+    "oomp_word_emoji_list": [
+        ":thumbsdown:",
+        ":scream:",
+        ":mushroom:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "7500000",

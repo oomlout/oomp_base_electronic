@@ -99,6 +99,18 @@
     "md5_6_alpha_upper": "9VJ7F",
     "md5_10": "fd1bfba95e",
     "md5_10_upper": "FD1BFBA95E",
+    "oomp_word": "parking muscle ok",
+    "oomp_word_list": [
+        "parking",
+        "muscle",
+        "ok"
+    ],
+    "oomp_word_emoji": ":parking: :muscle: :ok:",
+    "oomp_word_emoji_list": [
+        ":parking:",
+        ":muscle:",
+        ":ok:"
+    ],
     "size_only_numbers": "123",
     "size_only_numbers_no_zeros": "123",
     "description_only_numbers": "",

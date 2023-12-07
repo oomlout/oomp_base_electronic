@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "5M9TE",
     "md5_10": "9000327606",
     "md5_10_upper": "9000327606",
+    "oomp_word": "scissors bowtie cat",
+    "oomp_word_list": [
+        "scissors",
+        "bowtie",
+        "cat"
+    ],
+    "oomp_word_emoji": ":scissors: :bowtie: :cat:",
+    "oomp_word_emoji_list": [
+        ":scissors:",
+        ":bowtie:",
+        ":cat:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "4700000",

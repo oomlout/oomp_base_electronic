@@ -67,6 +67,16 @@ name_no_size_short: Mcu Espressif Esp32
 name_no_type: Devkitc Mcu Espressif Esp32
 notes: []
 oomp_key: oomp_electronic_breakout_board_devkitc_mcu_espressif_esp32
+oomp_word: thumbsup rowboat scroll
+oomp_word_emoji: ':thumbsup: :rowboat: :scroll:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':rowboat:'
+- ':scroll:'
+oomp_word_list:
+- thumbsup
+- rowboat
+- scroll
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

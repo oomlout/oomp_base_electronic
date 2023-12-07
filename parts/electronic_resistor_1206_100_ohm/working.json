@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "4X25",
     "md5_10": "03805d2b3c",
     "md5_10_upper": "03805D2B3C",
+    "oomp_word": "grin hourglass blowfish",
+    "oomp_word_list": [
+        "grin",
+        "hourglass",
+        "blowfish"
+    ],
+    "oomp_word_emoji": ":grin: :hourglass: :blowfish:",
+    "oomp_word_emoji_list": [
+        ":grin:",
+        ":hourglass:",
+        ":blowfish:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "100",

@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "9CWT6",
     "md5_10": "efda1af986",
     "md5_10_upper": "EFDA1AF986",
+    "oomp_word": "truck hotel clap",
+    "oomp_word_list": [
+        "truck",
+        "hotel",
+        "clap"
+    ],
+    "oomp_word_emoji": ":truck: :hotel: :clap:",
+    "oomp_word_emoji_list": [
+        ":truck:",
+        ":hotel:",
+        ":clap:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21938",

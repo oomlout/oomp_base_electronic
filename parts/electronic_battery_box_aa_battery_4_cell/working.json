@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "10DGK",
     "md5_10": "19e5242d3e",
     "md5_10_upper": "19E5242D3E",
+    "oomp_word": "pray rocket droplet",
+    "oomp_word_list": [
+        "pray",
+        "rocket",
+        "droplet"
+    ],
+    "oomp_word_emoji": ":pray: :rocket: :droplet:",
+    "oomp_word_emoji_list": [
+        ":pray:",
+        ":rocket:",
+        ":droplet:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "4",

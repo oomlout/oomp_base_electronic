@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "13CS5",
     "md5_10": "1c04753ab2",
     "md5_10_upper": "1C04753AB2",
+    "oomp_word": "dancer wink ghost",
+    "oomp_word_list": [
+        "dancer",
+        "wink",
+        "ghost"
+    ],
+    "oomp_word_emoji": ":dancer: :wink: :ghost:",
+    "oomp_word_emoji_list": [
+        ":dancer:",
+        ":wink:",
+        ":ghost:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "236",

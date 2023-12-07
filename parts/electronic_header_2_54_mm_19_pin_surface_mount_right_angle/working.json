@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "21M8Q",
     "md5_10": "3468da9646",
     "md5_10_upper": "3468DA9646",
+    "oomp_word": "mouse mushroom hotel",
+    "oomp_word_list": [
+        "mouse",
+        "mushroom",
+        "hotel"
+    ],
+    "oomp_word_emoji": ":mouse: :mushroom: :hotel:",
+    "oomp_word_emoji_list": [
+        ":mouse:",
+        ":mushroom:",
+        ":hotel:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "19",

@@ -54,6 +54,16 @@ name_no_size: 21 Pin Through Hole Long
 name_no_size_short: 21 Pin Through Hole Long
 name_no_type: 2 54 Mm 21 Pin Through Hole Long
 oomp_key: oomp_electronic_socket_2_54_mm_21_pin_through_hole_long
+oomp_word: hatched_chick cry shirt
+oomp_word_emoji: ':hatched_chick: :cry: :shirt:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':cry:'
+- ':shirt:'
+oomp_word_list:
+- hatched_chick
+- cry
+- shirt
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

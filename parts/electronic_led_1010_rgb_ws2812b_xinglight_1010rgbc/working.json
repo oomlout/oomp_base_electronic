@@ -90,6 +90,18 @@
     "md5_6_alpha_upper": "7UG67",
     "md5_10": "c9145fe9ed",
     "md5_10_upper": "C9145FE9ED",
+    "oomp_word": "lemon fire leopard",
+    "oomp_word_list": [
+        "lemon",
+        "fire",
+        "leopard"
+    ],
+    "oomp_word_emoji": ":lemon: :fire: :leopard:",
+    "oomp_word_emoji_list": [
+        ":lemon:",
+        ":fire:",
+        ":leopard:"
+    ],
     "size_only_numbers": "1010",
     "size_only_numbers_no_zeros": "11",
     "description_only_numbers": "2812",

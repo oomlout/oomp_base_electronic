@@ -78,6 +78,16 @@ name_no_size: Rgb Ws2812B Worldsemi Ws2812B B W
 name_no_size_short: Rgb Ws2k8B Worldsemi Ws2k8B B W
 name_no_type: 5050 Rgb Ws2812B Worldsemi Ws2812B B W
 oomp_key: oomp_electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+oomp_word: train bank ramen
+oomp_word_emoji: ':train: :bank: :ramen:'
+oomp_word_emoji_list:
+- ':train:'
+- ':bank:'
+- ':ramen:'
+oomp_word_list:
+- train
+- bank
+- ramen
 part_number: ws2812b_b_w
 part_number_capital: Ws2812B B W
 part_number_first_letter: w

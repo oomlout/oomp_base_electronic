@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "1WF1D",
     "md5_10": "30b5215bad",
     "md5_10_upper": "30B5215BAD",
+    "oomp_word": "foggy tea feet",
+    "oomp_word_list": [
+        "foggy",
+        "tea",
+        "feet"
+    ],
+    "oomp_word_emoji": ":foggy: :tea: :feet:",
+    "oomp_word_emoji_list": [
+        ":foggy:",
+        ":tea:",
+        ":feet:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2612",

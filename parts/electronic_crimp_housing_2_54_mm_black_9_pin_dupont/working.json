@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "6099W",
     "md5_10": "99f4f4f763",
     "md5_10_upper": "99F4F4F763",
+    "oomp_word": "bowling three three",
+    "oomp_word_list": [
+        "bowling",
+        "three",
+        "three"
+    ],
+    "oomp_word_emoji": ":bowling: :three: :three:",
+    "oomp_word_emoji_list": [
+        ":bowling:",
+        ":three:",
+        ":three:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "9",

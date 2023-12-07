@@ -95,6 +95,16 @@ name_no_size: 270 Ohm
 name_no_size_short: 270 Ohm
 name_no_type: 1206 270 Ohm
 oomp_key: oomp_electronic_resistor_1206_270_ohm
+oomp_word: fire bus pushpin
+oomp_word_emoji: ':fire: :bus: :pushpin:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':bus:'
+- ':pushpin:'
+oomp_word_list:
+- fire
+- bus
+- pushpin
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

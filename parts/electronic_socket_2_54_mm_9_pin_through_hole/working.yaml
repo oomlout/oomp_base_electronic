@@ -54,6 +54,16 @@ name_no_size: 9 Pin Through Hole
 name_no_size_short: 9 Pin Through Hole
 name_no_type: 2 54 Mm 9 Pin Through Hole
 oomp_key: oomp_electronic_socket_2_54_mm_9_pin_through_hole
+oomp_word: mouse clap anger
+oomp_word_emoji: ':mouse: :clap: :anger:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':clap:'
+- ':anger:'
+oomp_word_list:
+- mouse
+- clap
+- anger
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

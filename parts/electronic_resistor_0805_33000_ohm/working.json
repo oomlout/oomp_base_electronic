@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "82772",
     "md5_10": "ce98ee4036",
     "md5_10_upper": "CE98EE4036",
+    "oomp_word": "peach tennis ambulance",
+    "oomp_word_list": [
+        "peach",
+        "tennis",
+        "ambulance"
+    ],
+    "oomp_word_emoji": ":peach: :tennis: :ambulance:",
+    "oomp_word_emoji_list": [
+        ":peach:",
+        ":tennis:",
+        ":ambulance:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "33000",

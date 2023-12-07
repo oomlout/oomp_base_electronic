@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "1Y7U7",
     "md5_10": "31fd2fdb9c",
     "md5_10_upper": "31FD2FDB9C",
+    "oomp_word": "ocean parking cyclone",
+    "oomp_word_list": [
+        "ocean",
+        "parking",
+        "cyclone"
+    ],
+    "oomp_word_emoji": ":ocean: :parking: :cyclone:",
+    "oomp_word_emoji_list": [
+        ":ocean:",
+        ":parking:",
+        ":cyclone:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "3300000",

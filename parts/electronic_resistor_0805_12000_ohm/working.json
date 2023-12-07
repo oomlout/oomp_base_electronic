@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "4Q41W",
     "md5_10": "791b04924e",
     "md5_10_upper": "791B04924E",
+    "oomp_word": "balloon muscle wink",
+    "oomp_word_list": [
+        "balloon",
+        "muscle",
+        "wink"
+    ],
+    "oomp_word_emoji": ":balloon: :muscle: :wink:",
+    "oomp_word_emoji_list": [
+        ":balloon:",
+        ":muscle:",
+        ":wink:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "12000",

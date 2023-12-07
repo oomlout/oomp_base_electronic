@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "KE1Y",
     "md5_10": "0e84266708",
     "md5_10_upper": "0E84266708",
+    "oomp_word": "cupid key eyes",
+    "oomp_word_list": [
+        "cupid",
+        "key",
+        "eyes"
+    ],
+    "oomp_word_emoji": ":cupid: :key: :eyes:",
+    "oomp_word_emoji_list": [
+        ":cupid:",
+        ":key:",
+        ":eyes:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "33",

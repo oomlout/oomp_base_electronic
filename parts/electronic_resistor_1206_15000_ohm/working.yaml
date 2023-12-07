@@ -95,6 +95,16 @@ name_no_size: 15000 Ohm
 name_no_size_short: 15k Ohm
 name_no_type: 1206 15000 Ohm
 oomp_key: oomp_electronic_resistor_1206_15000_ohm
+oomp_word: tennis door new_moon
+oomp_word_emoji: ':tennis: :door: :new_moon:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':door:'
+- ':new_moon:'
+oomp_word_list:
+- tennis
+- door
+- new_moon
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

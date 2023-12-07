@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "491R7",
     "md5_10": "6cf52305c9",
     "md5_10_upper": "6CF52305C9",
+    "oomp_word": "blossom four kiss",
+    "oomp_word_list": [
+        "blossom",
+        "four",
+        "kiss"
+    ],
+    "oomp_word_emoji": ":blossom: :four: :kiss:",
+    "oomp_word_emoji_list": [
+        ":blossom:",
+        ":four:",
+        ":kiss:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "1800",

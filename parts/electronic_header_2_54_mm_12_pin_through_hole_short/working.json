@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "54U2Z",
     "md5_10": "83964ba4ea",
     "md5_10_upper": "83964BA4EA",
+    "oomp_word": "lock basketball penguin",
+    "oomp_word_list": [
+        "lock",
+        "basketball",
+        "penguin"
+    ],
+    "oomp_word_emoji": ":lock: :basketball: :penguin:",
+    "oomp_word_emoji_list": [
+        ":lock:",
+        ":basketball:",
+        ":penguin:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "12",

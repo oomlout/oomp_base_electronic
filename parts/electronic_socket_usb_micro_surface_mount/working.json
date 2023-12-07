@@ -104,6 +104,18 @@
     "md5_6_alpha_upper": "6O1K8",
     "md5_10": "aae3e879c3",
     "md5_10_upper": "AAE3E879C3",
+    "oomp_word": "lipstick rowboat tram",
+    "oomp_word_list": [
+        "lipstick",
+        "rowboat",
+        "tram"
+    ],
+    "oomp_word_emoji": ":lipstick: :rowboat: :tram:",
+    "oomp_word_emoji_list": [
+        ":lipstick:",
+        ":rowboat:",
+        ":tram:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "",

@@ -54,6 +54,16 @@ name_no_size: 3 Pin Through Hole Right Angle
 name_no_size_short: 3 Pin Through Hole Right Angle
 name_no_type: 2 5 Mm Jst Xh 3 Pin Through Hole Right Angle
 oomp_key: oomp_electronic_header_2_5_mm_jst_xh_3_pin_through_hole_right_angle
+oomp_word: ant blowfish spaghetti
+oomp_word_emoji: ':ant: :blowfish: :spaghetti:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':blowfish:'
+- ':spaghetti:'
+oomp_word_list:
+- ant
+- blowfish
+- spaghetti
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

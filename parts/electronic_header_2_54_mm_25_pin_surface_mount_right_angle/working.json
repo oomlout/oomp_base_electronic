@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9P56N",
     "md5_10": "f88f7f637c",
     "md5_10_upper": "F88F7F637C",
+    "oomp_word": "seven calendar speaker",
+    "oomp_word_list": [
+        "seven",
+        "calendar",
+        "speaker"
+    ],
+    "oomp_word_emoji": ":seven: :calendar: :speaker:",
+    "oomp_word_emoji_list": [
+        ":seven:",
+        ":calendar:",
+        ":speaker:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "25",

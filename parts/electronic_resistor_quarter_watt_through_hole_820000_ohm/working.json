@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "39CZX",
     "md5_10": "538d0d67c0",
     "md5_10_upper": "538D0D67C0",
+    "oomp_word": "fish scroll heart",
+    "oomp_word_list": [
+        "fish",
+        "scroll",
+        "heart"
+    ],
+    "oomp_word_emoji": ":fish: :scroll: :heart:",
+    "oomp_word_emoji_list": [
+        ":fish:",
+        ":scroll:",
+        ":heart:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "820000",

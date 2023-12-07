@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "5UQDN",
     "md5_10": "96060b7722",
     "md5_10_upper": "96060B7722",
+    "oomp_word": "basketball sleeping sunglasses",
+    "oomp_word_list": [
+        "basketball",
+        "sleeping",
+        "sunglasses"
+    ],
+    "oomp_word_emoji": ":basketball: :sleeping: :sunglasses:",
+    "oomp_word_emoji_list": [
+        ":basketball:",
+        ":sleeping:",
+        ":sunglasses:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "3",

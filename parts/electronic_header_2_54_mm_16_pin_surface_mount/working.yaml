@@ -71,6 +71,16 @@ name_no_size: 16 Pin Surface Mount
 name_no_size_short: 16 Pin Surface Mount
 name_no_type: 2 54 Mm 16 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_54_mm_16_pin_surface_mount
+oomp_word: bouquet hospital dress
+oomp_word_emoji: ':bouquet: :hospital: :dress:'
+oomp_word_emoji_list:
+- ':bouquet:'
+- ':hospital:'
+- ':dress:'
+oomp_word_list:
+- bouquet
+- hospital
+- dress
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

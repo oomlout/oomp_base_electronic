@@ -70,6 +70,16 @@ name_no_size: Surface Mount
 name_no_size_short: Surface Mount
 name_no_type: Usb Micro Surface Mount
 oomp_key: oomp_electronic_socket_usb_micro_surface_mount
+oomp_word: lipstick rowboat tram
+oomp_word_emoji: ':lipstick: :rowboat: :tram:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':rowboat:'
+- ':tram:'
+oomp_word_list:
+- lipstick
+- rowboat
+- tram
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

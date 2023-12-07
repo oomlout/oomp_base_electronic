@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "18T8Z",
     "md5_10": "1fe71377eb",
     "md5_10_upper": "1FE71377EB",
+    "oomp_word": "princess helicopter question",
+    "oomp_word_list": [
+        "princess",
+        "helicopter",
+        "question"
+    ],
+    "oomp_word_emoji": ":princess: :helicopter: :question:",
+    "oomp_word_emoji_list": [
+        ":princess:",
+        ":helicopter:",
+        ":question:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "22000",

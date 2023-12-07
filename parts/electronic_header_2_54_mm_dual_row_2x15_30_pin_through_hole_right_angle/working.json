@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "30WHI",
     "md5_10": "4d87761de8",
     "md5_10_upper": "4D87761DE8",
+    "oomp_word": "bug toilet santa",
+    "oomp_word_list": [
+        "bug",
+        "toilet",
+        "santa"
+    ],
+    "oomp_word_emoji": ":bug: :toilet: :santa:",
+    "oomp_word_emoji_list": [
+        ":bug:",
+        ":toilet:",
+        ":santa:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21530",

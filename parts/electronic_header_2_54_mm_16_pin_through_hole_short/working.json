@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "1EQPL",
     "md5_10": "241fb960e7",
     "md5_10_upper": "241FB960E7",
+    "oomp_word": "droplet princess fries",
+    "oomp_word_list": [
+        "droplet",
+        "princess",
+        "fries"
+    ],
+    "oomp_word_emoji": ":droplet: :princess: :fries:",
+    "oomp_word_emoji_list": [
+        ":droplet:",
+        ":princess:",
+        ":fries:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "16",

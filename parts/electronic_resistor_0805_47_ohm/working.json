@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "5Q1XX",
     "md5_10": "92b1552cd0",
     "md5_10_upper": "92B1552CD0",
+    "oomp_word": "paperclip briefcase dolphin",
+    "oomp_word_list": [
+        "paperclip",
+        "briefcase",
+        "dolphin"
+    ],
+    "oomp_word_emoji": ":paperclip: :briefcase: :dolphin:",
+    "oomp_word_emoji_list": [
+        ":paperclip:",
+        ":briefcase:",
+        ":dolphin:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "47",

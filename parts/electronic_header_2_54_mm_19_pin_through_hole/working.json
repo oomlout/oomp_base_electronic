@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "105SN",
     "md5_10": "19be57a319",
     "md5_10_upper": "19BE57A319",
+    "oomp_word": "pray ramen rat",
+    "oomp_word_list": [
+        "pray",
+        "ramen",
+        "rat"
+    ],
+    "oomp_word_emoji": ":pray: :ramen: :rat:",
+    "oomp_word_emoji_list": [
+        ":pray:",
+        ":ramen:",
+        ":rat:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "19",

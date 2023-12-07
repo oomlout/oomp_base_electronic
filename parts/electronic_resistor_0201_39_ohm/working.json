@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3MHJZ",
     "md5_10": "5ce55f7a19",
     "md5_10_upper": "5CE55F7A19",
+    "oomp_word": "ox rocket leopard",
+    "oomp_word_list": [
+        "ox",
+        "rocket",
+        "leopard"
+    ],
+    "oomp_word_emoji": ":ox: :rocket: :leopard:",
+    "oomp_word_emoji_list": [
+        ":ox:",
+        ":rocket:",
+        ":leopard:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "39",

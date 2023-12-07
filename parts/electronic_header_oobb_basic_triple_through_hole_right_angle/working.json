@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "T1IY",
     "md5_10": "14acfa8141",
     "md5_10_upper": "14ACFA8141",
+    "oomp_word": "fire shirt nine",
+    "oomp_word_list": [
+        "fire",
+        "shirt",
+        "nine"
+    ],
+    "oomp_word_emoji": ":fire: :shirt: :nine:",
+    "oomp_word_emoji_list": [
+        ":fire:",
+        ":shirt:",
+        ":nine:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "177OI",
     "md5_10": "1ec3a23f03",
     "md5_10_upper": "1EC3A23F03",
+    "oomp_word": "angel cake violin",
+    "oomp_word_list": [
+        "angel",
+        "cake",
+        "violin"
+    ],
+    "oomp_word_emoji": ":angel: :cake: :violin:",
+    "oomp_word_emoji_list": [
+        ":angel:",
+        ":cake:",
+        ":violin:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "7",

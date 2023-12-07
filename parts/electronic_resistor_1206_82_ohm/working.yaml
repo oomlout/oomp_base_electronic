@@ -95,6 +95,16 @@ name_no_size: 82 Ohm
 name_no_size_short: 82 Ohm
 name_no_type: 1206 82 Ohm
 oomp_key: oomp_electronic_resistor_1206_82_ohm
+oomp_word: bowtie tea frog
+oomp_word_emoji: ':bowtie: :tea: :frog:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':tea:'
+- ':frog:'
+oomp_word_list:
+- bowtie
+- tea
+- frog
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

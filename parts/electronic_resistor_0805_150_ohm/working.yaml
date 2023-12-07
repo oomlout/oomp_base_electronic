@@ -95,6 +95,16 @@ name_no_size: 150 Ohm
 name_no_size_short: 150 Ohm
 name_no_type: 0805 150 Ohm
 oomp_key: oomp_electronic_resistor_0805_150_ohm
+oomp_word: hamburger snake clipboard
+oomp_word_emoji: ':hamburger: :snake: :clipboard:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':snake:'
+- ':clipboard:'
+oomp_word_list:
+- hamburger
+- snake
+- clipboard
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

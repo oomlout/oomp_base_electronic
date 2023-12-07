@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2QAWF",
     "md5_10": "45fbaffc27",
     "md5_10_upper": "45FBAFFC27",
+    "oomp_word": "snake ok tophat",
+    "oomp_word_list": [
+        "snake",
+        "ok",
+        "tophat"
+    ],
+    "oomp_word_emoji": ":snake: :ok: :tophat:",
+    "oomp_word_emoji_list": [
+        ":snake:",
+        ":ok:",
+        ":tophat:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "18000",

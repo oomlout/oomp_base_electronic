@@ -95,6 +95,16 @@ name_no_size: 33 Ohm
 name_no_size_short: 33 Ohm
 name_no_type: 1206 33 Ohm
 oomp_key: oomp_electronic_resistor_1206_33_ohm
+oomp_word: airplane bowling pear
+oomp_word_emoji: ':airplane: :bowling: :pear:'
+oomp_word_emoji_list:
+- ':airplane:'
+- ':bowling:'
+- ':pear:'
+oomp_word_list:
+- airplane
+- bowling
+- pear
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

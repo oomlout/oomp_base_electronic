@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "9VDCF",
     "md5_10": "fcfe4f5987",
     "md5_10_upper": "FCFE4F5987",
+    "oomp_word": "up recycle ant",
+    "oomp_word_list": [
+        "up",
+        "recycle",
+        "ant"
+    ],
+    "oomp_word_emoji": ":up: :recycle: :ant:",
+    "oomp_word_emoji_list": [
+        ":up:",
+        ":recycle:",
+        ":ant:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "",

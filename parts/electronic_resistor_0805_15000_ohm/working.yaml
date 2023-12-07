@@ -95,6 +95,16 @@ name_no_size: 15000 Ohm
 name_no_size_short: 15k Ohm
 name_no_type: 0805 15000 Ohm
 oomp_key: oomp_electronic_resistor_0805_15000_ohm
+oomp_word: angry blush watch
+oomp_word_emoji: ':angry: :blush: :watch:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':blush:'
+- ':watch:'
+oomp_word_list:
+- angry
+- blush
+- watch
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

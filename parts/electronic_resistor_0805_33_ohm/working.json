@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "1JDQL",
     "md5_10": "276d4d51fb",
     "md5_10_upper": "276D4D51FB",
+    "oomp_word": "nose shell bug",
+    "oomp_word_list": [
+        "nose",
+        "shell",
+        "bug"
+    ],
+    "oomp_word_emoji": ":nose: :shell: :bug:",
+    "oomp_word_emoji_list": [
+        ":nose:",
+        ":shell:",
+        ":bug:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "33",

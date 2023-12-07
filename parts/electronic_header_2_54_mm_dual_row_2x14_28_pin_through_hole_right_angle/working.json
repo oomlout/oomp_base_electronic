@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "7Q253",
     "md5_10": "c5f4570ada",
     "md5_10_upper": "C5F4570ADA",
+    "oomp_word": "candy three rat",
+    "oomp_word_list": [
+        "candy",
+        "three",
+        "rat"
+    ],
+    "oomp_word_emoji": ":candy: :three: :rat:",
+    "oomp_word_emoji_list": [
+        ":candy:",
+        ":three:",
+        ":rat:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21428",

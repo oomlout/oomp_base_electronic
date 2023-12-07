@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "9RDG2",
     "md5_10": "fa25d22bae",
     "md5_10_upper": "FA25D22BAE",
+    "oomp_word": "nine ear pineapple",
+    "oomp_word_list": [
+        "nine",
+        "ear",
+        "pineapple"
+    ],
+    "oomp_word_emoji": ":nine: :ear: :pineapple:",
+    "oomp_word_emoji_list": [
+        ":nine:",
+        ":ear:",
+        ":pineapple:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "18000",

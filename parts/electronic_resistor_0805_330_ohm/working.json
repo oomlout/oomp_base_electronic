@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "9BW7A",
     "md5_10": "ef20c6de86",
     "md5_10_upper": "EF20C6DE86",
+    "oomp_word": "truck skull lollipop",
+    "oomp_word_list": [
+        "truck",
+        "skull",
+        "lollipop"
+    ],
+    "oomp_word_emoji": ":truck: :skull: :lollipop:",
+    "oomp_word_emoji_list": [
+        ":truck:",
+        ":skull:",
+        ":lollipop:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "330",

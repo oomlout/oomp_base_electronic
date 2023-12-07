@@ -121,6 +121,18 @@
     "md5_6_alpha_upper": "5YJ0Q",
     "md5_10": "98b9ca3420",
     "md5_10_upper": "98B9CA3420",
+    "oomp_word": "tennis fries cherries",
+    "oomp_word_list": [
+        "tennis",
+        "fries",
+        "cherries"
+    ],
+    "oomp_word_emoji": ":tennis: :fries: :cherries:",
+    "oomp_word_emoji_list": [
+        ":tennis:",
+        ":fries:",
+        ":cherries:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "10000",

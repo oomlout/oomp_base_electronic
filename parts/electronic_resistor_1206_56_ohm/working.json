@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "6LSMO",
     "md5_10": "a94a30da23",
     "md5_10_upper": "A94A30DA23",
+    "oomp_word": "sandal chicken foggy",
+    "oomp_word_list": [
+        "sandal",
+        "chicken",
+        "foggy"
+    ],
+    "oomp_word_emoji": ":sandal: :chicken: :foggy:",
+    "oomp_word_emoji_list": [
+        ":sandal:",
+        ":chicken:",
+        ":foggy:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "56",

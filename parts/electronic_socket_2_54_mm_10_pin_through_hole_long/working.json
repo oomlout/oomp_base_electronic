@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "76GGU",
     "md5_10": "b7ffde9513",
     "md5_10_upper": "B7FFDE9513",
+    "oomp_word": "pizza trident rainbow",
+    "oomp_word_list": [
+        "pizza",
+        "trident",
+        "rainbow"
+    ],
+    "oomp_word_emoji": ":pizza: :trident: :rainbow:",
+    "oomp_word_emoji_list": [
+        ":pizza:",
+        ":trident:",
+        ":rainbow:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "10",

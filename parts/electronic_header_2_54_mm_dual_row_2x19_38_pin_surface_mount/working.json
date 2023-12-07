@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "5WPPK",
     "md5_10": "976f285df0",
     "md5_10_upper": "976F285DF0",
+    "oomp_word": "baseball moon tongue",
+    "oomp_word_list": [
+        "baseball",
+        "moon",
+        "tongue"
+    ],
+    "oomp_word_emoji": ":baseball: :moon: :tongue:",
+    "oomp_word_emoji_list": [
+        ":baseball:",
+        ":moon:",
+        ":tongue:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21938",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5APMQ",
     "md5_10": "87c5421cb3",
     "md5_10_upper": "87C5421CB3",
+    "oomp_word": "toilet candy sheep",
+    "oomp_word_list": [
+        "toilet",
+        "candy",
+        "sheep"
+    ],
+    "oomp_word_emoji": ":toilet: :candy: :sheep:",
+    "oomp_word_emoji_list": [
+        ":toilet:",
+        ":candy:",
+        ":sheep:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "3900",

@@ -67,6 +67,16 @@ name_no_size: 68 Ohm
 name_no_size_short: 68 Ohm
 name_no_type: Quarter Watt Through Hole 68 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_68_ohm
+oomp_word: tophat ox up
+oomp_word_emoji: ':tophat: :ox: :up:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':ox:'
+- ':up:'
+oomp_word_list:
+- tophat
+- ox
+- up
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

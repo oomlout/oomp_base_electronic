@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3H78M",
     "md5_10": "5921e687ff",
     "md5_10_upper": "5921E687FF",
+    "oomp_word": "dragon feet airplane",
+    "oomp_word_list": [
+        "dragon",
+        "feet",
+        "airplane"
+    ],
+    "oomp_word_emoji": ":dragon: :feet: :airplane:",
+    "oomp_word_emoji_list": [
+        ":dragon:",
+        ":feet:",
+        ":airplane:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "18",

@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "9ZJFO",
     "md5_10": "fff6246886",
     "md5_10_upper": "FFF6246886",
+    "oomp_word": "trident five droplet",
+    "oomp_word_list": [
+        "trident",
+        "five",
+        "droplet"
+    ],
+    "oomp_word_emoji": ":trident: :five: :droplet:",
+    "oomp_word_emoji_list": [
+        ":trident:",
+        ":five:",
+        ":droplet:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "16",

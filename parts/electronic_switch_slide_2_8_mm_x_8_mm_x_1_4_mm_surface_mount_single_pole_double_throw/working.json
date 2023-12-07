@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "2YW1F",
     "md5_10": "4c18b3b1e7",
     "md5_10_upper": "4C18B3B1E7",
+    "oomp_word": "turtle hand eyeglasses",
+    "oomp_word_list": [
+        "turtle",
+        "hand",
+        "eyeglasses"
+    ],
+    "oomp_word_emoji": ":turtle: :hand: :eyeglasses:",
+    "oomp_word_emoji_list": [
+        ":turtle:",
+        ":hand:",
+        ":eyeglasses:"
+    ],
     "size_only_numbers": "28814",
     "size_only_numbers_no_zeros": "28814",
     "description_only_numbers": "",

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "2R83B",
     "md5_10": "46a3b78642",
     "md5_10_upper": "46A3B78642",
+    "oomp_word": "bird pencil pizza",
+    "oomp_word_list": [
+        "bird",
+        "pencil",
+        "pizza"
+    ],
+    "oomp_word_emoji": ":bird: :pencil: :pizza:",
+    "oomp_word_emoji_list": [
+        ":bird:",
+        ":pencil:",
+        ":pizza:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "470000",

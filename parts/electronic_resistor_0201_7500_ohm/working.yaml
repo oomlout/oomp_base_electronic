@@ -56,6 +56,16 @@ name_no_size: 7500 Ohm
 name_no_size_short: 7k5 Ohm
 name_no_type: 0201 7500 Ohm
 oomp_key: oomp_electronic_resistor_0201_7500_ohm
+oomp_word: penguin pineapple taxi
+oomp_word_emoji: ':penguin: :pineapple: :taxi:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':pineapple:'
+- ':taxi:'
+oomp_word_list:
+- penguin
+- pineapple
+- taxi
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

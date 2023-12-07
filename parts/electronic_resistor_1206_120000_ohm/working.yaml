@@ -67,6 +67,16 @@ name_no_size: 120000 Ohm
 name_no_size_short: 120k Ohm
 name_no_type: 1206 120000 Ohm
 oomp_key: oomp_electronic_resistor_1206_120000_ohm
+oomp_word: foggy racehorse calendar
+oomp_word_emoji: ':foggy: :racehorse: :calendar:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':racehorse:'
+- ':calendar:'
+oomp_word_list:
+- foggy
+- racehorse
+- calendar
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

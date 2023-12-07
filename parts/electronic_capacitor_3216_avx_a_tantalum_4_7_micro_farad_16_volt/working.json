@@ -81,6 +81,18 @@
     "md5_6_alpha_upper": "5TGQ3",
     "md5_10": "951eebab53",
     "md5_10_upper": "951EEBAB53",
+    "oomp_word": "telescope angel car",
+    "oomp_word_list": [
+        "telescope",
+        "angel",
+        "car"
+    ],
+    "oomp_word_emoji": ":telescope: :angel: :car:",
+    "oomp_word_emoji_list": [
+        ":telescope:",
+        ":angel:",
+        ":car:"
+    ],
     "size_only_numbers": "3216",
     "size_only_numbers_no_zeros": "3216",
     "description_only_numbers": "47",

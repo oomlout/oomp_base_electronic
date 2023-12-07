@@ -95,6 +95,16 @@ name_no_size: 33000 Ohm
 name_no_size_short: 33k Ohm
 name_no_type: 1206 33000 Ohm
 oomp_key: oomp_electronic_resistor_1206_33000_ohm
+oomp_word: snowman question blowfish
+oomp_word_emoji: ':snowman: :question: :blowfish:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':question:'
+- ':blowfish:'
+oomp_word_list:
+- snowman
+- question
+- blowfish
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -67,6 +67,16 @@ name_no_size: 18 Ohm
 name_no_size_short: 18 Ohm
 name_no_type: Quarter Watt Through Hole 18 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_18_ohm
+oomp_word: door train camel
+oomp_word_emoji: ':door: :train: :camel:'
+oomp_word_emoji_list:
+- ':door:'
+- ':train:'
+- ':camel:'
+oomp_word_list:
+- door
+- train
+- camel
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

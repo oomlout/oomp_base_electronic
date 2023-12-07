@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "7CJC9",
     "md5_10": "bc53e9060d",
     "md5_10_upper": "BC53E9060D",
+    "oomp_word": "sushi fish bike",
+    "oomp_word_list": [
+        "sushi",
+        "fish",
+        "bike"
+    ],
+    "oomp_word_emoji": ":sushi: :fish: :bike:",
+    "oomp_word_emoji_list": [
+        ":sushi:",
+        ":fish:",
+        ":bike:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "248",

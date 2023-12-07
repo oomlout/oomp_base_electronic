@@ -54,6 +54,16 @@ name_no_size: 10 Pin Through Hole
 name_no_size_short: 10 Pin Through Hole
 name_no_type: 2 54 Mm 10 Pin Through Hole
 oomp_key: oomp_electronic_socket_2_54_mm_10_pin_through_hole
+oomp_word: tv lips sheep
+oomp_word_emoji: ':tv: :lips: :sheep:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':lips:'
+- ':sheep:'
+oomp_word_list:
+- tv
+- lips
+- sheep
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

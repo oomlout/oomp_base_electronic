@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "9K7IM",
     "md5_10": "f50c0ea8cc",
     "md5_10_upper": "F50C0EA8CC",
+    "oomp_word": "four alien cupid",
+    "oomp_word_list": [
+        "four",
+        "alien",
+        "cupid"
+    ],
+    "oomp_word_emoji": ":four: :alien: :cupid:",
+    "oomp_word_emoji_list": [
+        ":four:",
+        ":alien:",
+        ":cupid:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "339",

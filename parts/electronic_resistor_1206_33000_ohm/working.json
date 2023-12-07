@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "1RBDP",
     "md5_10": "2d135db6a2",
     "md5_10_upper": "2D135DB6A2",
+    "oomp_word": "snowman question blowfish",
+    "oomp_word_list": [
+        "snowman",
+        "question",
+        "blowfish"
+    ],
+    "oomp_word_emoji": ":snowman: :question: :blowfish:",
+    "oomp_word_emoji_list": [
+        ":snowman:",
+        ":question:",
+        ":blowfish:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "33000",

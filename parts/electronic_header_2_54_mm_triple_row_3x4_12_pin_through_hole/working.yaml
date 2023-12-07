@@ -60,6 +60,16 @@ name_no_size: 3X4 12 Pin Through Hole
 name_no_size_short: 3X4 12 Pin Through Hole
 name_no_type: 2 54 Mm Triple Row 3X4 12 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x4_12_pin_through_hole
+oomp_word: pencil ok octopus
+oomp_word_emoji: ':pencil: :ok: :octopus:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':ok:'
+- ':octopus:'
+oomp_word_list:
+- pencil
+- ok
+- octopus
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

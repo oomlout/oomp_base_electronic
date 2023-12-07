@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "47P0W",
     "md5_10": "6bfe70db27",
     "md5_10_upper": "6BFE70DB27",
+    "oomp_word": "chestnut recycle squirrel",
+    "oomp_word_list": [
+        "chestnut",
+        "recycle",
+        "squirrel"
+    ],
+    "oomp_word_emoji": ":chestnut: :recycle: :squirrel:",
+    "oomp_word_emoji_list": [
+        ":chestnut:",
+        ":recycle:",
+        ":squirrel:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21428",

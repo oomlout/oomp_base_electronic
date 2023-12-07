@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "8RKHS",
     "md5_10": "e0a880b64b",
     "md5_10_upper": "E0A880B64B",
+    "oomp_word": "ship shoe hourglass",
+    "oomp_word_list": [
+        "ship",
+        "shoe",
+        "hourglass"
+    ],
+    "oomp_word_emoji": ":ship: :shoe: :hourglass:",
+    "oomp_word_emoji_list": [
+        ":ship:",
+        ":shoe:",
+        ":hourglass:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21",

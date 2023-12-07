@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "89LPP",
     "md5_10": "d3de2d3848",
     "md5_10_upper": "D3DE2D3848",
+    "oomp_word": "tomato rainbow snowman",
+    "oomp_word_list": [
+        "tomato",
+        "rainbow",
+        "snowman"
+    ],
+    "oomp_word_emoji": ":tomato: :rainbow: :snowman:",
+    "oomp_word_emoji_list": [
+        ":tomato:",
+        ":rainbow:",
+        ":snowman:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "16",

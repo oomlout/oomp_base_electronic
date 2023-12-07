@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "MOKJ",
     "md5_10": "1025e3bed9",
     "md5_10_upper": "1025E3BED9",
+    "oomp_word": "star ear rowboat",
+    "oomp_word_list": [
+        "star",
+        "ear",
+        "rowboat"
+    ],
+    "oomp_word_emoji": ":star: :ear: :rowboat:",
+    "oomp_word_emoji_list": [
+        ":star:",
+        ":ear:",
+        ":rowboat:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "7",

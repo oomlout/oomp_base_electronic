@@ -66,6 +66,16 @@ name_no_size: 56 Ohm
 name_no_size_short: 56 Ohm
 name_no_type: 0201 56 Ohm
 oomp_key: oomp_electronic_resistor_0201_56_ohm
+oomp_word: cookie toilet rocket
+oomp_word_emoji: ':cookie: :toilet: :rocket:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':toilet:'
+- ':rocket:'
+oomp_word_list:
+- cookie
+- toilet
+- rocket
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

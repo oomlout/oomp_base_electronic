@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "8GRWS",
     "md5_10": "d8f94c95ce",
     "md5_10_upper": "D8F94C95CE",
+    "oomp_word": "hospital eight turtle",
+    "oomp_word_list": [
+        "hospital",
+        "eight",
+        "turtle"
+    ],
+    "oomp_word_emoji": ":hospital: :eight: :turtle:",
+    "oomp_word_emoji_list": [
+        ":hospital:",
+        ":eight:",
+        ":turtle:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "4700000",

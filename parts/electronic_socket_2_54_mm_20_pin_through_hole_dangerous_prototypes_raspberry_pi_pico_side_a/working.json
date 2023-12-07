@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "1Y6M1",
     "md5_10": "31f6f93ddb",
     "md5_10_upper": "31F6F93DDB",
+    "oomp_word": "ocean five eight",
+    "oomp_word_list": [
+        "ocean",
+        "five",
+        "eight"
+    ],
+    "oomp_word_emoji": ":ocean: :five: :eight:",
+    "oomp_word_emoji_list": [
+        ":ocean:",
+        ":five:",
+        ":eight:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "20",

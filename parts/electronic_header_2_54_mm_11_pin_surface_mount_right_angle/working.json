@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "78GKJ",
     "md5_10": "b96ce3a2db",
     "md5_10_upper": "B96CE3A2DB",
+    "oomp_word": "fries blossom rowboat",
+    "oomp_word_list": [
+        "fries",
+        "blossom",
+        "rowboat"
+    ],
+    "oomp_word_emoji": ":fries: :blossom: :rowboat:",
+    "oomp_word_emoji_list": [
+        ":fries:",
+        ":blossom:",
+        ":rowboat:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "11",

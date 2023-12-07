@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "776W9",
     "md5_10": "b885a96a3e",
     "md5_10_upper": "B885A96A3E",
+    "oomp_word": "hamburger bulb sandal",
+    "oomp_word_list": [
+        "hamburger",
+        "bulb",
+        "sandal"
+    ],
+    "oomp_word_emoji": ":hamburger: :bulb: :sandal:",
+    "oomp_word_emoji_list": [
+        ":hamburger:",
+        ":bulb:",
+        ":sandal:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3515",

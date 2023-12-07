@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "6J1CH",
     "md5_10": "a75391dd59",
     "md5_10_upper": "A75391DD59",
+    "oomp_word": "guitar fish pushpin",
+    "oomp_word_list": [
+        "guitar",
+        "fish",
+        "pushpin"
+    ],
+    "oomp_word_emoji": ":guitar: :fish: :pushpin:",
+    "oomp_word_emoji_list": [
+        ":guitar:",
+        ":fish:",
+        ":pushpin:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3",

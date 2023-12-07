@@ -64,6 +64,16 @@ name_no_size: 2X10 20 Pin Through Hole
 name_no_size_short: 2X10 20 Pin Through Hole
 name_no_type: 2 54 Mm Dual Row 2X10 20 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x10_20_pin_through_hole
+oomp_word: nose shoe lips
+oomp_word_emoji: ':nose: :shoe: :lips:'
+oomp_word_emoji_list:
+- ':nose:'
+- ':shoe:'
+- ':lips:'
+oomp_word_list:
+- nose
+- shoe
+- lips
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

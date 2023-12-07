@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4QJW8",
     "md5_10": "796b38bb5f",
     "md5_10_upper": "796B38BB5F",
+    "oomp_word": "balloon chestnut frog",
+    "oomp_word_list": [
+        "balloon",
+        "chestnut",
+        "frog"
+    ],
+    "oomp_word_emoji": ":balloon: :chestnut: :frog:",
+    "oomp_word_emoji_list": [
+        ":balloon:",
+        ":chestnut:",
+        ":frog:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "0",

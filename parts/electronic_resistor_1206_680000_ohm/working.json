@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "MS38",
     "md5_10": "1037b46a8e",
     "md5_10_upper": "1037B46A8E",
+    "oomp_word": "star wolf coffee",
+    "oomp_word_list": [
+        "star",
+        "wolf",
+        "coffee"
+    ],
+    "oomp_word_emoji": ":star: :wolf: :coffee:",
+    "oomp_word_emoji_list": [
+        ":star:",
+        ":wolf:",
+        ":coffee:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "680000",

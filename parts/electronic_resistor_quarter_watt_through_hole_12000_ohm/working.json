@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3LTV7",
     "md5_10": "5c6d739ec8",
     "md5_10_upper": "5C6D739EC8",
+    "oomp_word": "ox shell flags",
+    "oomp_word_list": [
+        "ox",
+        "shell",
+        "flags"
+    ],
+    "oomp_word_emoji": ":ox: :shell: :flags:",
+    "oomp_word_emoji_list": [
+        ":ox:",
+        ":shell:",
+        ":flags:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "12000",

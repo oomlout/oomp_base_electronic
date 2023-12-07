@@ -95,6 +95,16 @@ name_no_size: 220 Ohm
 name_no_size_short: 220 Ohm
 name_no_type: 0603 220 Ohm
 oomp_key: oomp_electronic_resistor_0603_220_ohm
+oomp_word: sparkles helicopter key
+oomp_word_emoji: ':sparkles: :helicopter: :key:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':helicopter:'
+- ':key:'
+oomp_word_list:
+- sparkles
+- helicopter
+- key
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

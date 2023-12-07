@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "2BGZ",
     "md5_10": "01a6930e31",
     "md5_10_upper": "01A6930E31",
+    "oomp_word": "smile trumpet books",
+    "oomp_word_list": [
+        "smile",
+        "trumpet",
+        "books"
+    ],
+    "oomp_word_emoji": ":smile: :trumpet: :books:",
+    "oomp_word_emoji_list": [
+        ":smile:",
+        ":trumpet:",
+        ":books:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "10",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "166FR",
     "md5_10": "1e07170339",
     "md5_10_upper": "1E07170339",
+    "oomp_word": "angel cry thumbsdown",
+    "oomp_word_list": [
+        "angel",
+        "cry",
+        "thumbsdown"
+    ],
+    "oomp_word_emoji": ":angel: :cry: :thumbsdown:",
+    "oomp_word_emoji_list": [
+        ":angel:",
+        ":cry:",
+        ":thumbsdown:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "5",

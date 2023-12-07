@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "9IYU9",
     "md5_10": "f429e1817e",
     "md5_10_upper": "F429E1817E",
+    "oomp_word": "three sunny boat",
+    "oomp_word_list": [
+        "three",
+        "sunny",
+        "boat"
+    ],
+    "oomp_word_emoji": ":three: :sunny: :boat:",
+    "oomp_word_emoji_list": [
+        ":three:",
+        ":sunny:",
+        ":boat:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "56",

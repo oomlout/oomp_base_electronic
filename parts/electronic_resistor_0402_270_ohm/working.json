@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "76RAX",
     "md5_10": "b836b9d168",
     "md5_10_upper": "B836B9D168",
+    "oomp_word": "hamburger rabbit fries",
+    "oomp_word_list": [
+        "hamburger",
+        "rabbit",
+        "fries"
+    ],
+    "oomp_word_emoji": ":hamburger: :rabbit: :fries:",
+    "oomp_word_emoji_list": [
+        ":hamburger:",
+        ":rabbit:",
+        ":fries:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "270",

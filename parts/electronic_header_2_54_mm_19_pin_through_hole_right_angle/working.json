@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "1BFBL",
     "md5_10": "21c3517d93",
     "md5_10_upper": "21C3517D93",
+    "oomp_word": "feet cake snail",
+    "oomp_word_list": [
+        "feet",
+        "cake",
+        "snail"
+    ],
+    "oomp_word_emoji": ":feet: :cake: :snail:",
+    "oomp_word_emoji_list": [
+        ":feet:",
+        ":cake:",
+        ":snail:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "19",

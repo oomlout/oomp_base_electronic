@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "10Y0K",
     "md5_10": "1a4d34217a",
     "md5_10_upper": "1A4D34217A",
+    "oomp_word": "clap bug mouse",
+    "oomp_word_list": [
+        "clap",
+        "bug",
+        "mouse"
+    ],
+    "oomp_word_emoji": ":clap: :bug: :mouse:",
+    "oomp_word_emoji_list": [
+        ":clap:",
+        ":bug:",
+        ":mouse:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "2700000",

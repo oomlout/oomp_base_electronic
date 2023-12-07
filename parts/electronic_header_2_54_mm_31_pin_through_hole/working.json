@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "2DBR4",
     "md5_10": "3cbec0f21b",
     "md5_10_upper": "3CBEC0F21B",
+    "oomp_word": "pig ramen bread",
+    "oomp_word_list": [
+        "pig",
+        "ramen",
+        "bread"
+    ],
+    "oomp_word_emoji": ":pig: :ramen: :bread:",
+    "oomp_word_emoji_list": [
+        ":pig:",
+        ":ramen:",
+        ":bread:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "31",

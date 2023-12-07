@@ -69,6 +69,18 @@
     "md5_6_alpha_upper": "11RL8",
     "md5_10": "1ae2ec9bc6",
     "md5_10_upper": "1AE2EC9BC6",
+    "oomp_word": "clap sailboat taxi",
+    "oomp_word_list": [
+        "clap",
+        "sailboat",
+        "taxi"
+    ],
+    "oomp_word_emoji": ":clap: :sailboat: :taxi:",
+    "oomp_word_emoji_list": [
+        ":clap:",
+        ":sailboat:",
+        ":taxi:"
+    ],
     "size_only_numbers": "223",
     "size_only_numbers_no_zeros": "223",
     "description_only_numbers": "1117",

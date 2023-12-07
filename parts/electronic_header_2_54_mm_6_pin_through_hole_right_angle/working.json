@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "94SN5",
     "md5_10": "ea1301e0e8",
     "md5_10_upper": "EA1301E0E8",
+    "oomp_word": "tractor question smile",
+    "oomp_word_list": [
+        "tractor",
+        "question",
+        "smile"
+    ],
+    "oomp_word_emoji": ":tractor: :question: :smile:",
+    "oomp_word_emoji_list": [
+        ":tractor:",
+        ":question:",
+        ":smile:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "6",

@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "4SUY0",
     "md5_10": "7b0fa8663b",
     "md5_10_upper": "7B0FA8663B",
+    "oomp_word": "computer sparkles shoe",
+    "oomp_word_list": [
+        "computer",
+        "sparkles",
+        "shoe"
+    ],
+    "oomp_word_emoji": ":computer: :sparkles: :shoe:",
+    "oomp_word_emoji_list": [
+        ":computer:",
+        ":sparkles:",
+        ":shoe:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "9EGOV",
     "md5_10": "f0f4ffbcb4",
     "md5_10_upper": "F0F4FFBCB4",
+    "oomp_word": "train three trident",
+    "oomp_word_list": [
+        "train",
+        "three",
+        "trident"
+    ],
+    "oomp_word_emoji": ":train: :three: :trident:",
+    "oomp_word_emoji_list": [
+        ":train:",
+        ":three:",
+        ":trident:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "12",

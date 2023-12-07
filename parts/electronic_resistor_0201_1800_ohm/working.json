@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "76C73",
     "md5_10": "b7ea3fe27a",
     "md5_10_upper": "B7EA3FE27A",
+    "oomp_word": "pizza tractor horse",
+    "oomp_word_list": [
+        "pizza",
+        "tractor",
+        "horse"
+    ],
+    "oomp_word_emoji": ":pizza: :tractor: :horse:",
+    "oomp_word_emoji_list": [
+        ":pizza:",
+        ":tractor:",
+        ":horse:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "1800",

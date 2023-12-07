@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "1XRV9",
     "md5_10": "31ac5566c7",
     "md5_10_upper": "31AC5566C7",
+    "oomp_word": "ocean shirt dolphin",
+    "oomp_word_list": [
+        "ocean",
+        "shirt",
+        "dolphin"
+    ],
+    "oomp_word_emoji": ":ocean: :shirt: :dolphin:",
+    "oomp_word_emoji_list": [
+        ":ocean:",
+        ":shirt:",
+        ":dolphin:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "1",

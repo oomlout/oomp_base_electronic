@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "4J0WU",
     "md5_10": "740f5e49b7",
     "md5_10_upper": "740F5E49B7",
+    "oomp_word": "fireworks sparkles crocodile",
+    "oomp_word_list": [
+        "fireworks",
+        "sparkles",
+        "crocodile"
+    ],
+    "oomp_word_emoji": ":fireworks: :sparkles: :crocodile:",
+    "oomp_word_emoji_list": [
+        ":fireworks:",
+        ":sparkles:",
+        ":crocodile:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "17",

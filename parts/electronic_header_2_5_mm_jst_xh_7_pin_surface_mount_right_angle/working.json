@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "95QQ6",
     "md5_10": "eabf8e3b06",
     "md5_10_upper": "EABF8E3B06",
+    "oomp_word": "tractor egg clipboard",
+    "oomp_word_list": [
+        "tractor",
+        "egg",
+        "clipboard"
+    ],
+    "oomp_word_emoji": ":tractor: :egg: :clipboard:",
+    "oomp_word_emoji_list": [
+        ":tractor:",
+        ":egg:",
+        ":clipboard:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "7",

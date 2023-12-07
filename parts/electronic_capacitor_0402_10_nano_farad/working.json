@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "45WKN",
     "md5_10": "6ab82773a0",
     "md5_10_upper": "6AB82773A0",
+    "oomp_word": "palm_tree hamburger nose",
+    "oomp_word_list": [
+        "palm_tree",
+        "hamburger",
+        "nose"
+    ],
+    "oomp_word_emoji": ":palm_tree: :hamburger: :nose:",
+    "oomp_word_emoji_list": [
+        ":palm_tree:",
+        ":hamburger:",
+        ":nose:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "10",

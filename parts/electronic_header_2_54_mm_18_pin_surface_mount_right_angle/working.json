@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "PQ3L",
     "md5_10": "1250611d83",
     "md5_10_upper": "1250611D83",
+    "oomp_word": "anger beetle bouquet",
+    "oomp_word_list": [
+        "anger",
+        "beetle",
+        "bouquet"
+    ],
+    "oomp_word_emoji": ":anger: :beetle: :bouquet:",
+    "oomp_word_emoji_list": [
+        ":anger:",
+        ":beetle:",
+        ":bouquet:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "18",

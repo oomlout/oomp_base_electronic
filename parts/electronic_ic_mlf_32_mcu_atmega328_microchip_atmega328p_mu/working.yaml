@@ -64,6 +64,16 @@ name_no_size: Mcu Atmega328 Microchip Atmega328P Mu
 name_no_size_short: Mcu Atmega328 Microchip Atmega328P Mu
 name_no_type: Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu
 oomp_key: oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu
+oomp_word: school book snake
+oomp_word_emoji: ':school: :book: :snake:'
+oomp_word_emoji_list:
+- ':school:'
+- ':book:'
+- ':snake:'
+oomp_word_list:
+- school
+- book
+- snake
 part_number: atmega328p_mu
 part_number_capital: Atmega328P Mu
 part_number_first_letter: a

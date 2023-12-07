@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "1FKNJ",
     "md5_10": "24b74f09ef",
     "md5_10_upper": "24B74F09EF",
+    "oomp_word": "droplet pizza ant",
+    "oomp_word_list": [
+        "droplet",
+        "pizza",
+        "ant"
+    ],
+    "oomp_word_emoji": ":droplet: :pizza: :ant:",
+    "oomp_word_emoji_list": [
+        ":droplet:",
+        ":pizza:",
+        ":ant:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "3300",

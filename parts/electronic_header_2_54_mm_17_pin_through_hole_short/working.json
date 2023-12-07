@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "59PU9",
     "md5_10": "87101108d6",
     "md5_10_upper": "87101108D6",
+    "oomp_word": "toilet star dizzy",
+    "oomp_word_list": [
+        "toilet",
+        "star",
+        "dizzy"
+    ],
+    "oomp_word_emoji": ":toilet: :star: :dizzy:",
+    "oomp_word_emoji_list": [
+        ":toilet:",
+        ":star:",
+        ":dizzy:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "17",

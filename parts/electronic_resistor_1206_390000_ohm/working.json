@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "7O8OG",
     "md5_10": "c4a8f0d02d",
     "md5_10_upper": "C4A8F0D02D",
+    "oomp_word": "cookie shoe train",
+    "oomp_word_list": [
+        "cookie",
+        "shoe",
+        "train"
+    ],
+    "oomp_word_emoji": ":cookie: :shoe: :train:",
+    "oomp_word_emoji_list": [
+        ":cookie:",
+        ":shoe:",
+        ":train:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "390000",

@@ -95,6 +95,16 @@ name_no_size: 330 Ohm
 name_no_size_short: 330 Ohm
 name_no_type: 1206 330 Ohm
 oomp_key: oomp_electronic_resistor_1206_330_ohm
+oomp_word: pray cry skull
+oomp_word_emoji: ':pray: :cry: :skull:'
+oomp_word_emoji_list:
+- ':pray:'
+- ':cry:'
+- ':skull:'
+oomp_word_list:
+- pray
+- cry
+- skull
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

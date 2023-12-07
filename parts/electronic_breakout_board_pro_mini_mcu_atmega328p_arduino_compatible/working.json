@@ -240,6 +240,18 @@
     "md5_6_alpha_upper": "2LNNM",
     "md5_10": "42ad02af84",
     "md5_10_upper": "42AD02AF84",
+    "oomp_word": "sheep dress blush",
+    "oomp_word_list": [
+        "sheep",
+        "dress",
+        "blush"
+    ],
+    "oomp_word_emoji": ":sheep: :dress: :blush:",
+    "oomp_word_emoji_list": [
+        ":sheep:",
+        ":dress:",
+        ":blush:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "328",

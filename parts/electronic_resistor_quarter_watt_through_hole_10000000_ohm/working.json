@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5WCTY",
     "md5_10": "972df61d5f",
     "md5_10_upper": "972DF61D5F",
+    "oomp_word": "baseball snowman five",
+    "oomp_word_list": [
+        "baseball",
+        "snowman",
+        "five"
+    ],
+    "oomp_word_emoji": ":baseball: :snowman: :five:",
+    "oomp_word_emoji_list": [
+        ":baseball:",
+        ":snowman:",
+        ":five:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "10000000",

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "S3Q8",
     "md5_10": "1401e02c67",
     "md5_10_upper": "1401E02C67",
+    "oomp_word": "fire smile ship",
+    "oomp_word_list": [
+        "fire",
+        "smile",
+        "ship"
+    ],
+    "oomp_word_emoji": ":fire: :smile: :ship:",
+    "oomp_word_emoji_list": [
+        ":fire:",
+        ":smile:",
+        ":ship:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "7500",

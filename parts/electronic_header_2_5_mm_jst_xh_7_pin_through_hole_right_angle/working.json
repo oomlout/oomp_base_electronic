@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "8MTOF",
     "md5_10": "dd47bf215b",
     "md5_10_upper": "DD47BF215B",
+    "oomp_word": "stars baby_chick egg",
+    "oomp_word_list": [
+        "stars",
+        "baby_chick",
+        "egg"
+    ],
+    "oomp_word_emoji": ":stars: :baby_chick: :egg:",
+    "oomp_word_emoji_list": [
+        ":stars:",
+        ":baby_chick:",
+        ":egg:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "7",

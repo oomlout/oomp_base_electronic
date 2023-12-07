@@ -71,6 +71,16 @@ name_no_size: 18 Pin Surface Mount
 name_no_size_short: 18 Pin Surface Mount
 name_no_type: 2 54 Mm 18 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_54_mm_18_pin_surface_mount
+oomp_word: baby_chick wrench calendar
+oomp_word_emoji: ':baby_chick: :wrench: :calendar:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':wrench:'
+- ':calendar:'
+oomp_word_list:
+- baby_chick
+- wrench
+- calendar
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

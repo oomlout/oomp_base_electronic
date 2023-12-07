@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "94GVI",
     "md5_10": "e9d76e74a0",
     "md5_10_upper": "E9D76E74A0",
+    "oomp_word": "bike office new_moon",
+    "oomp_word_list": [
+        "bike",
+        "office",
+        "new_moon"
+    ],
+    "oomp_word_emoji": ":bike: :office: :new_moon:",
+    "oomp_word_emoji_list": [
+        ":bike:",
+        ":office:",
+        ":new_moon:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "68",

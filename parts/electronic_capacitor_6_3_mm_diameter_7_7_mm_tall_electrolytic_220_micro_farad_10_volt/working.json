@@ -74,6 +74,18 @@
     "md5_6_alpha_upper": "9W0CG",
     "md5_10": "fd72c08066",
     "md5_10_upper": "FD72C08066",
+    "oomp_word": "parking dolls bread",
+    "oomp_word_list": [
+        "parking",
+        "dolls",
+        "bread"
+    ],
+    "oomp_word_emoji": ":parking: :dolls: :bread:",
+    "oomp_word_emoji_list": [
+        ":parking:",
+        ":dolls:",
+        ":bread:"
+    ],
     "size_only_numbers": "6377",
     "size_only_numbers_no_zeros": "6377",
     "description_only_numbers": "220",

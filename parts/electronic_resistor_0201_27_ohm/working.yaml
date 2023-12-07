@@ -66,6 +66,16 @@ name_no_size: 27 Ohm
 name_no_size_short: 27 Ohm
 name_no_type: 0201 27 Ohm
 oomp_key: oomp_electronic_resistor_0201_27_ohm
+oomp_word: tractor anger pushpin
+oomp_word_emoji: ':tractor: :anger: :pushpin:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':anger:'
+- ':pushpin:'
+oomp_word_list:
+- tractor
+- anger
+- pushpin
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

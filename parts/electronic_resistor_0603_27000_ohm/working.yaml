@@ -95,6 +95,16 @@ name_no_size: 27000 Ohm
 name_no_size_short: 27k Ohm
 name_no_type: 0603 27000 Ohm
 oomp_key: oomp_electronic_resistor_0603_27000_ohm
+oomp_word: frog blowfish dragon
+oomp_word_emoji: ':frog: :blowfish: :dragon:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':blowfish:'
+- ':dragon:'
+oomp_word_list:
+- frog
+- blowfish
+- dragon
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

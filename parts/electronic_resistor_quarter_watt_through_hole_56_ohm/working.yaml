@@ -67,6 +67,16 @@ name_no_size: 56 Ohm
 name_no_size_short: 56 Ohm
 name_no_type: Quarter Watt Through Hole 56 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_56_ohm
+oomp_word: rooster cactus kiss
+oomp_word_emoji: ':rooster: :cactus: :kiss:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':cactus:'
+- ':kiss:'
+oomp_word_list:
+- rooster
+- cactus
+- kiss
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

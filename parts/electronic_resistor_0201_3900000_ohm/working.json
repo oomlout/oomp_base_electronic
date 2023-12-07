@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4IEOK",
     "md5_10": "739ed4e702",
     "md5_10_upper": "739ED4E702",
+    "oomp_word": "flags clubs corn",
+    "oomp_word_list": [
+        "flags",
+        "clubs",
+        "corn"
+    ],
+    "oomp_word_emoji": ":flags: :clubs: :corn:",
+    "oomp_word_emoji_list": [
+        ":flags:",
+        ":clubs:",
+        ":corn:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "3900000",

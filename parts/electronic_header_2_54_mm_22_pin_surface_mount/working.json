@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "8LSPN",
     "md5_10": "dc8c9bcd0b",
     "md5_10_upper": "DC8C9BCD0B",
+    "oomp_word": "factory pill ski",
+    "oomp_word_list": [
+        "factory",
+        "pill",
+        "ski"
+    ],
+    "oomp_word_emoji": ":factory: :pill: :ski:",
+    "oomp_word_emoji_list": [
+        ":factory:",
+        ":pill:",
+        ":ski:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "22",

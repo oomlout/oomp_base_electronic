@@ -67,6 +67,16 @@ name_no_size: 270000 Ohm
 name_no_size_short: 270k Ohm
 name_no_type: Quarter Watt Through Hole 270000 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_270000_ohm
+oomp_word: bird bread tomato
+oomp_word_emoji: ':bird: :bread: :tomato:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':bread:'
+- ':tomato:'
+oomp_word_list:
+- bird
+- bread
+- tomato
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

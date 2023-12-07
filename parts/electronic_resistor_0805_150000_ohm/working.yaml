@@ -67,6 +67,16 @@ name_no_size: 150000 Ohm
 name_no_size_short: 150k Ohm
 name_no_type: 0805 150000 Ohm
 oomp_key: oomp_electronic_resistor_0805_150000_ohm
+oomp_word: moon envelope dancer
+oomp_word_emoji: ':moon: :envelope: :dancer:'
+oomp_word_emoji_list:
+- ':moon:'
+- ':envelope:'
+- ':dancer:'
+oomp_word_list:
+- moon
+- envelope
+- dancer
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

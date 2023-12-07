@@ -95,6 +95,16 @@ name_no_size: 470 Ohm
 name_no_size_short: 470 Ohm
 name_no_type: 0603 470 Ohm
 oomp_key: oomp_electronic_resistor_0603_470_ohm
+oomp_word: princess maple_leaf tiger
+oomp_word_emoji: ':princess: :maple_leaf: :tiger:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':maple_leaf:'
+- ':tiger:'
+oomp_word_list:
+- princess
+- maple_leaf
+- tiger
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

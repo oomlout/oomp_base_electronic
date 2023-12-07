@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "JI16",
     "md5_10": "0de20ad15f",
     "md5_10_upper": "0DE20AD15F",
+    "oomp_word": "heart sailboat sleepy",
+    "oomp_word_list": [
+        "heart",
+        "sailboat",
+        "sleepy"
+    ],
+    "oomp_word_emoji": ":heart: :sailboat: :sleepy:",
+    "oomp_word_emoji_list": [
+        ":heart:",
+        ":sailboat:",
+        ":sleepy:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "180000",

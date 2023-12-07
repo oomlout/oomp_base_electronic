@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "4OCTR",
     "md5_10": "77daefefe9",
     "md5_10_upper": "77DAEFEFE9",
+    "oomp_word": "gift hotel truck",
+    "oomp_word_list": [
+        "gift",
+        "hotel",
+        "truck"
+    ],
+    "oomp_word_emoji": ":gift: :hotel: :truck:",
+    "oomp_word_emoji_list": [
+        ":gift:",
+        ":hotel:",
+        ":truck:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "6",

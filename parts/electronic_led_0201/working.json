@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "4HXY1",
     "md5_10": "734a19bea8",
     "md5_10_upper": "734A19BEA8",
+    "oomp_word": "flags chicken pray",
+    "oomp_word_list": [
+        "flags",
+        "chicken",
+        "pray"
+    ],
+    "oomp_word_emoji": ":flags: :chicken: :pray:",
+    "oomp_word_emoji_list": [
+        ":flags:",
+        ":chicken:",
+        ":pray:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "",

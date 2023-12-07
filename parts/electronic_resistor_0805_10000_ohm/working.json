@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "1DBUJ",
     "md5_10": "231e3bb5f9",
     "md5_10_upper": "231E3BB5F9",
+    "oomp_word": "kiss angel bear",
+    "oomp_word_list": [
+        "kiss",
+        "angel",
+        "bear"
+    ],
+    "oomp_word_emoji": ":kiss: :angel: :bear:",
+    "oomp_word_emoji_list": [
+        ":kiss:",
+        ":angel:",
+        ":bear:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "10000",

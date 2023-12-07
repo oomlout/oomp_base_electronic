@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "3LE7T",
     "md5_10": "5c1e39c020",
     "md5_10_upper": "5C1E39C020",
+    "oomp_word": "ox angel tiger",
+    "oomp_word_list": [
+        "ox",
+        "angel",
+        "tiger"
+    ],
+    "oomp_word_emoji": ":ox: :angel: :tiger:",
+    "oomp_word_emoji_list": [
+        ":ox:",
+        ":angel:",
+        ":tiger:"
+    ],
     "size_only_numbers": "28",
     "size_only_numbers_no_zeros": "28",
     "description_only_numbers": "328",

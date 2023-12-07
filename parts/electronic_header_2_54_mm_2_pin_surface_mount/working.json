@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "42WUB",
     "md5_10": "6896c34aae",
     "md5_10_upper": "6896C34AAE",
+    "oomp_word": "mushroom basketball cake",
+    "oomp_word_list": [
+        "mushroom",
+        "basketball",
+        "cake"
+    ],
+    "oomp_word_emoji": ":mushroom: :basketball: :cake:",
+    "oomp_word_emoji_list": [
+        ":mushroom:",
+        ":basketball:",
+        ":cake:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2",

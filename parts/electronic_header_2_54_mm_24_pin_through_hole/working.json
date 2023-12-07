@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9SZJP",
     "md5_10": "fb4bf5eed1",
     "md5_10_upper": "FB4BF5EED1",
+    "oomp_word": "ok penguin four",
+    "oomp_word_list": [
+        "ok",
+        "penguin",
+        "four"
+    ],
+    "oomp_word_emoji": ":ok: :penguin: :four:",
+    "oomp_word_emoji_list": [
+        ":ok:",
+        ":penguin:",
+        ":four:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "24",

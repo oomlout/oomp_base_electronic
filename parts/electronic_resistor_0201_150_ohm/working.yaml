@@ -66,6 +66,16 @@ name_no_size: 150 Ohm
 name_no_size_short: 150 Ohm
 name_no_type: 0201 150 Ohm
 oomp_key: oomp_electronic_resistor_0201_150_ohm
+oomp_word: microscope baby pizza
+oomp_word_emoji: ':microscope: :baby: :pizza:'
+oomp_word_emoji_list:
+- ':microscope:'
+- ':baby:'
+- ':pizza:'
+oomp_word_list:
+- microscope
+- baby
+- pizza
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

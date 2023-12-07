@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "75BS1",
     "md5_10": "b731e134e8",
     "md5_10_upper": "B731E134E8",
+    "oomp_word": "pizza ocean boat",
+    "oomp_word_list": [
+        "pizza",
+        "ocean",
+        "boat"
+    ],
+    "oomp_word_emoji": ":pizza: :ocean: :boat:",
+    "oomp_word_emoji_list": [
+        ":pizza:",
+        ":ocean:",
+        ":boat:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "10",

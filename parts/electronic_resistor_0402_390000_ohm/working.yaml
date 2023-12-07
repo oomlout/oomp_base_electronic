@@ -56,6 +56,16 @@ name_no_size: 390000 Ohm
 name_no_size_short: 390k Ohm
 name_no_type: 0402 390000 Ohm
 oomp_key: oomp_electronic_resistor_0402_390000_ohm
+oomp_word: umbrella racehorse chestnut
+oomp_word_emoji: ':umbrella: :racehorse: :chestnut:'
+oomp_word_emoji_list:
+- ':umbrella:'
+- ':racehorse:'
+- ':chestnut:'
+oomp_word_list:
+- umbrella
+- racehorse
+- chestnut
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

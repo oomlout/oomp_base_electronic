@@ -78,6 +78,16 @@ name_no_size: 3 Pin Ground Pin 2 12 Mega Hertz
 name_no_size_short: 3 Pin Ground Pin 2 12 Mega Hertz
 name_no_type: 3213 3 Pin Ground Pin 2 12 Mega Hertz
 oomp_key: oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
+oomp_word: camera leaves poop
+oomp_word_emoji: ':camera: :leaves: :poop:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':leaves:'
+- ':poop:'
+oomp_word_list:
+- camera
+- leaves
+- poop
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -54,6 +54,16 @@ name_no_size: 7 Pin Through Hole Long
 name_no_size_short: 7 Pin Through Hole Long
 name_no_type: 2 54 Mm 7 Pin Through Hole Long
 oomp_key: oomp_electronic_socket_2_54_mm_7_pin_through_hole_long
+oomp_word: factory fax jeans
+oomp_word_emoji: ':factory: :fax: :jeans:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':fax:'
+- ':jeans:'
+oomp_word_list:
+- factory
+- fax
+- jeans
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

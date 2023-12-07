@@ -56,6 +56,16 @@ name_no_size: 800 Point
 name_no_size_short: 800 Point
 name_no_type: 800 Point
 oomp_key: oomp_electronic_prototyping_breadboard_800_point
+oomp_word: lipstick rainbow three
+oomp_word_emoji: ':lipstick: :rainbow: :three:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':rainbow:'
+- ':three:'
+oomp_word_list:
+- lipstick
+- rainbow
+- three
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

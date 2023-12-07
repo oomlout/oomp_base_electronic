@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "4TKCO",
     "md5_10": "7b9048af56",
     "md5_10_upper": "7B9048AF56",
+    "oomp_word": "computer scissors hatched_chick",
+    "oomp_word_list": [
+        "computer",
+        "scissors",
+        "hatched_chick"
+    ],
+    "oomp_word_emoji": ":computer: :scissors: :hatched_chick:",
+    "oomp_word_emoji_list": [
+        ":computer:",
+        ":scissors:",
+        ":hatched_chick:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "560000",

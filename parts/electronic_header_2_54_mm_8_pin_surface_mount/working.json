@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "8MLR1",
     "md5_10": "dd1f9d6120",
     "md5_10_upper": "DD1F9D6120",
+    "oomp_word": "stars princess hearts",
+    "oomp_word_list": [
+        "stars",
+        "princess",
+        "hearts"
+    ],
+    "oomp_word_emoji": ":stars: :princess: :hearts:",
+    "oomp_word_emoji_list": [
+        ":stars:",
+        ":princess:",
+        ":hearts:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "8",

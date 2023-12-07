@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "4R68C",
     "md5_10": "79dc4c61a4",
     "md5_10_upper": "79DC4C61A4",
+    "oomp_word": "balloon factory turtle",
+    "oomp_word_list": [
+        "balloon",
+        "factory",
+        "turtle"
+    ],
+    "oomp_word_emoji": ":balloon: :factory: :turtle:",
+    "oomp_word_emoji_list": [
+        ":balloon:",
+        ":factory:",
+        ":turtle:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21224",

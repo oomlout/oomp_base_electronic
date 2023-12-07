@@ -67,6 +67,16 @@ name_no_size: Blue
 name_no_size_short: Blue
 name_no_type: 0402 Blue
 oomp_key: oomp_electronic_led_0402_blue
+oomp_word: lips coffee whale
+oomp_word_emoji: ':lips: :coffee: :whale:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':coffee:'
+- ':whale:'
+oomp_word_list:
+- lips
+- coffee
+- whale
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "6LKU1",
     "md5_10": "a922b947dc",
     "md5_10_upper": "A922B947DC",
+    "oomp_word": "sandal lips fries",
+    "oomp_word_list": [
+        "sandal",
+        "lips",
+        "fries"
+    ],
+    "oomp_word_emoji": ":sandal: :lips: :fries:",
+    "oomp_word_emoji_list": [
+        ":sandal:",
+        ":lips:",
+        ":fries:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "8200",

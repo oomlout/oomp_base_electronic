@@ -56,6 +56,16 @@ name_no_size: 1000000 Ohm
 name_no_size_short: 1M Ohm
 name_no_type: 0201 1000000 Ohm
 oomp_key: oomp_electronic_resistor_0201_1000000_ohm
+oomp_word: rice smile sunflower
+oomp_word_emoji: ':rice: :smile: :sunflower:'
+oomp_word_emoji_list:
+- ':rice:'
+- ':smile:'
+- ':sunflower:'
+oomp_word_list:
+- rice
+- smile
+- sunflower
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

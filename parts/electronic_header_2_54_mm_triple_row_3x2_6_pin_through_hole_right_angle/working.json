@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "3QFC6",
     "md5_10": "5fb326edca",
     "md5_10_upper": "5FB326EDCA",
+    "oomp_word": "leopard eyeglasses eyes",
+    "oomp_word_list": [
+        "leopard",
+        "eyeglasses",
+        "eyes"
+    ],
+    "oomp_word_emoji": ":leopard: :eyeglasses: :eyes:",
+    "oomp_word_emoji_list": [
+        ":leopard:",
+        ":eyeglasses:",
+        ":eyes:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "326",

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "3BYA1",
     "md5_10": "556549c3e4",
     "md5_10_upper": "556549C3E4",
+    "oomp_word": "dolphin maple_leaf hatching_chick",
+    "oomp_word_list": [
+        "dolphin",
+        "maple_leaf",
+        "hatching_chick"
+    ],
+    "oomp_word_emoji": ":dolphin: :maple_leaf: :hatching_chick:",
+    "oomp_word_emoji_list": [
+        ":dolphin:",
+        ":maple_leaf:",
+        ":hatching_chick:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "22000",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6AIUG",
     "md5_10": "a143e8d463",
     "md5_10_upper": "A143E8D463",
+    "oomp_word": "trophy elephant tram",
+    "oomp_word_list": [
+        "trophy",
+        "elephant",
+        "tram"
+    ],
+    "oomp_word_emoji": ":trophy: :elephant: :tram:",
+    "oomp_word_emoji_list": [
+        ":trophy:",
+        ":elephant:",
+        ":tram:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "6800",

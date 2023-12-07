@@ -84,6 +84,16 @@ name_no_size: 18000 Ohm
 name_no_size_short: 18k Ohm
 name_no_type: 0402 18000 Ohm
 oomp_key: oomp_electronic_resistor_0402_18000_ohm
+oomp_word: lock mushroom bath
+oomp_word_emoji: ':lock: :mushroom: :bath:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':mushroom:'
+- ':bath:'
+oomp_word_list:
+- lock
+- mushroom
+- bath
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

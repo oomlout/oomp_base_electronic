@@ -67,6 +67,16 @@ name_no_size: 1500 Ohm
 name_no_size_short: 1k5 Ohm
 name_no_type: Quarter Watt Through Hole 1500 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_1500_ohm
+oomp_word: peach leopard monkey
+oomp_word_emoji: ':peach: :leopard: :monkey:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':leopard:'
+- ':monkey:'
+oomp_word_list:
+- peach
+- leopard
+- monkey
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

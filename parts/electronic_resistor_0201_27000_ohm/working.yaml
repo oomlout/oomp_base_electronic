@@ -66,6 +66,16 @@ name_no_size: 27000 Ohm
 name_no_size_short: 27k Ohm
 name_no_type: 0201 27000 Ohm
 oomp_key: oomp_electronic_resistor_0201_27000_ohm
+oomp_word: baby bank dolls
+oomp_word_emoji: ':baby: :bank: :dolls:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':bank:'
+- ':dolls:'
+oomp_word_list:
+- baby
+- bank
+- dolls
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

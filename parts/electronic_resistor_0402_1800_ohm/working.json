@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "42PX0",
     "md5_10": "6873b430fb",
     "md5_10_upper": "6873B430FB",
+    "oomp_word": "mushroom flags coffee",
+    "oomp_word_list": [
+        "mushroom",
+        "flags",
+        "coffee"
+    ],
+    "oomp_word_emoji": ":mushroom: :flags: :coffee:",
+    "oomp_word_emoji_list": [
+        ":mushroom:",
+        ":flags:",
+        ":coffee:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "1800",

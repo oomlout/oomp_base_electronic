@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "5JKB",
     "md5_10": "03f24bf7f8",
     "md5_10_upper": "03F24BF7F8",
+    "oomp_word": "grin one penguin",
+    "oomp_word_list": [
+        "grin",
+        "one",
+        "penguin"
+    ],
+    "oomp_word_emoji": ":grin: :one: :penguin:",
+    "oomp_word_emoji_list": [
+        ":grin:",
+        ":one:",
+        ":penguin:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "17",

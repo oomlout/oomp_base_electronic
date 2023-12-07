@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3K2GY",
     "md5_10": "5b2c823d85",
     "md5_10_upper": "5B2C823D85",
+    "oomp_word": "rooster snowflake radio",
+    "oomp_word_list": [
+        "rooster",
+        "snowflake",
+        "radio"
+    ],
+    "oomp_word_emoji": ":rooster: :snowflake: :radio:",
+    "oomp_word_emoji_list": [
+        ":rooster:",
+        ":snowflake:",
+        ":radio:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "9",

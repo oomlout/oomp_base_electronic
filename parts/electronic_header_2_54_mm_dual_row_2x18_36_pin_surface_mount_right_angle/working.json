@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "8MU9O",
     "md5_10": "dd4abc903d",
     "md5_10_upper": "DD4ABC903D",
+    "oomp_word": "stars chicken sushi",
+    "oomp_word_list": [
+        "stars",
+        "chicken",
+        "sushi"
+    ],
+    "oomp_word_emoji": ":stars: :chicken: :sushi:",
+    "oomp_word_emoji_list": [
+        ":stars:",
+        ":chicken:",
+        ":sushi:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21836",

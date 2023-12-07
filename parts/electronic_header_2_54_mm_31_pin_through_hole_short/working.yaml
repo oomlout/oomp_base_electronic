@@ -64,6 +64,16 @@ name_no_size: 31 Pin Through Hole Short
 name_no_size_short: 31 Pin Through Hole Short
 name_no_type: 2 54 Mm 31 Pin Through Hole Short
 oomp_key: oomp_electronic_header_2_54_mm_31_pin_through_hole_short
+oomp_word: ram turtle angel
+oomp_word_emoji: ':ram: :turtle: :angel:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':turtle:'
+- ':angel:'
+oomp_word_list:
+- ram
+- turtle
+- angel
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

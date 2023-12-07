@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "2XYA2",
     "md5_10": "4b6dca7b1e",
     "md5_10_upper": "4B6DCA7B1E",
+    "oomp_word": "penguin shell cherries",
+    "oomp_word_list": [
+        "penguin",
+        "shell",
+        "cherries"
+    ],
+    "oomp_word_emoji": ":penguin: :shell: :cherries:",
+    "oomp_word_emoji_list": [
+        ":penguin:",
+        ":shell:",
+        ":cherries:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2510",

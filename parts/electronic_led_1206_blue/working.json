@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "71I94",
     "md5_10": "b479a89f58",
     "md5_10_upper": "B479A89F58",
+    "oomp_word": "coffee balloon shoe",
+    "oomp_word_list": [
+        "coffee",
+        "balloon",
+        "shoe"
+    ],
+    "oomp_word_emoji": ":coffee: :balloon: :shoe:",
+    "oomp_word_emoji_list": [
+        ":coffee:",
+        ":balloon:",
+        ":shoe:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "",

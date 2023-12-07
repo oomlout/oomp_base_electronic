@@ -54,6 +54,16 @@ name_no_size: 14 Pin Through Hole Long
 name_no_size_short: 14 Pin Through Hole Long
 name_no_type: 2 54 Mm 14 Pin Through Hole Long
 oomp_key: oomp_electronic_socket_2_54_mm_14_pin_through_hole_long
+oomp_word: kiss speaker cry
+oomp_word_emoji: ':kiss: :speaker: :cry:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':speaker:'
+- ':cry:'
+oomp_word_list:
+- kiss
+- speaker
+- cry
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

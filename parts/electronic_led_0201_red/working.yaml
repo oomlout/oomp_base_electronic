@@ -67,6 +67,16 @@ name_no_size: Red
 name_no_size_short: Red
 name_no_type: 0201 Red
 oomp_key: oomp_electronic_led_0201_red
+oomp_word: sleepy leopard eyeglasses
+oomp_word_emoji: ':sleepy: :leopard: :eyeglasses:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':leopard:'
+- ':eyeglasses:'
+oomp_word_list:
+- sleepy
+- leopard
+- eyeglasses
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

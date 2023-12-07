@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "9ENS5",
     "md5_10": "f118e512fa",
     "md5_10_upper": "F118E512FA",
+    "oomp_word": "ticket hand rocket",
+    "oomp_word_list": [
+        "ticket",
+        "hand",
+        "rocket"
+    ],
+    "oomp_word_emoji": ":ticket: :hand: :rocket:",
+    "oomp_word_emoji_list": [
+        ":ticket:",
+        ":hand:",
+        ":rocket:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "23672",

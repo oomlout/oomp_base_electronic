@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "99A0S",
     "md5_10": "ed43fc9f13",
     "md5_10_upper": "ED43FC9F13",
+    "oomp_word": "bus elephant up",
+    "oomp_word_list": [
+        "bus",
+        "elephant",
+        "up"
+    ],
+    "oomp_word_emoji": ":bus: :elephant: :up:",
+    "oomp_word_emoji_list": [
+        ":bus:",
+        ":elephant:",
+        ":up:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "22",

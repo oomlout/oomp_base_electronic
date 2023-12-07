@@ -150,6 +150,18 @@
     "md5_6_alpha_upper": "48IQI",
     "md5_10": "6c94dab527",
     "md5_10_upper": "6C94DAB527",
+    "oomp_word": "blossom microscope hotel",
+    "oomp_word_list": [
+        "blossom",
+        "microscope",
+        "hotel"
+    ],
+    "oomp_word_emoji": ":blossom: :microscope: :hotel:",
+    "oomp_word_emoji_list": [
+        ":blossom:",
+        ":microscope:",
+        ":hotel:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "",

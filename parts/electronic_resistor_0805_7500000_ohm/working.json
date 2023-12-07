@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "6M6RW",
     "md5_10": "a991cc77f4",
     "md5_10_upper": "A991CC77F4",
+    "oomp_word": "sandal pushpin watermelon",
+    "oomp_word_list": [
+        "sandal",
+        "pushpin",
+        "watermelon"
+    ],
+    "oomp_word_emoji": ":sandal: :pushpin: :watermelon:",
+    "oomp_word_emoji_list": [
+        ":sandal:",
+        ":pushpin:",
+        ":watermelon:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "7500000",

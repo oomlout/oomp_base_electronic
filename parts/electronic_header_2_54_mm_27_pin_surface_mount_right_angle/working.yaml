@@ -64,6 +64,16 @@ name_no_size: 27 Pin Surface Mount Right Angle
 name_no_size_short: 27 Pin Surface Mount Right Angle
 name_no_type: 2 54 Mm 27 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_2_54_mm_27_pin_surface_mount_right_angle
+oomp_word: bowtie spades palm_tree
+oomp_word_emoji: ':bowtie: :spades: :palm_tree:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':spades:'
+- ':palm_tree:'
+oomp_word_list:
+- bowtie
+- spades
+- palm_tree
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -75,6 +75,16 @@ name_no_size: 29 Pin Through Hole
 name_no_size_short: 29 Pin Through Hole
 name_no_type: 2 54 Mm 29 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_29_pin_through_hole
+oomp_word: coffee wolf candy
+oomp_word_emoji: ':coffee: :wolf: :candy:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':wolf:'
+- ':candy:'
+oomp_word_list:
+- coffee
+- wolf
+- candy
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

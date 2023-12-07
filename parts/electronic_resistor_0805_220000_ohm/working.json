@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "8FREN",
     "md5_10": "d8407f7f09",
     "md5_10_upper": "D8407F7F09",
+    "oomp_word": "hospital racehorse speaker",
+    "oomp_word_list": [
+        "hospital",
+        "racehorse",
+        "speaker"
+    ],
+    "oomp_word_emoji": ":hospital: :racehorse: :speaker:",
+    "oomp_word_emoji_list": [
+        ":hospital:",
+        ":racehorse:",
+        ":speaker:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "220000",

@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "4MJT4",
     "md5_10": "7691c8dbc3",
     "md5_10_upper": "7691C8DBC3",
+    "oomp_word": "santa pushpin apple",
+    "oomp_word_list": [
+        "santa",
+        "pushpin",
+        "apple"
+    ],
+    "oomp_word_emoji": ":santa: :pushpin: :apple:",
+    "oomp_word_emoji_list": [
+        ":santa:",
+        ":pushpin:",
+        ":apple:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "",

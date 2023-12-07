@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "88PK4",
     "md5_10": "d33b648a8a",
     "md5_10_upper": "D33B648A8A",
+    "oomp_word": "tomato bear sunflower",
+    "oomp_word_list": [
+        "tomato",
+        "bear",
+        "sunflower"
+    ],
+    "oomp_word_emoji": ":tomato: :bear: :sunflower:",
+    "oomp_word_emoji_list": [
+        ":tomato:",
+        ":bear:",
+        ":sunflower:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "",

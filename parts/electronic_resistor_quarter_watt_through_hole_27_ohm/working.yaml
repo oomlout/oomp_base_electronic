@@ -67,6 +67,16 @@ name_no_size: 27 Ohm
 name_no_size_short: 27 Ohm
 name_no_type: Quarter Watt Through Hole 27 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_27_ohm
+oomp_word: tennis hatching_chick herb
+oomp_word_emoji: ':tennis: :hatching_chick: :herb:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':hatching_chick:'
+- ':herb:'
+oomp_word_list:
+- tennis
+- hatching_chick
+- herb
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

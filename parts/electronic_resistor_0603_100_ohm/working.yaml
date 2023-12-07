@@ -95,6 +95,16 @@ name_no_size: 100 Ohm
 name_no_size_short: 100 Ohm
 name_no_type: 0603 100 Ohm
 oomp_key: oomp_electronic_resistor_0603_100_ohm
+oomp_word: ram sleepy golf
+oomp_word_emoji: ':ram: :sleepy: :golf:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':sleepy:'
+- ':golf:'
+oomp_word_list:
+- ram
+- sleepy
+- golf
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -111,6 +111,18 @@
     "md5_6_alpha_upper": "224LC",
     "md5_10": "34c5c0be33",
     "md5_10_upper": "34C5C0BE33",
+    "oomp_word": "mouse candy bread",
+    "oomp_word_list": [
+        "mouse",
+        "candy",
+        "bread"
+    ],
+    "oomp_word_emoji": ":mouse: :candy: :bread:",
+    "oomp_word_emoji_list": [
+        ":mouse:",
+        ":candy:",
+        ":bread:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "",

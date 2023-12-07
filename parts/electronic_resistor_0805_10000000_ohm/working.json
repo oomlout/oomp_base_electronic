@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "AW32",
     "md5_10": "07c0ee9099",
     "md5_10_upper": "07C0EE9099",
+    "oomp_word": "cry bread ambulance",
+    "oomp_word_list": [
+        "cry",
+        "bread",
+        "ambulance"
+    ],
+    "oomp_word_emoji": ":cry: :bread: :ambulance:",
+    "oomp_word_emoji_list": [
+        ":cry:",
+        ":bread:",
+        ":ambulance:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "10000000",

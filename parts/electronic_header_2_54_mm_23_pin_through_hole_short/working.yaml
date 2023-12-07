@@ -64,6 +64,16 @@ name_no_size: 23 Pin Through Hole Short
 name_no_size_short: 23 Pin Through Hole Short
 name_no_type: 2 54 Mm 23 Pin Through Hole Short
 oomp_key: oomp_electronic_header_2_54_mm_23_pin_through_hole_short
+oomp_word: tulip baseball maple_leaf
+oomp_word_emoji: ':tulip: :baseball: :maple_leaf:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':baseball:'
+- ':maple_leaf:'
+oomp_word_list:
+- tulip
+- baseball
+- maple_leaf
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

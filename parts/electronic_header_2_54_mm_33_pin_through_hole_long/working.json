@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9ETU4",
     "md5_10": "f1378c7b29",
     "md5_10_upper": "F1378C7B29",
+    "oomp_word": "ticket wolf pill",
+    "oomp_word_list": [
+        "ticket",
+        "wolf",
+        "pill"
+    ],
+    "oomp_word_emoji": ":ticket: :wolf: :pill:",
+    "oomp_word_emoji_list": [
+        ":ticket:",
+        ":wolf:",
+        ":pill:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "33",

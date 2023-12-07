@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "7M89T",
     "md5_10": "c33a61c68a",
     "md5_10_upper": "C33A61C68A",
+    "oomp_word": "cake koala bouquet",
+    "oomp_word_list": [
+        "cake",
+        "koala",
+        "bouquet"
+    ],
+    "oomp_word_emoji": ":cake: :koala: :bouquet:",
+    "oomp_word_emoji_list": [
+        ":cake:",
+        ":koala:",
+        ":bouquet:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "22",

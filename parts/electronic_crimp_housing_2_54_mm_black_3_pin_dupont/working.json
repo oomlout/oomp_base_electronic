@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "8CYNV",
     "md5_10": "d6427b7878",
     "md5_10_upper": "D6427B7878",
+    "oomp_word": "school sheep computer",
+    "oomp_word_list": [
+        "school",
+        "sheep",
+        "computer"
+    ],
+    "oomp_word_emoji": ":school: :sheep: :computer:",
+    "oomp_word_emoji_list": [
+        ":school:",
+        ":sheep:",
+        ":computer:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3",

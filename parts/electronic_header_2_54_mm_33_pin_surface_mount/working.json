@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "6ZSIN",
     "md5_10": "b3411fd0ad",
     "md5_10_upper": "B3411FD0AD",
+    "oomp_word": "eyeglasses camel princess",
+    "oomp_word_list": [
+        "eyeglasses",
+        "camel",
+        "princess"
+    ],
+    "oomp_word_emoji": ":eyeglasses: :camel: :princess:",
+    "oomp_word_emoji_list": [
+        ":eyeglasses:",
+        ":camel:",
+        ":princess:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "33",

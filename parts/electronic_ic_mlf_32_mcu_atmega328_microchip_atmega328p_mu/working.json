@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "8DHZ9",
     "md5_10": "d6a4452edc",
     "md5_10_upper": "D6A4452EDC",
+    "oomp_word": "school book snake",
+    "oomp_word_list": [
+        "school",
+        "book",
+        "snake"
+    ],
+    "oomp_word_emoji": ":school: :book: :snake:",
+    "oomp_word_emoji_list": [
+        ":school:",
+        ":book:",
+        ":snake:"
+    ],
     "size_only_numbers": "32",
     "size_only_numbers_no_zeros": "32",
     "description_only_numbers": "328",

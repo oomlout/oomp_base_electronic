@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "1021H",
     "md5_10": "19ab553b1c",
     "md5_10_upper": "19AB553B1C",
+    "oomp_word": "pray boot dolphin",
+    "oomp_word_list": [
+        "pray",
+        "boot",
+        "dolphin"
+    ],
+    "oomp_word_emoji": ":pray: :boot: :dolphin:",
+    "oomp_word_emoji_list": [
+        ":pray:",
+        ":boot:",
+        ":dolphin:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "1200000",

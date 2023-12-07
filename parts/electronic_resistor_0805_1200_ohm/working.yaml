@@ -95,6 +95,16 @@ name_no_size: 1200 Ohm
 name_no_size_short: 1k2 Ohm
 name_no_type: 0805 1200 Ohm
 oomp_key: oomp_electronic_resistor_0805_1200_ohm
+oomp_word: lipstick cyclone door
+oomp_word_emoji: ':lipstick: :cyclone: :door:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':cyclone:'
+- ':door:'
+oomp_word_list:
+- lipstick
+- cyclone
+- door
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

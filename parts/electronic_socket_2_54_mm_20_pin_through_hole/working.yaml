@@ -54,6 +54,16 @@ name_no_size: 20 Pin Through Hole
 name_no_size_short: 20 Pin Through Hole
 name_no_type: 2 54 Mm 20 Pin Through Hole
 oomp_key: oomp_electronic_socket_2_54_mm_20_pin_through_hole
+oomp_word: hatched_chick paperclip speaker
+oomp_word_emoji: ':hatched_chick: :paperclip: :speaker:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':paperclip:'
+- ':speaker:'
+oomp_word_list:
+- hatched_chick
+- paperclip
+- speaker
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

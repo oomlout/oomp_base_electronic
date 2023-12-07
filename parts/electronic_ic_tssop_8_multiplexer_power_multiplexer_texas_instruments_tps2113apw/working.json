@@ -116,6 +116,18 @@
     "md5_6_alpha_upper": "4WE3C",
     "md5_10": "7d9358577c",
     "md5_10_upper": "7D9358577C",
+    "oomp_word": "phone books water_buffalo",
+    "oomp_word_list": [
+        "phone",
+        "books",
+        "water_buffalo"
+    ],
+    "oomp_word_emoji": ":phone: :books: :water_buffalo:",
+    "oomp_word_emoji_list": [
+        ":phone:",
+        ":books:",
+        ":water_buffalo:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "",

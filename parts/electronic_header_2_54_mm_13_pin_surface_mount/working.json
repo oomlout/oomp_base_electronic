@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "92K01",
     "md5_10": "e87ac11f6c",
     "md5_10_upper": "E87AC11F6C",
+    "oomp_word": "tram camera doughnut",
+    "oomp_word_list": [
+        "tram",
+        "camera",
+        "doughnut"
+    ],
+    "oomp_word_emoji": ":tram: :camera: :doughnut:",
+    "oomp_word_emoji_list": [
+        ":tram:",
+        ":camera:",
+        ":doughnut:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "13",

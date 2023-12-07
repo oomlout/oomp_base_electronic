@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "2ZSJO",
     "md5_10": "4cbd4494f0",
     "md5_10_upper": "4CBD4494F0",
+    "oomp_word": "turtle rice panda_face",
+    "oomp_word_list": [
+        "turtle",
+        "rice",
+        "panda_face"
+    ],
+    "oomp_word_emoji": ":turtle: :rice: :panda_face:",
+    "oomp_word_emoji_list": [
+        ":turtle:",
+        ":rice:",
+        ":panda_face:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "750000",

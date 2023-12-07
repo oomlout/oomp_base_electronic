@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "6BF8S",
     "md5_10": "a1e7ec3f79",
     "md5_10_upper": "A1E7EC3F79",
+    "oomp_word": "trophy helicopter taxi",
+    "oomp_word_list": [
+        "trophy",
+        "helicopter",
+        "taxi"
+    ],
+    "oomp_word_emoji": ":trophy: :helicopter: :taxi:",
+    "oomp_word_emoji_list": [
+        ":trophy:",
+        ":helicopter:",
+        ":taxi:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "75000",

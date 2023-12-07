@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "9OWSV",
     "md5_10": "f8650f316b",
     "md5_10_upper": "F8650F316B",
+    "oomp_word": "seven maple_leaf sparkles",
+    "oomp_word_list": [
+        "seven",
+        "maple_leaf",
+        "sparkles"
+    ],
+    "oomp_word_emoji": ":seven: :maple_leaf: :sparkles:",
+    "oomp_word_emoji_list": [
+        ":seven:",
+        ":maple_leaf:",
+        ":sparkles:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "3",

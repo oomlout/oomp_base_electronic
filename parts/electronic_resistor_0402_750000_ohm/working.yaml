@@ -56,6 +56,16 @@ name_no_size: 750000 Ohm
 name_no_size_short: 750k Ohm
 name_no_type: 0402 750000 Ohm
 oomp_key: oomp_electronic_resistor_0402_750000_ohm
+oomp_word: turtle rice panda_face
+oomp_word_emoji: ':turtle: :rice: :panda_face:'
+oomp_word_emoji_list:
+- ':turtle:'
+- ':rice:'
+- ':panda_face:'
+oomp_word_list:
+- turtle
+- rice
+- panda_face
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

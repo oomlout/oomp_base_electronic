@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "405DR",
     "md5_10": "669f3f1f1b",
     "md5_10_upper": "669F3F1F1B",
+    "oomp_word": "leaves diamonds horse",
+    "oomp_word_list": [
+        "leaves",
+        "diamonds",
+        "horse"
+    ],
+    "oomp_word_emoji": ":leaves: :diamonds: :horse:",
+    "oomp_word_emoji_list": [
+        ":leaves:",
+        ":diamonds:",
+        ":horse:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "18000",

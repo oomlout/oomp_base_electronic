@@ -60,6 +60,16 @@ name_no_size: 10 Pin Surface Mount
 name_no_size_short: 10 Pin Surface Mount
 name_no_type: 1 Mm Jst Sh 10 Pin Surface Mount
 oomp_key: oomp_electronic_header_1_mm_jst_sh_10_pin_surface_mount
+oomp_word: candy goat elephant
+oomp_word_emoji: ':candy: :goat: :elephant:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':goat:'
+- ':elephant:'
+oomp_word_list:
+- candy
+- goat
+- elephant
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

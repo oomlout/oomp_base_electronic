@@ -75,6 +75,16 @@ name_no_size: 14 Pin Through Hole
 name_no_size_short: 14 Pin Through Hole
 name_no_type: 2 54 Mm 14 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_14_pin_through_hole
+oomp_word: poodle shell fish
+oomp_word_emoji: ':poodle: :shell: :fish:'
+oomp_word_emoji_list:
+- ':poodle:'
+- ':shell:'
+- ':fish:'
+oomp_word_list:
+- poodle
+- shell
+- fish
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -67,6 +67,16 @@ name_no_size: 1800 Ohm
 name_no_size_short: 1k8 Ohm
 name_no_type: Quarter Watt Through Hole 1800 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_1800_ohm
+oomp_word: blossom four kiss
+oomp_word_emoji: ':blossom: :four: :kiss:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':four:'
+- ':kiss:'
+oomp_word_list:
+- blossom
+- four
+- kiss
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

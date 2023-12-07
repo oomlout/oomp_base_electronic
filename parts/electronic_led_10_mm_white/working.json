@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "3B67W",
     "md5_10": "54d73c94ea",
     "md5_10_upper": "54D73C94EA",
+    "oomp_word": "whale office pig",
+    "oomp_word_list": [
+        "whale",
+        "office",
+        "pig"
+    ],
+    "oomp_word_emoji": ":whale: :office: :pig:",
+    "oomp_word_emoji_list": [
+        ":whale:",
+        ":office:",
+        ":pig:"
+    ],
     "size_only_numbers": "10",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "",

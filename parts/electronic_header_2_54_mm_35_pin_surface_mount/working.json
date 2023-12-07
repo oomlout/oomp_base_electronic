@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "7OEJN",
     "md5_10": "c4c6a36cc6",
     "md5_10_upper": "C4C6A36CC6",
+    "oomp_word": "cookie lollipop pencil",
+    "oomp_word_list": [
+        "cookie",
+        "lollipop",
+        "pencil"
+    ],
+    "oomp_word_emoji": ":cookie: :lollipop: :pencil:",
+    "oomp_word_emoji_list": [
+        ":cookie:",
+        ":lollipop:",
+        ":pencil:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "35",

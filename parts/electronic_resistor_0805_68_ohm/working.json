@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "2A1AW",
     "md5_10": "3a67184bfa",
     "md5_10_upper": "3A67184BFA",
+    "oomp_word": "koala herb hand",
+    "oomp_word_list": [
+        "koala",
+        "herb",
+        "hand"
+    ],
+    "oomp_word_emoji": ":koala: :herb: :hand:",
+    "oomp_word_emoji_list": [
+        ":koala:",
+        ":herb:",
+        ":hand:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "68",

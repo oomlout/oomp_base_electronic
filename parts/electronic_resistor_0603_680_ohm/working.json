@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "588P",
     "md5_10": "03b8f9275e",
     "md5_10_upper": "03B8F9275E",
+    "oomp_word": "grin hamburger eight",
+    "oomp_word_list": [
+        "grin",
+        "hamburger",
+        "eight"
+    ],
+    "oomp_word_emoji": ":grin: :hamburger: :eight:",
+    "oomp_word_emoji_list": [
+        ":grin:",
+        ":hamburger:",
+        ":eight:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "680",

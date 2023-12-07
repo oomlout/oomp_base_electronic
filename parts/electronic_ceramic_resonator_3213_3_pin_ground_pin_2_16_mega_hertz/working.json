@@ -81,6 +81,18 @@
     "md5_6_alpha_upper": "971YZ",
     "md5_10": "ebaebba3b2",
     "md5_10_upper": "EBAEBBA3B2",
+    "oomp_word": "car jeans curry",
+    "oomp_word_list": [
+        "car",
+        "jeans",
+        "curry"
+    ],
+    "oomp_word_emoji": ":car: :jeans: :curry:",
+    "oomp_word_emoji_list": [
+        ":car:",
+        ":jeans:",
+        ":curry:"
+    ],
     "size_only_numbers": "3213",
     "size_only_numbers_no_zeros": "3213",
     "description_only_numbers": "16",

@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "KS6X",
     "md5_10": "0ecbb9db26",
     "md5_10_upper": "0ECBB9DB26",
+    "oomp_word": "cupid grapes fries",
+    "oomp_word_list": [
+        "cupid",
+        "grapes",
+        "fries"
+    ],
+    "oomp_word_emoji": ":cupid: :grapes: :fries:",
+    "oomp_word_emoji_list": [
+        ":cupid:",
+        ":grapes:",
+        ":fries:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "326",

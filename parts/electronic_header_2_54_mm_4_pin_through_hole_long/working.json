@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3RBMH",
     "md5_10": "6056993482",
     "md5_10_upper": "6056993482",
+    "oomp_word": "poodle ram bowling",
+    "oomp_word_list": [
+        "poodle",
+        "ram",
+        "bowling"
+    ],
+    "oomp_word_emoji": ":poodle: :ram: :bowling:",
+    "oomp_word_emoji_list": [
+        ":poodle:",
+        ":ram:",
+        ":bowling:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "4",

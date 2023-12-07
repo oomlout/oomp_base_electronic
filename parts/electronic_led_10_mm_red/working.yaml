@@ -67,6 +67,16 @@ name_no_size: Red
 name_no_size_short: Red
 name_no_type: 10 Mm Red
 oomp_key: oomp_electronic_led_10_mm_red
+oomp_word: two ambulance mouse
+oomp_word_emoji: ':two: :ambulance: :mouse:'
+oomp_word_emoji_list:
+- ':two:'
+- ':ambulance:'
+- ':mouse:'
+oomp_word_list:
+- two
+- ambulance
+- mouse
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

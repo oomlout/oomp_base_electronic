@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "16BV1",
     "md5_10": "1e228d96d2",
     "md5_10_upper": "1E228D96D2",
+    "oomp_word": "angel lips scroll",
+    "oomp_word_list": [
+        "angel",
+        "lips",
+        "scroll"
+    ],
+    "oomp_word_emoji": ":angel: :lips: :scroll:",
+    "oomp_word_emoji_list": [
+        ":angel:",
+        ":lips:",
+        ":scroll:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "560",

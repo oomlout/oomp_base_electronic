@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "6ZCDA",
     "md5_10": "b2ef5e80cc",
     "md5_10_upper": "B2EF5E80CC",
+    "oomp_word": "handbag truck crocodile",
+    "oomp_word_list": [
+        "handbag",
+        "truck",
+        "crocodile"
+    ],
+    "oomp_word_emoji": ":handbag: :truck: :crocodile:",
+    "oomp_word_emoji_list": [
+        ":handbag:",
+        ":truck:",
+        ":crocodile:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "2",

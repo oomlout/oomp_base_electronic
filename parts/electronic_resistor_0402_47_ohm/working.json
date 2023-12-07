@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "8UNTG",
     "md5_10": "e2dc145888",
     "md5_10_upper": "E2DC145888",
+    "oomp_word": "sailboat factory fire",
+    "oomp_word_list": [
+        "sailboat",
+        "factory",
+        "fire"
+    ],
+    "oomp_word_emoji": ":sailboat: :factory: :fire:",
+    "oomp_word_emoji_list": [
+        ":sailboat:",
+        ":factory:",
+        ":fire:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "47",

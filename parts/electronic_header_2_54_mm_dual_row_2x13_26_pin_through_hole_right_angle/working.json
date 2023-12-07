@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "25ZZK",
     "md5_10": "378770686c",
     "md5_10_upper": "378770686C",
+    "oomp_word": "wolf toilet squirrel",
+    "oomp_word_list": [
+        "wolf",
+        "toilet",
+        "squirrel"
+    ],
+    "oomp_word_emoji": ":wolf: :toilet: :squirrel:",
+    "oomp_word_emoji_list": [
+        ":wolf:",
+        ":toilet:",
+        ":squirrel:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21326",

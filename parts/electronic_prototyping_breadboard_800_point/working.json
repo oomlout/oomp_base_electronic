@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6O0L0",
     "md5_10": "aadef41e4c",
     "md5_10_upper": "AADEF41E4C",
+    "oomp_word": "lipstick rainbow three",
+    "oomp_word_list": [
+        "lipstick",
+        "rainbow",
+        "three"
+    ],
+    "oomp_word_emoji": ":lipstick: :rainbow: :three:",
+    "oomp_word_emoji_list": [
+        ":lipstick:",
+        ":rainbow:",
+        ":three:"
+    ],
     "size_only_numbers": "800",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "",

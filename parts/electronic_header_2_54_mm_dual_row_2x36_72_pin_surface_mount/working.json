@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "7YWTB",
     "md5_10": "cc419fa879",
     "md5_10_upper": "CC419FA879",
+    "oomp_word": "watermelon camel diamonds",
+    "oomp_word_list": [
+        "watermelon",
+        "camel",
+        "diamonds"
+    ],
+    "oomp_word_emoji": ":watermelon: :camel: :diamonds:",
+    "oomp_word_emoji_list": [
+        ":watermelon:",
+        ":camel:",
+        ":diamonds:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "23672",

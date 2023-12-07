@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8YK15",
     "md5_10": "e5a1e99f56",
     "md5_10_upper": "E5A1E99F56",
+    "oomp_word": "rocket trophy bike",
+    "oomp_word_list": [
+        "rocket",
+        "trophy",
+        "bike"
+    ],
+    "oomp_word_emoji": ":rocket: :trophy: :bike:",
+    "oomp_word_emoji_list": [
+        ":rocket:",
+        ":trophy:",
+        ":bike:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "470000",

@@ -67,6 +67,16 @@ name_no_size: 7500 Ohm
 name_no_size_short: 7k5 Ohm
 name_no_type: 0805 7500 Ohm
 oomp_key: oomp_electronic_resistor_0805_7500_ohm
+oomp_word: fire smile ship
+oomp_word_emoji: ':fire: :smile: :ship:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':smile:'
+- ':ship:'
+oomp_word_list:
+- fire
+- smile
+- ship
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

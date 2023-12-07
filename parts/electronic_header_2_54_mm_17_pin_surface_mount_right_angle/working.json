@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "8DKH7",
     "md5_10": "d6b0eb7368",
     "md5_10_upper": "D6B0EB7368",
+    "oomp_word": "school crown car",
+    "oomp_word_list": [
+        "school",
+        "crown",
+        "car"
+    ],
+    "oomp_word_emoji": ":school: :crown: :car:",
+    "oomp_word_emoji_list": [
+        ":school:",
+        ":crown:",
+        ":car:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "17",

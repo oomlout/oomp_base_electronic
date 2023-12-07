@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "E13E",
     "md5_10": "09fd0af726",
     "md5_10_upper": "09FD0AF726",
+    "oomp_word": "angry parking sleepy",
+    "oomp_word_list": [
+        "angry",
+        "parking",
+        "sleepy"
+    ],
+    "oomp_word_emoji": ":angry: :parking: :sleepy:",
+    "oomp_word_emoji_list": [
+        ":angry:",
+        ":parking:",
+        ":sleepy:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21734",

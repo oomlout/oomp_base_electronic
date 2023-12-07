@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "4J2J9",
     "md5_10": "74179563c2",
     "md5_10_upper": "74179563C2",
+    "oomp_word": "fireworks thumbsdown telescope",
+    "oomp_word_list": [
+        "fireworks",
+        "thumbsdown",
+        "telescope"
+    ],
+    "oomp_word_emoji": ":fireworks: :thumbsdown: :telescope:",
+    "oomp_word_emoji_list": [
+        ":fireworks:",
+        ":thumbsdown:",
+        ":telescope:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "120000",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "33HDM",
     "md5_10": "4f5dba4f5b",
     "md5_10_upper": "4F5DBA4F5B",
+    "oomp_word": "ant blowfish spaghetti",
+    "oomp_word_list": [
+        "ant",
+        "blowfish",
+        "spaghetti"
+    ],
+    "oomp_word_emoji": ":ant: :blowfish: :spaghetti:",
+    "oomp_word_emoji_list": [
+        ":ant:",
+        ":blowfish:",
+        ":spaghetti:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "3",

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "9FROD",
     "md5_10": "f1e2dddaa7",
     "md5_10_upper": "F1E2DDDAA7",
+    "oomp_word": "ticket sailboat stars",
+    "oomp_word_list": [
+        "ticket",
+        "sailboat",
+        "stars"
+    ],
+    "oomp_word_emoji": ":ticket: :sailboat: :stars:",
+    "oomp_word_emoji_list": [
+        ":ticket:",
+        ":sailboat:",
+        ":stars:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "27000",

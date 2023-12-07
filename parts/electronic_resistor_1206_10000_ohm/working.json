@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "2O27T",
     "md5_10": "4463392d1b",
     "md5_10_upper": "4463392D1B",
+    "oomp_word": "panda_face rose tiger",
+    "oomp_word_list": [
+        "panda_face",
+        "rose",
+        "tiger"
+    ],
+    "oomp_word_emoji": ":panda_face: :rose: :tiger:",
+    "oomp_word_emoji_list": [
+        ":panda_face:",
+        ":rose:",
+        ":tiger:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "10000",

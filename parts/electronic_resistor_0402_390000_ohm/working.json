@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "1NCKR",
     "md5_10": "2a406bdba3",
     "md5_10_upper": "2A406BDBA3",
+    "oomp_word": "umbrella racehorse chestnut",
+    "oomp_word_list": [
+        "umbrella",
+        "racehorse",
+        "chestnut"
+    ],
+    "oomp_word_emoji": ":umbrella: :racehorse: :chestnut:",
+    "oomp_word_emoji_list": [
+        ":umbrella:",
+        ":racehorse:",
+        ":chestnut:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "390000",

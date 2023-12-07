@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "8EUQC",
     "md5_10": "d79b14e343",
     "md5_10_upper": "D79B14E343",
+    "oomp_word": "office ski fire",
+    "oomp_word_list": [
+        "office",
+        "ski",
+        "fire"
+    ],
+    "oomp_word_emoji": ":office: :ski: :fire:",
+    "oomp_word_emoji_list": [
+        ":office:",
+        ":ski:",
+        ":fire:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "75",

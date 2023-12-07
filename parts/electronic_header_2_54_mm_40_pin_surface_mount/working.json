@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "139I4",
     "md5_10": "1bf3dc46bd",
     "md5_10_upper": "1BF3DC46BD",
+    "oomp_word": "muscle two factory",
+    "oomp_word_list": [
+        "muscle",
+        "two",
+        "factory"
+    ],
+    "oomp_word_emoji": ":muscle: :two: :factory:",
+    "oomp_word_emoji_list": [
+        ":muscle:",
+        ":two:",
+        ":factory:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "40",

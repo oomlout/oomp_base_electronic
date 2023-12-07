@@ -84,6 +84,16 @@ name_no_size: 27 Ohm
 name_no_size_short: 27 Ohm
 name_no_type: 0402 27 Ohm
 oomp_key: oomp_electronic_resistor_0402_27_ohm
+oomp_word: grin bus pencil
+oomp_word_emoji: ':grin: :bus: :pencil:'
+oomp_word_emoji_list:
+- ':grin:'
+- ':bus:'
+- ':pencil:'
+oomp_word_list:
+- grin
+- bus
+- pencil
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

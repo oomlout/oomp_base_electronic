@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "4WAOP",
     "md5_10": "7d82195986",
     "md5_10_upper": "7D82195986",
+    "oomp_word": "phone radio pray",
+    "oomp_word_list": [
+        "phone",
+        "radio",
+        "pray"
+    ],
+    "oomp_word_emoji": ":phone: :radio: :pray:",
+    "oomp_word_emoji_list": [
+        ":phone:",
+        ":radio:",
+        ":pray:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "3300",

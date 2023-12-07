@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "28W0V",
     "md5_10": "39961fecb4",
     "md5_10_upper": "39961FECB4",
+    "oomp_word": "tiger basketball princess",
+    "oomp_word_list": [
+        "tiger",
+        "basketball",
+        "princess"
+    ],
+    "oomp_word_emoji": ":tiger: :basketball: :princess:",
+    "oomp_word_emoji_list": [
+        ":tiger:",
+        ":basketball:",
+        ":princess:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "100000",

@@ -95,6 +95,16 @@ name_no_size: 3900 Ohm
 name_no_size_short: 3k9 Ohm
 name_no_type: 1206 3900 Ohm
 oomp_key: oomp_electronic_resistor_1206_3900_ohm
+oomp_word: foggy ram pear
+oomp_word_emoji: ':foggy: :ram: :pear:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':ram:'
+- ':pear:'
+oomp_word_list:
+- foggy
+- ram
+- pear
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

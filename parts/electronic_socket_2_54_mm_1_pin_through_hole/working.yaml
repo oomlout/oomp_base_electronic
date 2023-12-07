@@ -54,6 +54,16 @@ name_no_size: 1 Pin Through Hole
 name_no_size_short: 1 Pin Through Hole
 name_no_type: 2 54 Mm 1 Pin Through Hole
 oomp_key: oomp_electronic_socket_2_54_mm_1_pin_through_hole
+oomp_word: trident clipboard violin
+oomp_word_emoji: ':trident: :clipboard: :violin:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':clipboard:'
+- ':violin:'
+oomp_word_list:
+- trident
+- clipboard
+- violin
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

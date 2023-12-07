@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "3Z4W6",
     "md5_10": "65e6862e9e",
     "md5_10_upper": "65E6862E9E",
+    "oomp_word": "maple_leaf airplane bath",
+    "oomp_word_list": [
+        "maple_leaf",
+        "airplane",
+        "bath"
+    ],
+    "oomp_word_emoji": ":maple_leaf: :airplane: :bath:",
+    "oomp_word_emoji_list": [
+        ":maple_leaf:",
+        ":airplane:",
+        ":bath:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "100000",

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "8C8C",
     "md5_10": "05efec3ca2",
     "md5_10_upper": "05EFEC3CA2",
+    "oomp_word": "kissing truck taxi",
+    "oomp_word_list": [
+        "kissing",
+        "truck",
+        "taxi"
+    ],
+    "oomp_word_emoji": ":kissing: :truck: :taxi:",
+    "oomp_word_emoji_list": [
+        ":kissing:",
+        ":truck:",
+        ":taxi:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "12",

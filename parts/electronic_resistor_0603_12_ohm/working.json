@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "TZNC",
     "md5_10": "1559b840fa",
     "md5_10_upper": "1559B840FA",
+    "oomp_word": "poop dragon hamburger",
+    "oomp_word_list": [
+        "poop",
+        "dragon",
+        "hamburger"
+    ],
+    "oomp_word_emoji": ":poop: :dragon: :hamburger:",
+    "oomp_word_emoji_list": [
+        ":poop:",
+        ":dragon:",
+        ":hamburger:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "12",

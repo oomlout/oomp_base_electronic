@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "4DALV",
     "md5_10": "6ffaf37095",
     "md5_10_upper": "6FFAF37095",
+    "oomp_word": "moon nine two",
+    "oomp_word_list": [
+        "moon",
+        "nine",
+        "two"
+    ],
+    "oomp_word_emoji": ":moon: :nine: :two:",
+    "oomp_word_emoji_list": [
+        ":moon:",
+        ":nine:",
+        ":two:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "8",

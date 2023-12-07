@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "74PYL",
     "md5_10": "b6c36d0d82",
     "md5_10_upper": "B6C36D0D82",
+    "oomp_word": "beer cake shell",
+    "oomp_word_list": [
+        "beer",
+        "cake",
+        "shell"
+    ],
+    "oomp_word_emoji": ":beer: :cake: :shell:",
+    "oomp_word_emoji_list": [
+        ":beer:",
+        ":cake:",
+        ":shell:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "5",

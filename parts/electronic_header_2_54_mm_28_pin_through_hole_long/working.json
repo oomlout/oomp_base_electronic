@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "FYN5",
     "md5_10": "0b5d21537e",
     "md5_10_upper": "0B5D21537E",
+    "oomp_word": "sunglasses blowfish feet",
+    "oomp_word_list": [
+        "sunglasses",
+        "blowfish",
+        "feet"
+    ],
+    "oomp_word_emoji": ":sunglasses: :blowfish: :feet:",
+    "oomp_word_emoji_list": [
+        ":sunglasses:",
+        ":blowfish:",
+        ":feet:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "28",

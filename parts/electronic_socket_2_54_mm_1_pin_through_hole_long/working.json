@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "5WBI2",
     "md5_10": "97273a113f",
     "md5_10_upper": "97273A113F",
+    "oomp_word": "baseball nose koala",
+    "oomp_word_list": [
+        "baseball",
+        "nose",
+        "koala"
+    ],
+    "oomp_word_emoji": ":baseball: :nose: :koala:",
+    "oomp_word_emoji_list": [
+        ":baseball:",
+        ":nose:",
+        ":koala:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "1",

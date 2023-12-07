@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "16Q29",
     "md5_10": "1e6a71ac6c",
     "md5_10_upper": "1E6A71AC6C",
+    "oomp_word": "angel palm_tree bamboo",
+    "oomp_word_list": [
+        "angel",
+        "palm_tree",
+        "bamboo"
+    ],
+    "oomp_word_emoji": ":angel: :palm_tree: :bamboo:",
+    "oomp_word_emoji_list": [
+        ":angel:",
+        ":palm_tree:",
+        ":bamboo:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "5600",

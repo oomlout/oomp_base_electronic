@@ -75,6 +75,16 @@ name_no_size: 6 Pin Surface Mount Right Angle
 name_no_size_short: 6 Pin Surface Mount Right Angle
 name_no_type: 2 54 Mm 6 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_2_54_mm_6_pin_surface_mount_right_angle
+oomp_word: scream radio chicken
+oomp_word_emoji: ':scream: :radio: :chicken:'
+oomp_word_emoji_list:
+- ':scream:'
+- ':radio:'
+- ':chicken:'
+oomp_word_list:
+- scream
+- radio
+- chicken
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

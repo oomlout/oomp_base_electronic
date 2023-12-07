@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "55Q1J",
     "md5_10": "843817779d",
     "md5_10_upper": "843817779D",
+    "oomp_word": "key frog thumbsdown",
+    "oomp_word_list": [
+        "key",
+        "frog",
+        "thumbsdown"
+    ],
+    "oomp_word_emoji": ":key: :frog: :thumbsdown:",
+    "oomp_word_emoji_list": [
+        ":key:",
+        ":frog:",
+        ":thumbsdown:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "11",

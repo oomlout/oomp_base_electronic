@@ -67,6 +67,16 @@ name_no_size: 7500 Ohm
 name_no_size_short: 7k5 Ohm
 name_no_type: 1206 7500 Ohm
 oomp_key: oomp_electronic_resistor_1206_7500_ohm
+oomp_word: watch diamonds lips
+oomp_word_emoji: ':watch: :diamonds: :lips:'
+oomp_word_emoji_list:
+- ':watch:'
+- ':diamonds:'
+- ':lips:'
+oomp_word_list:
+- watch
+- diamonds
+- lips
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

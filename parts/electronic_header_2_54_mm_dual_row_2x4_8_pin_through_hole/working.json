@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "966E1",
     "md5_10": "eb0ed9ea39",
     "md5_10_upper": "EB0ED9EA39",
+    "oomp_word": "car cupid bank",
+    "oomp_word_list": [
+        "car",
+        "cupid",
+        "bank"
+    ],
+    "oomp_word_emoji": ":car: :cupid: :bank:",
+    "oomp_word_emoji_list": [
+        ":car:",
+        ":cupid:",
+        ":bank:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "248",

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "64K9P",
     "md5_10": "9d059da893",
     "md5_10_upper": "9D059DA893",
+    "oomp_word": "hearts kissing hearts",
+    "oomp_word_list": [
+        "hearts",
+        "kissing",
+        "hearts"
+    ],
+    "oomp_word_emoji": ":hearts: :kissing: :hearts:",
+    "oomp_word_emoji_list": [
+        ":hearts:",
+        ":kissing:",
+        ":hearts:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "390",

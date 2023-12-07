@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "4F1DX",
     "md5_10": "7138c554da",
     "md5_10_upper": "7138C554DA",
+    "oomp_word": "bamboo frog candy",
+    "oomp_word_list": [
+        "bamboo",
+        "frog",
+        "candy"
+    ],
+    "oomp_word_emoji": ":bamboo: :frog: :candy:",
+    "oomp_word_emoji_list": [
+        ":bamboo:",
+        ":frog:",
+        ":candy:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "7",

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "2Q0DN",
     "md5_10": "45c66bbd2d",
     "md5_10_upper": "45C66BBD2D",
+    "oomp_word": "snake lollipop chestnut",
+    "oomp_word_list": [
+        "snake",
+        "lollipop",
+        "chestnut"
+    ],
+    "oomp_word_emoji": ":snake: :lollipop: :chestnut:",
+    "oomp_word_emoji_list": [
+        ":snake:",
+        ":lollipop:",
+        ":chestnut:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "100",

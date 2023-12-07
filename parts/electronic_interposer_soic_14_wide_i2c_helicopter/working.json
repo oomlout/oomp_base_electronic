@@ -140,6 +140,18 @@
     "md5_6_alpha_upper": "4127D",
     "md5_10": "67456919c3",
     "md5_10_upper": "67456919C3",
+    "oomp_word": "herb snake cactus",
+    "oomp_word_list": [
+        "herb",
+        "snake",
+        "cactus"
+    ],
+    "oomp_word_emoji": ":herb: :snake: :cactus:",
+    "oomp_word_emoji_list": [
+        ":herb:",
+        ":snake:",
+        ":cactus:"
+    ],
     "size_only_numbers": "14",
     "size_only_numbers_no_zeros": "14",
     "description_only_numbers": "2",

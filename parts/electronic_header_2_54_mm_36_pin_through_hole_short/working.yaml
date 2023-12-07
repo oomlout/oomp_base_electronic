@@ -64,6 +64,16 @@ name_no_size: 36 Pin Through Hole Short
 name_no_size_short: 36 Pin Through Hole Short
 name_no_type: 2 54 Mm 36 Pin Through Hole Short
 oomp_key: oomp_electronic_header_2_54_mm_36_pin_through_hole_short
+oomp_word: cow wolf whale
+oomp_word_emoji: ':cow: :wolf: :whale:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':wolf:'
+- ':whale:'
+oomp_word_list:
+- cow
+- wolf
+- whale
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

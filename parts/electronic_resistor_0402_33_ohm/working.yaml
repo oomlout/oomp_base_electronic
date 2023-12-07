@@ -84,6 +84,16 @@ name_no_size: 33 Ohm
 name_no_size_short: 33 Ohm
 name_no_type: 0402 33 Ohm
 oomp_key: oomp_electronic_resistor_0402_33_ohm
+oomp_word: cupid key eyes
+oomp_word_emoji: ':cupid: :key: :eyes:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':key:'
+- ':eyes:'
+oomp_word_list:
+- cupid
+- key
+- eyes
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

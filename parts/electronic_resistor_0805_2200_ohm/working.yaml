@@ -95,6 +95,16 @@ name_no_size: 2200 Ohm
 name_no_size_short: 2k2 Ohm
 name_no_type: 0805 2200 Ohm
 oomp_key: oomp_electronic_resistor_0805_2200_ohm
+oomp_word: birthday alien cookie
+oomp_word_emoji: ':birthday: :alien: :cookie:'
+oomp_word_emoji_list:
+- ':birthday:'
+- ':alien:'
+- ':cookie:'
+oomp_word_list:
+- birthday
+- alien
+- cookie
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

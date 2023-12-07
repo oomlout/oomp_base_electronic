@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "1DTAO",
     "md5_10": "237690371b",
     "md5_10_upper": "237690371B",
+    "oomp_word": "kiss santa scissors",
+    "oomp_word_list": [
+        "kiss",
+        "santa",
+        "scissors"
+    ],
+    "oomp_word_emoji": ":kiss: :santa: :scissors:",
+    "oomp_word_emoji_list": [
+        ":kiss:",
+        ":santa:",
+        ":scissors:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "37",

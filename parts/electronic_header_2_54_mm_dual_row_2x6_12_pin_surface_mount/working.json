@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "27T3M",
     "md5_10": "38d112ca9c",
     "md5_10_upper": "38D112CA9C",
+    "oomp_word": "frog pear anger",
+    "oomp_word_list": [
+        "frog",
+        "pear",
+        "anger"
+    ],
+    "oomp_word_emoji": ":frog: :pear: :anger:",
+    "oomp_word_emoji_list": [
+        ":frog:",
+        ":pear:",
+        ":anger:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2612",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "VIQG",
     "md5_10": "167098acc6",
     "md5_10_upper": "167098ACC6",
+    "oomp_word": "thumbsup squirrel tennis",
+    "oomp_word_list": [
+        "thumbsup",
+        "squirrel",
+        "tennis"
+    ],
+    "oomp_word_emoji": ":thumbsup: :squirrel: :tennis:",
+    "oomp_word_emoji_list": [
+        ":thumbsup:",
+        ":squirrel:",
+        ":tennis:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "750",

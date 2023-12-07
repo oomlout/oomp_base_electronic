@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "8EIGW",
     "md5_10": "d75d007562",
     "md5_10_upper": "D75D007562",
+    "oomp_word": "office blowfish bowtie",
+    "oomp_word_list": [
+        "office",
+        "blowfish",
+        "bowtie"
+    ],
+    "oomp_word_emoji": ":office: :blowfish: :bowtie:",
+    "oomp_word_emoji_list": [
+        ":office:",
+        ":blowfish:",
+        ":bowtie:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "9",

@@ -84,6 +84,16 @@ name_no_size: 820 Ohm
 name_no_size_short: 820 Ohm
 name_no_type: 0402 820 Ohm
 oomp_key: oomp_electronic_resistor_0402_820_ohm
+oomp_word: zap factory pill
+oomp_word_emoji: ':zap: :factory: :pill:'
+oomp_word_emoji_list:
+- ':zap:'
+- ':factory:'
+- ':pill:'
+oomp_word_list:
+- zap
+- factory
+- pill
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

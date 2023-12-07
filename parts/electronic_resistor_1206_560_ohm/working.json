@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "7OGLU",
     "md5_10": "c4d11235bc",
     "md5_10_upper": "C4D11235BC",
+    "oomp_word": "cookie pear anger",
+    "oomp_word_list": [
+        "cookie",
+        "pear",
+        "anger"
+    ],
+    "oomp_word_emoji": ":cookie: :pear: :anger:",
+    "oomp_word_emoji_list": [
+        ":cookie:",
+        ":pear:",
+        ":anger:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "560",

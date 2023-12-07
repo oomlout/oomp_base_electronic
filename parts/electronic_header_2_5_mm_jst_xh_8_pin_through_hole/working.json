@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "22IVA",
     "md5_10": "350e06e205",
     "md5_10_upper": "350E06E205",
+    "oomp_word": "hamster cupid sleeping",
+    "oomp_word_list": [
+        "hamster",
+        "cupid",
+        "sleeping"
+    ],
+    "oomp_word_emoji": ":hamster: :cupid: :sleeping:",
+    "oomp_word_emoji_list": [
+        ":hamster:",
+        ":cupid:",
+        ":sleeping:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "8",

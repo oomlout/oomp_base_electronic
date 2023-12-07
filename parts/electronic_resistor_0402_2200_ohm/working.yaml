@@ -84,6 +84,16 @@ name_no_size: 2200 Ohm
 name_no_size_short: 2k2 Ohm
 name_no_type: 0402 2200 Ohm
 oomp_key: oomp_electronic_resistor_0402_2200_ohm
+oomp_word: herb cake spades
+oomp_word_emoji: ':herb: :cake: :spades:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':cake:'
+- ':spades:'
+oomp_word_list:
+- herb
+- cake
+- spades
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "8HAYR",
     "md5_10": "d959c3ab19",
     "md5_10_upper": "D959C3AB19",
+    "oomp_word": "bank dragon cake",
+    "oomp_word_list": [
+        "bank",
+        "dragon",
+        "cake"
+    ],
+    "oomp_word_emoji": ":bank: :dragon: :cake:",
+    "oomp_word_emoji_list": [
+        ":bank:",
+        ":dragon:",
+        ":cake:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "29",

@@ -95,6 +95,16 @@ name_no_size: 5600 Ohm
 name_no_size_short: 5k6 Ohm
 name_no_type: 1206 5600 Ohm
 oomp_key: oomp_electronic_resistor_1206_5600_ohm
+oomp_word: ship boat umbrella
+oomp_word_emoji: ':ship: :boat: :umbrella:'
+oomp_word_emoji_list:
+- ':ship:'
+- ':boat:'
+- ':umbrella:'
+oomp_word_list:
+- ship
+- boat
+- umbrella
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

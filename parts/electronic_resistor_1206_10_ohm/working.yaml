@@ -95,6 +95,16 @@ name_no_size: 10 Ohm
 name_no_size_short: 10 Ohm
 name_no_type: 1206 10 Ohm
 oomp_key: oomp_electronic_resistor_1206_10_ohm
+oomp_word: ocean snowman thumbsdown
+oomp_word_emoji: ':ocean: :snowman: :thumbsdown:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':snowman:'
+- ':thumbsdown:'
+oomp_word_list:
+- ocean
+- snowman
+- thumbsdown
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

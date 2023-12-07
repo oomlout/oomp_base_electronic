@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "LE8J",
     "md5_10": "0f3b53e2cc",
     "md5_10_upper": "0F3B53E2CC",
+    "oomp_word": "sparkles bear fish",
+    "oomp_word_list": [
+        "sparkles",
+        "bear",
+        "fish"
+    ],
+    "oomp_word_emoji": ":sparkles: :bear: :fish:",
+    "oomp_word_emoji_list": [
+        ":sparkles:",
+        ":bear:",
+        ":fish:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "29",

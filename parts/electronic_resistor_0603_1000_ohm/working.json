@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "2D9N",
     "md5_10": "01afabf1a1",
     "md5_10_upper": "01AFABF1A1",
+    "oomp_word": "smile tophat boot",
+    "oomp_word_list": [
+        "smile",
+        "tophat",
+        "boot"
+    ],
+    "oomp_word_emoji": ":smile: :tophat: :boot:",
+    "oomp_word_emoji_list": [
+        ":smile:",
+        ":tophat:",
+        ":boot:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "1000",

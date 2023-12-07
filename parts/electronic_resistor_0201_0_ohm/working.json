@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4J2K3",
     "md5_10": "7417b31b5e",
     "md5_10_upper": "7417B31B5E",
+    "oomp_word": "fireworks thumbsdown eyeglasses",
+    "oomp_word_list": [
+        "fireworks",
+        "thumbsdown",
+        "eyeglasses"
+    ],
+    "oomp_word_emoji": ":fireworks: :thumbsdown: :eyeglasses:",
+    "oomp_word_emoji_list": [
+        ":fireworks:",
+        ":thumbsdown:",
+        ":eyeglasses:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "0",

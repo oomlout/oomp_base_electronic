@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2L5YY",
     "md5_10": "42537ab1d6",
     "md5_10_upper": "42537AB1D6",
+    "oomp_word": "sheep fish camera",
+    "oomp_word_list": [
+        "sheep",
+        "fish",
+        "camera"
+    ],
+    "oomp_word_emoji": ":sheep: :fish: :camera:",
+    "oomp_word_emoji_list": [
+        ":sheep:",
+        ":fish:",
+        ":camera:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "750000",

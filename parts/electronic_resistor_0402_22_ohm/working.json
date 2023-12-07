@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "3X40Y",
     "md5_10": "6475a296be",
     "md5_10_upper": "6475A296BE",
+    "oomp_word": "sunflower ghost violin",
+    "oomp_word_list": [
+        "sunflower",
+        "ghost",
+        "violin"
+    ],
+    "oomp_word_emoji": ":sunflower: :ghost: :violin:",
+    "oomp_word_emoji_list": [
+        ":sunflower:",
+        ":ghost:",
+        ":violin:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "22",

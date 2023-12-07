@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "45810",
     "md5_10": "6a3be48e53",
     "md5_10_upper": "6A3BE48E53",
+    "oomp_word": "palm_tree bear anchor",
+    "oomp_word_list": [
+        "palm_tree",
+        "bear",
+        "anchor"
+    ],
+    "oomp_word_emoji": ":palm_tree: :bear: :anchor:",
+    "oomp_word_emoji_list": [
+        ":palm_tree:",
+        ":bear:",
+        ":anchor:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3927",

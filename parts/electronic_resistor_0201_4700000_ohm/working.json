@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8FB81",
     "md5_10": "d7ee91e7a7",
     "md5_10_upper": "D7EE91E7A7",
+    "oomp_word": "office ambulance pushpin",
+    "oomp_word_list": [
+        "office",
+        "ambulance",
+        "pushpin"
+    ],
+    "oomp_word_emoji": ":office: :ambulance: :pushpin:",
+    "oomp_word_emoji_list": [
+        ":office:",
+        ":ambulance:",
+        ":pushpin:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "4700000",

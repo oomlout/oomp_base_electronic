@@ -95,6 +95,16 @@ name_no_size: 12 Ohm
 name_no_size_short: 12 Ohm
 name_no_type: 0603 12 Ohm
 oomp_key: oomp_electronic_resistor_0603_12_ohm
+oomp_word: poop dragon hamburger
+oomp_word_emoji: ':poop: :dragon: :hamburger:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':dragon:'
+- ':hamburger:'
+oomp_word_list:
+- poop
+- dragon
+- hamburger
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

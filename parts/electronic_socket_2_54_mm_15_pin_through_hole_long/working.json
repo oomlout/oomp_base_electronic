@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "4F1BO",
     "md5_10": "7138748965",
     "md5_10_upper": "7138748965",
+    "oomp_word": "bamboo frog fireworks",
+    "oomp_word_list": [
+        "bamboo",
+        "frog",
+        "fireworks"
+    ],
+    "oomp_word_emoji": ":bamboo: :frog: :fireworks:",
+    "oomp_word_emoji_list": [
+        ":bamboo:",
+        ":frog:",
+        ":fireworks:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "15",

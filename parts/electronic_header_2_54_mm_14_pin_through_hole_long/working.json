@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "JEJ6",
     "md5_10": "0dd052ae06",
     "md5_10_upper": "0DD052AE06",
+    "oomp_word": "heart banana octopus",
+    "oomp_word_list": [
+        "heart",
+        "banana",
+        "octopus"
+    ],
+    "oomp_word_emoji": ":heart: :banana: :octopus:",
+    "oomp_word_emoji_list": [
+        ":heart:",
+        ":banana:",
+        ":octopus:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "14",

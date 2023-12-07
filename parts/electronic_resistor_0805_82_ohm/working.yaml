@@ -95,6 +95,16 @@ name_no_size: 82 Ohm
 name_no_size_short: 82 Ohm
 name_no_type: 0805 82 Ohm
 oomp_key: oomp_electronic_resistor_0805_82_ohm
+oomp_word: skull poop melon
+oomp_word_emoji: ':skull: :poop: :melon:'
+oomp_word_emoji_list:
+- ':skull:'
+- ':poop:'
+- ':melon:'
+oomp_word_list:
+- skull
+- poop
+- melon
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

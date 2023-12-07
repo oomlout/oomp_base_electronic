@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "2O7WB",
     "md5_10": "447ffbbfbc",
     "md5_10_upper": "447FFBBFBC",
+    "oomp_word": "panda_face speaker ok",
+    "oomp_word_list": [
+        "panda_face",
+        "speaker",
+        "ok"
+    ],
+    "oomp_word_emoji": ":panda_face: :speaker: :ok:",
+    "oomp_word_emoji_list": [
+        ":panda_face:",
+        ":speaker:",
+        ":ok:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "0",

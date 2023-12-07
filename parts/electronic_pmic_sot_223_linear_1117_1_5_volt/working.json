@@ -69,6 +69,18 @@
     "md5_6_alpha_upper": "4A6XW",
     "md5_10": "6dc5a408f8",
     "md5_10_upper": "6DC5A408F8",
+    "oomp_word": "shell candy book",
+    "oomp_word_list": [
+        "shell",
+        "candy",
+        "book"
+    ],
+    "oomp_word_emoji": ":shell: :candy: :book:",
+    "oomp_word_emoji_list": [
+        ":shell:",
+        ":candy:",
+        ":book:"
+    ],
     "size_only_numbers": "223",
     "size_only_numbers_no_zeros": "223",
     "description_only_numbers": "1117",

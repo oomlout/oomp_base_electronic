@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "2E7IC",
     "md5_10": "3d5f841048",
     "md5_10_upper": "3D5F841048",
+    "oomp_word": "cow leopard key",
+    "oomp_word_list": [
+        "cow",
+        "leopard",
+        "key"
+    ],
+    "oomp_word_emoji": ":cow: :leopard: :key:",
+    "oomp_word_emoji_list": [
+        ":cow:",
+        ":leopard:",
+        ":key:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "3900",

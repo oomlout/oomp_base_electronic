@@ -111,6 +111,16 @@ name_no_size: 10000 Ohm
 name_no_size_short: 10k Ohm
 name_no_type: 0603 10000 Ohm
 oomp_key: oomp_electronic_resistor_0603_10000_ohm
+oomp_word: tennis fries cherries
+oomp_word_emoji: ':tennis: :fries: :cherries:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':fries:'
+- ':cherries:'
+oomp_word_list:
+- tennis
+- fries
+- cherries
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "7XQWE",
     "md5_10": "cb6d6ecee7",
     "md5_10_upper": "CB6D6ECEE7",
+    "oomp_word": "grapes shell new_moon",
+    "oomp_word_list": [
+        "grapes",
+        "shell",
+        "new_moon"
+    ],
+    "oomp_word_emoji": ":grapes: :shell: :new_moon:",
+    "oomp_word_emoji_list": [
+        ":grapes:",
+        ":shell:",
+        ":new_moon:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "47000",

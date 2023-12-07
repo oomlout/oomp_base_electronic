@@ -126,6 +126,18 @@
     "md5_6_alpha_upper": "L91F",
     "md5_10": "0f210323ca",
     "md5_10_upper": "0F210323CA",
+    "oomp_word": "sparkles feet grin",
+    "oomp_word_list": [
+        "sparkles",
+        "feet",
+        "grin"
+    ],
+    "oomp_word_emoji": ":sparkles: :feet: :grin:",
+    "oomp_word_emoji_list": [
+        ":sparkles:",
+        ":feet:",
+        ":grin:"
+    ],
     "size_only_numbers": "10",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "",

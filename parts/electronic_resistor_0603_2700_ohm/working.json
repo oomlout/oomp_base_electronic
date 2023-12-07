@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "6NMBQ",
     "md5_10": "aa96c63744",
     "md5_10_upper": "AA96C63744",
+    "oomp_word": "lipstick basketball lollipop",
+    "oomp_word_list": [
+        "lipstick",
+        "basketball",
+        "lollipop"
+    ],
+    "oomp_word_emoji": ":lipstick: :basketball: :lollipop:",
+    "oomp_word_emoji_list": [
+        ":lipstick:",
+        ":basketball:",
+        ":lollipop:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "2700",

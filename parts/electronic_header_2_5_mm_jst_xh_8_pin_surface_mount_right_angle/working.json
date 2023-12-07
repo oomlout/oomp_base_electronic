@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "4DA03",
     "md5_10": "6ff7e35dee",
     "md5_10_upper": "6FF7E35DEE",
+    "oomp_word": "moon six rowboat",
+    "oomp_word_list": [
+        "moon",
+        "six",
+        "rowboat"
+    ],
+    "oomp_word_emoji": ":moon: :six: :rowboat:",
+    "oomp_word_emoji_list": [
+        ":moon:",
+        ":six:",
+        ":rowboat:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "8",

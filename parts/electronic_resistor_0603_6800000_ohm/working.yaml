@@ -67,6 +67,16 @@ name_no_size: 6800000 Ohm
 name_no_size_short: 6M8 Ohm
 name_no_type: 0603 6800000 Ohm
 oomp_key: oomp_electronic_resistor_0603_6800000_ohm
+oomp_word: hammer office blush
+oomp_word_emoji: ':hammer: :office: :blush:'
+oomp_word_emoji_list:
+- ':hammer:'
+- ':office:'
+- ':blush:'
+oomp_word_list:
+- hammer
+- office
+- blush
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "4LOJ4",
     "md5_10": "75f3701402",
     "md5_10_upper": "75F3701402",
+    "oomp_word": "ghost two squirrel",
+    "oomp_word_list": [
+        "ghost",
+        "two",
+        "squirrel"
+    ],
+    "oomp_word_emoji": ":ghost: :two: :squirrel:",
+    "oomp_word_emoji_list": [
+        ":ghost:",
+        ":two:",
+        ":squirrel:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "1000000",

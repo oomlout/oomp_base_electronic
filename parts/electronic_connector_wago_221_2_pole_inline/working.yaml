@@ -56,6 +56,16 @@ name_no_size: 2 Pole Inline
 name_no_size_short: 2 Pole Inline
 name_no_type: Wago 221 2 Pole Inline
 oomp_key: oomp_electronic_connector_wago_221_2_pole_inline
+oomp_word: bike pear book
+oomp_word_emoji: ':bike: :pear: :book:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':pear:'
+- ':book:'
+oomp_word_list:
+- bike
+- pear
+- book
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

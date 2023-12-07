@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "8B3J4",
     "md5_10": "d4eea0f1e1",
     "md5_10_upper": "D4EEA0F1E1",
+    "oomp_word": "corn ambulance ring",
+    "oomp_word_list": [
+        "corn",
+        "ambulance",
+        "ring"
+    ],
+    "oomp_word_emoji": ":corn: :ambulance: :ring:",
+    "oomp_word_emoji_list": [
+        ":corn:",
+        ":ambulance:",
+        ":ring:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "6800",

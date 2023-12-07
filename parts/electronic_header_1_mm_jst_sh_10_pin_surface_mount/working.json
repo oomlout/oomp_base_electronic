@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "7P7PF",
     "md5_10": "c55a433e60",
     "md5_10_upper": "C55A433E60",
+    "oomp_word": "candy goat elephant",
+    "oomp_word_list": [
+        "candy",
+        "goat",
+        "elephant"
+    ],
+    "oomp_word_emoji": ":candy: :goat: :elephant:",
+    "oomp_word_emoji_list": [
+        ":candy:",
+        ":goat:",
+        ":elephant:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "10",

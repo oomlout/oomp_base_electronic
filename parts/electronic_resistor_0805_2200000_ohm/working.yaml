@@ -67,6 +67,16 @@ name_no_size: 2200000 Ohm
 name_no_size_short: 2M2 Ohm
 name_no_type: 0805 2200000 Ohm
 oomp_key: oomp_electronic_resistor_0805_2200000_ohm
+oomp_word: rowboat candy new_moon
+oomp_word_emoji: ':rowboat: :candy: :new_moon:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':candy:'
+- ':new_moon:'
+oomp_word_list:
+- rowboat
+- candy
+- new_moon
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

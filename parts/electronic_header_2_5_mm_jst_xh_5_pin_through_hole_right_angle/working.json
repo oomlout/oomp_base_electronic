@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "7NHJO",
     "md5_10": "c41f94262b",
     "md5_10_upper": "C41F94262B",
+    "oomp_word": "cookie princess microscope",
+    "oomp_word_list": [
+        "cookie",
+        "princess",
+        "microscope"
+    ],
+    "oomp_word_emoji": ":cookie: :princess: :microscope:",
+    "oomp_word_emoji_list": [
+        ":cookie:",
+        ":princess:",
+        ":microscope:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "5",

@@ -54,6 +54,16 @@ name_no_size: Black 19 Pin Dupont
 name_no_size_short: Black 19 Pin Dupont
 name_no_type: 2 54 Mm Black 19 Pin Dupont
 oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_19_pin_dupont
+oomp_word: zap pushpin ship
+oomp_word_emoji: ':zap: :pushpin: :ship:'
+oomp_word_emoji_list:
+- ':zap:'
+- ':pushpin:'
+- ':ship:'
+oomp_word_list:
+- zap
+- pushpin
+- ship
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

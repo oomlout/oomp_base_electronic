@@ -95,6 +95,16 @@ name_no_size: 560 Ohm
 name_no_size_short: 560 Ohm
 name_no_type: 0805 560 Ohm
 oomp_key: oomp_electronic_resistor_0805_560_ohm
+oomp_word: snowflake gift dragon
+oomp_word_emoji: ':snowflake: :gift: :dragon:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':gift:'
+- ':dragon:'
+oomp_word_list:
+- snowflake
+- gift
+- dragon
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

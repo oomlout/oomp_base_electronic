@@ -84,6 +84,16 @@ name_no_size: 3300 Ohm
 name_no_size_short: 3k3 Ohm
 name_no_type: 0402 3300 Ohm
 oomp_key: oomp_electronic_resistor_0402_3300_ohm
+oomp_word: up four monkey
+oomp_word_emoji: ':up: :four: :monkey:'
+oomp_word_emoji_list:
+- ':up:'
+- ':four:'
+- ':monkey:'
+oomp_word_list:
+- up
+- four
+- monkey
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

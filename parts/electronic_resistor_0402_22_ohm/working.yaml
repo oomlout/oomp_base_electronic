@@ -84,6 +84,16 @@ name_no_size: 22 Ohm
 name_no_size_short: 22 Ohm
 name_no_type: 0402 22 Ohm
 oomp_key: oomp_electronic_resistor_0402_22_ohm
+oomp_word: sunflower ghost violin
+oomp_word_emoji: ':sunflower: :ghost: :violin:'
+oomp_word_emoji_list:
+- ':sunflower:'
+- ':ghost:'
+- ':violin:'
+oomp_word_list:
+- sunflower
+- ghost
+- violin
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

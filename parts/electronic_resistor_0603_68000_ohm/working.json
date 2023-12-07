@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "45P7M",
     "md5_10": "6a92e21630",
     "md5_10_upper": "6A92E21630",
+    "oomp_word": "palm_tree paperclip sailboat",
+    "oomp_word_list": [
+        "palm_tree",
+        "paperclip",
+        "sailboat"
+    ],
+    "oomp_word_emoji": ":palm_tree: :paperclip: :sailboat:",
+    "oomp_word_emoji_list": [
+        ":palm_tree:",
+        ":paperclip:",
+        ":sailboat:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "68000",

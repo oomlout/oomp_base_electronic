@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "524F1",
     "md5_10": "81a7dd4c5a",
     "md5_10_upper": "81A7DD4C5A",
+    "oomp_word": "watch guitar stars",
+    "oomp_word_list": [
+        "watch",
+        "guitar",
+        "stars"
+    ],
+    "oomp_word_emoji": ":watch: :guitar: :stars:",
+    "oomp_word_emoji_list": [
+        ":watch:",
+        ":guitar:",
+        ":stars:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21632",

@@ -67,6 +67,16 @@ name_no_size: Blue
 name_no_size_short: Blue
 name_no_type: 10 Mm Blue
 oomp_key: oomp_electronic_led_10_mm_blue
+oomp_word: bell kissing leopard
+oomp_word_emoji: ':bell: :kissing: :leopard:'
+oomp_word_emoji_list:
+- ':bell:'
+- ':kissing:'
+- ':leopard:'
+oomp_word_list:
+- bell
+- kissing
+- leopard
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

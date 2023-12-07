@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "8BTIR",
     "md5_10": "d572333b9e",
     "md5_10_upper": "D572333B9E",
+    "oomp_word": "house dolls dog",
+    "oomp_word_list": [
+        "house",
+        "dolls",
+        "dog"
+    ],
+    "oomp_word_emoji": ":house: :dolls: :dog:",
+    "oomp_word_emoji_list": [
+        ":house:",
+        ":dolls:",
+        ":dog:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "1800000",

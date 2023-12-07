@@ -64,6 +64,16 @@ name_no_size: 10 Pin Through Hole Long
 name_no_size_short: 10 Pin Through Hole Long
 name_no_type: 2 54 Mm 10 Pin Through Hole Long
 oomp_key: oomp_electronic_header_2_54_mm_10_pin_through_hole_long
+oomp_word: rooster thumbsup coffee
+oomp_word_emoji: ':rooster: :thumbsup: :coffee:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':thumbsup:'
+- ':coffee:'
+oomp_word_list:
+- rooster
+- thumbsup
+- coffee
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

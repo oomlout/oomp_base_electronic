@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9F2G5",
     "md5_10": "f163255d0a",
     "md5_10_upper": "F163255D0A",
+    "oomp_word": "ticket rose ear",
+    "oomp_word_list": [
+        "ticket",
+        "rose",
+        "ear"
+    ],
+    "oomp_word_emoji": ":ticket: :rose: :ear:",
+    "oomp_word_emoji_list": [
+        ":ticket:",
+        ":rose:",
+        ":ear:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2",

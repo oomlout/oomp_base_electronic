@@ -56,6 +56,16 @@ name_no_size: 4700000 Ohm
 name_no_size_short: 4M7 Ohm
 name_no_type: 0402 4700000 Ohm
 oomp_key: oomp_electronic_resistor_0402_4700000_ohm
+oomp_word: coffee tea paperclip
+oomp_word_emoji: ':coffee: :tea: :paperclip:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':tea:'
+- ':paperclip:'
+oomp_word_list:
+- coffee
+- tea
+- paperclip
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8YP71",
     "md5_10": "e5bc0d2eb9",
     "md5_10_upper": "E5BC0D2EB9",
+    "oomp_word": "rocket sushi heart",
+    "oomp_word_list": [
+        "rocket",
+        "sushi",
+        "heart"
+    ],
+    "oomp_word_emoji": ":rocket: :sushi: :heart:",
+    "oomp_word_emoji_list": [
+        ":rocket:",
+        ":sushi:",
+        ":heart:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "750000",

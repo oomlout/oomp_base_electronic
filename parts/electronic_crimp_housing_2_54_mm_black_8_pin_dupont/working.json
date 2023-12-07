@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "6V3DC",
     "md5_10": "afe8d026de",
     "md5_10_upper": "AFE8D026DE",
+    "oomp_word": "tophat tram banana",
+    "oomp_word_list": [
+        "tophat",
+        "tram",
+        "banana"
+    ],
+    "oomp_word_emoji": ":tophat: :tram: :banana:",
+    "oomp_word_emoji_list": [
+        ":tophat:",
+        ":tram:",
+        ":banana:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "8",

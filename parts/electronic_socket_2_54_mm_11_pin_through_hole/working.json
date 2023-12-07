@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "3BDZI",
     "md5_10": "54fe8ee539",
     "md5_10_upper": "54FE8EE539",
+    "oomp_word": "whale recycle clipboard",
+    "oomp_word_list": [
+        "whale",
+        "recycle",
+        "clipboard"
+    ],
+    "oomp_word_emoji": ":whale: :recycle: :clipboard:",
+    "oomp_word_emoji_list": [
+        ":whale:",
+        ":recycle:",
+        ":clipboard:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "11",

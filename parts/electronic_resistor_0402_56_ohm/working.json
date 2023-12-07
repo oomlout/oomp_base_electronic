@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "8JG93",
     "md5_10": "dae10787b1",
     "md5_10_upper": "DAE10787B1",
+    "oomp_word": "hotel boat cry",
+    "oomp_word_list": [
+        "hotel",
+        "boat",
+        "cry"
+    ],
+    "oomp_word_emoji": ":hotel: :boat: :cry:",
+    "oomp_word_emoji_list": [
+        ":hotel:",
+        ":boat:",
+        ":cry:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "56",

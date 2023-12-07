@@ -59,6 +59,16 @@ name_no_size_short: 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico S
 name_no_type: 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side
     B
 oomp_key: oomp_electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
+oomp_word: blowfish leopard blossom
+oomp_word_emoji: ':blowfish: :leopard: :blossom:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':leopard:'
+- ':blossom:'
+oomp_word_list:
+- blowfish
+- leopard
+- blossom
 part_number: raspberry_pi_pico_side_b
 part_number_capital: Raspberry Pi Pico Side B
 part_number_first_letter: r

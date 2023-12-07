@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "5WLIF",
     "md5_10": "9759e76ec8",
     "md5_10_upper": "9759E76EC8",
+    "oomp_word": "baseball dragon helicopter",
+    "oomp_word_list": [
+        "baseball",
+        "dragon",
+        "helicopter"
+    ],
+    "oomp_word_emoji": ":baseball: :dragon: :helicopter:",
+    "oomp_word_emoji_list": [
+        ":baseball:",
+        ":dragon:",
+        ":helicopter:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "68",

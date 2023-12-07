@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6SN7C",
     "md5_10": "ae2a7820f3",
     "md5_10_upper": "AE2A7820F3",
+    "oomp_word": "jeans umbrella bell",
+    "oomp_word_list": [
+        "jeans",
+        "umbrella",
+        "bell"
+    ],
+    "oomp_word_emoji": ":jeans: :umbrella: :bell:",
+    "oomp_word_emoji_list": [
+        ":jeans:",
+        ":umbrella:",
+        ":bell:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "33000",

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "183LL",
     "md5_10": "1f653906e6",
     "md5_10_upper": "1F653906E6",
+    "oomp_word": "princess maple_leaf tiger",
+    "oomp_word_list": [
+        "princess",
+        "maple_leaf",
+        "tiger"
+    ],
+    "oomp_word_emoji": ":princess: :maple_leaf: :tiger:",
+    "oomp_word_emoji_list": [
+        ":princess:",
+        ":maple_leaf:",
+        ":tiger:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "470",

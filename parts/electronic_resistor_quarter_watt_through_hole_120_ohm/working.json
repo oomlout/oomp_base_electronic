@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6O6O8",
     "md5_10": "aafdc8042b",
     "md5_10_upper": "AAFDC8042B",
+    "oomp_word": "lipstick parking apple",
+    "oomp_word_list": [
+        "lipstick",
+        "parking",
+        "apple"
+    ],
+    "oomp_word_emoji": ":lipstick: :parking: :apple:",
+    "oomp_word_emoji_list": [
+        ":lipstick:",
+        ":parking:",
+        ":apple:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "120",

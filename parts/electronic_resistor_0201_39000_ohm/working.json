@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "26DTG",
     "md5_10": "37cd74b1b0",
     "md5_10_upper": "37CD74B1B0",
+    "oomp_word": "wolf strawberry fireworks",
+    "oomp_word_list": [
+        "wolf",
+        "strawberry",
+        "fireworks"
+    ],
+    "oomp_word_emoji": ":wolf: :strawberry: :fireworks:",
+    "oomp_word_emoji_list": [
+        ":wolf:",
+        ":strawberry:",
+        ":fireworks:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "39000",

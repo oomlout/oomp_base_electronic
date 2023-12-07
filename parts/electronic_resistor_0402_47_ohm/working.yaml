@@ -84,6 +84,16 @@ name_no_size: 47 Ohm
 name_no_size_short: 47 Ohm
 name_no_type: 0402 47 Ohm
 oomp_key: oomp_electronic_resistor_0402_47_ohm
+oomp_word: sailboat factory fire
+oomp_word_emoji: ':sailboat: :factory: :fire:'
+oomp_word_emoji_list:
+- ':sailboat:'
+- ':factory:'
+- ':fire:'
+oomp_word_list:
+- sailboat
+- factory
+- fire
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

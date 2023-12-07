@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "8V5M9",
     "md5_10": "e33631430a",
     "md5_10_upper": "E33631430A",
+    "oomp_word": "rowboat rabbit ocean",
+    "oomp_word_list": [
+        "rowboat",
+        "rabbit",
+        "ocean"
+    ],
+    "oomp_word_emoji": ":rowboat: :rabbit: :ocean:",
+    "oomp_word_emoji_list": [
+        ":rowboat:",
+        ":rabbit:",
+        ":ocean:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "270000",

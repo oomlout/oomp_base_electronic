@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6XD3F",
     "md5_10": "b1868bade5",
     "md5_10_upper": "B1868BADE5",
+    "oomp_word": "briefcase bath door",
+    "oomp_word_list": [
+        "briefcase",
+        "bath",
+        "door"
+    ],
+    "oomp_word_emoji": ":briefcase: :bath: :door:",
+    "oomp_word_emoji_list": [
+        ":briefcase:",
+        ":bath:",
+        ":door:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "1500000",

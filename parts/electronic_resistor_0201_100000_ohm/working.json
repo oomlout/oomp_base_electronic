@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1KJNA",
     "md5_10": "2841761d57",
     "md5_10_upper": "2841761D57",
+    "oomp_word": "tongue camel santa",
+    "oomp_word_list": [
+        "tongue",
+        "camel",
+        "santa"
+    ],
+    "oomp_word_emoji": ":tongue: :camel: :santa:",
+    "oomp_word_emoji_list": [
+        ":tongue:",
+        ":camel:",
+        ":santa:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "100000",

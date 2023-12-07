@@ -67,6 +67,16 @@ name_no_size: 0 Ohm
 name_no_size_short: 0 Ohm
 name_no_type: 0805 0 Ohm
 oomp_key: oomp_electronic_resistor_0805_0_ohm
+oomp_word: pineapple rat sleeping
+oomp_word_emoji: ':pineapple: :rat: :sleeping:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':rat:'
+- ':sleeping:'
+oomp_word_list:
+- pineapple
+- rat
+- sleeping
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "24O32",
     "md5_10": "3694eed3eb",
     "md5_10_upper": "3694EED3EB",
+    "oomp_word": "rabbit microscope ambulance",
+    "oomp_word_list": [
+        "rabbit",
+        "microscope",
+        "ambulance"
+    ],
+    "oomp_word_emoji": ":rabbit: :microscope: :ambulance:",
+    "oomp_word_emoji_list": [
+        ":rabbit:",
+        ":microscope:",
+        ":ambulance:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "39",

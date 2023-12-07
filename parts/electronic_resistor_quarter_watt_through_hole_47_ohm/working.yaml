@@ -67,6 +67,16 @@ name_no_size: 47 Ohm
 name_no_size_short: 47 Ohm
 name_no_type: Quarter Watt Through Hole 47 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_47_ohm
+oomp_word: basketball violin bike
+oomp_word_emoji: ':basketball: :violin: :bike:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':violin:'
+- ':bike:'
+oomp_word_list:
+- basketball
+- violin
+- bike
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

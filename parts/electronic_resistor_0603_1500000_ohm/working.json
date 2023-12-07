@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "6ZYWC",
     "md5_10": "b3616cd3b2",
     "md5_10_upper": "B3616CD3B2",
+    "oomp_word": "eyeglasses bouquet blossom",
+    "oomp_word_list": [
+        "eyeglasses",
+        "bouquet",
+        "blossom"
+    ],
+    "oomp_word_emoji": ":eyeglasses: :bouquet: :blossom:",
+    "oomp_word_emoji_list": [
+        ":eyeglasses:",
+        ":bouquet:",
+        ":blossom:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "1500000",

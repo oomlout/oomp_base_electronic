@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "20FYN",
     "md5_10": "3392cfc59f",
     "md5_10_upper": "3392CFC59F",
+    "oomp_word": "dog paperclip melon",
+    "oomp_word_list": [
+        "dog",
+        "paperclip",
+        "melon"
+    ],
+    "oomp_word_emoji": ":dog: :paperclip: :melon:",
+    "oomp_word_emoji_list": [
+        ":dog:",
+        ":paperclip:",
+        ":melon:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "9",

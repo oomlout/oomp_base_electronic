@@ -64,6 +64,16 @@ name_no_size: 2X13 26 Pin Through Hole
 name_no_size_short: 2X13 26 Pin Through Hole
 name_no_type: 2 54 Mm Dual Row 2X13 26 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x13_26_pin_through_hole
+oomp_word: clubs tent clubs
+oomp_word_emoji: ':clubs: :tent: :clubs:'
+oomp_word_emoji_list:
+- ':clubs:'
+- ':tent:'
+- ':clubs:'
+oomp_word_list:
+- clubs
+- tent
+- clubs
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

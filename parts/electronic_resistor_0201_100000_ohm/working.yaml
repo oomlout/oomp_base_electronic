@@ -56,6 +56,16 @@ name_no_size: 100000 Ohm
 name_no_size_short: 100k Ohm
 name_no_type: 0201 100000 Ohm
 oomp_key: oomp_electronic_resistor_0201_100000_ohm
+oomp_word: tongue camel santa
+oomp_word_emoji: ':tongue: :camel: :santa:'
+oomp_word_emoji_list:
+- ':tongue:'
+- ':camel:'
+- ':santa:'
+oomp_word_list:
+- tongue
+- camel
+- santa
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

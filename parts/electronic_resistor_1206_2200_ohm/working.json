@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "8P36J",
     "md5_10": "dee45bb538",
     "md5_10_upper": "DEE45BB538",
+    "oomp_word": "rainbow anchor rooster",
+    "oomp_word_list": [
+        "rainbow",
+        "anchor",
+        "rooster"
+    ],
+    "oomp_word_emoji": ":rainbow: :anchor: :rooster:",
+    "oomp_word_emoji_list": [
+        ":rainbow:",
+        ":anchor:",
+        ":rooster:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "2200",

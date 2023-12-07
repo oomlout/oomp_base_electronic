@@ -95,6 +95,16 @@ name_no_size: 47 Ohm
 name_no_size_short: 47 Ohm
 name_no_type: 1206 47 Ohm
 oomp_key: oomp_electronic_resistor_1206_47_ohm
+oomp_word: parking baby bird
+oomp_word_emoji: ':parking: :baby: :bird:'
+oomp_word_emoji_list:
+- ':parking:'
+- ':baby:'
+- ':bird:'
+oomp_word_list:
+- parking
+- baby
+- bird
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

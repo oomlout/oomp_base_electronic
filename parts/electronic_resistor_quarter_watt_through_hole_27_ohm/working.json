@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5XWTJ",
     "md5_10": "984967d33c",
     "md5_10_upper": "984967D33C",
+    "oomp_word": "tennis hatching_chick herb",
+    "oomp_word_list": [
+        "tennis",
+        "hatching_chick",
+        "herb"
+    ],
+    "oomp_word_emoji": ":tennis: :hatching_chick: :herb:",
+    "oomp_word_emoji_list": [
+        ":tennis:",
+        ":hatching_chick:",
+        ":herb:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "27",

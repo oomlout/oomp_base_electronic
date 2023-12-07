@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "WFGJ",
     "md5_10": "171643bf95",
     "md5_10_upper": "171643BF95",
+    "oomp_word": "thumbsdown thumbsup elephant",
+    "oomp_word_list": [
+        "thumbsdown",
+        "thumbsup",
+        "elephant"
+    ],
+    "oomp_word_emoji": ":thumbsdown: :thumbsup: :elephant:",
+    "oomp_word_emoji_list": [
+        ":thumbsdown:",
+        ":thumbsup:",
+        ":elephant:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "18",

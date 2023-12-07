@@ -90,6 +90,18 @@
     "md5_6_alpha_upper": "6SEIF",
     "md5_10": "adfe7739de",
     "md5_10_upper": "ADFE7739DE",
+    "oomp_word": "dress recycle gift",
+    "oomp_word_list": [
+        "dress",
+        "recycle",
+        "gift"
+    ],
+    "oomp_word_emoji": ":dress: :recycle: :gift:",
+    "oomp_word_emoji_list": [
+        ":dress:",
+        ":recycle:",
+        ":gift:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "4",

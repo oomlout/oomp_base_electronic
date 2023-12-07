@@ -64,6 +64,16 @@ name_no_size: 32 Pin Through Hole Long
 name_no_size_short: 32 Pin Through Hole Long
 name_no_type: 2 54 Mm 32 Pin Through Hole Long
 oomp_key: oomp_electronic_header_2_54_mm_32_pin_through_hole_long
+oomp_word: angel sparkles scream
+oomp_word_emoji: ':angel: :sparkles: :scream:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':sparkles:'
+- ':scream:'
+oomp_word_list:
+- angel
+- sparkles
+- scream
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

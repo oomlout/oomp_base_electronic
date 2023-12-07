@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "5Y9V2",
     "md5_10": "988b6e2db0",
     "md5_10_upper": "988B6E2DB0",
+    "oomp_word": "tennis door new_moon",
+    "oomp_word_list": [
+        "tennis",
+        "door",
+        "new_moon"
+    ],
+    "oomp_word_emoji": ":tennis: :door: :new_moon:",
+    "oomp_word_emoji_list": [
+        ":tennis:",
+        ":door:",
+        ":new_moon:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "15000",

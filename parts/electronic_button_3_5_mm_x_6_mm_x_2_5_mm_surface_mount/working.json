@@ -76,6 +76,18 @@
     "md5_6_alpha_upper": "8J5UB",
     "md5_10": "daac5353b3",
     "md5_10_upper": "DAAC5353B3",
+    "oomp_word": "hotel shirt fish",
+    "oomp_word_list": [
+        "hotel",
+        "shirt",
+        "fish"
+    ],
+    "oomp_word_emoji": ":hotel: :shirt: :fish:",
+    "oomp_word_emoji_list": [
+        ":hotel:",
+        ":shirt:",
+        ":fish:"
+    ],
     "size_only_numbers": "35625",
     "size_only_numbers_no_zeros": "35625",
     "description_only_numbers": "",

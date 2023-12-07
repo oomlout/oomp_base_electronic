@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "2PMZ1",
     "md5_10": "45828d9b95",
     "md5_10_upper": "45828D9B95",
+    "oomp_word": "snake radio scroll",
+    "oomp_word_list": [
+        "snake",
+        "radio",
+        "scroll"
+    ],
+    "oomp_word_emoji": ":snake: :radio: :scroll:",
+    "oomp_word_emoji_list": [
+        ":snake:",
+        ":radio:",
+        ":scroll:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "23",

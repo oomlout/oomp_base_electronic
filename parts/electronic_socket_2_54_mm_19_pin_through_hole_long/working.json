@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "57XLS",
     "md5_10": "85cae0ca5d",
     "md5_10_upper": "85CAE0CA5D",
+    "oomp_word": "bulb cherries ship",
+    "oomp_word_list": [
+        "bulb",
+        "cherries",
+        "ship"
+    ],
+    "oomp_word_emoji": ":bulb: :cherries: :ship:",
+    "oomp_word_emoji_list": [
+        ":bulb:",
+        ":cherries:",
+        ":ship:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "19",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6MAQX",
     "md5_10": "a9a5e96379",
     "md5_10_upper": "A9A5E96379",
+    "oomp_word": "sandal headphones bike",
+    "oomp_word_list": [
+        "sandal",
+        "headphones",
+        "bike"
+    ],
+    "oomp_word_emoji": ":sandal: :headphones: :bike:",
+    "oomp_word_emoji_list": [
+        ":sandal:",
+        ":headphones:",
+        ":bike:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "2200",

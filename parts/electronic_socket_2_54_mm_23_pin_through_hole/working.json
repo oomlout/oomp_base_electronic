@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "9XGTR",
     "md5_10": "fe7c6f2572",
     "md5_10_upper": "FE7C6F2572",
+    "oomp_word": "recycle tv moon",
+    "oomp_word_list": [
+        "recycle",
+        "tv",
+        "moon"
+    ],
+    "oomp_word_emoji": ":recycle: :tv: :moon:",
+    "oomp_word_emoji_list": [
+        ":recycle:",
+        ":tv:",
+        ":moon:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "23",

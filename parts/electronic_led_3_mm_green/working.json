@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "46IAP",
     "md5_10": "6b2621821d",
     "md5_10_upper": "6B2621821D",
+    "oomp_word": "chestnut eyes feet",
+    "oomp_word_list": [
+        "chestnut",
+        "eyes",
+        "feet"
+    ],
+    "oomp_word_emoji": ":chestnut: :eyes: :feet:",
+    "oomp_word_emoji_list": [
+        ":chestnut:",
+        ":eyes:",
+        ":feet:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "",

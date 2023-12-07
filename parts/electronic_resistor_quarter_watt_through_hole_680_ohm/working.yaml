@@ -67,6 +67,16 @@ name_no_size: 680 Ohm
 name_no_size_short: 680 Ohm
 name_no_type: Quarter Watt Through Hole 680 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_680_ohm
+oomp_word: hatching_chick horse dragon
+oomp_word_emoji: ':hatching_chick: :horse: :dragon:'
+oomp_word_emoji_list:
+- ':hatching_chick:'
+- ':horse:'
+- ':dragon:'
+oomp_word_list:
+- hatching_chick
+- horse
+- dragon
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

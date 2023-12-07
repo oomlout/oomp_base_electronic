@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4ZW18",
     "md5_10": "8010ecd169",
     "md5_10_upper": "8010ECD169",
+    "oomp_word": "hourglass star taxi",
+    "oomp_word_list": [
+        "hourglass",
+        "star",
+        "taxi"
+    ],
+    "oomp_word_emoji": ":hourglass: :star: :taxi:",
+    "oomp_word_emoji_list": [
+        ":hourglass:",
+        ":star:",
+        ":taxi:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "220",

@@ -84,6 +84,16 @@ name_no_size: 39000 Ohm
 name_no_size_short: 39k Ohm
 name_no_type: 0402 39000 Ohm
 oomp_key: oomp_electronic_resistor_0402_39000_ohm
+oomp_word: tennis pray octopus
+oomp_word_emoji: ':tennis: :pray: :octopus:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':pray:'
+- ':octopus:'
+oomp_word_list:
+- tennis
+- pray
+- octopus
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

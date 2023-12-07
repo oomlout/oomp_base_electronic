@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4J0C1",
     "md5_10": "740c712130",
     "md5_10_upper": "740C712130",
+    "oomp_word": "fireworks alien bamboo",
+    "oomp_word_list": [
+        "fireworks",
+        "alien",
+        "bamboo"
+    ],
+    "oomp_word_emoji": ":fireworks: :alien: :bamboo:",
+    "oomp_word_emoji_list": [
+        ":fireworks:",
+        ":alien:",
+        ":bamboo:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "680000",

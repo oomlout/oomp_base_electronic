@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3JY5W",
     "md5_10": "5b16b488b4",
     "md5_10_upper": "5B16B488B4",
+    "oomp_word": "rooster thumbsup coffee",
+    "oomp_word_list": [
+        "rooster",
+        "thumbsup",
+        "coffee"
+    ],
+    "oomp_word_emoji": ":rooster: :thumbsup: :coffee:",
+    "oomp_word_emoji_list": [
+        ":rooster:",
+        ":thumbsup:",
+        ":coffee:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "10",

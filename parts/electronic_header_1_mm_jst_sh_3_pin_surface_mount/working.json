@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "33D8E",
     "md5_10": "4f48be0f10",
     "md5_10_upper": "4F48BE0F10",
+    "oomp_word": "ant hatched_chick ramen",
+    "oomp_word_list": [
+        "ant",
+        "hatched_chick",
+        "ramen"
+    ],
+    "oomp_word_emoji": ":ant: :hatched_chick: :ramen:",
+    "oomp_word_emoji_list": [
+        ":ant:",
+        ":hatched_chick:",
+        ":ramen:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "3",

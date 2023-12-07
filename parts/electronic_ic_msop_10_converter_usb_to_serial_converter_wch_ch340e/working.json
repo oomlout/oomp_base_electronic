@@ -126,6 +126,18 @@
     "md5_6_alpha_upper": "4G7LL",
     "md5_10": "720e79ba82",
     "md5_10_upper": "720E79BA82",
+    "oomp_word": "dolls cupid balloon",
+    "oomp_word_list": [
+        "dolls",
+        "cupid",
+        "balloon"
+    ],
+    "oomp_word_emoji": ":dolls: :cupid: :balloon:",
+    "oomp_word_emoji_list": [
+        ":dolls:",
+        ":cupid:",
+        ":balloon:"
+    ],
     "size_only_numbers": "10",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "",

@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "2ZIDZ",
     "md5_10": "4c89d72580",
     "md5_10_upper": "4C89D72580",
+    "oomp_word": "turtle hammer office",
+    "oomp_word_list": [
+        "turtle",
+        "hammer",
+        "office"
+    ],
+    "oomp_word_emoji": ":turtle: :hammer: :office:",
+    "oomp_word_emoji_list": [
+        ":turtle:",
+        ":hammer:",
+        ":office:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "15000",

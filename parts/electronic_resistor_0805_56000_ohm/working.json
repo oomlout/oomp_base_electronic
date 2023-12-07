@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "9I3WZ",
     "md5_10": "f38d538888",
     "md5_10_upper": "F38D538888",
+    "oomp_word": "two scroll fish",
+    "oomp_word_list": [
+        "two",
+        "scroll",
+        "fish"
+    ],
+    "oomp_word_emoji": ":two: :scroll: :fish:",
+    "oomp_word_emoji_list": [
+        ":two:",
+        ":scroll:",
+        ":fish:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "56000",

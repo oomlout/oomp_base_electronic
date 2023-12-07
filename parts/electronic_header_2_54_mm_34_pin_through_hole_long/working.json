@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "2CXU8",
     "md5_10": "3c78500735",
     "md5_10_upper": "3C78500735",
+    "oomp_word": "pig bell beetle",
+    "oomp_word_list": [
+        "pig",
+        "bell",
+        "beetle"
+    ],
+    "oomp_word_emoji": ":pig: :bell: :beetle:",
+    "oomp_word_emoji_list": [
+        ":pig:",
+        ":bell:",
+        ":beetle:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "34",

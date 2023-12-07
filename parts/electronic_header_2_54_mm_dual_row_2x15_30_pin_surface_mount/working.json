@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "5PT29",
     "md5_10": "928461fe61",
     "md5_10_upper": "928461FE61",
+    "oomp_word": "paperclip key bouquet",
+    "oomp_word_list": [
+        "paperclip",
+        "key",
+        "bouquet"
+    ],
+    "oomp_word_emoji": ":paperclip: :key: :bouquet:",
+    "oomp_word_emoji_list": [
+        ":paperclip:",
+        ":key:",
+        ":bouquet:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21530",

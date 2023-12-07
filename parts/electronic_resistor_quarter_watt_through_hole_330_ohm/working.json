@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2CDJV",
     "md5_10": "3c119be7a2",
     "md5_10_upper": "3C119BE7A2",
+    "oomp_word": "pig dizzy ski",
+    "oomp_word_list": [
+        "pig",
+        "dizzy",
+        "ski"
+    ],
+    "oomp_word_emoji": ":pig: :dizzy: :ski:",
+    "oomp_word_emoji_list": [
+        ":pig:",
+        ":dizzy:",
+        ":ski:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "330",

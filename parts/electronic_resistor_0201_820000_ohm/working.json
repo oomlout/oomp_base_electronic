@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "KS38",
     "md5_10": "0ecb341dbb",
     "md5_10_upper": "0ECB341DBB",
+    "oomp_word": "cupid grapes mouse",
+    "oomp_word_list": [
+        "cupid",
+        "grapes",
+        "mouse"
+    ],
+    "oomp_word_emoji": ":cupid: :grapes: :mouse:",
+    "oomp_word_emoji_list": [
+        ":cupid:",
+        ":grapes:",
+        ":mouse:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "820000",

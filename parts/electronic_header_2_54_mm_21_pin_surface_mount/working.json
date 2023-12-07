@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "7PTJH",
     "md5_10": "c5c8cd6bf2",
     "md5_10_upper": "C5C8CD6BF2",
+    "oomp_word": "candy apple strawberry",
+    "oomp_word_list": [
+        "candy",
+        "apple",
+        "strawberry"
+    ],
+    "oomp_word_emoji": ":candy: :apple: :strawberry:",
+    "oomp_word_emoji_list": [
+        ":candy:",
+        ":apple:",
+        ":strawberry:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21",

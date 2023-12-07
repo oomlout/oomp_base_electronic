@@ -92,6 +92,18 @@
     "md5_6_alpha_upper": "V0XB",
     "md5_10": "16166fb725",
     "md5_10_upper": "16166FB725",
+    "oomp_word": "thumbsup thumbsup moon",
+    "oomp_word_list": [
+        "thumbsup",
+        "thumbsup",
+        "moon"
+    ],
+    "oomp_word_emoji": ":thumbsup: :thumbsup: :moon:",
+    "oomp_word_emoji_list": [
+        ":thumbsup:",
+        ":thumbsup:",
+        ":moon:"
+    ],
     "size_only_numbers": "32",
     "size_only_numbers_no_zeros": "32",
     "description_only_numbers": "328",

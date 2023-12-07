@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "959NX",
     "md5_10": "ea692d189d",
     "md5_10_upper": "EA692D189D",
+    "oomp_word": "tractor cactus snowman",
+    "oomp_word_list": [
+        "tractor",
+        "cactus",
+        "snowman"
+    ],
+    "oomp_word_emoji": ":tractor: :cactus: :snowman:",
+    "oomp_word_emoji_list": [
+        ":tractor:",
+        ":cactus:",
+        ":snowman:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "37",

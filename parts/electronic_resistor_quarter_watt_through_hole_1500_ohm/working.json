@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "81VSU",
     "md5_10": "ce5f3e23a0",
     "md5_10_upper": "CE5F3E23A0",
+    "oomp_word": "peach leopard monkey",
+    "oomp_word_list": [
+        "peach",
+        "leopard",
+        "monkey"
+    ],
+    "oomp_word_emoji": ":peach: :leopard: :monkey:",
+    "oomp_word_emoji_list": [
+        ":peach:",
+        ":leopard:",
+        ":monkey:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "1500",

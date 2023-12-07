@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "90JCU",
     "md5_10": "e70afe72a2",
     "md5_10_upper": "E70AFE72A2",
+    "oomp_word": "helicopter sleepy recycle",
+    "oomp_word_list": [
+        "helicopter",
+        "sleepy",
+        "recycle"
+    ],
+    "oomp_word_emoji": ":helicopter: :sleepy: :recycle:",
+    "oomp_word_emoji_list": [
+        ":helicopter:",
+        ":sleepy:",
+        ":recycle:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "470",

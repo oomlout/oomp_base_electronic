@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "27GNQ",
     "md5_10": "3892165c27",
     "md5_10_upper": "3892165C27",
+    "oomp_word": "frog paperclip thumbsup",
+    "oomp_word_list": [
+        "frog",
+        "paperclip",
+        "thumbsup"
+    ],
+    "oomp_word_emoji": ":frog: :paperclip: :thumbsup:",
+    "oomp_word_emoji_list": [
+        ":frog:",
+        ":paperclip:",
+        ":thumbsup:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "390",

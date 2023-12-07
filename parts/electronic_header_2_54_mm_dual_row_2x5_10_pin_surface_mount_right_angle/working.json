@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "7HHIK",
     "md5_10": "bfd9ecd817",
     "md5_10_upper": "BFD9ECD817",
+    "oomp_word": "egg bank taxi",
+    "oomp_word_list": [
+        "egg",
+        "bank",
+        "taxi"
+    ],
+    "oomp_word_emoji": ":egg: :bank: :taxi:",
+    "oomp_word_emoji_list": [
+        ":egg:",
+        ":bank:",
+        ":taxi:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2510",

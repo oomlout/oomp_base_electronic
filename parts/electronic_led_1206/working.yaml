@@ -67,6 +67,16 @@ name_no_size: '1206'
 name_no_size_short: '1206'
 name_no_type: '1206'
 oomp_key: oomp_electronic_led_1206
+oomp_word: tulip thumbsup paperclip
+oomp_word_emoji: ':tulip: :thumbsup: :paperclip:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':thumbsup:'
+- ':paperclip:'
+oomp_word_list:
+- tulip
+- thumbsup
+- paperclip
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

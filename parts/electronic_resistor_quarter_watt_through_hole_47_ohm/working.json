@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5VLD5",
     "md5_10": "96a2e95af6",
     "md5_10_upper": "96A2E95AF6",
+    "oomp_word": "basketball violin bike",
+    "oomp_word_list": [
+        "basketball",
+        "violin",
+        "bike"
+    ],
+    "oomp_word_emoji": ":basketball: :violin: :bike:",
+    "oomp_word_emoji_list": [
+        ":basketball:",
+        ":violin:",
+        ":bike:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "47",

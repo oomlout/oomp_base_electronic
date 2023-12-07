@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "99L5Y",
     "md5_10": "ed7c665d58",
     "md5_10_upper": "ED7C665D58",
+    "oomp_word": "bus tv leaves",
+    "oomp_word_list": [
+        "bus",
+        "tv",
+        "leaves"
+    ],
+    "oomp_word_emoji": ":bus: :tv: :leaves:",
+    "oomp_word_emoji_list": [
+        ":bus:",
+        ":tv:",
+        ":leaves:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3824",

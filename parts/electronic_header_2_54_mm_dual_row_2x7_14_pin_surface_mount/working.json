@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "6K183",
     "md5_10": "a809331df6",
     "md5_10_upper": "A809331DF6",
+    "oomp_word": "shoe angry dog",
+    "oomp_word_list": [
+        "shoe",
+        "angry",
+        "dog"
+    ],
+    "oomp_word_emoji": ":shoe: :angry: :dog:",
+    "oomp_word_emoji_list": [
+        ":shoe:",
+        ":angry:",
+        ":dog:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2714",

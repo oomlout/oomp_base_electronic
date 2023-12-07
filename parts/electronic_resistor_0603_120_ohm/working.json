@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "5338O",
     "md5_10": "8258287983",
     "md5_10_upper": "8258287983",
+    "oomp_word": "radio water_buffalo tongue",
+    "oomp_word_list": [
+        "radio",
+        "water_buffalo",
+        "tongue"
+    ],
+    "oomp_word_emoji": ":radio: :water_buffalo: :tongue:",
+    "oomp_word_emoji_list": [
+        ":radio:",
+        ":water_buffalo:",
+        ":tongue:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "120",

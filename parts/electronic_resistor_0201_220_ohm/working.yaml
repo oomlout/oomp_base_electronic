@@ -66,6 +66,16 @@ name_no_size: 220 Ohm
 name_no_size_short: 220 Ohm
 name_no_type: 0201 220 Ohm
 oomp_key: oomp_electronic_resistor_0201_220_ohm
+oomp_word: handbag frog ticket
+oomp_word_emoji: ':handbag: :frog: :ticket:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':frog:'
+- ':ticket:'
+oomp_word_list:
+- handbag
+- frog
+- ticket
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

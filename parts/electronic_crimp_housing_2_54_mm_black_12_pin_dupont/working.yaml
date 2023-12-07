@@ -54,6 +54,16 @@ name_no_size: Black 12 Pin Dupont
 name_no_size_short: Black 12 Pin Dupont
 name_no_type: 2 54 Mm Black 12 Pin Dupont
 oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_12_pin_dupont
+oomp_word: doughnut recycle toilet
+oomp_word_emoji: ':doughnut: :recycle: :toilet:'
+oomp_word_emoji_list:
+- ':doughnut:'
+- ':recycle:'
+- ':toilet:'
+oomp_word_list:
+- doughnut
+- recycle
+- toilet
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "8VNO4",
     "md5_10": "e391949362",
     "md5_10_upper": "E391949362",
+    "oomp_word": "rowboat pushpin microscope",
+    "oomp_word_list": [
+        "rowboat",
+        "pushpin",
+        "microscope"
+    ],
+    "oomp_word_emoji": ":rowboat: :pushpin: :microscope:",
+    "oomp_word_emoji_list": [
+        ":rowboat:",
+        ":pushpin:",
+        ":microscope:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21122",

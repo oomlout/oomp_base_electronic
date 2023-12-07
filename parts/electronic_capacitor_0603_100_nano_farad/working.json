@@ -97,6 +97,18 @@
     "md5_6_alpha_upper": "5I1LD",
     "md5_10": "8cfd91c8b4",
     "md5_10_upper": "8CFD91C8B4",
+    "oomp_word": "pill parking pushpin",
+    "oomp_word_list": [
+        "pill",
+        "parking",
+        "pushpin"
+    ],
+    "oomp_word_emoji": ":pill: :parking: :pushpin:",
+    "oomp_word_emoji_list": [
+        ":pill:",
+        ":parking:",
+        ":pushpin:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "100",

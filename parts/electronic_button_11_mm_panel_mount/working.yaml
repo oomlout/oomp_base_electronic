@@ -53,6 +53,16 @@ name_no_size: Panel Mount
 name_no_size_short: Panel Mount
 name_no_type: 11 Mm Panel Mount
 oomp_key: oomp_electronic_button_11_mm_panel_mount
+oomp_word: rose corn shirt
+oomp_word_emoji: ':rose: :corn: :shirt:'
+oomp_word_emoji_list:
+- ':rose:'
+- ':corn:'
+- ':shirt:'
+oomp_word_list:
+- rose
+- corn
+- shirt
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

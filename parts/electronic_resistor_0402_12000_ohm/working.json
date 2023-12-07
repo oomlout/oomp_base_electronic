@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "26RYP",
     "md5_10": "381511d697",
     "md5_10_upper": "381511D697",
+    "oomp_word": "frog poop dizzy",
+    "oomp_word_list": [
+        "frog",
+        "poop",
+        "dizzy"
+    ],
+    "oomp_word_emoji": ":frog: :poop: :dizzy:",
+    "oomp_word_emoji_list": [
+        ":frog:",
+        ":poop:",
+        ":dizzy:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "12000",

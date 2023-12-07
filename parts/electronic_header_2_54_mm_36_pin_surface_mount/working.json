@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "5OVDX",
     "md5_10": "91d9e5bf16",
     "md5_10_upper": "91D9E5BF16",
+    "oomp_word": "pushpin bank rocket",
+    "oomp_word_list": [
+        "pushpin",
+        "bank",
+        "rocket"
+    ],
+    "oomp_word_emoji": ":pushpin: :bank: :rocket:",
+    "oomp_word_emoji_list": [
+        ":pushpin:",
+        ":bank:",
+        ":rocket:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "36",

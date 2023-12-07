@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "38LOW",
     "md5_10": "5302d066da",
     "md5_10_upper": "5302D066DA",
+    "oomp_word": "fish blush banana",
+    "oomp_word_list": [
+        "fish",
+        "blush",
+        "banana"
+    ],
+    "oomp_word_emoji": ":fish: :blush: :banana:",
+    "oomp_word_emoji_list": [
+        ":fish:",
+        ":blush:",
+        ":banana:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3721",

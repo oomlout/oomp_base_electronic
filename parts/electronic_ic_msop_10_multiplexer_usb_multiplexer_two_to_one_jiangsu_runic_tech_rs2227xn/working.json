@@ -126,6 +126,18 @@
     "md5_6_alpha_upper": "29K3M",
     "md5_10": "3a10020ea9",
     "md5_10_upper": "3A10020EA9",
+    "oomp_word": "koala star blush",
+    "oomp_word_list": [
+        "koala",
+        "star",
+        "blush"
+    ],
+    "oomp_word_emoji": ":koala: :star: :blush:",
+    "oomp_word_emoji_list": [
+        ":koala:",
+        ":star:",
+        ":blush:"
+    ],
     "size_only_numbers": "10",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "",

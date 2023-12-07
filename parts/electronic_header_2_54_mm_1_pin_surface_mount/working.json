@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "9D1L7",
     "md5_10": "eff24b1b80",
     "md5_10_upper": "EFF24B1B80",
+    "oomp_word": "truck one penguin",
+    "oomp_word_list": [
+        "truck",
+        "one",
+        "penguin"
+    ],
+    "oomp_word_emoji": ":truck: :one: :penguin:",
+    "oomp_word_emoji_list": [
+        ":truck:",
+        ":one:",
+        ":penguin:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "1",

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "5DM9U",
     "md5_10": "89d7029413",
     "md5_10_upper": "89D7029413",
+    "oomp_word": "hammer office blush",
+    "oomp_word_list": [
+        "hammer",
+        "office",
+        "blush"
+    ],
+    "oomp_word_emoji": ":hammer: :office: :blush:",
+    "oomp_word_emoji_list": [
+        ":hammer:",
+        ":office:",
+        ":blush:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "6800000",

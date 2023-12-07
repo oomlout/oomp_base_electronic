@@ -56,6 +56,16 @@ name_no_size: 4700000 Ohm
 name_no_size_short: 4M7 Ohm
 name_no_type: 0201 4700000 Ohm
 oomp_key: oomp_electronic_resistor_0201_4700000_ohm
+oomp_word: office ambulance pushpin
+oomp_word_emoji: ':office: :ambulance: :pushpin:'
+oomp_word_emoji_list:
+- ':office:'
+- ':ambulance:'
+- ':pushpin:'
+oomp_word_list:
+- office
+- ambulance
+- pushpin
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

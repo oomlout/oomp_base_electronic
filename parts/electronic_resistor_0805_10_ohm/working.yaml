@@ -95,6 +95,16 @@ name_no_size: 10 Ohm
 name_no_size_short: 10 Ohm
 name_no_type: 0805 10 Ohm
 oomp_key: oomp_electronic_resistor_0805_10_ohm
+oomp_word: spaghetti shirt tent
+oomp_word_emoji: ':spaghetti: :shirt: :tent:'
+oomp_word_emoji_list:
+- ':spaghetti:'
+- ':shirt:'
+- ':tent:'
+oomp_word_list:
+- spaghetti
+- shirt
+- tent
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

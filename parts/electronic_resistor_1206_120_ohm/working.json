@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "565EH",
     "md5_10": "8485d9d82c",
     "md5_10_upper": "8485D9D82C",
+    "oomp_word": "key bulb bank",
+    "oomp_word_list": [
+        "key",
+        "bulb",
+        "bank"
+    ],
+    "oomp_word_emoji": ":key: :bulb: :bank:",
+    "oomp_word_emoji_list": [
+        ":key:",
+        ":bulb:",
+        ":bank:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "120",

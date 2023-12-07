@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "ZSSV",
     "md5_10": "197c8f4709",
     "md5_10_upper": "197C8F4709",
+    "oomp_word": "pray tv calendar",
+    "oomp_word_list": [
+        "pray",
+        "tv",
+        "calendar"
+    ],
+    "oomp_word_emoji": ":pray: :tv: :calendar:",
+    "oomp_word_emoji_list": [
+        ":pray:",
+        ":tv:",
+        ":calendar:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "7",

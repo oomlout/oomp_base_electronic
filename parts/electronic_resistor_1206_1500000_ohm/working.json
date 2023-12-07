@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "9FA1Y",
     "md5_10": "f189a63762",
     "md5_10_upper": "F189A63762",
+    "oomp_word": "ticket hammer trumpet",
+    "oomp_word_list": [
+        "ticket",
+        "hammer",
+        "trumpet"
+    ],
+    "oomp_word_emoji": ":ticket: :hammer: :trumpet:",
+    "oomp_word_emoji_list": [
+        ":ticket:",
+        ":hammer:",
+        ":trumpet:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "1500000",

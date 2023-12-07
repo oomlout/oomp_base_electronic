@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "O40A",
     "md5_10": "112a4afcac",
     "md5_10_upper": "112A4AFCAC",
+    "oomp_word": "dizzy umbrella chicken",
+    "oomp_word_list": [
+        "dizzy",
+        "umbrella",
+        "chicken"
+    ],
+    "oomp_word_emoji": ":dizzy: :umbrella: :chicken:",
+    "oomp_word_emoji_list": [
+        ":dizzy:",
+        ":umbrella:",
+        ":chicken:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21020",

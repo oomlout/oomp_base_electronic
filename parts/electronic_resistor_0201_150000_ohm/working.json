@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3XJWE",
     "md5_10": "64c5fee0c1",
     "md5_10_upper": "64C5FEE0C1",
+    "oomp_word": "sunflower candy recycle",
+    "oomp_word_list": [
+        "sunflower",
+        "candy",
+        "recycle"
+    ],
+    "oomp_word_emoji": ":sunflower: :candy: :recycle:",
+    "oomp_word_emoji_list": [
+        ":sunflower:",
+        ":candy:",
+        ":recycle:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "150000",

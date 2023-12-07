@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "727FM",
     "md5_10": "b4f92219f8",
     "md5_10_upper": "B4F92219F8",
+    "oomp_word": "coffee eight lips",
+    "oomp_word_list": [
+        "coffee",
+        "eight",
+        "lips"
+    ],
+    "oomp_word_emoji": ":coffee: :eight: :lips:",
+    "oomp_word_emoji_list": [
+        ":coffee:",
+        ":eight:",
+        ":lips:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21224",

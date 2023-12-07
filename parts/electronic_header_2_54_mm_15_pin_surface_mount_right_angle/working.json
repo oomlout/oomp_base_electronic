@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "4713J",
     "md5_10": "6b854ff4e8",
     "md5_10_upper": "6B854FF4E8",
+    "oomp_word": "chestnut bulb ant",
+    "oomp_word_list": [
+        "chestnut",
+        "bulb",
+        "ant"
+    ],
+    "oomp_word_emoji": ":chestnut: :bulb: :ant:",
+    "oomp_word_emoji_list": [
+        ":chestnut:",
+        ":bulb:",
+        ":ant:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "15",

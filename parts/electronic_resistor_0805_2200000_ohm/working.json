@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "8VXWU",
     "md5_10": "e3c56efbdb",
     "md5_10_upper": "E3C56EFBDB",
+    "oomp_word": "rowboat candy new_moon",
+    "oomp_word_list": [
+        "rowboat",
+        "candy",
+        "new_moon"
+    ],
+    "oomp_word_emoji": ":rowboat: :candy: :new_moon:",
+    "oomp_word_emoji_list": [
+        ":rowboat:",
+        ":candy:",
+        ":new_moon:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "2200000",

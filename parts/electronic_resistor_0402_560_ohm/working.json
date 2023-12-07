@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "24BB7",
     "md5_10": "3654434791",
     "md5_10_upper": "3654434791",
+    "oomp_word": "rabbit whale elephant",
+    "oomp_word_list": [
+        "rabbit",
+        "whale",
+        "elephant"
+    ],
+    "oomp_word_emoji": ":rabbit: :whale: :elephant:",
+    "oomp_word_emoji_list": [
+        ":rabbit:",
+        ":whale:",
+        ":elephant:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "560",

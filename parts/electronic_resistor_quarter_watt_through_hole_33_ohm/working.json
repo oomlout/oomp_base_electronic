@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8F7NT",
     "md5_10": "d7dc893039",
     "md5_10_upper": "D7DC893039",
+    "oomp_word": "office factory hammer",
+    "oomp_word_list": [
+        "office",
+        "factory",
+        "hammer"
+    ],
+    "oomp_word_emoji": ":office: :factory: :hammer:",
+    "oomp_word_emoji_list": [
+        ":office:",
+        ":factory:",
+        ":hammer:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "33",

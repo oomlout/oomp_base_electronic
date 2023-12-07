@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "N6PH",
     "md5_10": "1081b5bf38",
     "md5_10_upper": "1081B5BF38",
+    "oomp_word": "star watch tea",
+    "oomp_word_list": [
+        "star",
+        "watch",
+        "tea"
+    ],
+    "oomp_word_emoji": ":star: :watch: :tea:",
+    "oomp_word_emoji_list": [
+        ":star:",
+        ":watch:",
+        ":tea:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "680",

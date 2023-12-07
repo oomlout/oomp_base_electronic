@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "2KFTZ",
     "md5_10": "41cf27278a",
     "md5_10_upper": "41CF27278A",
+    "oomp_word": "camel melon nose",
+    "oomp_word_list": [
+        "camel",
+        "melon",
+        "nose"
+    ],
+    "oomp_word_emoji": ":camel: :melon: :nose:",
+    "oomp_word_emoji_list": [
+        ":camel:",
+        ":melon:",
+        ":nose:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3",

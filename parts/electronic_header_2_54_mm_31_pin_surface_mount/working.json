@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "2BX4M",
     "md5_10": "3bbe7617b7",
     "md5_10_upper": "3BBE7617B7",
+    "oomp_word": "bear ramen santa",
+    "oomp_word_list": [
+        "bear",
+        "ramen",
+        "santa"
+    ],
+    "oomp_word_emoji": ":bear: :ramen: :santa:",
+    "oomp_word_emoji_list": [
+        ":bear:",
+        ":ramen:",
+        ":santa:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "31",

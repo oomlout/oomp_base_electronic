@@ -54,6 +54,16 @@ name_no_size: 3 Pin Through Hole Long
 name_no_size_short: 3 Pin Through Hole Long
 name_no_type: 2 54 Mm 3 Pin Through Hole Long
 oomp_key: oomp_electronic_socket_2_54_mm_3_pin_through_hole_long
+oomp_word: ghost honey_pot thumbsdown
+oomp_word_emoji: ':ghost: :honey_pot: :thumbsdown:'
+oomp_word_emoji_list:
+- ':ghost:'
+- ':honey_pot:'
+- ':thumbsdown:'
+oomp_word_list:
+- ghost
+- honey_pot
+- thumbsdown
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

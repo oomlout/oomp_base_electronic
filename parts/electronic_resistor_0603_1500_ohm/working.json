@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "1UKSN",
     "md5_10": "2f65c7fd06",
     "md5_10_upper": "2F65C7FD06",
+    "oomp_word": "cyclone maple_leaf honey_pot",
+    "oomp_word_list": [
+        "cyclone",
+        "maple_leaf",
+        "honey_pot"
+    ],
+    "oomp_word_emoji": ":cyclone: :maple_leaf: :honey_pot:",
+    "oomp_word_emoji_list": [
+        ":cyclone:",
+        ":maple_leaf:",
+        ":honey_pot:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "1500",

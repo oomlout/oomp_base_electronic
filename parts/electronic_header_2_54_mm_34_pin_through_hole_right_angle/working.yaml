@@ -70,6 +70,16 @@ name_no_size: 34 Pin Through Hole Right Angle
 name_no_size_short: 34 Pin Through Hole Right Angle
 name_no_type: 2 54 Mm 34 Pin Through Hole Right Angle
 oomp_key: oomp_electronic_header_2_54_mm_34_pin_through_hole_right_angle
+oomp_word: phone chestnut dragon
+oomp_word_emoji: ':phone: :chestnut: :dragon:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':chestnut:'
+- ':dragon:'
+oomp_word_list:
+- phone
+- chestnut
+- dragon
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

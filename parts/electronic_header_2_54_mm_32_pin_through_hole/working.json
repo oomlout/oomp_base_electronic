@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "4S2LB",
     "md5_10": "7a801f6e98",
     "md5_10_upper": "7A801F6E98",
+    "oomp_word": "camera hourglass princess",
+    "oomp_word_list": [
+        "camera",
+        "hourglass",
+        "princess"
+    ],
+    "oomp_word_emoji": ":camera: :hourglass: :princess:",
+    "oomp_word_emoji_list": [
+        ":camera:",
+        ":hourglass:",
+        ":princess:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "32",

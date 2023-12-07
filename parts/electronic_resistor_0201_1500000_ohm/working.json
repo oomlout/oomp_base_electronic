@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "54XAB",
     "md5_10": "83a68303f8",
     "md5_10_upper": "83A68303F8",
+    "oomp_word": "lock trumpet lock",
+    "oomp_word_list": [
+        "lock",
+        "trumpet",
+        "lock"
+    ],
+    "oomp_word_emoji": ":lock: :trumpet: :lock:",
+    "oomp_word_emoji_list": [
+        ":lock:",
+        ":trumpet:",
+        ":lock:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "1500000",

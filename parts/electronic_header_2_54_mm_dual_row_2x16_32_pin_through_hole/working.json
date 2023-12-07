@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "201U5",
     "md5_10": "334b4d9e46",
     "md5_10_upper": "334B4D9E46",
+    "oomp_word": "dog penguin bug",
+    "oomp_word_list": [
+        "dog",
+        "penguin",
+        "bug"
+    ],
+    "oomp_word_emoji": ":dog: :penguin: :bug:",
+    "oomp_word_emoji_list": [
+        ":dog:",
+        ":penguin:",
+        ":bug:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21632",

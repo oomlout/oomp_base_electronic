@@ -71,6 +71,16 @@ name_no_size: 11 Pin Surface Mount
 name_no_size_short: 11 Pin Surface Mount
 name_no_type: 2 54 Mm 11 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_54_mm_11_pin_surface_mount
+oomp_word: key frog thumbsdown
+oomp_word_emoji: ':key: :frog: :thumbsdown:'
+oomp_word_emoji_list:
+- ':key:'
+- ':frog:'
+- ':thumbsdown:'
+oomp_word_list:
+- key
+- frog
+- thumbsdown
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

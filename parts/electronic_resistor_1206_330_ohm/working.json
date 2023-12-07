@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "Z5LS",
     "md5_10": "19072055ec",
     "md5_10_upper": "19072055EC",
+    "oomp_word": "pray cry skull",
+    "oomp_word_list": [
+        "pray",
+        "cry",
+        "skull"
+    ],
+    "oomp_word_emoji": ":pray: :cry: :skull:",
+    "oomp_word_emoji_list": [
+        ":pray:",
+        ":cry:",
+        ":skull:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "330",

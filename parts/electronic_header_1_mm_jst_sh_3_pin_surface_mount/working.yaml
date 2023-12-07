@@ -60,6 +60,16 @@ name_no_size: 3 Pin Surface Mount
 name_no_size_short: 3 Pin Surface Mount
 name_no_type: 1 Mm Jst Sh 3 Pin Surface Mount
 oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin_surface_mount
+oomp_word: ant hatched_chick ramen
+oomp_word_emoji: ':ant: :hatched_chick: :ramen:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':hatched_chick:'
+- ':ramen:'
+oomp_word_list:
+- ant
+- hatched_chick
+- ramen
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

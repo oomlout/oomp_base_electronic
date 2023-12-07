@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "5LI8G",
     "md5_10": "8f749000c6",
     "md5_10_upper": "8F749000C6",
+    "oomp_word": "calendar fireworks scissors",
+    "oomp_word_list": [
+        "calendar",
+        "fireworks",
+        "scissors"
+    ],
+    "oomp_word_emoji": ":calendar: :fireworks: :scissors:",
+    "oomp_word_emoji_list": [
+        ":calendar:",
+        ":fireworks:",
+        ":scissors:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "2700",

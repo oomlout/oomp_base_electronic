@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "8LU46",
     "md5_10": "dc93b63877",
     "md5_10_upper": "DC93B63877",
+    "oomp_word": "factory books beer",
+    "oomp_word_list": [
+        "factory",
+        "books",
+        "beer"
+    ],
+    "oomp_word_emoji": ":factory: :books: :beer:",
+    "oomp_word_emoji_list": [
+        ":factory:",
+        ":books:",
+        ":beer:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2714",

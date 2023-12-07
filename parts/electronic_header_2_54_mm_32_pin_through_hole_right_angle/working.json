@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "24680",
     "md5_10": "363a803786",
     "md5_10_upper": "363A803786",
+    "oomp_word": "rabbit koala hourglass",
+    "oomp_word_list": [
+        "rabbit",
+        "koala",
+        "hourglass"
+    ],
+    "oomp_word_emoji": ":rabbit: :koala: :hourglass:",
+    "oomp_word_emoji_list": [
+        ":rabbit:",
+        ":koala:",
+        ":hourglass:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "32",

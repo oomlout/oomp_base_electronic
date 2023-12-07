@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "6LZYH",
     "md5_10": "a96f4931ea",
     "md5_10_upper": "A96F4931EA",
+    "oomp_word": "sandal moon hatching_chick",
+    "oomp_word_list": [
+        "sandal",
+        "moon",
+        "hatching_chick"
+    ],
+    "oomp_word_emoji": ":sandal: :moon: :hatching_chick:",
+    "oomp_word_emoji_list": [
+        ":sandal:",
+        ":moon:",
+        ":hatching_chick:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "330000",

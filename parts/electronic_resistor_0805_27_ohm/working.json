@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "9PP6D",
     "md5_10": "f8f4b5bf55",
     "md5_10_upper": "F8F4B5BF55",
+    "oomp_word": "seven three tea",
+    "oomp_word_list": [
+        "seven",
+        "three",
+        "tea"
+    ],
+    "oomp_word_emoji": ":seven: :three: :tea:",
+    "oomp_word_emoji_list": [
+        ":seven:",
+        ":three:",
+        ":tea:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "27",

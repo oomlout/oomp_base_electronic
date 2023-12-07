@@ -54,6 +54,16 @@ name_no_size: Black 2 Pin Dupont
 name_no_size_short: Black 2 Pin Dupont
 name_no_type: 2 54 Mm Black 2 Pin Dupont
 oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_2_pin_dupont
+oomp_word: penguin stars foggy
+oomp_word_emoji: ':penguin: :stars: :foggy:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':stars:'
+- ':foggy:'
+oomp_word_list:
+- penguin
+- stars
+- foggy
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

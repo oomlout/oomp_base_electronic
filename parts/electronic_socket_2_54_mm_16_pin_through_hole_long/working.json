@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "8Y92K",
     "md5_10": "e56a6c0223",
     "md5_10_upper": "E56A6C0223",
+    "oomp_word": "rocket palm_tree blossom",
+    "oomp_word_list": [
+        "rocket",
+        "palm_tree",
+        "blossom"
+    ],
+    "oomp_word_emoji": ":rocket: :palm_tree: :blossom:",
+    "oomp_word_emoji_list": [
+        ":rocket:",
+        ":palm_tree:",
+        ":blossom:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "16",

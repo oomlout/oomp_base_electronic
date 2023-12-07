@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6Q20B",
     "md5_10": "ac52abec84",
     "md5_10_upper": "AC52ABEC84",
+    "oomp_word": "shirt octopus boot",
+    "oomp_word_list": [
+        "shirt",
+        "octopus",
+        "boot"
+    ],
+    "oomp_word_emoji": ":shirt: :octopus: :boot:",
+    "oomp_word_emoji_list": [
+        ":shirt:",
+        ":octopus:",
+        ":boot:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "",

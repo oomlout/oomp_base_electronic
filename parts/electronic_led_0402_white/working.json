@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "21V31",
     "md5_10": "34959d44b7",
     "md5_10_upper": "34959D44B7",
+    "oomp_word": "mouse telescope hearts",
+    "oomp_word_list": [
+        "mouse",
+        "telescope",
+        "hearts"
+    ],
+    "oomp_word_emoji": ":mouse: :telescope: :hearts:",
+    "oomp_word_emoji_list": [
+        ":mouse:",
+        ":telescope:",
+        ":hearts:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "",

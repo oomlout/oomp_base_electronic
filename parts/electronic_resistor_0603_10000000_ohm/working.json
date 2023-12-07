@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "4DQWT",
     "md5_10": "704d7d3d2c",
     "md5_10_upper": "704D7D3D2C",
+    "oomp_word": "squirrel bug phone",
+    "oomp_word_list": [
+        "squirrel",
+        "bug",
+        "phone"
+    ],
+    "oomp_word_emoji": ":squirrel: :bug: :phone:",
+    "oomp_word_emoji_list": [
+        ":squirrel:",
+        ":bug:",
+        ":phone:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "10000000",

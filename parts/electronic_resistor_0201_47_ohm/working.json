@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3Q0CQ",
     "md5_10": "5f674a796a",
     "md5_10_upper": "5F674A796A",
+    "oomp_word": "leopard herb chicken",
+    "oomp_word_list": [
+        "leopard",
+        "herb",
+        "chicken"
+    ],
+    "oomp_word_emoji": ":leopard: :herb: :chicken:",
+    "oomp_word_emoji_list": [
+        ":leopard:",
+        ":herb:",
+        ":chicken:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "47",

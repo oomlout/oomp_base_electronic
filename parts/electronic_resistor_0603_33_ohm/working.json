@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "ERKD",
     "md5_10": "0a830d5e26",
     "md5_10_upper": "0A830D5E26",
+    "oomp_word": "sleepy lock heart",
+    "oomp_word_list": [
+        "sleepy",
+        "lock",
+        "heart"
+    ],
+    "oomp_word_emoji": ":sleepy: :lock: :heart:",
+    "oomp_word_emoji_list": [
+        ":sleepy:",
+        ":lock:",
+        ":heart:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "33",

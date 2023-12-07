@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "9YGKH",
     "md5_10": "ff3161c7d8",
     "md5_10_upper": "FF3161C7D8",
+    "oomp_word": "trident ocean bouquet",
+    "oomp_word_list": [
+        "trident",
+        "ocean",
+        "bouquet"
+    ],
+    "oomp_word_emoji": ":trident: :ocean: :bouquet:",
+    "oomp_word_emoji_list": [
+        ":trident:",
+        ":ocean:",
+        ":bouquet:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "8",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "11PGN",
     "md5_10": "1ad82705ad",
     "md5_10_upper": "1AD82705AD",
+    "oomp_word": "clap hospital nose",
+    "oomp_word_list": [
+        "clap",
+        "hospital",
+        "nose"
+    ],
+    "oomp_word_emoji": ":clap: :hospital: :nose:",
+    "oomp_word_emoji_list": [
+        ":clap:",
+        ":hospital:",
+        ":nose:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "4",

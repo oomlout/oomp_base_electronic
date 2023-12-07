@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "2VA4U",
     "md5_10": "49870e3fb4",
     "md5_10_upper": "49870E3FB4",
+    "oomp_word": "hatching_chick toilet cupid",
+    "oomp_word_list": [
+        "hatching_chick",
+        "toilet",
+        "cupid"
+    ],
+    "oomp_word_emoji": ":hatching_chick: :toilet: :cupid:",
+    "oomp_word_emoji_list": [
+        ":hatching_chick:",
+        ":toilet:",
+        ":cupid:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "390000",

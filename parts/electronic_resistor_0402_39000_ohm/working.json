@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "5XNBM",
     "md5_10": "9819524494",
     "md5_10_upper": "9819524494",
+    "oomp_word": "tennis pray octopus",
+    "oomp_word_list": [
+        "tennis",
+        "pray",
+        "octopus"
+    ],
+    "oomp_word_emoji": ":tennis: :pray: :octopus:",
+    "oomp_word_emoji_list": [
+        ":tennis:",
+        ":pray:",
+        ":octopus:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "39000",

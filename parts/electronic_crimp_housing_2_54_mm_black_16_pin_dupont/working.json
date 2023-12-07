@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "6Z4Y",
     "md5_10": "04f762b356",
     "md5_10_upper": "04F762B356",
+    "oomp_word": "wink six tulip",
+    "oomp_word_list": [
+        "wink",
+        "six",
+        "tulip"
+    ],
+    "oomp_word_emoji": ":wink: :six: :tulip:",
+    "oomp_word_emoji_list": [
+        ":wink:",
+        ":six:",
+        ":tulip:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "16",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "3OG48",
     "md5_10": "5e4a98ee53",
     "md5_10_upper": "5E4A98EE53",
+    "oomp_word": "crocodile chicken tennis",
+    "oomp_word_list": [
+        "crocodile",
+        "chicken",
+        "tennis"
+    ],
+    "oomp_word_emoji": ":crocodile: :chicken: :tennis:",
+    "oomp_word_emoji_list": [
+        ":crocodile:",
+        ":chicken:",
+        ":tennis:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "25",

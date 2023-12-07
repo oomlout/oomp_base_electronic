@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "4ZUAU",
     "md5_10": "8008269b2a",
     "md5_10_upper": "8008269B2A",
+    "oomp_word": "hourglass scream eyes",
+    "oomp_word_list": [
+        "hourglass",
+        "scream",
+        "eyes"
+    ],
+    "oomp_word_emoji": ":hourglass: :scream: :eyes:",
+    "oomp_word_emoji_list": [
+        ":hourglass:",
+        ":scream:",
+        ":eyes:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "22",

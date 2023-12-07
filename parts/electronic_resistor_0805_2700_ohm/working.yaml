@@ -95,6 +95,16 @@ name_no_size: 2700 Ohm
 name_no_size_short: 2k7 Ohm
 name_no_type: 0805 2700 Ohm
 oomp_key: oomp_electronic_resistor_0805_2700_ohm
+oomp_word: sailboat trumpet grapes
+oomp_word_emoji: ':sailboat: :trumpet: :grapes:'
+oomp_word_emoji_list:
+- ':sailboat:'
+- ':trumpet:'
+- ':grapes:'
+oomp_word_list:
+- sailboat
+- trumpet
+- grapes
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

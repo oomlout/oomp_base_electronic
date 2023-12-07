@@ -95,6 +95,16 @@ name_no_size: 12 Ohm
 name_no_size_short: 12 Ohm
 name_no_type: 0805 12 Ohm
 oomp_key: oomp_electronic_resistor_0805_12_ohm
+oomp_word: angry feet dog
+oomp_word_emoji: ':angry: :feet: :dog:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':feet:'
+- ':dog:'
+oomp_word_list:
+- angry
+- feet
+- dog
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

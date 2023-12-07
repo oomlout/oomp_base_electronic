@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "4EFTM",
     "md5_10": "70cb9a65be",
     "md5_10_upper": "70CB9A65BE",
+    "oomp_word": "squirrel grapes golf",
+    "oomp_word_list": [
+        "squirrel",
+        "grapes",
+        "golf"
+    ],
+    "oomp_word_emoji": ":squirrel: :grapes: :golf:",
+    "oomp_word_emoji_list": [
+        ":squirrel:",
+        ":grapes:",
+        ":golf:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "1000",

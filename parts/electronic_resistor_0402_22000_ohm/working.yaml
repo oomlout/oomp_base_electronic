@@ -84,6 +84,16 @@ name_no_size: 22000 Ohm
 name_no_size_short: 22k Ohm
 name_no_type: 0402 22000 Ohm
 oomp_key: oomp_electronic_resistor_0402_22000_ohm
+oomp_word: fireworks trident watch
+oomp_word_emoji: ':fireworks: :trident: :watch:'
+oomp_word_emoji_list:
+- ':fireworks:'
+- ':trident:'
+- ':watch:'
+oomp_word_list:
+- fireworks
+- trident
+- watch
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

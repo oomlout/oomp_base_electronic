@@ -94,6 +94,16 @@ name_no_size: Package Marking B2 Mbr0520
 name_no_size_short: Package Marking B2 Mbr0520
 name_no_type: Sod 123 Package Marking B2 Mbr0520
 oomp_key: oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+oomp_word: parking muscle ok
+oomp_word_emoji: ':parking: :muscle: :ok:'
+oomp_word_emoji_list:
+- ':parking:'
+- ':muscle:'
+- ':ok:'
+oomp_word_list:
+- parking
+- muscle
+- ok
 part_number: mbr0520
 part_number_capital: Mbr0520
 part_number_first_letter: m

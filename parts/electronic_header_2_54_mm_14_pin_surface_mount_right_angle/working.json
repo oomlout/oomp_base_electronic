@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "D2UJ",
     "md5_10": "094fab39a8",
     "md5_10_upper": "094FAB39A8",
+    "oomp_word": "angry ant boot",
+    "oomp_word_list": [
+        "angry",
+        "ant",
+        "boot"
+    ],
+    "oomp_word_emoji": ":angry: :ant: :boot:",
+    "oomp_word_emoji_list": [
+        ":angry:",
+        ":ant:",
+        ":boot:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "14",

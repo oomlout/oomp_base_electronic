@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6UNU",
     "md5_10": "04e0bab73c",
     "md5_10_upper": "04E0BAB73C",
+    "oomp_word": "wink ship spaghetti",
+    "oomp_word_list": [
+        "wink",
+        "ship",
+        "spaghetti"
+    ],
+    "oomp_word_emoji": ":wink: :ship: :spaghetti:",
+    "oomp_word_emoji_list": [
+        ":wink:",
+        ":ship:",
+        ":spaghetti:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "1200000",

@@ -56,6 +56,16 @@ name_no_size: 2700000 Ohm
 name_no_size_short: 2M7 Ohm
 name_no_type: 0201 2700000 Ohm
 oomp_key: oomp_electronic_resistor_0201_2700000_ohm
+oomp_word: fax bank scream
+oomp_word_emoji: ':fax: :bank: :scream:'
+oomp_word_emoji_list:
+- ':fax:'
+- ':bank:'
+- ':scream:'
+oomp_word_list:
+- fax
+- bank
+- scream
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

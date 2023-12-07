@@ -60,6 +60,16 @@ name_no_size: 2X12 24 Pin Surface Mount Right Angle
 name_no_size_short: 2X12 24 Pin Surface Mount Right Angle
 name_no_type: 2 54 Mm Dual Row 2X12 24 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x12_24_pin_surface_mount_right_angle
+oomp_word: coffee eight lips
+oomp_word_emoji: ':coffee: :eight: :lips:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':eight:'
+- ':lips:'
+oomp_word_list:
+- coffee
+- eight
+- lips
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

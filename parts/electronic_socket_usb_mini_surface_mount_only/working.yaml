@@ -76,6 +76,16 @@ name_no_size: Surface Mount Only
 name_no_size_short: Surface Mount Only
 name_no_type: Usb Mini Surface Mount Only
 oomp_key: oomp_electronic_socket_usb_mini_surface_mount_only
+oomp_word: mouse candy bread
+oomp_word_emoji: ':mouse: :candy: :bread:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':candy:'
+- ':bread:'
+oomp_word_list:
+- mouse
+- candy
+- bread
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

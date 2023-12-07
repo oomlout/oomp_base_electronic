@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6UNPO",
     "md5_10": "af998cf8f8",
     "md5_10_upper": "AF998CF8F8",
+    "oomp_word": "tophat bowling pill",
+    "oomp_word_list": [
+        "tophat",
+        "bowling",
+        "pill"
+    ],
+    "oomp_word_emoji": ":tophat: :bowling: :pill:",
+    "oomp_word_emoji_list": [
+        ":tophat:",
+        ":bowling:",
+        ":pill:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "5600000",

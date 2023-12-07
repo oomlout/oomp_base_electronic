@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "8ZX01",
     "md5_10": "e699d1028a",
     "md5_10_upper": "E699D1028A",
+    "oomp_word": "airplane bowling pear",
+    "oomp_word_list": [
+        "airplane",
+        "bowling",
+        "pear"
+    ],
+    "oomp_word_emoji": ":airplane: :bowling: :pear:",
+    "oomp_word_emoji_list": [
+        ":airplane:",
+        ":bowling:",
+        ":pear:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "33",

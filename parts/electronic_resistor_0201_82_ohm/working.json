@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "8AEEN",
     "md5_10": "d46f6f304d",
     "md5_10_upper": "D46F6F304D",
+    "oomp_word": "corn moon moon",
+    "oomp_word_list": [
+        "corn",
+        "moon",
+        "moon"
+    ],
+    "oomp_word_emoji": ":corn: :moon: :moon:",
+    "oomp_word_emoji_list": [
+        ":corn:",
+        ":moon:",
+        ":moon:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "82",

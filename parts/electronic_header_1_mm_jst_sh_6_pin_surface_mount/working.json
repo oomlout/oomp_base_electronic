@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "3RDZE",
     "md5_10": "60628a62dc",
     "md5_10_upper": "60628A62DC",
+    "oomp_word": "poodle tulip envelope",
+    "oomp_word_list": [
+        "poodle",
+        "tulip",
+        "envelope"
+    ],
+    "oomp_word_emoji": ":poodle: :tulip: :envelope:",
+    "oomp_word_emoji_list": [
+        ":poodle:",
+        ":tulip:",
+        ":envelope:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "6",

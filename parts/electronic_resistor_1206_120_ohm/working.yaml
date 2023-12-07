@@ -95,6 +95,16 @@ name_no_size: 120 Ohm
 name_no_size_short: 120 Ohm
 name_no_type: 1206 120 Ohm
 oomp_key: oomp_electronic_resistor_1206_120_ohm
+oomp_word: key bulb bank
+oomp_word_emoji: ':key: :bulb: :bank:'
+oomp_word_emoji_list:
+- ':key:'
+- ':bulb:'
+- ':bank:'
+oomp_word_list:
+- key
+- bulb
+- bank
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

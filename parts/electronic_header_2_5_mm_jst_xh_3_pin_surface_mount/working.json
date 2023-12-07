@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "69485",
     "md5_10": "a043a5ee5d",
     "md5_10_upper": "A043A5EE5D",
+    "oomp_word": "ring elephant headphones",
+    "oomp_word_list": [
+        "ring",
+        "elephant",
+        "headphones"
+    ],
+    "oomp_word_emoji": ":ring: :elephant: :headphones:",
+    "oomp_word_emoji_list": [
+        ":ring:",
+        ":elephant:",
+        ":headphones:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "3",

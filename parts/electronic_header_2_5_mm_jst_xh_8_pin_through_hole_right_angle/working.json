@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "1SSP3",
     "md5_10": "2e21474861",
     "md5_10_upper": "2E21474861",
+    "oomp_word": "zap feet baby_chick",
+    "oomp_word_list": [
+        "zap",
+        "feet",
+        "baby_chick"
+    ],
+    "oomp_word_emoji": ":zap: :feet: :baby_chick:",
+    "oomp_word_emoji_list": [
+        ":zap:",
+        ":feet:",
+        ":baby_chick:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "8",

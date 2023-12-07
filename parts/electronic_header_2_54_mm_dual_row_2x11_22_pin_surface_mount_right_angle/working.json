@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "1I8J2",
     "md5_10": "269cae0a1d",
     "md5_10_upper": "269CAE0A1D",
+    "oomp_word": "eyes spades jeans",
+    "oomp_word_list": [
+        "eyes",
+        "spades",
+        "jeans"
+    ],
+    "oomp_word_emoji": ":eyes: :spades: :jeans:",
+    "oomp_word_emoji_list": [
+        ":eyes:",
+        ":spades:",
+        ":jeans:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21122",

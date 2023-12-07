@@ -84,6 +84,16 @@ name_no_size: 12 Ohm
 name_no_size_short: 12 Ohm
 name_no_type: 0402 12 Ohm
 oomp_key: oomp_electronic_resistor_0402_12_ohm
+oomp_word: gift fries pushpin
+oomp_word_emoji: ':gift: :fries: :pushpin:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':fries:'
+- ':pushpin:'
+oomp_word_list:
+- gift
+- fries
+- pushpin
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

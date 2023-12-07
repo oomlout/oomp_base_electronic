@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "4SPZW",
     "md5_10": "7af69c748d",
     "md5_10_upper": "7AF69C748D",
+    "oomp_word": "camera five spades",
+    "oomp_word_list": [
+        "camera",
+        "five",
+        "spades"
+    ],
+    "oomp_word_emoji": ":camera: :five: :spades:",
+    "oomp_word_emoji_list": [
+        ":camera:",
+        ":five:",
+        ":spades:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "12",

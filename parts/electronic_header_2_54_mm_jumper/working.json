@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "5P9Q3",
     "md5_10": "92227bc2f8",
     "md5_10_upper": "92227BC2F8",
+    "oomp_word": "paperclip lips computer",
+    "oomp_word_list": [
+        "paperclip",
+        "lips",
+        "computer"
+    ],
+    "oomp_word_emoji": ":paperclip: :lips: :computer:",
+    "oomp_word_emoji_list": [
+        ":paperclip:",
+        ":lips:",
+        ":computer:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "",

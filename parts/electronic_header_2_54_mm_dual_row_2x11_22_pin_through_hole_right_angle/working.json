@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "9LAE6",
     "md5_10": "f5d0de0f40",
     "md5_10_upper": "F5D0DE0F40",
+    "oomp_word": "four banana rainbow",
+    "oomp_word_list": [
+        "four",
+        "banana",
+        "rainbow"
+    ],
+    "oomp_word_emoji": ":four: :banana: :rainbow:",
+    "oomp_word_emoji_list": [
+        ":four:",
+        ":banana:",
+        ":rainbow:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21122",

@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "9IN1W",
     "md5_10": "f3ee341dcc",
     "md5_10_upper": "F3EE341DCC",
+    "oomp_word": "two ambulance mouse",
+    "oomp_word_list": [
+        "two",
+        "ambulance",
+        "mouse"
+    ],
+    "oomp_word_emoji": ":two: :ambulance: :mouse:",
+    "oomp_word_emoji_list": [
+        ":two:",
+        ":ambulance:",
+        ":mouse:"
+    ],
     "size_only_numbers": "10",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "",

@@ -95,6 +95,16 @@ name_no_size: 47000 Ohm
 name_no_size_short: 47k Ohm
 name_no_type: 0603 47000 Ohm
 oomp_key: oomp_electronic_resistor_0603_47000_ohm
+oomp_word: grapes shell new_moon
+oomp_word_emoji: ':grapes: :shell: :new_moon:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':shell:'
+- ':new_moon:'
+oomp_word_list:
+- grapes
+- shell
+- new_moon
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "65KYS",
     "md5_10": "9dbf6458e7",
     "md5_10_upper": "9DBF6458E7",
+    "oomp_word": "hearts egg sunflower",
+    "oomp_word_list": [
+        "hearts",
+        "egg",
+        "sunflower"
+    ],
+    "oomp_word_emoji": ":hearts: :egg: :sunflower:",
+    "oomp_word_emoji_list": [
+        ":hearts:",
+        ":egg:",
+        ":sunflower:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "100000",

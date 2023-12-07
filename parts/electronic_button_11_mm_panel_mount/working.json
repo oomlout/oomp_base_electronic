@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "3W88C",
     "md5_10": "63d4acda37",
     "md5_10_upper": "63D4ACDA37",
+    "oomp_word": "rose corn shirt",
+    "oomp_word_list": [
+        "rose",
+        "corn",
+        "shirt"
+    ],
+    "oomp_word_emoji": ":rose: :corn: :shirt:",
+    "oomp_word_emoji_list": [
+        ":rose:",
+        ":corn:",
+        ":shirt:"
+    ],
     "size_only_numbers": "11",
     "size_only_numbers_no_zeros": "11",
     "description_only_numbers": "",

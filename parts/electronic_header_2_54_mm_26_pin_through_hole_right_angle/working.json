@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "548IR",
     "md5_10": "8329233810",
     "md5_10_upper": "8329233810",
+    "oomp_word": "lock sunny kiss",
+    "oomp_word_list": [
+        "lock",
+        "sunny",
+        "kiss"
+    ],
+    "oomp_word_emoji": ":lock: :sunny: :kiss:",
+    "oomp_word_emoji_list": [
+        ":lock:",
+        ":sunny:",
+        ":kiss:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "26",

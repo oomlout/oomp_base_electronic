@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "3JXXO",
     "md5_10": "5b158c0d2e",
     "md5_10_upper": "5B158C0D2E",
+    "oomp_word": "rooster poop pill",
+    "oomp_word_list": [
+        "rooster",
+        "poop",
+        "pill"
+    ],
+    "oomp_word_emoji": ":rooster: :poop: :pill:",
+    "oomp_word_emoji_list": [
+        ":rooster:",
+        ":poop:",
+        ":pill:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "",

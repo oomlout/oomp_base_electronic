@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "9DGQ8",
     "md5_10": "f03ef0e331",
     "md5_10_upper": "F03EF0E331",
+    "oomp_word": "train monkey train",
+    "oomp_word_list": [
+        "train",
+        "monkey",
+        "train"
+    ],
+    "oomp_word_emoji": ":train: :monkey: :train:",
+    "oomp_word_emoji_list": [
+        ":train:",
+        ":monkey:",
+        ":train:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "22",

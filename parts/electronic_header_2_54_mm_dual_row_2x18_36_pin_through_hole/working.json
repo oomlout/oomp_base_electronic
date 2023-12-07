@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9132I",
     "md5_10": "e76ecae5e0",
     "md5_10_upper": "E76ECAE5E0",
+    "oomp_word": "helicopter new_moon cherries",
+    "oomp_word_list": [
+        "helicopter",
+        "new_moon",
+        "cherries"
+    ],
+    "oomp_word_emoji": ":helicopter: :new_moon: :cherries:",
+    "oomp_word_emoji_list": [
+        ":helicopter:",
+        ":new_moon:",
+        ":cherries:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21836",

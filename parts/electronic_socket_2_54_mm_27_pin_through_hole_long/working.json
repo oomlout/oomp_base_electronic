@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "7VSE0",
     "md5_10": "ca0878b4dc",
     "md5_10_upper": "CA0878B4DC",
+    "oomp_word": "cherries scream bell",
+    "oomp_word_list": [
+        "cherries",
+        "scream",
+        "bell"
+    ],
+    "oomp_word_emoji": ":cherries: :scream: :bell:",
+    "oomp_word_emoji_list": [
+        ":cherries:",
+        ":scream:",
+        ":bell:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "27",

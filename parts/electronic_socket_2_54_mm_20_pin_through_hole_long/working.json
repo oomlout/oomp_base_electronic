@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "TM44",
     "md5_10": "1515343688",
     "md5_10_upper": "1515343688",
+    "oomp_word": "poop poop mouse",
+    "oomp_word_list": [
+        "poop",
+        "poop",
+        "mouse"
+    ],
+    "oomp_word_emoji": ":poop: :poop: :mouse:",
+    "oomp_word_emoji_list": [
+        ":poop:",
+        ":poop:",
+        ":mouse:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "20",

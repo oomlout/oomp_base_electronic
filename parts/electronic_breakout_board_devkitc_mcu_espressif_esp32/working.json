@@ -260,6 +260,18 @@
     "md5_6_alpha_upper": "W5FX",
     "md5_10": "16e38de8e4",
     "md5_10_upper": "16E38DE8E4",
+    "oomp_word": "thumbsup rowboat scroll",
+    "oomp_word_list": [
+        "thumbsup",
+        "rowboat",
+        "scroll"
+    ],
+    "oomp_word_emoji": ":thumbsup: :rowboat: :scroll:",
+    "oomp_word_emoji_list": [
+        ":thumbsup:",
+        ":rowboat:",
+        ":scroll:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "32",

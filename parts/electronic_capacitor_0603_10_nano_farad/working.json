@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "20PE8",
     "md5_10": "33c290430a",
     "md5_10_upper": "33C290430A",
+    "oomp_word": "dog birthday scissors",
+    "oomp_word_list": [
+        "dog",
+        "birthday",
+        "scissors"
+    ],
+    "oomp_word_emoji": ":dog: :birthday: :scissors:",
+    "oomp_word_emoji_list": [
+        ":dog:",
+        ":birthday:",
+        ":scissors:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "10",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "2J3RJ",
     "md5_10": "40dbcf84e2",
     "md5_10_upper": "40DBCF84E2",
+    "oomp_word": "racehorse tent melon",
+    "oomp_word_list": [
+        "racehorse",
+        "tent",
+        "melon"
+    ],
+    "oomp_word_emoji": ":racehorse: :tent: :melon:",
+    "oomp_word_emoji_list": [
+        ":racehorse:",
+        ":tent:",
+        ":melon:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "1",

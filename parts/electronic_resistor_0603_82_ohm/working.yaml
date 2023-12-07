@@ -95,6 +95,16 @@ name_no_size: 82 Ohm
 name_no_size_short: 82 Ohm
 name_no_type: 0603 82 Ohm
 oomp_key: oomp_electronic_resistor_0603_82_ohm
+oomp_word: radio blowfish ghost
+oomp_word_emoji: ':radio: :blowfish: :ghost:'
+oomp_word_emoji_list:
+- ':radio:'
+- ':blowfish:'
+- ':ghost:'
+oomp_word_list:
+- radio
+- blowfish
+- ghost
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

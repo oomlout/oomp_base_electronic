@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7TJ5N",
     "md5_10": "c86d3b56cb",
     "md5_10_upper": "C86D3B56CB",
+    "oomp_word": "apple shell bear",
+    "oomp_word_list": [
+        "apple",
+        "shell",
+        "bear"
+    ],
+    "oomp_word_emoji": ":apple: :shell: :bear:",
+    "oomp_word_emoji_list": [
+        ":apple:",
+        ":shell:",
+        ":bear:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "1200",

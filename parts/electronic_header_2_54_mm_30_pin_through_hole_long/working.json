@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6SYUX",
     "md5_10": "ae6579c6b2",
     "md5_10_upper": "AE6579C6B2",
+    "oomp_word": "jeans maple_leaf balloon",
+    "oomp_word_list": [
+        "jeans",
+        "maple_leaf",
+        "balloon"
+    ],
+    "oomp_word_emoji": ":jeans: :maple_leaf: :balloon:",
+    "oomp_word_emoji_list": [
+        ":jeans:",
+        ":maple_leaf:",
+        ":balloon:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "30",

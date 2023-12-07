@@ -67,6 +67,16 @@ name_no_size: 22 Pico Farad
 name_no_size_short: 22pf Pico Farad
 name_no_type: 0402 22 Pico Farad
 oomp_key: oomp_electronic_capacitor_0402_22_pico_farad
+oomp_word: hourglass scream eyes
+oomp_word_emoji: ':hourglass: :scream: :eyes:'
+oomp_word_emoji_list:
+- ':hourglass:'
+- ':scream:'
+- ':eyes:'
+oomp_word_list:
+- hourglass
+- scream
+- eyes
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

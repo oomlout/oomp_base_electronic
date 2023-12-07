@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5GKE9",
     "md5_10": "8bf0419b52",
     "md5_10_upper": "8BF0419B52",
+    "oomp_word": "door train camel",
+    "oomp_word_list": [
+        "door",
+        "train",
+        "camel"
+    ],
+    "oomp_word_emoji": ":door: :train: :camel:",
+    "oomp_word_emoji_list": [
+        ":door:",
+        ":train:",
+        ":camel:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "18",

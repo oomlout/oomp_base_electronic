@@ -67,6 +67,16 @@ name_no_size: 3300 Ohm
 name_no_size_short: 3k3 Ohm
 name_no_type: Quarter Watt Through Hole 3300 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_3300_ohm
+oomp_word: curry shell book
+oomp_word_emoji: ':curry: :shell: :book:'
+oomp_word_emoji_list:
+- ':curry:'
+- ':shell:'
+- ':book:'
+oomp_word_list:
+- curry
+- shell
+- book
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

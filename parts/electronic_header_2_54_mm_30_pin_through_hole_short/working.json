@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9FO9S",
     "md5_10": "f1d1a084a5",
     "md5_10_upper": "F1D1A084A5",
+    "oomp_word": "ticket pear ring",
+    "oomp_word_list": [
+        "ticket",
+        "pear",
+        "ring"
+    ],
+    "oomp_word_emoji": ":ticket: :pear: :ring:",
+    "oomp_word_emoji_list": [
+        ":ticket:",
+        ":pear:",
+        ":ring:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "30",

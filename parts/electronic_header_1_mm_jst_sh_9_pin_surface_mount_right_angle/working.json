@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "70FZF",
     "md5_10": "b3b7ebe08a",
     "md5_10_upper": "B3B7EBE08A",
+    "oomp_word": "eyeglasses pizza car",
+    "oomp_word_list": [
+        "eyeglasses",
+        "pizza",
+        "car"
+    ],
+    "oomp_word_emoji": ":eyeglasses: :pizza: :car:",
+    "oomp_word_emoji_list": [
+        ":eyeglasses:",
+        ":pizza:",
+        ":car:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "9",

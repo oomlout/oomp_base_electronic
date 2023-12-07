@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "44ETN",
     "md5_10": "69a80baa26",
     "md5_10_upper": "69A80BAA26",
+    "oomp_word": "cactus shoe sunglasses",
+    "oomp_word_list": [
+        "cactus",
+        "shoe",
+        "sunglasses"
+    ],
+    "oomp_word_emoji": ":cactus: :shoe: :sunglasses:",
+    "oomp_word_emoji_list": [
+        ":cactus:",
+        ":shoe:",
+        ":sunglasses:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "22",

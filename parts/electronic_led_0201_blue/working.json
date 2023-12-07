@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "84PDP",
     "md5_10": "d0617d6878",
     "md5_10_upper": "D0617D6878",
+    "oomp_word": "banana bouquet phone",
+    "oomp_word_list": [
+        "banana",
+        "bouquet",
+        "phone"
+    ],
+    "oomp_word_emoji": ":banana: :bouquet: :phone:",
+    "oomp_word_emoji_list": [
+        ":banana:",
+        ":bouquet:",
+        ":phone:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "",

@@ -95,6 +95,16 @@ name_no_size: 22 Ohm
 name_no_size_short: 22 Ohm
 name_no_type: 0805 22 Ohm
 oomp_key: oomp_electronic_resistor_0805_22_ohm
+oomp_word: cake koala bouquet
+oomp_word_emoji: ':cake: :koala: :bouquet:'
+oomp_word_emoji_list:
+- ':cake:'
+- ':koala:'
+- ':bouquet:'
+oomp_word_list:
+- cake
+- koala
+- bouquet
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

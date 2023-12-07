@@ -67,6 +67,16 @@ name_no_size: 0 Ohm
 name_no_size_short: 0 Ohm
 name_no_type: 0603 0 Ohm
 oomp_key: oomp_electronic_resistor_0603_0_ohm
+oomp_word: panda_face speaker ok
+oomp_word_emoji: ':panda_face: :speaker: :ok:'
+oomp_word_emoji_list:
+- ':panda_face:'
+- ':speaker:'
+- ':ok:'
+oomp_word_list:
+- panda_face
+- speaker
+- ok
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

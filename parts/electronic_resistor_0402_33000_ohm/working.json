@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "8WDN3",
     "md5_10": "e4150f2a26",
     "md5_10_upper": "E4150F2A26",
+    "oomp_word": "anchor poop sparkles",
+    "oomp_word_list": [
+        "anchor",
+        "poop",
+        "sparkles"
+    ],
+    "oomp_word_emoji": ":anchor: :poop: :sparkles:",
+    "oomp_word_emoji_list": [
+        ":anchor:",
+        ":poop:",
+        ":sparkles:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "33000",

@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "2R2JU",
     "md5_10": "4687aa0c97",
     "md5_10_upper": "4687AA0C97",
+    "oomp_word": "bird toilet lipstick",
+    "oomp_word_list": [
+        "bird",
+        "toilet",
+        "lipstick"
+    ],
+    "oomp_word_emoji": ":bird: :toilet: :lipstick:",
+    "oomp_word_emoji_list": [
+        ":bird:",
+        ":toilet:",
+        ":lipstick:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2816",

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "33T4S",
     "md5_10": "4f993cdec1",
     "md5_10_upper": "4F993CDEC1",
+    "oomp_word": "ant bowling pig",
+    "oomp_word_list": [
+        "ant",
+        "bowling",
+        "pig"
+    ],
+    "oomp_word_emoji": ":ant: :bowling: :pig:",
+    "oomp_word_emoji_list": [
+        ":ant:",
+        ":bowling:",
+        ":pig:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "150000",

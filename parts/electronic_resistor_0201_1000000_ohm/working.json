@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7DHLW",
     "md5_10": "bd0164c25f",
     "md5_10_upper": "BD0164C25F",
+    "oomp_word": "rice smile sunflower",
+    "oomp_word_list": [
+        "rice",
+        "smile",
+        "sunflower"
+    ],
+    "oomp_word_emoji": ":rice: :smile: :sunflower:",
+    "oomp_word_emoji_list": [
+        ":rice:",
+        ":smile:",
+        ":sunflower:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "1000000",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9ALHZ",
     "md5_10": "ee34575ec2",
     "md5_10_upper": "EE34575EC2",
+    "oomp_word": "ambulance mouse rat",
+    "oomp_word_list": [
+        "ambulance",
+        "mouse",
+        "rat"
+    ],
+    "oomp_word_emoji": ":ambulance: :mouse: :rat:",
+    "oomp_word_emoji_list": [
+        ":ambulance:",
+        ":mouse:",
+        ":rat:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "180000",

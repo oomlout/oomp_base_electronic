@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "7EKDV",
     "md5_10": "bdc5b3e758",
     "md5_10_upper": "BDC5B3E758",
+    "oomp_word": "rice candy eyeglasses",
+    "oomp_word_list": [
+        "rice",
+        "candy",
+        "eyeglasses"
+    ],
+    "oomp_word_emoji": ":rice: :candy: :eyeglasses:",
+    "oomp_word_emoji_list": [
+        ":rice:",
+        ":candy:",
+        ":eyeglasses:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "150000",

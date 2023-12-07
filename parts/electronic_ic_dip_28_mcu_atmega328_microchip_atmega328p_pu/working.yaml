@@ -64,6 +64,16 @@ name_no_size: Mcu Atmega328 Microchip Atmega328P Pu
 name_no_size_short: Mcu Atmega328 Microchip Atmega328P Pu
 name_no_type: Dip 28 Mcu Atmega328 Microchip Atmega328P Pu
 oomp_key: oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
+oomp_word: rooster cloud blowfish
+oomp_word_emoji: ':rooster: :cloud: :blowfish:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':cloud:'
+- ':blowfish:'
+oomp_word_list:
+- rooster
+- cloud
+- blowfish
 part_number: atmega328p_pu
 part_number_capital: Atmega328P Pu
 part_number_first_letter: a

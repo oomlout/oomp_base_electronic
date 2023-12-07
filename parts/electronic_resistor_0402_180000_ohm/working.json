@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "9PB8E",
     "md5_10": "f8ae1ef76f",
     "md5_10_upper": "F8AE1EF76F",
+    "oomp_word": "seven jeans angel",
+    "oomp_word_list": [
+        "seven",
+        "jeans",
+        "angel"
+    ],
+    "oomp_word_emoji": ":seven: :jeans: :angel:",
+    "oomp_word_emoji_list": [
+        ":seven:",
+        ":jeans:",
+        ":angel:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "180000",

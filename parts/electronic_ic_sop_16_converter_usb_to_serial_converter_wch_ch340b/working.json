@@ -156,6 +156,18 @@
     "md5_6_alpha_upper": "94WXI",
     "md5_10": "ea28b63f28",
     "md5_10_upper": "EA28B63F28",
+    "oomp_word": "tractor tongue beer",
+    "oomp_word_list": [
+        "tractor",
+        "tongue",
+        "beer"
+    ],
+    "oomp_word_emoji": ":tractor: :tongue: :beer:",
+    "oomp_word_emoji_list": [
+        ":tractor:",
+        ":tongue:",
+        ":beer:"
+    ],
     "size_only_numbers": "16",
     "size_only_numbers_no_zeros": "16",
     "description_only_numbers": "",

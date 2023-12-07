@@ -126,6 +126,18 @@
     "md5_6_alpha_upper": "7LEMT",
     "md5_10": "c2a455d7f4",
     "md5_10_upper": "C2A455D7F4",
+    "oomp_word": "birthday book dolphin",
+    "oomp_word_list": [
+        "birthday",
+        "book",
+        "dolphin"
+    ],
+    "oomp_word_emoji": ":birthday: :book: :dolphin:",
+    "oomp_word_emoji_list": [
+        ":birthday:",
+        ":book:",
+        ":dolphin:"
+    ],
     "size_only_numbers": "10",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "",

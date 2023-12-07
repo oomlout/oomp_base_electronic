@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "1SIVY",
     "md5_10": "2def9ee67a",
     "md5_10_upper": "2DEF9EE67A",
+    "oomp_word": "snowman truck clubs",
+    "oomp_word_list": [
+        "snowman",
+        "truck",
+        "clubs"
+    ],
+    "oomp_word_emoji": ":snowman: :truck: :clubs:",
+    "oomp_word_emoji_list": [
+        ":snowman:",
+        ":truck:",
+        ":clubs:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "38",

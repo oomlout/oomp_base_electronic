@@ -67,6 +67,16 @@ name_no_size: 6800 Ohm
 name_no_size_short: 6k8 Ohm
 name_no_type: Quarter Watt Through Hole 6800 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_6800_ohm
+oomp_word: trophy elephant tram
+oomp_word_emoji: ':trophy: :elephant: :tram:'
+oomp_word_emoji_list:
+- ':trophy:'
+- ':elephant:'
+- ':tram:'
+oomp_word_list:
+- trophy
+- elephant
+- tram
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

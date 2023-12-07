@@ -60,6 +60,16 @@ name_no_size: 3X7 21 Pin Through Hole
 name_no_size_short: 3X7 21 Pin Through Hole
 name_no_type: 2 54 Mm Triple Row 3X7 21 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x7_21_pin_through_hole
+oomp_word: fish blush banana
+oomp_word_emoji: ':fish: :blush: :banana:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':blush:'
+- ':banana:'
+oomp_word_list:
+- fish
+- blush
+- banana
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

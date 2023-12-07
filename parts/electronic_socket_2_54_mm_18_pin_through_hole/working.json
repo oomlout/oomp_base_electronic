@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "6EXR",
     "md5_10": "04911fb6a3",
     "md5_10_upper": "04911FB6A3",
+    "oomp_word": "wink pushpin princess",
+    "oomp_word_list": [
+        "wink",
+        "pushpin",
+        "princess"
+    ],
+    "oomp_word_emoji": ":wink: :pushpin: :princess:",
+    "oomp_word_emoji_list": [
+        ":wink:",
+        ":pushpin:",
+        ":princess:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "18",

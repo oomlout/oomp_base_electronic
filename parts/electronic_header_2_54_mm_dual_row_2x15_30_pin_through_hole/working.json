@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6HWS8",
     "md5_10": "a68638ac75",
     "md5_10_upper": "A68638AC75",
+    "oomp_word": "trumpet bath frog",
+    "oomp_word_list": [
+        "trumpet",
+        "bath",
+        "frog"
+    ],
+    "oomp_word_emoji": ":trumpet: :bath: :frog:",
+    "oomp_word_emoji_list": [
+        ":trumpet:",
+        ":bath:",
+        ":frog:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21530",

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "1X0XV",
     "md5_10": "3124032f80",
     "md5_10_upper": "3124032F80",
+    "oomp_word": "ocean droplet grin",
+    "oomp_word_list": [
+        "ocean",
+        "droplet",
+        "grin"
+    ],
+    "oomp_word_emoji": ":ocean: :droplet: :grin:",
+    "oomp_word_emoji_list": [
+        ":ocean:",
+        ":droplet:",
+        ":grin:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "2200",

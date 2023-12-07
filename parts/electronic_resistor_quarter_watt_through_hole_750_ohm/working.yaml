@@ -67,6 +67,16 @@ name_no_size: 750 Ohm
 name_no_size_short: 750 Ohm
 name_no_type: Quarter Watt Through Hole 750 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_750_ohm
+oomp_word: tophat bowling question
+oomp_word_emoji: ':tophat: :bowling: :question:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':bowling:'
+- ':question:'
+oomp_word_list:
+- tophat
+- bowling
+- question
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

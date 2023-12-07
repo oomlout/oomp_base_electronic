@@ -95,6 +95,16 @@ name_no_size: 6800 Ohm
 name_no_size_short: 6k8 Ohm
 name_no_type: 0805 6800 Ohm
 oomp_key: oomp_electronic_resistor_0805_6800_ohm
+oomp_word: hatched_chick clubs apple
+oomp_word_emoji: ':hatched_chick: :clubs: :apple:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':clubs:'
+- ':apple:'
+oomp_word_list:
+- hatched_chick
+- clubs
+- apple
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

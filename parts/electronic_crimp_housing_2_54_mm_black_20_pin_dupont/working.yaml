@@ -54,6 +54,16 @@ name_no_size: Black 20 Pin Dupont
 name_no_size_short: Black 20 Pin Dupont
 name_no_type: 2 54 Mm Black 20 Pin Dupont
 oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_20_pin_dupont
+oomp_word: hatched_chick princess envelope
+oomp_word_emoji: ':hatched_chick: :princess: :envelope:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':princess:'
+- ':envelope:'
+oomp_word_list:
+- hatched_chick
+- princess
+- envelope
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -64,6 +64,16 @@ name_no_size: 26 Pin Through Hole Long
 name_no_size_short: 26 Pin Through Hole Long
 name_no_type: 2 54 Mm 26 Pin Through Hole Long
 oomp_key: oomp_electronic_header_2_54_mm_26_pin_through_hole_long
+oomp_word: snail lips ear
+oomp_word_emoji: ':snail: :lips: :ear:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':lips:'
+- ':ear:'
+oomp_word_list:
+- snail
+- lips
+- ear
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

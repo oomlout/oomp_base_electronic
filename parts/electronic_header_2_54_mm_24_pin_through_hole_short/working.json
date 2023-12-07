@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "54CC7",
     "md5_10": "833c77234b",
     "md5_10_upper": "833C77234B",
+    "oomp_word": "lock pig gift",
+    "oomp_word_list": [
+        "lock",
+        "pig",
+        "gift"
+    ],
+    "oomp_word_emoji": ":lock: :pig: :gift:",
+    "oomp_word_emoji_list": [
+        ":lock:",
+        ":pig:",
+        ":gift:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "24",

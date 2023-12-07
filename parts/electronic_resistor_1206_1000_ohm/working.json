@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "4D7EO",
     "md5_10": "6feac05d09",
     "md5_10_upper": "6FEAC05D09",
+    "oomp_word": "moon tractor bread",
+    "oomp_word_list": [
+        "moon",
+        "tractor",
+        "bread"
+    ],
+    "oomp_word_emoji": ":moon: :tractor: :bread:",
+    "oomp_word_emoji_list": [
+        ":moon:",
+        ":tractor:",
+        ":bread:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "1000",

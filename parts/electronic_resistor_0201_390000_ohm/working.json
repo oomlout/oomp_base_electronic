@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7O7MB",
     "md5_10": "c4a3935743",
     "md5_10_upper": "C4A3935743",
+    "oomp_word": "cookie pencil books",
+    "oomp_word_list": [
+        "cookie",
+        "pencil",
+        "books"
+    ],
+    "oomp_word_emoji": ":cookie: :pencil: :books:",
+    "oomp_word_emoji_list": [
+        ":cookie:",
+        ":pencil:",
+        ":books:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "390000",

@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "5AKB0",
     "md5_10": "87aa4c0116",
     "md5_10_upper": "87AA4C0116",
+    "oomp_word": "toilet lipstick turtle",
+    "oomp_word_list": [
+        "toilet",
+        "lipstick",
+        "turtle"
+    ],
+    "oomp_word_emoji": ":toilet: :lipstick: :turtle:",
+    "oomp_word_emoji_list": [
+        ":toilet:",
+        ":lipstick:",
+        ":turtle:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2",

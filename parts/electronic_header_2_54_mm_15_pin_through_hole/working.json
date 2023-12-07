@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "FYK7",
     "md5_10": "0b5cb7ba54",
     "md5_10_upper": "0B5CB7BA54",
+    "oomp_word": "sunglasses ox pizza",
+    "oomp_word_list": [
+        "sunglasses",
+        "ox",
+        "pizza"
+    ],
+    "oomp_word_emoji": ":sunglasses: :ox: :pizza:",
+    "oomp_word_emoji_list": [
+        ":sunglasses:",
+        ":ox:",
+        ":pizza:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "15",

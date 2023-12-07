@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6E6B4",
     "md5_10": "a3dd70fc94",
     "md5_10_upper": "A3DD70FC94",
+    "oomp_word": "pencil stars squirrel",
+    "oomp_word_list": [
+        "pencil",
+        "stars",
+        "squirrel"
+    ],
+    "oomp_word_emoji": ":pencil: :stars: :squirrel:",
+    "oomp_word_emoji_list": [
+        ":pencil:",
+        ":stars:",
+        ":squirrel:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "40",

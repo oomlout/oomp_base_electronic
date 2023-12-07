@@ -75,6 +75,16 @@ name_no_size: 6 Pin Through Hole
 name_no_size_short: 6 Pin Through Hole
 name_no_type: 2 54 Mm 6 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_6_pin_through_hole
+oomp_word: kiss ship sparkles
+oomp_word_emoji: ':kiss: :ship: :sparkles:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':ship:'
+- ':sparkles:'
+oomp_word_list:
+- kiss
+- ship
+- sparkles
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

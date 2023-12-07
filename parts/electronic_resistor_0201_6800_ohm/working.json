@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "4B1SY",
     "md5_10": "6e61e24408",
     "md5_10_upper": "6E61E24408",
+    "oomp_word": "new_moon bouquet sailboat",
+    "oomp_word_list": [
+        "new_moon",
+        "bouquet",
+        "sailboat"
+    ],
+    "oomp_word_emoji": ":new_moon: :bouquet: :sailboat:",
+    "oomp_word_emoji_list": [
+        ":new_moon:",
+        ":bouquet:",
+        ":sailboat:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "6800",

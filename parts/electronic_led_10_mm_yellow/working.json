@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "7PEM8",
     "md5_10": "c57d40b259",
     "md5_10_upper": "C57D40B259",
+    "oomp_word": "candy phone racehorse",
+    "oomp_word_list": [
+        "candy",
+        "phone",
+        "racehorse"
+    ],
+    "oomp_word_emoji": ":candy: :phone: :racehorse:",
+    "oomp_word_emoji_list": [
+        ":candy:",
+        ":phone:",
+        ":racehorse:"
+    ],
     "size_only_numbers": "10",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "",

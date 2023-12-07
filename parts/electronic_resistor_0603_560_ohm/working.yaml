@@ -95,6 +95,16 @@ name_no_size: 560 Ohm
 name_no_size_short: 560 Ohm
 name_no_type: 0603 560 Ohm
 oomp_key: oomp_electronic_resistor_0603_560_ohm
+oomp_word: hand santa bulb
+oomp_word_emoji: ':hand: :santa: :bulb:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':santa:'
+- ':bulb:'
+oomp_word_list:
+- hand
+- santa
+- bulb
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

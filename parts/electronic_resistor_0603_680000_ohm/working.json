@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "18DHQ",
     "md5_10": "1f974ed7a7",
     "md5_10_upper": "1F974ED7A7",
+    "oomp_word": "princess baseball honeybee",
+    "oomp_word_list": [
+        "princess",
+        "baseball",
+        "honeybee"
+    ],
+    "oomp_word_emoji": ":princess: :baseball: :honeybee:",
+    "oomp_word_emoji_list": [
+        ":princess:",
+        ":baseball:",
+        ":honeybee:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "680000",

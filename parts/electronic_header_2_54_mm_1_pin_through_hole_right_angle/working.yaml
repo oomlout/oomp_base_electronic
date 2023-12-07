@@ -54,6 +54,16 @@ name_no_size: 1 Pin Through Hole Right Angle
 name_no_size_short: 1 Pin Through Hole Right Angle
 name_no_type: 2 54 Mm 1 Pin Through Hole Right Angle
 oomp_key: oomp_electronic_header_2_54_mm_1_pin_through_hole_right_angle
+oomp_word: eyes water_buffalo ant
+oomp_word_emoji: ':eyes: :water_buffalo: :ant:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':water_buffalo:'
+- ':ant:'
+oomp_word_list:
+- eyes
+- water_buffalo
+- ant
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

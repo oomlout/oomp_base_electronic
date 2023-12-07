@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "3OVMS",
     "md5_10": "5e9924be9b",
     "md5_10_upper": "5E9924BE9B",
+    "oomp_word": "crocodile bowling droplet",
+    "oomp_word_list": [
+        "crocodile",
+        "bowling",
+        "droplet"
+    ],
+    "oomp_word_emoji": ":crocodile: :bowling: :droplet:",
+    "oomp_word_emoji_list": [
+        ":crocodile:",
+        ":bowling:",
+        ":droplet:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "56000",

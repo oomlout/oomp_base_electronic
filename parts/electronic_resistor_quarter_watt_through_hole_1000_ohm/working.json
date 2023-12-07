@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "PE05",
     "md5_10": "1213258766",
     "md5_10_upper": "1213258766",
+    "oomp_word": "anger question ear",
+    "oomp_word_list": [
+        "anger",
+        "question",
+        "ear"
+    ],
+    "oomp_word_emoji": ":anger: :question: :ear:",
+    "oomp_word_emoji_list": [
+        ":anger:",
+        ":question:",
+        ":ear:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "1000",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "9IP5O",
     "md5_10": "f3f8dc952a",
     "md5_10_upper": "F3F8DC952A",
+    "oomp_word": "two seven factory",
+    "oomp_word_list": [
+        "two",
+        "seven",
+        "factory"
+    ],
+    "oomp_word_emoji": ":two: :seven: :factory:",
+    "oomp_word_emoji_list": [
+        ":two:",
+        ":seven:",
+        ":factory:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "9",

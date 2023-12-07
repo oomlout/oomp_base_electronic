@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "3PW9J",
     "md5_10": "5f52975bec",
     "md5_10_upper": "5F52975BEC",
+    "oomp_word": "leopard octopus baseball",
+    "oomp_word_list": [
+        "leopard",
+        "octopus",
+        "baseball"
+    ],
+    "oomp_word_emoji": ":leopard: :octopus: :baseball:",
+    "oomp_word_emoji_list": [
+        ":leopard:",
+        ":octopus:",
+        ":baseball:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "7500",

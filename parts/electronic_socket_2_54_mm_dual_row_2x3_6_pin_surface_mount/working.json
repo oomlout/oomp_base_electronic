@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "4ZWZM",
     "md5_10": "8015c23228",
     "md5_10_upper": "8015C23228",
+    "oomp_word": "hourglass poop birthday",
+    "oomp_word_list": [
+        "hourglass",
+        "poop",
+        "birthday"
+    ],
+    "oomp_word_emoji": ":hourglass: :poop: :birthday:",
+    "oomp_word_emoji_list": [
+        ":hourglass:",
+        ":poop:",
+        ":birthday:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "236",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4S1ZR",
     "md5_10": "7a7d17c539",
     "md5_10_upper": "7A7D17C539",
+    "oomp_word": "camera phone thumbsdown",
+    "oomp_word_list": [
+        "camera",
+        "phone",
+        "thumbsdown"
+    ],
+    "oomp_word_emoji": ":camera: :phone: :thumbsdown:",
+    "oomp_word_emoji_list": [
+        ":camera:",
+        ":phone:",
+        ":thumbsdown:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "680000",

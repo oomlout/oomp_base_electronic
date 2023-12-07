@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "6K60U",
     "md5_10": "a8217eb7af",
     "md5_10_upper": "A8217EB7AF",
+    "oomp_word": "shoe feet fax",
+    "oomp_word_list": [
+        "shoe",
+        "feet",
+        "fax"
+    ],
+    "oomp_word_emoji": ":shoe: :feet: :fax:",
+    "oomp_word_emoji_list": [
+        ":shoe:",
+        ":feet:",
+        ":fax:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "120000",

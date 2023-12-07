@@ -54,6 +54,16 @@ name_no_size: 15 Pin Through Hole Long
 name_no_size_short: 15 Pin Through Hole Long
 name_no_type: 2 54 Mm 15 Pin Through Hole Long
 oomp_key: oomp_electronic_socket_2_54_mm_15_pin_through_hole_long
+oomp_word: bamboo frog fireworks
+oomp_word_emoji: ':bamboo: :frog: :fireworks:'
+oomp_word_emoji_list:
+- ':bamboo:'
+- ':frog:'
+- ':fireworks:'
+oomp_word_list:
+- bamboo
+- frog
+- fireworks
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

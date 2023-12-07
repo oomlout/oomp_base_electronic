@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "1QTAK",
     "md5_10": "2cb7cc1d82",
     "md5_10_upper": "2CB7CC1D82",
+    "oomp_word": "snowflake pizza watermelon",
+    "oomp_word_list": [
+        "snowflake",
+        "pizza",
+        "watermelon"
+    ],
+    "oomp_word_emoji": ":snowflake: :pizza: :watermelon:",
+    "oomp_word_emoji_list": [
+        ":snowflake:",
+        ":pizza:",
+        ":watermelon:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "10",

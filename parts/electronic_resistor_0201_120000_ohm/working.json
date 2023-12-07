@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2BDCS",
     "md5_10": "3b5a5cb502",
     "md5_10_upper": "3B5A5CB502",
+    "oomp_word": "bear goat ox",
+    "oomp_word_list": [
+        "bear",
+        "goat",
+        "ox"
+    ],
+    "oomp_word_emoji": ":bear: :goat: :ox:",
+    "oomp_word_emoji_list": [
+        ":bear:",
+        ":goat:",
+        ":ox:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "120000",

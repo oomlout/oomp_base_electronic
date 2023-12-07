@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "83OUD",
     "md5_10": "cfa885cf65",
     "md5_10_upper": "CFA885CF65",
+    "oomp_word": "melon shoe bulb",
+    "oomp_word_list": [
+        "melon",
+        "shoe",
+        "bulb"
+    ],
+    "oomp_word_emoji": ":melon: :shoe: :bulb:",
+    "oomp_word_emoji_list": [
+        ":melon:",
+        ":shoe:",
+        ":bulb:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "30",

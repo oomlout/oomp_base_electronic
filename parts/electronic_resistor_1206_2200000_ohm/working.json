@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "6DHT6",
     "md5_10": "a3616a5704",
     "md5_10_upper": "A3616A5704",
+    "oomp_word": "pencil bouquet palm_tree",
+    "oomp_word_list": [
+        "pencil",
+        "bouquet",
+        "palm_tree"
+    ],
+    "oomp_word_emoji": ":pencil: :bouquet: :palm_tree:",
+    "oomp_word_emoji_list": [
+        ":pencil:",
+        ":bouquet:",
+        ":palm_tree:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "2200000",

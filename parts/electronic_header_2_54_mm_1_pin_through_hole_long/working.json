@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "19CXF",
     "md5_10": "204ab36878",
     "md5_10_upper": "204AB36878",
+    "oomp_word": "skull chicken eyeglasses",
+    "oomp_word_list": [
+        "skull",
+        "chicken",
+        "eyeglasses"
+    ],
+    "oomp_word_emoji": ":skull: :chicken: :eyeglasses:",
+    "oomp_word_emoji_list": [
+        ":skull:",
+        ":chicken:",
+        ":eyeglasses:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "1",

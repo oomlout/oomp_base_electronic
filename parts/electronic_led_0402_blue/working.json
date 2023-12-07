@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "1CQXG",
     "md5_10": "22b454129a",
     "md5_10_upper": "22B454129A",
+    "oomp_word": "lips coffee whale",
+    "oomp_word_list": [
+        "lips",
+        "coffee",
+        "whale"
+    ],
+    "oomp_word_emoji": ":lips: :coffee: :whale:",
+    "oomp_word_emoji_list": [
+        ":lips:",
+        ":coffee:",
+        ":whale:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "",

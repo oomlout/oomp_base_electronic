@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "25LEC",
     "md5_10": "373d945785",
     "md5_10_upper": "373D945785",
+    "oomp_word": "wolf cow microscope",
+    "oomp_word_list": [
+        "wolf",
+        "cow",
+        "microscope"
+    ],
+    "oomp_word_emoji": ":wolf: :cow: :microscope:",
+    "oomp_word_emoji_list": [
+        ":wolf:",
+        ":cow:",
+        ":microscope:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "680",

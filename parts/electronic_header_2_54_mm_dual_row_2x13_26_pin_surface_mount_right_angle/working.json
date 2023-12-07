@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "65AZ5",
     "md5_10": "9d8cd100fe",
     "md5_10_upper": "9D8CD100FE",
+    "oomp_word": "hearts pill pear",
+    "oomp_word_list": [
+        "hearts",
+        "pill",
+        "pear"
+    ],
+    "oomp_word_emoji": ":hearts: :pill: :pear:",
+    "oomp_word_emoji_list": [
+        ":hearts:",
+        ":pill:",
+        ":pear:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21326",

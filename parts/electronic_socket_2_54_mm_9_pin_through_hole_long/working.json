@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "8159I",
     "md5_10": "cdd8e6bbca",
     "md5_10_upper": "CDD8E6BBCA",
+    "oomp_word": "strawberry hospital airplane",
+    "oomp_word_list": [
+        "strawberry",
+        "hospital",
+        "airplane"
+    ],
+    "oomp_word_emoji": ":strawberry: :hospital: :airplane:",
+    "oomp_word_emoji_list": [
+        ":strawberry:",
+        ":hospital:",
+        ":airplane:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "9",

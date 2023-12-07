@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "93II2",
     "md5_10": "e9296aab31",
     "md5_10_upper": "E9296AAB31",
+    "oomp_word": "bike sunny palm_tree",
+    "oomp_word_list": [
+        "bike",
+        "sunny",
+        "palm_tree"
+    ],
+    "oomp_word_emoji": ":bike: :sunny: :palm_tree:",
+    "oomp_word_emoji_list": [
+        ":bike:",
+        ":sunny:",
+        ":palm_tree:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "27",

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "L7N0",
     "md5_10": "0f19ec5208",
     "md5_10_upper": "0F19EC5208",
+    "oomp_word": "sparkles pray taxi",
+    "oomp_word_list": [
+        "sparkles",
+        "pray",
+        "taxi"
+    ],
+    "oomp_word_emoji": ":sparkles: :pray: :taxi:",
+    "oomp_word_emoji_list": [
+        ":sparkles:",
+        ":pray:",
+        ":taxi:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "1800000",

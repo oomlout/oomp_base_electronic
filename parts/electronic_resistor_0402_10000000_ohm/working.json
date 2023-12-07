@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "4XQZ5",
     "md5_10": "7e8ad18b12",
     "md5_10_upper": "7E8AD18B12",
+    "oomp_word": "fax envelope pear",
+    "oomp_word_list": [
+        "fax",
+        "envelope",
+        "pear"
+    ],
+    "oomp_word_emoji": ":fax: :envelope: :pear:",
+    "oomp_word_emoji_list": [
+        ":fax:",
+        ":envelope:",
+        ":pear:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "10000000",

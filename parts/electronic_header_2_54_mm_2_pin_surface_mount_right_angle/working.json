@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "DK8I",
     "md5_10": "09a7b2001d",
     "md5_10_upper": "09A7B2001D",
+    "oomp_word": "angry guitar handbag",
+    "oomp_word_list": [
+        "angry",
+        "guitar",
+        "handbag"
+    ],
+    "oomp_word_emoji": ":angry: :guitar: :handbag:",
+    "oomp_word_emoji_list": [
+        ":angry:",
+        ":guitar:",
+        ":handbag:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2",

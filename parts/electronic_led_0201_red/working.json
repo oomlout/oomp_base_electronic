@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "EKKZ",
     "md5_10": "0a5fb3aebf",
     "md5_10_upper": "0A5FB3AEBF",
+    "oomp_word": "sleepy leopard eyeglasses",
+    "oomp_word_list": [
+        "sleepy",
+        "leopard",
+        "eyeglasses"
+    ],
+    "oomp_word_emoji": ":sleepy: :leopard: :eyeglasses:",
+    "oomp_word_emoji_list": [
+        ":sleepy:",
+        ":leopard:",
+        ":eyeglasses:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "",

@@ -69,6 +69,18 @@
     "md5_6_alpha_upper": "811ES",
     "md5_10": "cdc5644737",
     "md5_10_upper": "CDC5644737",
+    "oomp_word": "strawberry candy sunflower",
+    "oomp_word_list": [
+        "strawberry",
+        "candy",
+        "sunflower"
+    ],
+    "oomp_word_emoji": ":strawberry: :candy: :sunflower:",
+    "oomp_word_emoji_list": [
+        ":strawberry:",
+        ":candy:",
+        ":sunflower:"
+    ],
     "size_only_numbers": "223",
     "size_only_numbers_no_zeros": "223",
     "description_only_numbers": "1117",

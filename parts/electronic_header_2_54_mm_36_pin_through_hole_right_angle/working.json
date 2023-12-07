@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "1VS4C",
     "md5_10": "30411c5137",
     "md5_10_upper": "30411C5137",
+    "oomp_word": "foggy camel dancer",
+    "oomp_word_list": [
+        "foggy",
+        "camel",
+        "dancer"
+    ],
+    "oomp_word_emoji": ":foggy: :camel: :dancer:",
+    "oomp_word_emoji_list": [
+        ":foggy:",
+        ":camel:",
+        ":dancer:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "36",

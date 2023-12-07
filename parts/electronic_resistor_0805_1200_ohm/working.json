@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "6N1XN",
     "md5_10": "aa2f8b96df",
     "md5_10_upper": "AA2F8B96DF",
+    "oomp_word": "lipstick cyclone door",
+    "oomp_word_list": [
+        "lipstick",
+        "cyclone",
+        "door"
+    ],
+    "oomp_word_emoji": ":lipstick: :cyclone: :door:",
+    "oomp_word_emoji_list": [
+        ":lipstick:",
+        ":cyclone:",
+        ":door:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "1200",

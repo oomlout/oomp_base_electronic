@@ -61,6 +61,16 @@ name_no_size_short: Converter Usb To Serial Converter Wch Ch340N
 name_no_type: Sop 8 Converter Usb To Serial Converter Wch Ch340N
 notes: []
 oomp_key: oomp_electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
+oomp_word: dress microscope foggy
+oomp_word_emoji: ':dress: :microscope: :foggy:'
+oomp_word_emoji_list:
+- ':dress:'
+- ':microscope:'
+- ':foggy:'
+oomp_word_list:
+- dress
+- microscope
+- foggy
 part_number: ch340n
 part_number_capital: Ch340N
 part_number_first_letter: c

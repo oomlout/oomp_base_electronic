@@ -70,6 +70,16 @@ name_no_size: 11 Pin Through Hole Right Angle
 name_no_size_short: 11 Pin Through Hole Right Angle
 name_no_type: 2 54 Mm 11 Pin Through Hole Right Angle
 oomp_key: oomp_electronic_header_2_54_mm_11_pin_through_hole_right_angle
+oomp_word: stars candy phone
+oomp_word_emoji: ':stars: :candy: :phone:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':candy:'
+- ':phone:'
+oomp_word_list:
+- stars
+- candy
+- phone
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

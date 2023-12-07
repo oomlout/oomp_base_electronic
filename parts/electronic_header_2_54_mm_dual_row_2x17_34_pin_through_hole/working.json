@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3AMF5",
     "md5_10": "547301399b",
     "md5_10_upper": "547301399B",
+    "oomp_word": "whale flags smile",
+    "oomp_word_list": [
+        "whale",
+        "flags",
+        "smile"
+    ],
+    "oomp_word_emoji": ":whale: :flags: :smile:",
+    "oomp_word_emoji_list": [
+        ":whale:",
+        ":flags:",
+        ":smile:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21734",

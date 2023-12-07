@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "94OIA",
     "md5_10": "e9fe12e37e",
     "md5_10_upper": "E9FE12E37E",
+    "oomp_word": "bike recycle anger",
+    "oomp_word_list": [
+        "bike",
+        "recycle",
+        "anger"
+    ],
+    "oomp_word_emoji": ":bike: :recycle: :anger:",
+    "oomp_word_emoji_list": [
+        ":bike:",
+        ":recycle:",
+        ":anger:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "38",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "SGMY",
     "md5_10": "14433aaa49",
     "md5_10_upper": "14433AAA49",
+    "oomp_word": "fire elephant koala",
+    "oomp_word_list": [
+        "fire",
+        "elephant",
+        "koala"
+    ],
+    "oomp_word_emoji": ":fire: :elephant: :koala:",
+    "oomp_word_emoji_list": [
+        ":fire:",
+        ":elephant:",
+        ":koala:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "17",

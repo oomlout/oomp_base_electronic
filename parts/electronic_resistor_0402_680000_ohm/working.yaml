@@ -56,6 +56,16 @@ name_no_size: 680000 Ohm
 name_no_size_short: 680k Ohm
 name_no_type: 0402 680000 Ohm
 oomp_key: oomp_electronic_resistor_0402_680000_ohm
+oomp_word: tulip ship bread
+oomp_word_emoji: ':tulip: :ship: :bread:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':ship:'
+- ':bread:'
+oomp_word_list:
+- tulip
+- ship
+- bread
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

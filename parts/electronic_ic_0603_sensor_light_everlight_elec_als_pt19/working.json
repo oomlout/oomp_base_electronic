@@ -95,6 +95,18 @@
     "md5_6_alpha_upper": "6KTTM",
     "md5_10": "a899fa60e8",
     "md5_10_upper": "A899FA60E8",
+    "oomp_word": "shoe bowling nine",
+    "oomp_word_list": [
+        "shoe",
+        "bowling",
+        "nine"
+    ],
+    "oomp_word_emoji": ":shoe: :bowling: :nine:",
+    "oomp_word_emoji_list": [
+        ":shoe:",
+        ":bowling:",
+        ":nine:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "",

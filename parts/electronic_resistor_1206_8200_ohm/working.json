@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "37CYK",
     "md5_10": "52205c2e32",
     "md5_10_upper": "52205C2E32",
+    "oomp_word": "octopus skull ox",
+    "oomp_word_list": [
+        "octopus",
+        "skull",
+        "ox"
+    ],
+    "oomp_word_emoji": ":octopus: :skull: :ox:",
+    "oomp_word_emoji_list": [
+        ":octopus:",
+        ":skull:",
+        ":ox:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "8200",

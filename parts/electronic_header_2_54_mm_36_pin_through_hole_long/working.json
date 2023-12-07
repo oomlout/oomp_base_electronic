@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "62AV4",
     "md5_10": "9b6980ab9e",
     "md5_10_upper": "9B6980AB9E",
+    "oomp_word": "ski cactus hourglass",
+    "oomp_word_list": [
+        "ski",
+        "cactus",
+        "hourglass"
+    ],
+    "oomp_word_emoji": ":ski: :cactus: :hourglass:",
+    "oomp_word_emoji_list": [
+        ":ski:",
+        ":cactus:",
+        ":hourglass:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "36",

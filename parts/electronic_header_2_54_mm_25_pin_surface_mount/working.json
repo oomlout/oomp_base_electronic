@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "994IU",
     "md5_10": "ed28264cd4",
     "md5_10_upper": "ED28264CD4",
+    "oomp_word": "bus tongue eyes",
+    "oomp_word_list": [
+        "bus",
+        "tongue",
+        "eyes"
+    ],
+    "oomp_word_emoji": ":bus: :tongue: :eyes:",
+    "oomp_word_emoji_list": [
+        ":bus:",
+        ":tongue:",
+        ":eyes:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "25",

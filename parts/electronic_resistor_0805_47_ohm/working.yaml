@@ -95,6 +95,16 @@ name_no_size: 47 Ohm
 name_no_size_short: 47 Ohm
 name_no_type: 0805 47 Ohm
 oomp_key: oomp_electronic_resistor_0805_47_ohm
+oomp_word: paperclip briefcase dolphin
+oomp_word_emoji: ':paperclip: :briefcase: :dolphin:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':briefcase:'
+- ':dolphin:'
+oomp_word_list:
+- paperclip
+- briefcase
+- dolphin
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

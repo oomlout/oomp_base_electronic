@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "1CCUF",
     "md5_10": "226d0782c9",
     "md5_10_upper": "226D0782C9",
+    "oomp_word": "lips shell cry",
+    "oomp_word_list": [
+        "lips",
+        "shell",
+        "cry"
+    ],
+    "oomp_word_emoji": ":lips: :shell: :cry:",
+    "oomp_word_emoji_list": [
+        ":lips:",
+        ":shell:",
+        ":cry:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2918",

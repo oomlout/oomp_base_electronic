@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "2BCFR",
     "md5_10": "3b55b71d8f",
     "md5_10_upper": "3B55B71D8F",
+    "oomp_word": "bear dolphin pizza",
+    "oomp_word_list": [
+        "bear",
+        "dolphin",
+        "pizza"
+    ],
+    "oomp_word_emoji": ":bear: :dolphin: :pizza:",
+    "oomp_word_emoji_list": [
+        ":bear:",
+        ":dolphin:",
+        ":pizza:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "7",

@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "2SHAN",
     "md5_10": "47888fc066",
     "md5_10_upper": "47888FC066",
+    "oomp_word": "baby_chick wrench calendar",
+    "oomp_word_list": [
+        "baby_chick",
+        "wrench",
+        "calendar"
+    ],
+    "oomp_word_emoji": ":baby_chick: :wrench: :calendar:",
+    "oomp_word_emoji_list": [
+        ":baby_chick:",
+        ":wrench:",
+        ":calendar:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "18",

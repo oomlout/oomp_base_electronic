@@ -78,6 +78,16 @@ name_no_size: White
 name_no_size_short: White
 name_no_type: 0603 White
 oomp_key: oomp_electronic_led_0603_white
+oomp_word: frog hamster penguin
+oomp_word_emoji: ':frog: :hamster: :penguin:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':hamster:'
+- ':penguin:'
+oomp_word_list:
+- frog
+- hamster
+- penguin
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -67,6 +67,16 @@ name_no_size: 5600 Ohm
 name_no_size_short: 5k6 Ohm
 name_no_type: Quarter Watt Through Hole 5600 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_5600_ohm
+oomp_word: angel palm_tree bamboo
+oomp_word_emoji: ':angel: :palm_tree: :bamboo:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':palm_tree:'
+- ':bamboo:'
+oomp_word_list:
+- angel
+- palm_tree
+- bamboo
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

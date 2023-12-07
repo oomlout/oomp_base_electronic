@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "N8UL",
     "md5_10": "108c8d6957",
     "md5_10_upper": "108C8D6957",
+    "oomp_word": "star pill scroll",
+    "oomp_word_list": [
+        "star",
+        "pill",
+        "scroll"
+    ],
+    "oomp_word_emoji": ":star: :pill: :scroll:",
+    "oomp_word_emoji_list": [
+        ":star:",
+        ":pill:",
+        ":scroll:"
+    ],
     "size_only_numbers": "100",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "32",

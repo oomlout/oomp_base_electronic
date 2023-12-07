@@ -77,6 +77,16 @@ name_no_size: Package Marking T4 1N4148W
 name_no_size_short: Package Marking T4 1N4148W
 name_no_type: Sod 123 Package Marking T4 1N4148W
 oomp_key: oomp_electronic_diode_sod_123_package_marking_t4_1n4148w
+oomp_word: hamster tea snake
+oomp_word_emoji: ':hamster: :tea: :snake:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':tea:'
+- ':snake:'
+oomp_word_list:
+- hamster
+- tea
+- snake
 part_number: 1n4148w
 part_number_capital: 1N4148W
 part_number_first_letter: '1'

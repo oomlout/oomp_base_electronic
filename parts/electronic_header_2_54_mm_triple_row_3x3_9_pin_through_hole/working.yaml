@@ -60,6 +60,16 @@ name_no_size: 3X3 9 Pin Through Hole
 name_no_size_short: 3X3 9 Pin Through Hole
 name_no_type: 2 54 Mm Triple Row 3X3 9 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x3_9_pin_through_hole
+oomp_word: scroll dolls fax
+oomp_word_emoji: ':scroll: :dolls: :fax:'
+oomp_word_emoji_list:
+- ':scroll:'
+- ':dolls:'
+- ':fax:'
+oomp_word_list:
+- scroll
+- dolls
+- fax
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

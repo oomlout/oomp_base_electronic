@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "4O68H",
     "md5_10": "77b9917b0f",
     "md5_10_upper": "77B9917B0F",
+    "oomp_word": "gift fries pushpin",
+    "oomp_word_list": [
+        "gift",
+        "fries",
+        "pushpin"
+    ],
+    "oomp_word_emoji": ":gift: :fries: :pushpin:",
+    "oomp_word_emoji_list": [
+        ":gift:",
+        ":fries:",
+        ":pushpin:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "12",

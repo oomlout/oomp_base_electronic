@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "2MEIN",
     "md5_10": "4334ff3af9",
     "md5_10_upper": "4334FF3AF9",
+    "oomp_word": "elephant mouse trident",
+    "oomp_word_list": [
+        "elephant",
+        "mouse",
+        "trident"
+    ],
+    "oomp_word_emoji": ":elephant: :mouse: :trident:",
+    "oomp_word_emoji_list": [
+        ":elephant:",
+        ":mouse:",
+        ":trident:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "3900000",

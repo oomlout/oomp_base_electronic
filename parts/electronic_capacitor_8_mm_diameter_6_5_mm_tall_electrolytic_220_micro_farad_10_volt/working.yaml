@@ -75,6 +75,16 @@ name_no_size: Electrolytic 220 Micro Farad 10 Volt
 name_no_size_short: Electrolytic 220uf Micro Farad 10 Volt
 name_no_type: 8 Mm Diameter 6 5 Mm Tall Electrolytic 220 Micro Farad 10 Volt
 oomp_key: oomp_electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt
+oomp_word: elephant cloud eyes
+oomp_word_emoji: ':elephant: :cloud: :eyes:'
+oomp_word_emoji_list:
+- ':elephant:'
+- ':cloud:'
+- ':eyes:'
+oomp_word_list:
+- elephant
+- cloud
+- eyes
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

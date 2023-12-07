@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "17OQV",
     "md5_10": "1f1a079921",
     "md5_10_upper": "1F1A079921",
+    "oomp_word": "princess clap cry",
+    "oomp_word_list": [
+        "princess",
+        "clap",
+        "cry"
+    ],
+    "oomp_word_emoji": ":princess: :clap: :cry:",
+    "oomp_word_emoji_list": [
+        ":princess:",
+        ":clap:",
+        ":cry:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "5600",

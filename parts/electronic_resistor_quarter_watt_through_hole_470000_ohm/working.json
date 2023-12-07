@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2G17Y",
     "md5_10": "3eac2ee556",
     "md5_10_upper": "3EAC2EE556",
+    "oomp_word": "monkey shirt zap",
+    "oomp_word_list": [
+        "monkey",
+        "shirt",
+        "zap"
+    ],
+    "oomp_word_emoji": ":monkey: :shirt: :zap:",
+    "oomp_word_emoji_list": [
+        ":monkey:",
+        ":shirt:",
+        ":zap:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "470000",

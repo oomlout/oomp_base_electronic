@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9MMWL",
     "md5_10": "f6c67548a0",
     "md5_10_upper": "F6C67548A0",
+    "oomp_word": "five lollipop ghost",
+    "oomp_word_list": [
+        "five",
+        "lollipop",
+        "ghost"
+    ],
+    "oomp_word_emoji": ":five: :lollipop: :ghost:",
+    "oomp_word_emoji_list": [
+        ":five:",
+        ":lollipop:",
+        ":ghost:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "150000",

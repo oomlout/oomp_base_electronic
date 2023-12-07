@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3JKO",
     "md5_10": "0285d8e791",
     "md5_10_upper": "0285D8E791",
+    "oomp_word": "blush bulb hospital",
+    "oomp_word_list": [
+        "blush",
+        "bulb",
+        "hospital"
+    ],
+    "oomp_word_emoji": ":blush: :bulb: :hospital:",
+    "oomp_word_emoji_list": [
+        ":blush:",
+        ":bulb:",
+        ":hospital:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "75000",

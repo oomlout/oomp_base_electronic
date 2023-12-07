@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "6EC7M",
     "md5_10": "a3fb522e3e",
     "md5_10_upper": "A3FB522E3E",
+    "oomp_word": "pencil ok octopus",
+    "oomp_word_list": [
+        "pencil",
+        "ok",
+        "octopus"
+    ],
+    "oomp_word_emoji": ":pencil: :ok: :octopus:",
+    "oomp_word_emoji_list": [
+        ":pencil:",
+        ":ok:",
+        ":octopus:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3412",

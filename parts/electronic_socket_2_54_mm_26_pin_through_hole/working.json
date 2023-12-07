@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "2IPG4",
     "md5_10": "409354d333",
     "md5_10_upper": "409354D333",
+    "oomp_word": "racehorse books whale",
+    "oomp_word_list": [
+        "racehorse",
+        "books",
+        "whale"
+    ],
+    "oomp_word_emoji": ":racehorse: :books: :whale:",
+    "oomp_word_emoji_list": [
+        ":racehorse:",
+        ":books:",
+        ":whale:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "26",

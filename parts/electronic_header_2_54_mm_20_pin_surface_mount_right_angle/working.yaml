@@ -75,6 +75,16 @@ name_no_size: 20 Pin Surface Mount Right Angle
 name_no_size_short: 20 Pin Surface Mount Right Angle
 name_no_type: 2 54 Mm 20 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_2_54_mm_20_pin_surface_mount_right_angle
+oomp_word: bike new_moon ski
+oomp_word_emoji: ':bike: :new_moon: :ski:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':new_moon:'
+- ':ski:'
+oomp_word_list:
+- bike
+- new_moon
+- ski
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

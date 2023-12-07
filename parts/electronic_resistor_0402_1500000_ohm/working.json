@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "5GX9C",
     "md5_10": "8c31606c5f",
     "md5_10_upper": "8C31606C5F",
+    "oomp_word": "pill ocean poodle",
+    "oomp_word_list": [
+        "pill",
+        "ocean",
+        "poodle"
+    ],
+    "oomp_word_emoji": ":pill: :ocean: :poodle:",
+    "oomp_word_emoji_list": [
+        ":pill:",
+        ":ocean:",
+        ":poodle:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "1500000",

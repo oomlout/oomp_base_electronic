@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9DSDJ",
     "md5_10": "f079e71b19",
     "md5_10_upper": "F079E71B19",
+    "oomp_word": "train balloon helicopter",
+    "oomp_word_list": [
+        "train",
+        "balloon",
+        "helicopter"
+    ],
+    "oomp_word_emoji": ":train: :balloon: :helicopter:",
+    "oomp_word_emoji_list": [
+        ":train:",
+        ":balloon:",
+        ":helicopter:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "13",

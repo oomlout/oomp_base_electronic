@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8QSN5",
     "md5_10": "e01b81e6da",
     "md5_10_upper": "E01B81E6DA",
+    "oomp_word": "ship muscle watch",
+    "oomp_word_list": [
+        "ship",
+        "muscle",
+        "watch"
+    ],
+    "oomp_word_emoji": ":ship: :muscle: :watch:",
+    "oomp_word_emoji_list": [
+        ":ship:",
+        ":muscle:",
+        ":watch:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "68000",

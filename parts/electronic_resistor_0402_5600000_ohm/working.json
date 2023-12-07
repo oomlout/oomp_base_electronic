@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "7A4P6",
     "md5_10": "ba9d4a37d3",
     "md5_10_upper": "BA9D4A37D3",
+    "oomp_word": "spaghetti hearts chicken",
+    "oomp_word_list": [
+        "spaghetti",
+        "hearts",
+        "chicken"
+    ],
+    "oomp_word_emoji": ":spaghetti: :hearts: :chicken:",
+    "oomp_word_emoji_list": [
+        ":spaghetti:",
+        ":hearts:",
+        ":chicken:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "5600000",

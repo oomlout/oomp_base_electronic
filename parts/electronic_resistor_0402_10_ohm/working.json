@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "3W8LN",
     "md5_10": "63d68b26f1",
     "md5_10_upper": "63D68B26F1",
+    "oomp_word": "rose school door",
+    "oomp_word_list": [
+        "rose",
+        "school",
+        "door"
+    ],
+    "oomp_word_emoji": ":rose: :school: :door:",
+    "oomp_word_emoji_list": [
+        ":rose:",
+        ":school:",
+        ":door:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "10",

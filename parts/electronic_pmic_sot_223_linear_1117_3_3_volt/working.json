@@ -69,6 +69,18 @@
     "md5_6_alpha_upper": "1FVBP",
     "md5_10": "24ed557c93",
     "md5_10_upper": "24ED557C93",
+    "oomp_word": "droplet bus dolphin",
+    "oomp_word_list": [
+        "droplet",
+        "bus",
+        "dolphin"
+    ],
+    "oomp_word_emoji": ":droplet: :bus: :dolphin:",
+    "oomp_word_emoji_list": [
+        ":droplet:",
+        ":bus:",
+        ":dolphin:"
+    ],
     "size_only_numbers": "223",
     "size_only_numbers_no_zeros": "223",
     "description_only_numbers": "1117",

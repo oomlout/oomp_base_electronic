@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "41R4S",
     "md5_10": "67c39c37d5",
     "md5_10_upper": "67C39C37D5",
+    "oomp_word": "herb cake spades",
+    "oomp_word_list": [
+        "herb",
+        "cake",
+        "spades"
+    ],
+    "oomp_word_emoji": ":herb: :cake: :spades:",
+    "oomp_word_emoji_list": [
+        ":herb:",
+        ":cake:",
+        ":spades:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "2200",

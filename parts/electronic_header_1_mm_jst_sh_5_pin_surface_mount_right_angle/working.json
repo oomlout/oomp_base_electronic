@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "6UA8D",
     "md5_10": "af554da37b",
     "md5_10_upper": "AF554DA37B",
+    "oomp_word": "tophat dolphin bug",
+    "oomp_word_list": [
+        "tophat",
+        "dolphin",
+        "bug"
+    ],
+    "oomp_word_emoji": ":tophat: :dolphin: :bug:",
+    "oomp_word_emoji_list": [
+        ":tophat:",
+        ":dolphin:",
+        ":bug:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "5",

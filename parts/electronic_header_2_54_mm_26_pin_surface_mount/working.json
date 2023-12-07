@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "6TU5X",
     "md5_10": "af03f5c1d0",
     "md5_10_upper": "AF03F5C1D0",
+    "oomp_word": "tophat grin four",
+    "oomp_word_list": [
+        "tophat",
+        "grin",
+        "four"
+    ],
+    "oomp_word_emoji": ":tophat: :grin: :four:",
+    "oomp_word_emoji_list": [
+        ":tophat:",
+        ":grin:",
+        ":four:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "26",

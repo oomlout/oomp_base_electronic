@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "68UK6",
     "md5_10": "a012b6b6df",
     "md5_10_upper": "A012B6B6DF",
+    "oomp_word": "ring anger beer",
+    "oomp_word_list": [
+        "ring",
+        "anger",
+        "beer"
+    ],
+    "oomp_word_emoji": ":ring: :anger: :beer:",
+    "oomp_word_emoji_list": [
+        ":ring:",
+        ":anger:",
+        ":beer:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "30",

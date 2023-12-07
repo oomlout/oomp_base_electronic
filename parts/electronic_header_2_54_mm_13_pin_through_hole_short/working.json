@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "85SYU",
     "md5_10": "d129e60d39",
     "md5_10_upper": "D129E60D39",
+    "oomp_word": "pear sunny airplane",
+    "oomp_word_list": [
+        "pear",
+        "sunny",
+        "airplane"
+    ],
+    "oomp_word_emoji": ":pear: :sunny: :airplane:",
+    "oomp_word_emoji_list": [
+        ":pear:",
+        ":sunny:",
+        ":airplane:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "13",

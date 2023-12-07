@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "9L3QU",
     "md5_10": "f5af364f86",
     "md5_10_upper": "F5AF364F86",
+    "oomp_word": "four tophat rabbit",
+    "oomp_word_list": [
+        "four",
+        "tophat",
+        "rabbit"
+    ],
+    "oomp_word_emoji": ":four: :tophat: :rabbit:",
+    "oomp_word_emoji_list": [
+        ":four:",
+        ":tophat:",
+        ":rabbit:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "750",

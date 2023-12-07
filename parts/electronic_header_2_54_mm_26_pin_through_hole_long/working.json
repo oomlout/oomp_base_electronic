@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "35YQT",
     "md5_10": "512225179c",
     "md5_10_upper": "512225179C",
+    "oomp_word": "snail lips ear",
+    "oomp_word_list": [
+        "snail",
+        "lips",
+        "ear"
+    ],
+    "oomp_word_emoji": ":snail: :lips: :ear:",
+    "oomp_word_emoji_list": [
+        ":snail:",
+        ":lips:",
+        ":ear:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "26",

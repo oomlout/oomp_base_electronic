@@ -64,6 +64,16 @@ name_no_size: 13 Pin Through Hole Long
 name_no_size_short: 13 Pin Through Hole Long
 name_no_type: 2 54 Mm 13 Pin Through Hole Long
 oomp_key: oomp_electronic_header_2_54_mm_13_pin_through_hole_long
+oomp_word: train balloon helicopter
+oomp_word_emoji: ':train: :balloon: :helicopter:'
+oomp_word_emoji_list:
+- ':train:'
+- ':balloon:'
+- ':helicopter:'
+oomp_word_list:
+- train
+- balloon
+- helicopter
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

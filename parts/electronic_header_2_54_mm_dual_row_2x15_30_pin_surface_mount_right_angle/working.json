@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "8A0KX",
     "md5_10": "d42971a26f",
     "md5_10_upper": "D42971A26F",
+    "oomp_word": "corn sunny bamboo",
+    "oomp_word_list": [
+        "corn",
+        "sunny",
+        "bamboo"
+    ],
+    "oomp_word_emoji": ":corn: :sunny: :bamboo:",
+    "oomp_word_emoji_list": [
+        ":corn:",
+        ":sunny:",
+        ":bamboo:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21530",

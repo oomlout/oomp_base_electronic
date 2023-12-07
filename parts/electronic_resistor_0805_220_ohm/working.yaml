@@ -95,6 +95,16 @@ name_no_size: 220 Ohm
 name_no_size_short: 220 Ohm
 name_no_type: 0805 220 Ohm
 oomp_key: oomp_electronic_resistor_0805_220_ohm
+oomp_word: rooster thumbsup umbrella
+oomp_word_emoji: ':rooster: :thumbsup: :umbrella:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':thumbsup:'
+- ':umbrella:'
+oomp_word_list:
+- rooster
+- thumbsup
+- umbrella
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

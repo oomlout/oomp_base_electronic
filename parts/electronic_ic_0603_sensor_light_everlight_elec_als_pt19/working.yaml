@@ -66,6 +66,16 @@ name_no_size: Sensor Light Everlight Elec Als Pt19
 name_no_size_short: Sensor Light Everlight Elec Als Pt19
 name_no_type: 0603 Sensor Light Everlight Elec Als Pt19
 oomp_key: oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19
+oomp_word: shoe bowling nine
+oomp_word_emoji: ':shoe: :bowling: :nine:'
+oomp_word_emoji_list:
+- ':shoe:'
+- ':bowling:'
+- ':nine:'
+oomp_word_list:
+- shoe
+- bowling
+- nine
 package_style: smd_tape
 part_number: als_pt19
 part_number_capital: Als Pt19

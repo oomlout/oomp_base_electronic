@@ -95,6 +95,16 @@ name_no_size: 820 Ohm
 name_no_size_short: 820 Ohm
 name_no_type: 1206 820 Ohm
 oomp_key: oomp_electronic_resistor_1206_820_ohm
+oomp_word: gift ticket princess
+oomp_word_emoji: ':gift: :ticket: :princess:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':ticket:'
+- ':princess:'
+oomp_word_list:
+- gift
+- ticket
+- princess
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

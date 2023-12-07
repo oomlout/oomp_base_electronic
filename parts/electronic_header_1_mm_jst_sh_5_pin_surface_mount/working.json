@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "7T42V",
     "md5_10": "c820e730a0",
     "md5_10_upper": "C820E730A0",
+    "oomp_word": "apple skull helicopter",
+    "oomp_word_list": [
+        "apple",
+        "skull",
+        "helicopter"
+    ],
+    "oomp_word_emoji": ":apple: :skull: :helicopter:",
+    "oomp_word_emoji_list": [
+        ":apple:",
+        ":skull:",
+        ":helicopter:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "5",

@@ -67,6 +67,16 @@ name_no_size: Red
 name_no_size_short: Red
 name_no_type: 0805 Red
 oomp_key: oomp_electronic_led_0805_red
+oomp_word: ok baseball horse
+oomp_word_emoji: ':ok: :baseball: :horse:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':baseball:'
+- ':horse:'
+oomp_word_list:
+- ok
+- baseball
+- horse
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

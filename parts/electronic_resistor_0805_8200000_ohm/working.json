@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "9AO48",
     "md5_10": "ee4198b83f",
     "md5_10_upper": "EE4198B83F",
+    "oomp_word": "ambulance camel tennis",
+    "oomp_word_list": [
+        "ambulance",
+        "camel",
+        "tennis"
+    ],
+    "oomp_word_emoji": ":ambulance: :camel: :tennis:",
+    "oomp_word_emoji_list": [
+        ":ambulance:",
+        ":camel:",
+        ":tennis:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "8200000",

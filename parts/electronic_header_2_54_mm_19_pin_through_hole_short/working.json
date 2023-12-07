@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "65N7Y",
     "md5_10": "9dcace4dcb",
     "md5_10_upper": "9DCACE4DCB",
+    "oomp_word": "hearts cherries peach",
+    "oomp_word_list": [
+        "hearts",
+        "cherries",
+        "peach"
+    ],
+    "oomp_word_emoji": ":hearts: :cherries: :peach:",
+    "oomp_word_emoji_list": [
+        ":hearts:",
+        ":cherries:",
+        ":peach:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "19",

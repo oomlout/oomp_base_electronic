@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "9YYZM",
     "md5_10": "ff8ea2e040",
     "md5_10_upper": "FF8EA2E040",
+    "oomp_word": "trident clipboard violin",
+    "oomp_word_list": [
+        "trident",
+        "clipboard",
+        "violin"
+    ],
+    "oomp_word_emoji": ":trident: :clipboard: :violin:",
+    "oomp_word_emoji_list": [
+        ":trident:",
+        ":clipboard:",
+        ":violin:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "1",

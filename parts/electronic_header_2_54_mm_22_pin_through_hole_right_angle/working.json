@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "3TOSB",
     "md5_10": "6205bbefac",
     "md5_10_upper": "6205BBEFAC",
+    "oomp_word": "tulip kissing curry",
+    "oomp_word_list": [
+        "tulip",
+        "kissing",
+        "curry"
+    ],
+    "oomp_word_emoji": ":tulip: :kissing: :curry:",
+    "oomp_word_emoji_list": [
+        ":tulip:",
+        ":kissing:",
+        ":curry:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "22",

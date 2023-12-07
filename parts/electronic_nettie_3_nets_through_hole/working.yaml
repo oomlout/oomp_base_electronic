@@ -67,6 +67,16 @@ name_no_size: Through Hole
 name_no_size_short: Through Hole
 name_no_type: 3 Nets Through Hole
 oomp_key: oomp_electronic_nettie_3_nets_through_hole
+oomp_word: egg trumpet trident
+oomp_word_emoji: ':egg: :trumpet: :trident:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':trumpet:'
+- ':trident:'
+oomp_word_list:
+- egg
+- trumpet
+- trident
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

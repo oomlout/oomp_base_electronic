@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "3DZ7A",
     "md5_10": "56d676c9dd",
     "md5_10_upper": "56D676C9DD",
+    "oomp_word": "ram school santa",
+    "oomp_word_list": [
+        "ram",
+        "school",
+        "santa"
+    ],
+    "oomp_word_emoji": ":ram: :school: :santa:",
+    "oomp_word_emoji_list": [
+        ":ram:",
+        ":school:",
+        ":santa:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "750",

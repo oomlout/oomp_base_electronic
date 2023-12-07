@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "8WUW4",
     "md5_10": "e46c64f48d",
     "md5_10_upper": "E46C64F48D",
+    "oomp_word": "anchor blossom sunflower",
+    "oomp_word_list": [
+        "anchor",
+        "blossom",
+        "sunflower"
+    ],
+    "oomp_word_emoji": ":anchor: :blossom: :sunflower:",
+    "oomp_word_emoji_list": [
+        ":anchor:",
+        ":blossom:",
+        ":sunflower:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "27",

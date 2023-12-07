@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "1YVY4",
     "md5_10": "32773cee26",
     "md5_10_upper": "32773CEE26",
+    "oomp_word": "cat gift pig",
+    "oomp_word_list": [
+        "cat",
+        "gift",
+        "pig"
+    ],
+    "oomp_word_emoji": ":cat: :gift: :pig:",
+    "oomp_word_emoji_list": [
+        ":cat:",
+        ":gift:",
+        ":pig:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "224",

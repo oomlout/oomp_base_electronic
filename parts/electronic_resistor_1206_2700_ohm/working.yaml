@@ -95,6 +95,16 @@ name_no_size: 2700 Ohm
 name_no_size_short: 2k7 Ohm
 name_no_type: 1206 2700 Ohm
 oomp_key: oomp_electronic_resistor_1206_2700_ohm
+oomp_word: bulb moon sheep
+oomp_word_emoji: ':bulb: :moon: :sheep:'
+oomp_word_emoji_list:
+- ':bulb:'
+- ':moon:'
+- ':sheep:'
+oomp_word_list:
+- bulb
+- moon
+- sheep
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

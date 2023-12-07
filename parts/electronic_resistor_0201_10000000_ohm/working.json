@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "96N35",
     "md5_10": "eb63616d41",
     "md5_10_upper": "EB63616D41",
+    "oomp_word": "car rose bouquet",
+    "oomp_word_list": [
+        "car",
+        "rose",
+        "bouquet"
+    ],
+    "oomp_word_emoji": ":car: :rose: :bouquet:",
+    "oomp_word_emoji_list": [
+        ":car:",
+        ":rose:",
+        ":bouquet:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "10000000",

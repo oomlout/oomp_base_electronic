@@ -95,6 +95,16 @@ name_no_size: 5600 Ohm
 name_no_size_short: 5k6 Ohm
 name_no_type: 0603 5600 Ohm
 oomp_key: oomp_electronic_resistor_0603_5600_ohm
+oomp_word: hand rainbow moon
+oomp_word_emoji: ':hand: :rainbow: :moon:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':rainbow:'
+- ':moon:'
+oomp_word_list:
+- hand
+- rainbow
+- moon
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

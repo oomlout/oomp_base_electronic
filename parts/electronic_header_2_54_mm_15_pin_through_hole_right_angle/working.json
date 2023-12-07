@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "7C53H",
     "md5_10": "bc0bcd8b49",
     "md5_10_upper": "BC0BCD8B49",
+    "oomp_word": "sushi sunglasses strawberry",
+    "oomp_word_list": [
+        "sushi",
+        "sunglasses",
+        "strawberry"
+    ],
+    "oomp_word_emoji": ":sushi: :sunglasses: :strawberry:",
+    "oomp_word_emoji_list": [
+        ":sushi:",
+        ":sunglasses:",
+        ":strawberry:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "15",

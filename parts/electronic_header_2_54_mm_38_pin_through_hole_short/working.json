@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "43O84",
     "md5_10": "6921642c9e",
     "md5_10_upper": "6921642C9E",
+    "oomp_word": "cactus feet sunflower",
+    "oomp_word_list": [
+        "cactus",
+        "feet",
+        "sunflower"
+    ],
+    "oomp_word_emoji": ":cactus: :feet: :sunflower:",
+    "oomp_word_emoji_list": [
+        ":cactus:",
+        ":feet:",
+        ":sunflower:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "38",

@@ -95,6 +95,16 @@ name_no_size: 56 Ohm
 name_no_size_short: 56 Ohm
 name_no_type: 0603 56 Ohm
 oomp_key: oomp_electronic_resistor_0603_56_ohm
+oomp_word: question new_moon lemon
+oomp_word_emoji: ':question: :new_moon: :lemon:'
+oomp_word_emoji_list:
+- ':question:'
+- ':new_moon:'
+- ':lemon:'
+oomp_word_list:
+- question
+- new_moon
+- lemon
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

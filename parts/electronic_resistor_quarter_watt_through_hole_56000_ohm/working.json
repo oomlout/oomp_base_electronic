@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "87N54",
     "md5_10": "d278e89e63",
     "md5_10_upper": "D278E89E63",
+    "oomp_word": "pineapple bell tram",
+    "oomp_word_list": [
+        "pineapple",
+        "bell",
+        "tram"
+    ],
+    "oomp_word_emoji": ":pineapple: :bell: :tram:",
+    "oomp_word_emoji_list": [
+        ":pineapple:",
+        ":bell:",
+        ":tram:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "56000",

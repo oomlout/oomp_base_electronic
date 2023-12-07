@@ -71,6 +71,16 @@ name_no_size: 38 Pin Surface Mount
 name_no_size_short: 38 Pin Surface Mount
 name_no_type: 2 54 Mm 38 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_54_mm_38_pin_surface_mount
+oomp_word: bike recycle anger
+oomp_word_emoji: ':bike: :recycle: :anger:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':recycle:'
+- ':anger:'
+oomp_word_list:
+- bike
+- recycle
+- anger
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

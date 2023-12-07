@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "1VWEP",
     "md5_10": "3056d139a3",
     "md5_10_upper": "3056D139A3",
+    "oomp_word": "foggy ram pear",
+    "oomp_word_list": [
+        "foggy",
+        "ram",
+        "pear"
+    ],
+    "oomp_word_emoji": ":foggy: :ram: :pear:",
+    "oomp_word_emoji_list": [
+        ":foggy:",
+        ":ram:",
+        ":pear:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "3900",

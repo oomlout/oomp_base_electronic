@@ -67,6 +67,16 @@ name_no_size: Red
 name_no_size_short: Red
 name_no_type: 1206 Red
 oomp_key: oomp_electronic_led_1206_red
+oomp_word: tea crocodile factory
+oomp_word_emoji: ':tea: :crocodile: :factory:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':crocodile:'
+- ':factory:'
+oomp_word_list:
+- tea
+- crocodile
+- factory
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

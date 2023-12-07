@@ -73,6 +73,16 @@ name_no_size: 0 Ohm
 name_no_size_short: 0 Ohm
 name_no_type: 1206 0 Ohm
 oomp_key: oomp_electronic_resistor_1206_0_ohm
+oomp_word: grapes hourglass recycle
+oomp_word_emoji: ':grapes: :hourglass: :recycle:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':hourglass:'
+- ':recycle:'
+oomp_word_list:
+- grapes
+- hourglass
+- recycle
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

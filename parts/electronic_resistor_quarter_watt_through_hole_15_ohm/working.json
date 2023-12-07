@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "304DC",
     "md5_10": "4cf920e6ee",
     "md5_10_upper": "4CF920E6EE",
+    "oomp_word": "turtle eight skull",
+    "oomp_word_list": [
+        "turtle",
+        "eight",
+        "skull"
+    ],
+    "oomp_word_emoji": ":turtle: :eight: :skull:",
+    "oomp_word_emoji_list": [
+        ":turtle:",
+        ":eight:",
+        ":skull:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "15",

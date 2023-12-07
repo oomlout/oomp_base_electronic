@@ -67,6 +67,16 @@ name_no_size: 22 Nano Farad
 name_no_size_short: 22nf Nano Farad
 name_no_type: 0402 22 Nano Farad
 oomp_key: oomp_electronic_capacitor_0402_22_nano_farad
+oomp_word: thumbsup hourglass pencil
+oomp_word_emoji: ':thumbsup: :hourglass: :pencil:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':hourglass:'
+- ':pencil:'
+oomp_word_list:
+- thumbsup
+- hourglass
+- pencil
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

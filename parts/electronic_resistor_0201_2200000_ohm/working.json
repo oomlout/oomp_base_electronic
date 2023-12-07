@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "313TY",
     "md5_10": "4daca60a98",
     "md5_10_upper": "4DACA60A98",
+    "oomp_word": "bug shirt trumpet",
+    "oomp_word_list": [
+        "bug",
+        "shirt",
+        "trumpet"
+    ],
+    "oomp_word_emoji": ":bug: :shirt: :trumpet:",
+    "oomp_word_emoji_list": [
+        ":bug:",
+        ":shirt:",
+        ":trumpet:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "2200000",

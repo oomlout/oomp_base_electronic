@@ -72,6 +72,16 @@ name_no_size: Surface Mount Single Pole Double Throw
 name_no_size_short: Surface Mount Single Pole Double Throw
 name_no_type: 2 8 Mm X 8 Mm X 1 4 Mm Surface Mount Single Pole Double Throw
 oomp_key: oomp_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
+oomp_word: turtle hand eyeglasses
+oomp_word_emoji: ':turtle: :hand: :eyeglasses:'
+oomp_word_emoji_list:
+- ':turtle:'
+- ':hand:'
+- ':eyeglasses:'
+oomp_word_list:
+- turtle
+- hand
+- eyeglasses
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

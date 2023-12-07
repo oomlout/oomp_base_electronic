@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "5GYS",
     "md5_10": "03e524987c",
     "md5_10_upper": "03E524987C",
+    "oomp_word": "grin rocket droplet",
+    "oomp_word_list": [
+        "grin",
+        "rocket",
+        "droplet"
+    ],
+    "oomp_word_emoji": ":grin: :rocket: :droplet:",
+    "oomp_word_emoji_list": [
+        ":grin:",
+        ":rocket:",
+        ":droplet:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "248",

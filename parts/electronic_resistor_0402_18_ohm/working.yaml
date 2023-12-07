@@ -84,6 +84,16 @@ name_no_size: 18 Ohm
 name_no_size_short: 18 Ohm
 name_no_type: 0402 18 Ohm
 oomp_key: oomp_electronic_resistor_0402_18_ohm
+oomp_word: sandal stars fireworks
+oomp_word_emoji: ':sandal: :stars: :fireworks:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':stars:'
+- ':fireworks:'
+oomp_word_list:
+- sandal
+- stars
+- fireworks
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

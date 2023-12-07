@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "16IV3",
     "md5_10": "1e45ff9351",
     "md5_10_upper": "1E45FF9351",
+    "oomp_word": "angel snake trident",
+    "oomp_word_list": [
+        "angel",
+        "snake",
+        "trident"
+    ],
+    "oomp_word_emoji": ":angel: :snake: :trident:",
+    "oomp_word_emoji_list": [
+        ":angel:",
+        ":snake:",
+        ":trident:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "12",

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "4ZF8T",
     "md5_10": "7fbbed74d8",
     "md5_10_upper": "7FBBED74D8",
+    "oomp_word": "speaker curry bus",
+    "oomp_word_list": [
+        "speaker",
+        "curry",
+        "bus"
+    ],
+    "oomp_word_emoji": ":speaker: :curry: :bus:",
+    "oomp_word_emoji_list": [
+        ":speaker:",
+        ":curry:",
+        ":bus:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "3300000",

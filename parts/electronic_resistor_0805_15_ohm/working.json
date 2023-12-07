@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "4PWGH",
     "md5_10": "78f49120ed",
     "md5_10_upper": "78F49120ED",
+    "oomp_word": "bell three pushpin",
+    "oomp_word_list": [
+        "bell",
+        "three",
+        "pushpin"
+    ],
+    "oomp_word_emoji": ":bell: :three: :pushpin:",
+    "oomp_word_emoji_list": [
+        ":bell:",
+        ":three:",
+        ":pushpin:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "15",

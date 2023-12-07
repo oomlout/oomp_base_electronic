@@ -67,6 +67,16 @@ name_no_size: 7500000 Ohm
 name_no_size_short: 7M5 Ohm
 name_no_type: 0805 7500000 Ohm
 oomp_key: oomp_electronic_resistor_0805_7500000_ohm
+oomp_word: sandal pushpin watermelon
+oomp_word_emoji: ':sandal: :pushpin: :watermelon:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':pushpin:'
+- ':watermelon:'
+oomp_word_list:
+- sandal
+- pushpin
+- watermelon
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

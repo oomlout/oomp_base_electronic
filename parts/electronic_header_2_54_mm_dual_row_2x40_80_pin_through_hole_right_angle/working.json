@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "341NF",
     "md5_10": "4fc45befc8",
     "md5_10_upper": "4FC45BEFC8",
+    "oomp_word": "ant cookie rooster",
+    "oomp_word_list": [
+        "ant",
+        "cookie",
+        "rooster"
+    ],
+    "oomp_word_emoji": ":ant: :cookie: :rooster:",
+    "oomp_word_emoji_list": [
+        ":ant:",
+        ":cookie:",
+        ":rooster:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "24080",

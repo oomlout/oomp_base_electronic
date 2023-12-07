@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "1HV0V",
     "md5_10": "26584f357e",
     "md5_10_upper": "26584F357E",
+    "oomp_word": "eyes water_buffalo ant",
+    "oomp_word_list": [
+        "eyes",
+        "water_buffalo",
+        "ant"
+    ],
+    "oomp_word_emoji": ":eyes: :water_buffalo: :ant:",
+    "oomp_word_emoji_list": [
+        ":eyes:",
+        ":water_buffalo:",
+        ":ant:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "1",

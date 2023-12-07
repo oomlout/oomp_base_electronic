@@ -67,6 +67,16 @@ name_no_size: Green
 name_no_size_short: Green
 name_no_type: 1206 Green
 oomp_key: oomp_electronic_led_1206_green
+oomp_word: nose taxi ok
+oomp_word_emoji: ':nose: :taxi: :ok:'
+oomp_word_emoji_list:
+- ':nose:'
+- ':taxi:'
+- ':ok:'
+oomp_word_list:
+- nose
+- taxi
+- ok
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

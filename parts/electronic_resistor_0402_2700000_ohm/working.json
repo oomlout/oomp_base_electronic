@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "2FOHJ",
     "md5_10": "3e6bb704df",
     "md5_10_upper": "3E6BB704DF",
+    "oomp_word": "monkey chestnut pizza",
+    "oomp_word_list": [
+        "monkey",
+        "chestnut",
+        "pizza"
+    ],
+    "oomp_word_emoji": ":monkey: :chestnut: :pizza:",
+    "oomp_word_emoji_list": [
+        ":monkey:",
+        ":chestnut:",
+        ":pizza:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "2700000",

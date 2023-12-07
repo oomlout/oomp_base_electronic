@@ -67,6 +67,16 @@ name_no_size: 5600000 Ohm
 name_no_size_short: 5M6 Ohm
 name_no_type: 0603 5600000 Ohm
 oomp_key: oomp_electronic_resistor_0603_5600000_ohm
+oomp_word: fountain coffee hand
+oomp_word_emoji: ':fountain: :coffee: :hand:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':coffee:'
+- ':hand:'
+oomp_word_list:
+- fountain
+- coffee
+- hand
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

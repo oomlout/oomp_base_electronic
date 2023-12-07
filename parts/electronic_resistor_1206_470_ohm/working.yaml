@@ -95,6 +95,16 @@ name_no_size: 470 Ohm
 name_no_size_short: 470 Ohm
 name_no_type: 1206 470 Ohm
 oomp_key: oomp_electronic_resistor_1206_470_ohm
+oomp_word: melon corn paperclip
+oomp_word_emoji: ':melon: :corn: :paperclip:'
+oomp_word_emoji_list:
+- ':melon:'
+- ':corn:'
+- ':paperclip:'
+oomp_word_list:
+- melon
+- corn
+- paperclip
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

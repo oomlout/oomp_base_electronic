@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "711C1",
     "md5_10": "b424019877",
     "md5_10_upper": "B424019877",
+    "oomp_word": "coffee droplet smile",
+    "oomp_word_list": [
+        "coffee",
+        "droplet",
+        "smile"
+    ],
+    "oomp_word_emoji": ":coffee: :droplet: :smile:",
+    "oomp_word_emoji_list": [
+        ":coffee:",
+        ":droplet:",
+        ":smile:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21224",

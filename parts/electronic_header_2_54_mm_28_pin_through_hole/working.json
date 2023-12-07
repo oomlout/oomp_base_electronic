@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6XE3S",
     "md5_10": "b18ba8c639",
     "md5_10_upper": "B18BA8C639",
+    "oomp_word": "briefcase door shoe",
+    "oomp_word_list": [
+        "briefcase",
+        "door",
+        "shoe"
+    ],
+    "oomp_word_emoji": ":briefcase: :door: :shoe:",
+    "oomp_word_emoji_list": [
+        ":briefcase:",
+        ":door:",
+        ":shoe:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "28",

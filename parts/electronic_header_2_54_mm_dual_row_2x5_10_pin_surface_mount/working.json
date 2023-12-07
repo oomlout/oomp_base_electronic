@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "5F3PD",
     "md5_10": "8ae581bad4",
     "md5_10_upper": "8AE581BAD4",
+    "oomp_word": "envelope rocket watch",
+    "oomp_word_list": [
+        "envelope",
+        "rocket",
+        "watch"
+    ],
+    "oomp_word_emoji": ":envelope: :rocket: :watch:",
+    "oomp_word_emoji_list": [
+        ":envelope:",
+        ":rocket:",
+        ":watch:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2510",

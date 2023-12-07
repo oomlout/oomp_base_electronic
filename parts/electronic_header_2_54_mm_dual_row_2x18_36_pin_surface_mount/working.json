@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "2KTJ9",
     "md5_10": "42148509de",
     "md5_10_upper": "42148509DE",
+    "oomp_word": "sheep fire bulb",
+    "oomp_word_list": [
+        "sheep",
+        "fire",
+        "bulb"
+    ],
+    "oomp_word_emoji": ":sheep: :fire: :bulb:",
+    "oomp_word_emoji_list": [
+        ":sheep:",
+        ":fire:",
+        ":bulb:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21836",

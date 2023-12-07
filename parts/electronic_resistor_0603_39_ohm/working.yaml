@@ -95,6 +95,16 @@ name_no_size: 39 Ohm
 name_no_size_short: 39 Ohm
 name_no_type: 0603 39 Ohm
 oomp_key: oomp_electronic_resistor_0603_39_ohm
+oomp_word: book toilet briefcase
+oomp_word_emoji: ':book: :toilet: :briefcase:'
+oomp_word_emoji_list:
+- ':book:'
+- ':toilet:'
+- ':briefcase:'
+oomp_word_list:
+- book
+- toilet
+- briefcase
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -64,6 +64,16 @@ name_no_size: 27 Pin Through Hole Long
 name_no_size_short: 27 Pin Through Hole Long
 name_no_type: 2 54 Mm 27 Pin Through Hole Long
 oomp_key: oomp_electronic_header_2_54_mm_27_pin_through_hole_long
+oomp_word: anchor blossom sunflower
+oomp_word_emoji: ':anchor: :blossom: :sunflower:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':blossom:'
+- ':sunflower:'
+oomp_word_list:
+- anchor
+- blossom
+- sunflower
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

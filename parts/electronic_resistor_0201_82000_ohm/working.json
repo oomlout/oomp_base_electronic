@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "141LE",
     "md5_10": "1c82122eed",
     "md5_10_upper": "1C82122EED",
+    "oomp_word": "dancer radio anger",
+    "oomp_word_list": [
+        "dancer",
+        "radio",
+        "anger"
+    ],
+    "oomp_word_emoji": ":dancer: :radio: :anger:",
+    "oomp_word_emoji_list": [
+        ":dancer:",
+        ":radio:",
+        ":anger:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "82000",

@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "1V5SK",
     "md5_10": "2fd014e679",
     "md5_10_upper": "2FD014E679",
+    "oomp_word": "cyclone banana fire",
+    "oomp_word_list": [
+        "cyclone",
+        "banana",
+        "fire"
+    ],
+    "oomp_word_emoji": ":cyclone: :banana: :fire:",
+    "oomp_word_emoji_list": [
+        ":cyclone:",
+        ":banana:",
+        ":fire:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21734",

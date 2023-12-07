@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "WHQA",
     "md5_10": "1721c25a45",
     "md5_10_upper": "1721C25A45",
+    "oomp_word": "thumbsdown feet birthday",
+    "oomp_word_list": [
+        "thumbsdown",
+        "feet",
+        "birthday"
+    ],
+    "oomp_word_emoji": ":thumbsdown: :feet: :birthday:",
+    "oomp_word_emoji_list": [
+        ":thumbsdown:",
+        ":feet:",
+        ":birthday:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "1800000",

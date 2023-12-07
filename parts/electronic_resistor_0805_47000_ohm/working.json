@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "52AM8",
     "md5_10": "81c7401a66",
     "md5_10_upper": "81C7401A66",
+    "oomp_word": "watch honey_pot racehorse",
+    "oomp_word_list": [
+        "watch",
+        "honey_pot",
+        "racehorse"
+    ],
+    "oomp_word_emoji": ":watch: :honey_pot: :racehorse:",
+    "oomp_word_emoji_list": [
+        ":watch:",
+        ":honey_pot:",
+        ":racehorse:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "47000",

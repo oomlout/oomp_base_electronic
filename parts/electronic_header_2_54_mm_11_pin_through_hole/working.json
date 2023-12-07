@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6F3JP",
     "md5_10": "a485b5035f",
     "md5_10_upper": "A485B5035F",
+    "oomp_word": "book bulb tea",
+    "oomp_word_list": [
+        "book",
+        "bulb",
+        "tea"
+    ],
+    "oomp_word_emoji": ":book: :bulb: :tea:",
+    "oomp_word_emoji_list": [
+        ":book:",
+        ":bulb:",
+        ":tea:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "11",

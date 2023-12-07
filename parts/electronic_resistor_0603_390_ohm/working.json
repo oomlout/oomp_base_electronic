@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "6FP21",
     "md5_10": "a4f2994a90",
     "md5_10_upper": "A4F2994A90",
+    "oomp_word": "book one bowling",
+    "oomp_word_list": [
+        "book",
+        "one",
+        "bowling"
+    ],
+    "oomp_word_emoji": ":book: :one: :bowling:",
+    "oomp_word_emoji_list": [
+        ":book:",
+        ":one:",
+        ":bowling:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "390",

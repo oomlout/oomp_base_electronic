@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "23TJZ",
     "md5_10": "35fa5f415e",
     "md5_10_upper": "35FA5F415E",
+    "oomp_word": "hamster nine leopard",
+    "oomp_word_list": [
+        "hamster",
+        "nine",
+        "leopard"
+    ],
+    "oomp_word_emoji": ":hamster: :nine: :leopard:",
+    "oomp_word_emoji_list": [
+        ":hamster:",
+        ":nine:",
+        ":leopard:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "1200000",

@@ -64,6 +64,16 @@ name_no_size: 24 Pin Through Hole Long
 name_no_size_short: 24 Pin Through Hole Long
 name_no_type: 2 54 Mm 24 Pin Through Hole Long
 oomp_key: oomp_electronic_header_2_54_mm_24_pin_through_hole_long
+oomp_word: dress turtle cookie
+oomp_word_emoji: ':dress: :turtle: :cookie:'
+oomp_word_emoji_list:
+- ':dress:'
+- ':turtle:'
+- ':cookie:'
+oomp_word_list:
+- dress
+- turtle
+- cookie
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

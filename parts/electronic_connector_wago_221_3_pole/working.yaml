@@ -56,6 +56,16 @@ name_no_size: 3 Pole
 name_no_size_short: 3 Pole
 name_no_type: Wago 221 3 Pole
 oomp_key: oomp_electronic_connector_wago_221_3_pole
+oomp_word: bus headphones cow
+oomp_word_emoji: ':bus: :headphones: :cow:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':headphones:'
+- ':cow:'
+oomp_word_list:
+- bus
+- headphones
+- cow
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

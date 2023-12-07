@@ -71,6 +71,16 @@ name_no_size: 5 Pin Surface Mount
 name_no_size_short: 5 Pin Surface Mount
 name_no_type: 2 54 Mm 5 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_54_mm_5_pin_surface_mount
+oomp_word: scroll office hatching_chick
+oomp_word_emoji: ':scroll: :office: :hatching_chick:'
+oomp_word_emoji_list:
+- ':scroll:'
+- ':office:'
+- ':hatching_chick:'
+oomp_word_list:
+- scroll
+- office
+- hatching_chick
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

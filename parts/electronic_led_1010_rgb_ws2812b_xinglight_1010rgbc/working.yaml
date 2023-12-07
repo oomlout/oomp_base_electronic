@@ -67,6 +67,16 @@ name_no_size: Rgb Ws2812B Xinglight 1010Rgbc
 name_no_size_short: Rgb Ws2k8B Xinglight 1010Rgbc
 name_no_type: 1010 Rgb Ws2812B Xinglight 1010Rgbc
 oomp_key: oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
+oomp_word: lemon fire leopard
+oomp_word_emoji: ':lemon: :fire: :leopard:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':fire:'
+- ':leopard:'
+oomp_word_list:
+- lemon
+- fire
+- leopard
 part_number: 1010rgbc
 part_number_capital: 1010Rgbc
 part_number_first_letter: '1'

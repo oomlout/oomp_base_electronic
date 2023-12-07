@@ -66,6 +66,16 @@ name_no_size: 2700 Ohm
 name_no_size_short: 2k7 Ohm
 name_no_type: 0201 2700 Ohm
 oomp_key: oomp_electronic_resistor_0201_2700_ohm
+oomp_word: calendar fireworks scissors
+oomp_word_emoji: ':calendar: :fireworks: :scissors:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':fireworks:'
+- ':scissors:'
+oomp_word_list:
+- calendar
+- fireworks
+- scissors
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

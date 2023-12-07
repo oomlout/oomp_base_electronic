@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "66W3",
     "md5_10": "0468632b34",
     "md5_10_upper": "0468632B34",
+    "oomp_word": "wink mushroom rose",
+    "oomp_word_list": [
+        "wink",
+        "mushroom",
+        "rose"
+    ],
+    "oomp_word_emoji": ":wink: :mushroom: :rose:",
+    "oomp_word_emoji_list": [
+        ":wink:",
+        ":mushroom:",
+        ":rose:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "",

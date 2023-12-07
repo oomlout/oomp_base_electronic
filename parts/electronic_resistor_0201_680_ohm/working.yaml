@@ -66,6 +66,16 @@ name_no_size: 680 Ohm
 name_no_size_short: 680 Ohm
 name_no_type: 0201 680 Ohm
 oomp_key: oomp_electronic_resistor_0201_680_ohm
+oomp_word: wolf cow microscope
+oomp_word_emoji: ':wolf: :cow: :microscope:'
+oomp_word_emoji_list:
+- ':wolf:'
+- ':cow:'
+- ':microscope:'
+oomp_word_list:
+- wolf
+- cow
+- microscope
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "4VAMY",
     "md5_10": "7ccb9a6578",
     "md5_10_upper": "7CCB9A6578",
+    "oomp_word": "tv grapes golf",
+    "oomp_word_list": [
+        "tv",
+        "grapes",
+        "golf"
+    ],
+    "oomp_word_emoji": ":tv: :grapes: :golf:",
+    "oomp_word_emoji_list": [
+        ":tv:",
+        ":grapes:",
+        ":golf:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21428",

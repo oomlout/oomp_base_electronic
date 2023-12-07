@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "6DV75",
     "md5_10": "a3a5314db3",
     "md5_10_upper": "A3A5314DB3",
+    "oomp_word": "pencil headphones ocean",
+    "oomp_word_list": [
+        "pencil",
+        "headphones",
+        "ocean"
+    ],
+    "oomp_word_emoji": ":pencil: :headphones: :ocean:",
+    "oomp_word_emoji_list": [
+        ":pencil:",
+        ":headphones:",
+        ":ocean:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "18",

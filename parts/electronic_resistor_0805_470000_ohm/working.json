@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "5OHY8",
     "md5_10": "9195e0897c",
     "md5_10_upper": "9195E0897C",
+    "oomp_word": "pushpin telescope ship",
+    "oomp_word_list": [
+        "pushpin",
+        "telescope",
+        "ship"
+    ],
+    "oomp_word_emoji": ":pushpin: :telescope: :ship:",
+    "oomp_word_emoji_list": [
+        ":pushpin:",
+        ":telescope:",
+        ":ship:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "470000",

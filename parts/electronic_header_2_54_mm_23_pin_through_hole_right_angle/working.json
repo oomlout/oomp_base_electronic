@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "5L7WT",
     "md5_10": "8f404d7a2a",
     "md5_10_upper": "8F404D7A2A",
+    "oomp_word": "calendar racehorse bug",
+    "oomp_word_list": [
+        "calendar",
+        "racehorse",
+        "bug"
+    ],
+    "oomp_word_emoji": ":calendar: :racehorse: :bug:",
+    "oomp_word_emoji_list": [
+        ":calendar:",
+        ":racehorse:",
+        ":bug:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "23",

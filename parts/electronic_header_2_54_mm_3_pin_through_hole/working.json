@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "5WPCF",
     "md5_10": "976d4f67e8",
     "md5_10_upper": "976D4F67E8",
+    "oomp_word": "baseball shell ant",
+    "oomp_word_list": [
+        "baseball",
+        "shell",
+        "ant"
+    ],
+    "oomp_word_emoji": ":baseball: :shell: :ant:",
+    "oomp_word_emoji_list": [
+        ":baseball:",
+        ":shell:",
+        ":ant:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3",

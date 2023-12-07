@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "8FW30",
     "md5_10": "d8582c7e4e",
     "md5_10_upper": "D8582C7E4E",
+    "oomp_word": "hospital water_buffalo snowflake",
+    "oomp_word_list": [
+        "hospital",
+        "water_buffalo",
+        "snowflake"
+    ],
+    "oomp_word_emoji": ":hospital: :water_buffalo: :snowflake:",
+    "oomp_word_emoji_list": [
+        ":hospital:",
+        ":water_buffalo:",
+        ":snowflake:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "24",

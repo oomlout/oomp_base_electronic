@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "3LZ1P",
     "md5_10": "5c87ad5a4f",
     "md5_10_upper": "5C87AD5A4F",
+    "oomp_word": "ox toilet dress",
+    "oomp_word_list": [
+        "ox",
+        "toilet",
+        "dress"
+    ],
+    "oomp_word_emoji": ":ox: :toilet: :dress:",
+    "oomp_word_emoji_list": [
+        ":ox:",
+        ":toilet:",
+        ":dress:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "",

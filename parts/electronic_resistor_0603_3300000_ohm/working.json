@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "325H8",
     "md5_10": "4e6b3cb845",
     "md5_10_upper": "4E6B3CB845",
+    "oomp_word": "honeybee chestnut pig",
+    "oomp_word_list": [
+        "honeybee",
+        "chestnut",
+        "pig"
+    ],
+    "oomp_word_emoji": ":honeybee: :chestnut: :pig:",
+    "oomp_word_emoji_list": [
+        ":honeybee:",
+        ":chestnut:",
+        ":pig:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "3300000",

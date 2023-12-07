@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "3UHZ4",
     "md5_10": "6299807439",
     "md5_10_upper": "6299807439",
+    "oomp_word": "tulip bowling hourglass",
+    "oomp_word_list": [
+        "tulip",
+        "bowling",
+        "hourglass"
+    ],
+    "oomp_word_emoji": ":tulip: :bowling: :hourglass:",
+    "oomp_word_emoji_list": [
+        ":tulip:",
+        ":bowling:",
+        ":hourglass:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "",

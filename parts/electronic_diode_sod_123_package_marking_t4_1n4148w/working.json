@@ -80,6 +80,18 @@
     "md5_6_alpha_upper": "23FWL",
     "md5_10": "35b545ced6",
     "md5_10_upper": "35B545CED6",
+    "oomp_word": "hamster tea snake",
+    "oomp_word_list": [
+        "hamster",
+        "tea",
+        "snake"
+    ],
+    "oomp_word_emoji": ":hamster: :tea: :snake:",
+    "oomp_word_emoji_list": [
+        ":hamster:",
+        ":tea:",
+        ":snake:"
+    ],
     "size_only_numbers": "123",
     "size_only_numbers_no_zeros": "123",
     "description_only_numbers": "",

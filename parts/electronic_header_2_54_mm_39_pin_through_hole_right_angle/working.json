@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "92CK4",
     "md5_10": "e855142154",
     "md5_10_upper": "E855142154",
+    "oomp_word": "tram dolphin fire",
+    "oomp_word_list": [
+        "tram",
+        "dolphin",
+        "fire"
+    ],
+    "oomp_word_emoji": ":tram: :dolphin: :fire:",
+    "oomp_word_emoji_list": [
+        ":tram:",
+        ":dolphin:",
+        ":fire:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "39",

@@ -67,6 +67,16 @@ name_no_size: Smd
 name_no_size_short: Smd
 name_no_type: 3 Nets Smd
 oomp_key: oomp_electronic_nettie_3_nets_smd
+oomp_word: hatching_chick elephant fire
+oomp_word_emoji: ':hatching_chick: :elephant: :fire:'
+oomp_word_emoji_list:
+- ':hatching_chick:'
+- ':elephant:'
+- ':fire:'
+oomp_word_list:
+- hatching_chick
+- elephant
+- fire
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

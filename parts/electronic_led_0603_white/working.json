@@ -86,6 +86,18 @@
     "md5_6_alpha_upper": "26YBV",
     "md5_10": "38354b7df7",
     "md5_10_upper": "38354B7DF7",
+    "oomp_word": "frog hamster penguin",
+    "oomp_word_list": [
+        "frog",
+        "hamster",
+        "penguin"
+    ],
+    "oomp_word_emoji": ":frog: :hamster: :penguin:",
+    "oomp_word_emoji_list": [
+        ":frog:",
+        ":hamster:",
+        ":penguin:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "",

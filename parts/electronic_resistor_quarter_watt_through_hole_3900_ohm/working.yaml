@@ -67,6 +67,16 @@ name_no_size: 3900 Ohm
 name_no_size_short: 3k9 Ohm
 name_no_type: Quarter Watt Through Hole 3900 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_3900_ohm
+oomp_word: toilet candy sheep
+oomp_word_emoji: ':toilet: :candy: :sheep:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':candy:'
+- ':sheep:'
+oomp_word_list:
+- toilet
+- candy
+- sheep
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

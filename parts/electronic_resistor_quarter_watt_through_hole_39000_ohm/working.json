@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8T0GY",
     "md5_10": "e1afa25b48",
     "md5_10_upper": "E1AFA25B48",
+    "oomp_word": "boat tophat violin",
+    "oomp_word_list": [
+        "boat",
+        "tophat",
+        "violin"
+    ],
+    "oomp_word_emoji": ":boat: :tophat: :violin:",
+    "oomp_word_emoji_list": [
+        ":boat:",
+        ":tophat:",
+        ":violin:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "39000",

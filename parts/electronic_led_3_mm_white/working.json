@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "4QT86",
     "md5_10": "799a76eca4",
     "md5_10_upper": "799A76ECA4",
+    "oomp_word": "balloon golf santa",
+    "oomp_word_list": [
+        "balloon",
+        "golf",
+        "santa"
+    ],
+    "oomp_word_emoji": ":balloon: :golf: :santa:",
+    "oomp_word_emoji_list": [
+        ":balloon:",
+        ":golf:",
+        ":santa:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "",

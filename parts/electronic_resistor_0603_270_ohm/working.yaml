@@ -95,6 +95,16 @@ name_no_size: 270 Ohm
 name_no_size_short: 270 Ohm
 name_no_type: 0603 270 Ohm
 oomp_key: oomp_electronic_resistor_0603_270_ohm
+oomp_word: trophy anchor sandal
+oomp_word_emoji: ':trophy: :anchor: :sandal:'
+oomp_word_emoji_list:
+- ':trophy:'
+- ':anchor:'
+- ':sandal:'
+oomp_word_list:
+- trophy
+- anchor
+- sandal
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

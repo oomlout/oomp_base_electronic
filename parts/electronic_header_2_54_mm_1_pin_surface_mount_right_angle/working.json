@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "4B3E",
     "md5_10": "03112a17e0",
     "md5_10_upper": "03112A17E0",
+    "oomp_word": "grin dizzy umbrella",
+    "oomp_word_list": [
+        "grin",
+        "dizzy",
+        "umbrella"
+    ],
+    "oomp_word_emoji": ":grin: :dizzy: :umbrella:",
+    "oomp_word_emoji_list": [
+        ":grin:",
+        ":dizzy:",
+        ":umbrella:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "1",

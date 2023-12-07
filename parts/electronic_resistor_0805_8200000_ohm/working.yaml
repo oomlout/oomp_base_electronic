@@ -67,6 +67,16 @@ name_no_size: 8200000 Ohm
 name_no_size_short: 8M2 Ohm
 name_no_type: 0805 8200000 Ohm
 oomp_key: oomp_electronic_resistor_0805_8200000_ohm
+oomp_word: ambulance camel tennis
+oomp_word_emoji: ':ambulance: :camel: :tennis:'
+oomp_word_emoji_list:
+- ':ambulance:'
+- ':camel:'
+- ':tennis:'
+oomp_word_list:
+- ambulance
+- camel
+- tennis
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

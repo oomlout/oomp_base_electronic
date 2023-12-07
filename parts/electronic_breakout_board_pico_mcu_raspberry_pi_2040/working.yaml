@@ -67,6 +67,16 @@ name_no_size_short: Mcu Raspberry Pi 2k
 name_no_type: Pico Mcu Raspberry Pi 2040
 notes: []
 oomp_key: oomp_electronic_breakout_board_pico_mcu_raspberry_pi_2040
+oomp_word: tram snake diamonds
+oomp_word_emoji: ':tram: :snake: :diamonds:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':snake:'
+- ':diamonds:'
+oomp_word_list:
+- tram
+- snake
+- diamonds
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

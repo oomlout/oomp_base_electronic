@@ -67,6 +67,16 @@ name_no_size: 75 Ohm
 name_no_size_short: 75 Ohm
 name_no_type: Quarter Watt Through Hole 75 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_75_ohm
+oomp_word: lipstick dolls cactus
+oomp_word_emoji: ':lipstick: :dolls: :cactus:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':dolls:'
+- ':cactus:'
+oomp_word_list:
+- lipstick
+- dolls
+- cactus
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

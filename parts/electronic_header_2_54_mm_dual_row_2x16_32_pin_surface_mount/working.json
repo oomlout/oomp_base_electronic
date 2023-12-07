@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "90C2O",
     "md5_10": "e6e620b694",
     "md5_10_upper": "E6E620B694",
+    "oomp_word": "airplane airplane skull",
+    "oomp_word_list": [
+        "airplane",
+        "airplane",
+        "skull"
+    ],
+    "oomp_word_emoji": ":airplane: :airplane: :skull:",
+    "oomp_word_emoji_list": [
+        ":airplane:",
+        ":airplane:",
+        ":skull:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21632",

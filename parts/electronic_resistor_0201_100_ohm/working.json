@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9FXWK",
     "md5_10": "f2026482a1",
     "md5_10_upper": "F2026482A1",
+    "oomp_word": "one blush sunflower",
+    "oomp_word_list": [
+        "one",
+        "blush",
+        "sunflower"
+    ],
+    "oomp_word_emoji": ":one: :blush: :sunflower:",
+    "oomp_word_emoji_list": [
+        ":one:",
+        ":blush:",
+        ":sunflower:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "100",

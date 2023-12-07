@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "68UVY",
     "md5_10": "a0145e1779",
     "md5_10_upper": "A0145E1779",
+    "oomp_word": "ring fire crocodile",
+    "oomp_word_list": [
+        "ring",
+        "fire",
+        "crocodile"
+    ],
+    "oomp_word_emoji": ":ring: :fire: :crocodile:",
+    "oomp_word_emoji_list": [
+        ":ring:",
+        ":fire:",
+        ":crocodile:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "100000",

@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "1C5NA",
     "md5_10": "224896d47c",
     "md5_10_upper": "224896D47C",
+    "oomp_word": "lips hatched_chick basketball",
+    "oomp_word_list": [
+        "lips",
+        "hatched_chick",
+        "basketball"
+    ],
+    "oomp_word_emoji": ":lips: :hatched_chick: :basketball:",
+    "oomp_word_emoji_list": [
+        ":lips:",
+        ":hatched_chick:",
+        ":basketball:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3",

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "CNLT",
     "md5_10": "090281697a",
     "md5_10_upper": "090281697A",
+    "oomp_word": "angry blush watch",
+    "oomp_word_list": [
+        "angry",
+        "blush",
+        "watch"
+    ],
+    "oomp_word_emoji": ":angry: :blush: :watch:",
+    "oomp_word_emoji_list": [
+        ":angry:",
+        ":blush:",
+        ":watch:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "15000",

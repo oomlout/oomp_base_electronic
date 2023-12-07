@@ -54,6 +54,16 @@ name_no_size: Black 3 Pin Dupont
 name_no_size_short: Black 3 Pin Dupont
 name_no_type: 2 54 Mm Black 3 Pin Dupont
 oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_3_pin_dupont
+oomp_word: school sheep computer
+oomp_word_emoji: ':school: :sheep: :computer:'
+oomp_word_emoji_list:
+- ':school:'
+- ':sheep:'
+- ':computer:'
+oomp_word_list:
+- school
+- sheep
+- computer
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

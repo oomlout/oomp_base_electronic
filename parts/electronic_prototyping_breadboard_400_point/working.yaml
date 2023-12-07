@@ -56,6 +56,16 @@ name_no_size: 400 Point
 name_no_size_short: 400 Point
 name_no_type: 400 Point
 oomp_key: oomp_electronic_prototyping_breadboard_400_point
+oomp_word: dancer violin palm_tree
+oomp_word_emoji: ':dancer: :violin: :palm_tree:'
+oomp_word_emoji_list:
+- ':dancer:'
+- ':violin:'
+- ':palm_tree:'
+oomp_word_list:
+- dancer
+- violin
+- palm_tree
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

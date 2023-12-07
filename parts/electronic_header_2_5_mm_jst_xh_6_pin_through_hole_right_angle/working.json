@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "WALV",
     "md5_10": "16fdb3c142",
     "md5_10_upper": "16FDB3C142",
+    "oomp_word": "thumbsup parking eyeglasses",
+    "oomp_word_list": [
+        "thumbsup",
+        "parking",
+        "eyeglasses"
+    ],
+    "oomp_word_emoji": ":thumbsup: :parking: :eyeglasses:",
+    "oomp_word_emoji_list": [
+        ":thumbsup:",
+        ":parking:",
+        ":eyeglasses:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "6",

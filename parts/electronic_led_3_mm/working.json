@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "13L59",
     "md5_10": "1c2ecd94ec",
     "md5_10_upper": "1C2ECD94EC",
+    "oomp_word": "dancer zap strawberry",
+    "oomp_word_list": [
+        "dancer",
+        "zap",
+        "strawberry"
+    ],
+    "oomp_word_emoji": ":dancer: :zap: :strawberry:",
+    "oomp_word_emoji_list": [
+        ":dancer:",
+        ":zap:",
+        ":strawberry:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "",

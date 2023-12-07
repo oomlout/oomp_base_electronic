@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "7T7IN",
     "md5_10": "c8324fa642",
     "md5_10_upper": "C8324FA642",
+    "oomp_word": "apple cat ant",
+    "oomp_word_list": [
+        "apple",
+        "cat",
+        "ant"
+    ],
+    "oomp_word_emoji": ":apple: :cat: :ant:",
+    "oomp_word_emoji_list": [
+        ":apple:",
+        ":cat:",
+        ":ant:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "19",

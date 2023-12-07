@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "RR3C",
     "md5_10": "13c1e8fa37",
     "md5_10_upper": "13C1E8FA37",
+    "oomp_word": "question doughnut tram",
+    "oomp_word_list": [
+        "question",
+        "doughnut",
+        "tram"
+    ],
+    "oomp_word_emoji": ":question: :doughnut: :tram:",
+    "oomp_word_emoji_list": [
+        ":question:",
+        ":doughnut:",
+        ":tram:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "33000",

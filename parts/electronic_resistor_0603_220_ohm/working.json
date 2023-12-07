@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "MC90",
     "md5_10": "0fe784240d",
     "md5_10_upper": "0FE784240D",
+    "oomp_word": "sparkles helicopter key",
+    "oomp_word_list": [
+        "sparkles",
+        "helicopter",
+        "key"
+    ],
+    "oomp_word_emoji": ":sparkles: :helicopter: :key:",
+    "oomp_word_emoji_list": [
+        ":sparkles:",
+        ":helicopter:",
+        ":key:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "220",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8JAWI",
     "md5_10": "dac5f2f829",
     "md5_10_upper": "DAC5F2F829",
+    "oomp_word": "hotel candy one",
+    "oomp_word_list": [
+        "hotel",
+        "candy",
+        "one"
+    ],
+    "oomp_word_emoji": ":hotel: :candy: :one:",
+    "oomp_word_emoji_list": [
+        ":hotel:",
+        ":candy:",
+        ":one:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "8200000",

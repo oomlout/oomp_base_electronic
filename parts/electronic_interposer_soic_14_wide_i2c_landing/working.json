@@ -140,6 +140,18 @@
     "md5_6_alpha_upper": "2DMQM",
     "md5_10": "3cf65e88ee",
     "md5_10_upper": "3CF65E88EE",
+    "oomp_word": "pig five crocodile",
+    "oomp_word_list": [
+        "pig",
+        "five",
+        "crocodile"
+    ],
+    "oomp_word_emoji": ":pig: :five: :crocodile:",
+    "oomp_word_emoji_list": [
+        ":pig:",
+        ":five:",
+        ":crocodile:"
+    ],
     "size_only_numbers": "14",
     "size_only_numbers_no_zeros": "14",
     "description_only_numbers": "2",

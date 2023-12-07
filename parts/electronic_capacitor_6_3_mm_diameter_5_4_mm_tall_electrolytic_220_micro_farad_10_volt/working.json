@@ -74,6 +74,18 @@
     "md5_6_alpha_upper": "7VQXU",
     "md5_10": "ca01223881",
     "md5_10_upper": "CA01223881",
+    "oomp_word": "cherries smile lips",
+    "oomp_word_list": [
+        "cherries",
+        "smile",
+        "lips"
+    ],
+    "oomp_word_emoji": ":cherries: :smile: :lips:",
+    "oomp_word_emoji_list": [
+        ":cherries:",
+        ":smile:",
+        ":lips:"
+    ],
     "size_only_numbers": "6354",
     "size_only_numbers_no_zeros": "6354",
     "description_only_numbers": "220",

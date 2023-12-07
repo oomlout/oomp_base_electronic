@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4Y6FC",
     "md5_10": "7ed9081022",
     "md5_10_upper": "7ED9081022",
+    "oomp_word": "fax bank scream",
+    "oomp_word_list": [
+        "fax",
+        "bank",
+        "scream"
+    ],
+    "oomp_word_emoji": ":fax: :bank: :scream:",
+    "oomp_word_emoji_list": [
+        ":fax:",
+        ":bank:",
+        ":scream:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "2700000",

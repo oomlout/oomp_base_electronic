@@ -134,6 +134,18 @@
     "md5_6_alpha_upper": "39HQE",
     "md5_10": "53a5068536",
     "md5_10_upper": "53A5068536",
+    "oomp_word": "fish headphones sleeping",
+    "oomp_word_list": [
+        "fish",
+        "headphones",
+        "sleeping"
+    ],
+    "oomp_word_emoji": ":fish: :headphones: :sleeping:",
+    "oomp_word_emoji_list": [
+        ":fish:",
+        ":headphones:",
+        ":sleeping:"
+    ],
     "size_only_numbers": "1222",
     "size_only_numbers_no_zeros": "1222",
     "description_only_numbers": "",

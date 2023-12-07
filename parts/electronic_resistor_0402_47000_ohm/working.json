@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "953T3",
     "md5_10": "ea4b872935",
     "md5_10_upper": "EA4B872935",
+    "oomp_word": "tractor penguin toilet",
+    "oomp_word_list": [
+        "tractor",
+        "penguin",
+        "toilet"
+    ],
+    "oomp_word_emoji": ":tractor: :penguin: :toilet:",
+    "oomp_word_emoji_list": [
+        ":tractor:",
+        ":penguin:",
+        ":toilet:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "47000",

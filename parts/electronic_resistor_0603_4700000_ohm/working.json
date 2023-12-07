@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "1Q7V",
     "md5_10": "013afb579c",
     "md5_10_upper": "013AFB579C",
+    "oomp_word": "smile koala ok",
+    "oomp_word_list": [
+        "smile",
+        "koala",
+        "ok"
+    ],
+    "oomp_word_emoji": ":smile: :koala: :ok:",
+    "oomp_word_emoji_list": [
+        ":smile:",
+        ":koala:",
+        ":ok:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "4700000",

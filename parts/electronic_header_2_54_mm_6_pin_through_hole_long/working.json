@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9D3CO",
     "md5_10": "effb38798b",
     "md5_10_upper": "EFFB38798B",
+    "oomp_word": "truck ok frog",
+    "oomp_word_list": [
+        "truck",
+        "ok",
+        "frog"
+    ],
+    "oomp_word_emoji": ":truck: :ok: :frog:",
+    "oomp_word_emoji_list": [
+        ":truck:",
+        ":ok:",
+        ":frog:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "6",

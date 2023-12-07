@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "M2QK",
     "md5_10": "0fb75c2bd8",
     "md5_10_upper": "0FB75C2BD8",
+    "oomp_word": "sparkles pizza ox",
+    "oomp_word_list": [
+        "sparkles",
+        "pizza",
+        "ox"
+    ],
+    "oomp_word_emoji": ":sparkles: :pizza: :ox:",
+    "oomp_word_emoji_list": [
+        ":sparkles:",
+        ":pizza:",
+        ":ox:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "8",

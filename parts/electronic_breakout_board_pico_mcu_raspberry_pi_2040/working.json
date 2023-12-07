@@ -270,6 +270,18 @@
     "md5_6_alpha_upper": "929I7",
     "md5_10": "e8459fd0a3",
     "md5_10_upper": "E8459FD0A3",
+    "oomp_word": "tram snake diamonds",
+    "oomp_word_list": [
+        "tram",
+        "snake",
+        "diamonds"
+    ],
+    "oomp_word_emoji": ":tram: :snake: :diamonds:",
+    "oomp_word_emoji_list": [
+        ":tram:",
+        ":snake:",
+        ":diamonds:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "2040",

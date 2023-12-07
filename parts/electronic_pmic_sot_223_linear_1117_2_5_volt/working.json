@@ -69,6 +69,18 @@
     "md5_6_alpha_upper": "39W47",
     "md5_10": "53edd7c9f0",
     "md5_10_upper": "53EDD7C9F0",
+    "oomp_word": "fish bus office",
+    "oomp_word_list": [
+        "fish",
+        "bus",
+        "office"
+    ],
+    "oomp_word_emoji": ":fish: :bus: :office:",
+    "oomp_word_emoji_list": [
+        ":fish:",
+        ":bus:",
+        ":office:"
+    ],
     "size_only_numbers": "223",
     "size_only_numbers_no_zeros": "223",
     "description_only_numbers": "1117",

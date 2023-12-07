@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "409H",
     "md5_10": "02da55e5f8",
     "md5_10_upper": "02DA55E5F8",
+    "oomp_word": "blush hotel dolphin",
+    "oomp_word_list": [
+        "blush",
+        "hotel",
+        "dolphin"
+    ],
+    "oomp_word_emoji": ":blush: :hotel: :dolphin:",
+    "oomp_word_emoji_list": [
+        ":blush:",
+        ":hotel:",
+        ":dolphin:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "26",

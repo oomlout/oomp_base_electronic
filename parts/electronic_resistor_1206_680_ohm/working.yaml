@@ -95,6 +95,16 @@ name_no_size: 680 Ohm
 name_no_size_short: 680 Ohm
 name_no_type: 1206 680 Ohm
 oomp_key: oomp_electronic_resistor_1206_680_ohm
+oomp_word: clap guitar cupid
+oomp_word_emoji: ':clap: :guitar: :cupid:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':guitar:'
+- ':cupid:'
+oomp_word_list:
+- clap
+- guitar
+- cupid
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

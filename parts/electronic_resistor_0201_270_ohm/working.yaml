@@ -66,6 +66,16 @@ name_no_size: 270 Ohm
 name_no_size_short: 270 Ohm
 name_no_type: 0201 270 Ohm
 oomp_key: oomp_electronic_resistor_0201_270_ohm
+oomp_word: penguin cloud ship
+oomp_word_emoji: ':penguin: :cloud: :ship:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':cloud:'
+- ':ship:'
+oomp_word_list:
+- penguin
+- cloud
+- ship
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

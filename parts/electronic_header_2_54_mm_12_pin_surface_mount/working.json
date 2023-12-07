@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "9TK6W",
     "md5_10": "fbb478ce55",
     "md5_10_upper": "FBB478CE55",
+    "oomp_word": "ok coffee bell",
+    "oomp_word_list": [
+        "ok",
+        "coffee",
+        "bell"
+    ],
+    "oomp_word_emoji": ":ok: :coffee: :bell:",
+    "oomp_word_emoji_list": [
+        ":ok:",
+        ":coffee:",
+        ":bell:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "12",

@@ -95,6 +95,16 @@ name_no_size: 120 Ohm
 name_no_size_short: 120 Ohm
 name_no_type: 0805 120 Ohm
 oomp_key: oomp_electronic_resistor_0805_120_ohm
+oomp_word: palm_tree spades thumbsup
+oomp_word_emoji: ':palm_tree: :spades: :thumbsup:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':spades:'
+- ':thumbsup:'
+oomp_word_list:
+- palm_tree
+- spades
+- thumbsup
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "3IARE",
     "md5_10": "59e9fa8efd",
     "md5_10_upper": "59E9FA8EFD",
+    "oomp_word": "dragon bike nine",
+    "oomp_word_list": [
+        "dragon",
+        "bike",
+        "nine"
+    ],
+    "oomp_word_emoji": ":dragon: :bike: :nine:",
+    "oomp_word_emoji_list": [
+        ":dragon:",
+        ":bike:",
+        ":nine:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "25",

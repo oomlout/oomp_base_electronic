@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "99GQ",
     "md5_10": "06982ac973",
     "md5_10_upper": "06982AC973",
+    "oomp_word": "sleeping tennis umbrella",
+    "oomp_word_list": [
+        "sleeping",
+        "tennis",
+        "umbrella"
+    ],
+    "oomp_word_emoji": ":sleeping: :tennis: :umbrella:",
+    "oomp_word_emoji_list": [
+        ":sleeping:",
+        ":tennis:",
+        ":umbrella:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "270000",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "TIKL",
     "md5_10": "1503450652",
     "md5_10_upper": "1503450652",
+    "oomp_word": "poop grin snake",
+    "oomp_word_list": [
+        "poop",
+        "grin",
+        "snake"
+    ],
+    "oomp_word_emoji": ":poop: :grin: :snake:",
+    "oomp_word_emoji_list": [
+        ":poop:",
+        ":grin:",
+        ":snake:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "270",

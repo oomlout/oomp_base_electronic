@@ -81,6 +81,16 @@ name_no_size: 4 Pin Surface Mount Right Angle
 name_no_size_short: 4 Pin Surface Mount Right Angle
 name_no_type: 1 Mm Jst Sh 4 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
+oomp_word: dress recycle gift
+oomp_word_emoji: ':dress: :recycle: :gift:'
+oomp_word_emoji_list:
+- ':dress:'
+- ':recycle:'
+- ':gift:'
+oomp_word_list:
+- dress
+- recycle
+- gift
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

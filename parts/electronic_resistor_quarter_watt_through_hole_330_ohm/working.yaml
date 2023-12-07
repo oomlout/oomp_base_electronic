@@ -67,6 +67,16 @@ name_no_size: 330 Ohm
 name_no_size_short: 330 Ohm
 name_no_type: Quarter Watt Through Hole 330 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_330_ohm
+oomp_word: pig dizzy ski
+oomp_word_emoji: ':pig: :dizzy: :ski:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':dizzy:'
+- ':ski:'
+oomp_word_list:
+- pig
+- dizzy
+- ski
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

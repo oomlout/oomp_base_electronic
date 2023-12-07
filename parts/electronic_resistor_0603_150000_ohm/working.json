@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "1TTVQ",
     "md5_10": "2edd864a1e",
     "md5_10_upper": "2EDD864A1E",
+    "oomp_word": "zap stars bath",
+    "oomp_word_list": [
+        "zap",
+        "stars",
+        "bath"
+    ],
+    "oomp_word_emoji": ":zap: :stars: :bath:",
+    "oomp_word_emoji_list": [
+        ":zap:",
+        ":stars:",
+        ":bath:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "150000",

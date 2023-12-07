@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "8XX9V",
     "md5_10": "e52eb3e3f6",
     "md5_10_upper": "E52EB3E3F6",
+    "oomp_word": "rocket zap eyeglasses",
+    "oomp_word_list": [
+        "rocket",
+        "zap",
+        "eyeglasses"
+    ],
+    "oomp_word_emoji": ":rocket: :zap: :eyeglasses:",
+    "oomp_word_emoji_list": [
+        ":rocket:",
+        ":zap:",
+        ":eyeglasses:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "1800000",

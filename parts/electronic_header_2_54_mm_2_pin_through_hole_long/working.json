@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "55XO",
     "md5_10": "03ad4c07f7",
     "md5_10_upper": "03AD4C07F7",
+    "oomp_word": "grin dress turtle",
+    "oomp_word_list": [
+        "grin",
+        "dress",
+        "turtle"
+    ],
+    "oomp_word_emoji": ":grin: :dress: :turtle:",
+    "oomp_word_emoji_list": [
+        ":grin:",
+        ":dress:",
+        ":turtle:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2",

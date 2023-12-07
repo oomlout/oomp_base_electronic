@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "8UDAJ",
     "md5_10": "e2a6cb282a",
     "md5_10_upper": "E2A6CB282A",
+    "oomp_word": "sailboat trumpet grapes",
+    "oomp_word_list": [
+        "sailboat",
+        "trumpet",
+        "grapes"
+    ],
+    "oomp_word_emoji": ":sailboat: :trumpet: :grapes:",
+    "oomp_word_emoji_list": [
+        ":sailboat:",
+        ":trumpet:",
+        ":grapes:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "2700",

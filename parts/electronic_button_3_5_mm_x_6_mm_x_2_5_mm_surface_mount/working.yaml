@@ -70,6 +70,16 @@ name_no_size: Surface Mount
 name_no_size_short: Surface Mount
 name_no_type: 3 5 Mm X 6 Mm X 2 5 Mm Surface Mount
 oomp_key: oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
+oomp_word: hotel shirt fish
+oomp_word_emoji: ':hotel: :shirt: :fish:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':shirt:'
+- ':fish:'
+oomp_word_list:
+- hotel
+- shirt
+- fish
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

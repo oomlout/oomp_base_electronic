@@ -66,6 +66,16 @@ name_no_size: 1200 Ohm
 name_no_size_short: 1k2 Ohm
 name_no_type: 0201 1200 Ohm
 oomp_key: oomp_electronic_resistor_0201_1200_ohm
+oomp_word: dolls bread key
+oomp_word_emoji: ':dolls: :bread: :key:'
+oomp_word_emoji_list:
+- ':dolls:'
+- ':bread:'
+- ':key:'
+oomp_word_list:
+- dolls
+- bread
+- key
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "59MFQ",
     "md5_10": "86fed6a509",
     "md5_10_upper": "86FED6A509",
+    "oomp_word": "bath recycle school",
+    "oomp_word_list": [
+        "bath",
+        "recycle",
+        "school"
+    ],
+    "oomp_word_emoji": ":bath: :recycle: :school:",
+    "oomp_word_emoji_list": [
+        ":bath:",
+        ":recycle:",
+        ":school:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "",

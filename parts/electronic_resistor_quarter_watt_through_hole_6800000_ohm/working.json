@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "74W71",
     "md5_10": "b6e2fdf45e",
     "md5_10_upper": "B6E2FDF45E",
+    "oomp_word": "beer sailboat parking",
+    "oomp_word_list": [
+        "beer",
+        "sailboat",
+        "parking"
+    ],
+    "oomp_word_emoji": ":beer: :sailboat: :parking:",
+    "oomp_word_emoji_list": [
+        ":beer:",
+        ":sailboat:",
+        ":parking:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "6800000",

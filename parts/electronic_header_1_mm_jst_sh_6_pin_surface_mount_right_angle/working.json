@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "6H5MM",
     "md5_10": "a5fcbe77cc",
     "md5_10_upper": "A5FCBE77CC",
+    "oomp_word": "headphones up ramen",
+    "oomp_word_list": [
+        "headphones",
+        "up",
+        "ramen"
+    ],
+    "oomp_word_emoji": ":headphones: :up: :ramen:",
+    "oomp_word_emoji_list": [
+        ":headphones:",
+        ":up:",
+        ":ramen:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "6",

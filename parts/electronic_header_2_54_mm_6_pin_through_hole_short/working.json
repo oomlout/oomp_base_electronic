@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "82ZIX",
     "md5_10": "cf2859f95e",
     "md5_10_upper": "CF2859F95E",
+    "oomp_word": "melon tongue dragon",
+    "oomp_word_list": [
+        "melon",
+        "tongue",
+        "dragon"
+    ],
+    "oomp_word_emoji": ":melon: :tongue: :dragon:",
+    "oomp_word_emoji_list": [
+        ":melon:",
+        ":tongue:",
+        ":dragon:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "6",

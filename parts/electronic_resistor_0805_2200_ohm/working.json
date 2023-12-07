@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "7KKP0",
     "md5_10": "c20cc43324",
     "md5_10_upper": "C20CC43324",
+    "oomp_word": "birthday alien cookie",
+    "oomp_word_list": [
+        "birthday",
+        "alien",
+        "cookie"
+    ],
+    "oomp_word_emoji": ":birthday: :alien: :cookie:",
+    "oomp_word_emoji_list": [
+        ":birthday:",
+        ":alien:",
+        ":cookie:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "2200",

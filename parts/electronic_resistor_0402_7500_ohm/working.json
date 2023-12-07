@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "5MLFO",
     "md5_10": "903b0456ca",
     "md5_10_upper": "903B0456CA",
+    "oomp_word": "scissors bear wink",
+    "oomp_word_list": [
+        "scissors",
+        "bear",
+        "wink"
+    ],
+    "oomp_word_emoji": ":scissors: :bear: :wink:",
+    "oomp_word_emoji_list": [
+        ":scissors:",
+        ":bear:",
+        ":wink:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "7500",

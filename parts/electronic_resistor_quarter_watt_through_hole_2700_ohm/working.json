@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "85ULL",
     "md5_10": "d13229a9d2",
     "md5_10_upper": "D13229A9D2",
+    "oomp_word": "pear cat sunny",
+    "oomp_word_list": [
+        "pear",
+        "cat",
+        "sunny"
+    ],
+    "oomp_word_emoji": ":pear: :cat: :sunny:",
+    "oomp_word_emoji_list": [
+        ":pear:",
+        ":cat:",
+        ":sunny:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "2700",

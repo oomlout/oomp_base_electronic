@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6RFES",
     "md5_10": "ad4cc42d4b",
     "md5_10_upper": "AD4CC42D4B",
+    "oomp_word": "dress turtle cookie",
+    "oomp_word_list": [
+        "dress",
+        "turtle",
+        "cookie"
+    ],
+    "oomp_word_emoji": ":dress: :turtle: :cookie:",
+    "oomp_word_emoji_list": [
+        ":dress:",
+        ":turtle:",
+        ":cookie:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "24",

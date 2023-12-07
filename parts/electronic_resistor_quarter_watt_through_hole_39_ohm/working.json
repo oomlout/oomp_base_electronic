@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "69F9W",
     "md5_10": "a07b944a60",
     "md5_10_upper": "A07B944A60",
+    "oomp_word": "ring computer microscope",
+    "oomp_word_list": [
+        "ring",
+        "computer",
+        "microscope"
+    ],
+    "oomp_word_emoji": ":ring: :computer: :microscope:",
+    "oomp_word_emoji_list": [
+        ":ring:",
+        ":computer:",
+        ":microscope:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "39",

@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "7XLPY",
     "md5_10": "cb5336587e",
     "md5_10_upper": "CB5336587E",
+    "oomp_word": "grapes fish rabbit",
+    "oomp_word_list": [
+        "grapes",
+        "fish",
+        "rabbit"
+    ],
+    "oomp_word_emoji": ":grapes: :fish: :rabbit:",
+    "oomp_word_emoji_list": [
+        ":grapes:",
+        ":fish:",
+        ":rabbit:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "28",

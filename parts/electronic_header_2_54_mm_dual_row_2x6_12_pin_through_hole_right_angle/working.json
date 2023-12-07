@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "7TWCE",
     "md5_10": "c8affeb640",
     "md5_10_upper": "C8AFFEB640",
+    "oomp_word": "apple tophat recycle",
+    "oomp_word_list": [
+        "apple",
+        "tophat",
+        "recycle"
+    ],
+    "oomp_word_emoji": ":apple: :tophat: :recycle:",
+    "oomp_word_emoji_list": [
+        ":apple:",
+        ":tophat:",
+        ":recycle:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "2612",

@@ -83,6 +83,16 @@ name_no_size: Red
 name_no_size_short: Red
 name_no_type: 0603 Red
 oomp_key: oomp_electronic_led_0603_red
+oomp_word: ear ram dizzy
+oomp_word_emoji: ':ear: :ram: :dizzy:'
+oomp_word_emoji_list:
+- ':ear:'
+- ':ram:'
+- ':dizzy:'
+oomp_word_list:
+- ear
+- ram
+- dizzy
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

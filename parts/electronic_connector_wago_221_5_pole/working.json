@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "51GXW",
     "md5_10": "813104a7c3",
     "md5_10_upper": "813104A7C3",
+    "oomp_word": "watch ocean wink",
+    "oomp_word_list": [
+        "watch",
+        "ocean",
+        "wink"
+    ],
+    "oomp_word_emoji": ":watch: :ocean: :wink:",
+    "oomp_word_emoji_list": [
+        ":watch:",
+        ":ocean:",
+        ":wink:"
+    ],
     "size_only_numbers": "221",
     "size_only_numbers_no_zeros": "221",
     "description_only_numbers": "5",

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "7ZO4H",
     "md5_10": "cccbe11d21",
     "md5_10_upper": "CCCBE11D21",
+    "oomp_word": "watermelon grapes boat",
+    "oomp_word_list": [
+        "watermelon",
+        "grapes",
+        "boat"
+    ],
+    "oomp_word_emoji": ":watermelon: :grapes: :boat:",
+    "oomp_word_emoji_list": [
+        ":watermelon:",
+        ":grapes:",
+        ":boat:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "1200000",

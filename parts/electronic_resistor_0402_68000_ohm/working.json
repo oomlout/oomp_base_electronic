@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "9E6L1",
     "md5_10": "f0c1d5ea42",
     "md5_10_upper": "F0C1D5EA42",
+    "oomp_word": "train doughnut house",
+    "oomp_word_list": [
+        "train",
+        "doughnut",
+        "house"
+    ],
+    "oomp_word_emoji": ":train: :doughnut: :house:",
+    "oomp_word_emoji_list": [
+        ":train:",
+        ":doughnut:",
+        ":house:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "68000",

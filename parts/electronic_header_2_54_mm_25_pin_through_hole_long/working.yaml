@@ -64,6 +64,16 @@ name_no_size: 25 Pin Through Hole Long
 name_no_size_short: 25 Pin Through Hole Long
 name_no_type: 2 54 Mm 25 Pin Through Hole Long
 oomp_key: oomp_electronic_header_2_54_mm_25_pin_through_hole_long
+oomp_word: beer hatched_chick santa
+oomp_word_emoji: ':beer: :hatched_chick: :santa:'
+oomp_word_emoji_list:
+- ':beer:'
+- ':hatched_chick:'
+- ':santa:'
+oomp_word_list:
+- beer
+- hatched_chick
+- santa
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

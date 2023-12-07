@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "7A7RV",
     "md5_10": "baacdb6df1",
     "md5_10_upper": "BAACDB6DF1",
+    "oomp_word": "spaghetti shirt tent",
+    "oomp_word_list": [
+        "spaghetti",
+        "shirt",
+        "tent"
+    ],
+    "oomp_word_emoji": ":spaghetti: :shirt: :tent:",
+    "oomp_word_emoji_list": [
+        ":spaghetti:",
+        ":shirt:",
+        ":tent:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "10",

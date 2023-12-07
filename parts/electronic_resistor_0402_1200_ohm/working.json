@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "2JM20",
     "md5_10": "413868e86c",
     "md5_10_upper": "413868E86C",
+    "oomp_word": "camel frog mushroom",
+    "oomp_word_list": [
+        "camel",
+        "frog",
+        "mushroom"
+    ],
+    "oomp_word_emoji": ":camel: :frog: :mushroom:",
+    "oomp_word_emoji_list": [
+        ":camel:",
+        ":frog:",
+        ":mushroom:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "1200",

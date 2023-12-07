@@ -95,6 +95,16 @@ name_no_size: 12 Ohm
 name_no_size_short: 12 Ohm
 name_no_type: 1206 12 Ohm
 oomp_key: oomp_electronic_resistor_1206_12_ohm
+oomp_word: kissing truck taxi
+oomp_word_emoji: ':kissing: :truck: :taxi:'
+oomp_word_emoji_list:
+- ':kissing:'
+- ':truck:'
+- ':taxi:'
+oomp_word_list:
+- kissing
+- truck
+- taxi
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

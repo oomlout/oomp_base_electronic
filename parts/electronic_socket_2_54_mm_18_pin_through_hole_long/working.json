@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "RK5Y",
     "md5_10": "139ed6bad8",
     "md5_10_upper": "139ED6BAD8",
+    "oomp_word": "question clubs school",
+    "oomp_word_list": [
+        "question",
+        "clubs",
+        "school"
+    ],
+    "oomp_word_emoji": ":question: :clubs: :school:",
+    "oomp_word_emoji_list": [
+        ":question:",
+        ":clubs:",
+        ":school:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "18",

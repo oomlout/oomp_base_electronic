@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "2QQUB",
     "md5_10": "464c63a8c6",
     "md5_10_upper": "464C63A8C6",
+    "oomp_word": "bird turtle rose",
+    "oomp_word_list": [
+        "bird",
+        "turtle",
+        "rose"
+    ],
+    "oomp_word_emoji": ":bird: :turtle: :rose:",
+    "oomp_word_emoji_list": [
+        ":bird:",
+        ":turtle:",
+        ":rose:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "1800",

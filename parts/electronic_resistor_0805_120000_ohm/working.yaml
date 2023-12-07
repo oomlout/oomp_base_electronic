@@ -67,6 +67,16 @@ name_no_size: 120000 Ohm
 name_no_size_short: 120k Ohm
 name_no_type: 0805 120000 Ohm
 oomp_key: oomp_electronic_resistor_0805_120000_ohm
+oomp_word: shoe feet fax
+oomp_word_emoji: ':shoe: :feet: :fax:'
+oomp_word_emoji_list:
+- ':shoe:'
+- ':feet:'
+- ':fax:'
+oomp_word_list:
+- shoe
+- feet
+- fax
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

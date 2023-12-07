@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "2TTJA",
     "md5_10": "487cc6fa62",
     "md5_10_upper": "487CC6FA62",
+    "oomp_word": "hatched_chick tv lollipop",
+    "oomp_word_list": [
+        "hatched_chick",
+        "tv",
+        "lollipop"
+    ],
+    "oomp_word_emoji": ":hatched_chick: :tv: :lollipop:",
+    "oomp_word_emoji_list": [
+        ":hatched_chick:",
+        ":tv:",
+        ":lollipop:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "",

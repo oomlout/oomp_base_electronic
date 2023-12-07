@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "JXFR",
     "md5_10": "0e30071a5a",
     "md5_10_upper": "0E30071A5A",
+    "oomp_word": "cupid foggy cry",
+    "oomp_word_list": [
+        "cupid",
+        "foggy",
+        "cry"
+    ],
+    "oomp_word_emoji": ":cupid: :foggy: :cry:",
+    "oomp_word_emoji_list": [
+        ":cupid:",
+        ":foggy:",
+        ":cry:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "330000",

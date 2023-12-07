@@ -67,6 +67,16 @@ name_no_size: 120 Ohm
 name_no_size_short: 120 Ohm
 name_no_type: Quarter Watt Through Hole 120 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_120_ohm
+oomp_word: lipstick parking apple
+oomp_word_emoji: ':lipstick: :parking: :apple:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':parking:'
+- ':apple:'
+oomp_word_list:
+- lipstick
+- parking
+- apple
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

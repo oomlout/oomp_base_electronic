@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "80KXZ",
     "md5_10": "cd720732d7",
     "md5_10_upper": "CD720732D7",
+    "oomp_word": "strawberry dolls cry",
+    "oomp_word_list": [
+        "strawberry",
+        "dolls",
+        "cry"
+    ],
+    "oomp_word_emoji": ":strawberry: :dolls: :cry:",
+    "oomp_word_emoji_list": [
+        ":strawberry:",
+        ":dolls:",
+        ":cry:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "",

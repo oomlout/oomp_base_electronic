@@ -54,6 +54,16 @@ name_no_size: 9 Pin Through Hole Long
 name_no_size_short: 9 Pin Through Hole Long
 name_no_type: 2 54 Mm 9 Pin Through Hole Long
 oomp_key: oomp_electronic_socket_2_54_mm_9_pin_through_hole_long
+oomp_word: strawberry hospital airplane
+oomp_word_emoji: ':strawberry: :hospital: :airplane:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':hospital:'
+- ':airplane:'
+oomp_word_list:
+- strawberry
+- hospital
+- airplane
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "1VS0F",
     "md5_10": "30408f8047",
     "md5_10_upper": "30408F8047",
+    "oomp_word": "foggy racehorse calendar",
+    "oomp_word_list": [
+        "foggy",
+        "racehorse",
+        "calendar"
+    ],
+    "oomp_word_emoji": ":foggy: :racehorse: :calendar:",
+    "oomp_word_emoji_list": [
+        ":foggy:",
+        ":racehorse:",
+        ":calendar:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "120000",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4KUFC",
     "md5_10": "755b085928",
     "md5_10_upper": "755B085928",
+    "oomp_word": "ghost rooster scream",
+    "oomp_word_list": [
+        "ghost",
+        "rooster",
+        "scream"
+    ],
+    "oomp_word_emoji": ":ghost: :rooster: :scream:",
+    "oomp_word_emoji_list": [
+        ":ghost:",
+        ":rooster:",
+        ":scream:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "270000",

@@ -99,6 +99,18 @@
     "md5_6_alpha_upper": "6PTWH",
     "md5_10": "ac29a1c56f",
     "md5_10_upper": "AC29A1C56F",
+    "oomp_word": "shirt sunny trophy",
+    "oomp_word_list": [
+        "shirt",
+        "sunny",
+        "trophy"
+    ],
+    "oomp_word_emoji": ":shirt: :sunny: :trophy:",
+    "oomp_word_emoji_list": [
+        ":shirt:",
+        ":sunny:",
+        ":trophy:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "",

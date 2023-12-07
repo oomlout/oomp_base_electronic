@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9WEEY",
     "md5_10": "fdb9faaf4d",
     "md5_10_upper": "FDB9FAAF4D",
+    "oomp_word": "parking fries nine",
+    "oomp_word_list": [
+        "parking",
+        "fries",
+        "nine"
+    ],
+    "oomp_word_emoji": ":parking: :fries: :nine:",
+    "oomp_word_emoji_list": [
+        ":parking:",
+        ":fries:",
+        ":nine:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "28",

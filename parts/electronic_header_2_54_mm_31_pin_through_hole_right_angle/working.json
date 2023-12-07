@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "2GJLJ",
     "md5_10": "3f0937e848",
     "md5_10_upper": "3F0937E848",
+    "oomp_word": "horse angry wolf",
+    "oomp_word_list": [
+        "horse",
+        "angry",
+        "wolf"
+    ],
+    "oomp_word_emoji": ":horse: :angry: :wolf:",
+    "oomp_word_emoji_list": [
+        ":horse:",
+        ":angry:",
+        ":wolf:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "31",

@@ -95,6 +95,16 @@ name_no_size: 820 Ohm
 name_no_size_short: 820 Ohm
 name_no_type: 0805 820 Ohm
 oomp_key: oomp_electronic_resistor_0805_820_ohm
+oomp_word: star ramen tongue
+oomp_word_emoji: ':star: :ramen: :tongue:'
+oomp_word_emoji_list:
+- ':star:'
+- ':ramen:'
+- ':tongue:'
+oomp_word_list:
+- star
+- ramen
+- tongue
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

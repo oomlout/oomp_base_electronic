@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "6DI8Q",
     "md5_10": "a3639a652b",
     "md5_10_upper": "A3639A652B",
+    "oomp_word": "pencil rose golf",
+    "oomp_word_list": [
+        "pencil",
+        "rose",
+        "golf"
+    ],
+    "oomp_word_emoji": ":pencil: :rose: :golf:",
+    "oomp_word_emoji_list": [
+        ":pencil:",
+        ":rose:",
+        ":golf:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "3900000",

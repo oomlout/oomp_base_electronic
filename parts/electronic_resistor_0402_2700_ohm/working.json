@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "6JGBP",
     "md5_10": "a79f654869",
     "md5_10_upper": "A79F654869",
+    "oomp_word": "guitar diamonds maple_leaf",
+    "oomp_word_list": [
+        "guitar",
+        "diamonds",
+        "maple_leaf"
+    ],
+    "oomp_word_emoji": ":guitar: :diamonds: :maple_leaf:",
+    "oomp_word_emoji_list": [
+        ":guitar:",
+        ":diamonds:",
+        ":maple_leaf:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "2700",

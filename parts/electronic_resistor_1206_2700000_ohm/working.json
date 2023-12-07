@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "5GG01",
     "md5_10": "8bda0179f4",
     "md5_10_upper": "8BDA0179F4",
+    "oomp_word": "door hotel smile",
+    "oomp_word_list": [
+        "door",
+        "hotel",
+        "smile"
+    ],
+    "oomp_word_emoji": ":door: :hotel: :smile:",
+    "oomp_word_emoji_list": [
+        ":door:",
+        ":hotel:",
+        ":smile:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "2700000",

@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "1BXVV",
     "md5_10": "22214bd681",
     "md5_10_upper": "22214BD681",
+    "oomp_word": "lips feet penguin",
+    "oomp_word_list": [
+        "lips",
+        "feet",
+        "penguin"
+    ],
+    "oomp_word_emoji": ":lips: :feet: :penguin:",
+    "oomp_word_emoji_list": [
+        ":lips:",
+        ":feet:",
+        ":penguin:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "224",

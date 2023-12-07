@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "41SGG",
     "md5_10": "67ca50fd99",
     "md5_10_upper": "67CA50FD99",
+    "oomp_word": "herb cherries beetle",
+    "oomp_word_list": [
+        "herb",
+        "cherries",
+        "beetle"
+    ],
+    "oomp_word_emoji": ":herb: :cherries: :beetle:",
+    "oomp_word_emoji_list": [
+        ":herb:",
+        ":cherries:",
+        ":beetle:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "",

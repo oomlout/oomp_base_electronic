@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "9IX8Y",
     "md5_10": "f421d2f94c",
     "md5_10_upper": "F421D2F94C",
+    "oomp_word": "three feet pineapple",
+    "oomp_word_list": [
+        "three",
+        "feet",
+        "pineapple"
+    ],
+    "oomp_word_emoji": ":three: :feet: :pineapple:",
+    "oomp_word_emoji_list": [
+        ":three:",
+        ":feet:",
+        ":pineapple:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "390",

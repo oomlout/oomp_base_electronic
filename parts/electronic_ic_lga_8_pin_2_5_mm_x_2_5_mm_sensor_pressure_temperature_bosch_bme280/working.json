@@ -114,6 +114,18 @@
     "md5_6_alpha_upper": "2CVYU",
     "md5_10": "3c6ed67a41",
     "md5_10_upper": "3C6ED67A41",
+    "oomp_word": "pig new_moon school",
+    "oomp_word_list": [
+        "pig",
+        "new_moon",
+        "school"
+    ],
+    "oomp_word_emoji": ":pig: :new_moon: :school:",
+    "oomp_word_emoji_list": [
+        ":pig:",
+        ":new_moon:",
+        ":school:"
+    ],
     "size_only_numbers": "82525",
     "size_only_numbers_no_zeros": "82525",
     "description_only_numbers": "",

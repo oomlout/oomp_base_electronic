@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6I421",
     "md5_10": "a6ab09962d",
     "md5_10_upper": "A6AB09962D",
+    "oomp_word": "trumpet boot angry",
+    "oomp_word_list": [
+        "trumpet",
+        "boot",
+        "angry"
+    ],
+    "oomp_word_emoji": ":trumpet: :boot: :angry:",
+    "oomp_word_emoji_list": [
+        ":trumpet:",
+        ":boot:",
+        ":angry:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "47000",

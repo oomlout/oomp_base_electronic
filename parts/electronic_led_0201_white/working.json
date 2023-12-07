@@ -68,6 +68,18 @@
     "md5_6_alpha_upper": "2D5P8",
     "md5_10": "3ca01c0bb6",
     "md5_10_upper": "3CA01C0BB6",
+    "oomp_word": "pig ring dancer",
+    "oomp_word_list": [
+        "pig",
+        "ring",
+        "dancer"
+    ],
+    "oomp_word_emoji": ":pig: :ring: :dancer:",
+    "oomp_word_emoji_list": [
+        ":pig:",
+        ":ring:",
+        ":dancer:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "",

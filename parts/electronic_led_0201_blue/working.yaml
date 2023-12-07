@@ -67,6 +67,16 @@ name_no_size: Blue
 name_no_size_short: Blue
 name_no_type: 0201 Blue
 oomp_key: oomp_electronic_led_0201_blue
+oomp_word: banana bouquet phone
+oomp_word_emoji: ':banana: :bouquet: :phone:'
+oomp_word_emoji_list:
+- ':banana:'
+- ':bouquet:'
+- ':phone:'
+oomp_word_list:
+- banana
+- bouquet
+- phone
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

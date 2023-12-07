@@ -67,6 +67,16 @@ name_no_size: White
 name_no_size_short: White
 name_no_type: 0201 White
 oomp_key: oomp_electronic_led_0201_white
+oomp_word: pig ring dancer
+oomp_word_emoji: ':pig: :ring: :dancer:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':ring:'
+- ':dancer:'
+oomp_word_list:
+- pig
+- ring
+- dancer
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

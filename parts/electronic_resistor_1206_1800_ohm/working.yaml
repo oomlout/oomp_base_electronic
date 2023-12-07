@@ -95,6 +95,16 @@ name_no_size: 1800 Ohm
 name_no_size_short: 1k8 Ohm
 name_no_type: 1206 1800 Ohm
 oomp_key: oomp_electronic_resistor_1206_1800_ohm
+oomp_word: bird turtle rose
+oomp_word_emoji: ':bird: :turtle: :rose:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':turtle:'
+- ':rose:'
+oomp_word_list:
+- bird
+- turtle
+- rose
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "2AP0T",
     "md5_10": "3adf2d5f1f",
     "md5_10_upper": "3ADF2D5F1F",
+    "oomp_word": "koala fountain snowman",
+    "oomp_word_list": [
+        "koala",
+        "fountain",
+        "snowman"
+    ],
+    "oomp_word_emoji": ":koala: :fountain: :snowman:",
+    "oomp_word_emoji_list": [
+        ":koala:",
+        ":fountain:",
+        ":snowman:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "180",

@@ -67,6 +67,16 @@ name_no_size: 470 Ohm
 name_no_size_short: 470 Ohm
 name_no_type: Quarter Watt Through Hole 470 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_470_ohm
+oomp_word: penguin shirt peach
+oomp_word_emoji: ':penguin: :shirt: :peach:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':shirt:'
+- ':peach:'
+oomp_word_list:
+- penguin
+- shirt
+- peach
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

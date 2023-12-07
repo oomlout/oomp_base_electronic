@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "3N6FS",
     "md5_10": "5d635892bc",
     "md5_10_upper": "5D635892BC",
+    "oomp_word": "blowfish rose water_buffalo",
+    "oomp_word_list": [
+        "blowfish",
+        "rose",
+        "water_buffalo"
+    ],
+    "oomp_word_emoji": ":blowfish: :rose: :water_buffalo:",
+    "oomp_word_emoji_list": [
+        ":blowfish:",
+        ":rose:",
+        ":water_buffalo:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "40",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1SF81",
     "md5_10": "2ddd1186cd",
     "md5_10_upper": "2DDD1186CD",
+    "oomp_word": "snowman stars dizzy",
+    "oomp_word_list": [
+        "snowman",
+        "stars",
+        "dizzy"
+    ],
+    "oomp_word_emoji": ":snowman: :stars: :dizzy:",
+    "oomp_word_emoji_list": [
+        ":snowman:",
+        ":stars:",
+        ":dizzy:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "560",

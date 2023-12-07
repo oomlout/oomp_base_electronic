@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "7ISP2",
     "md5_10": "c0c8c65791",
     "md5_10_upper": "C0C8C65791",
+    "oomp_word": "bread apple lollipop",
+    "oomp_word_list": [
+        "bread",
+        "apple",
+        "lollipop"
+    ],
+    "oomp_word_emoji": ":bread: :apple: :lollipop:",
+    "oomp_word_emoji_list": [
+        ":bread:",
+        ":apple:",
+        ":lollipop:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "29",

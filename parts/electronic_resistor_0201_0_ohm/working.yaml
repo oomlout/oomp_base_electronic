@@ -56,6 +56,16 @@ name_no_size: 0 Ohm
 name_no_size_short: 0 Ohm
 name_no_type: 0201 0 Ohm
 oomp_key: oomp_electronic_resistor_0201_0_ohm
+oomp_word: fireworks thumbsdown eyeglasses
+oomp_word_emoji: ':fireworks: :thumbsdown: :eyeglasses:'
+oomp_word_emoji_list:
+- ':fireworks:'
+- ':thumbsdown:'
+- ':eyeglasses:'
+oomp_word_list:
+- fireworks
+- thumbsdown
+- eyeglasses
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

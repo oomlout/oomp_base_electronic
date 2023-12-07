@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "59JLY",
     "md5_10": "86f0864a6e",
     "md5_10_upper": "86F0864A6E",
+    "oomp_word": "bath train bath",
+    "oomp_word_list": [
+        "bath",
+        "train",
+        "bath"
+    ],
+    "oomp_word_emoji": ":bath: :train: :bath:",
+    "oomp_word_emoji_list": [
+        ":bath:",
+        ":train:",
+        ":bath:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "6",

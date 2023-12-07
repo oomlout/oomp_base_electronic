@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "I86J",
     "md5_10": "0cf9ebb0e9",
     "md5_10_upper": "0CF9EBB0E9",
+    "oomp_word": "alien eight car",
+    "oomp_word_list": [
+        "alien",
+        "eight",
+        "car"
+    ],
+    "oomp_word_emoji": ":alien: :eight: :car:",
+    "oomp_word_emoji_list": [
+        ":alien:",
+        ":eight:",
+        ":car:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "17",

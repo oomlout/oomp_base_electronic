@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "1PXMH",
     "md5_10": "2c17791779",
     "md5_10_upper": "2C17791779",
+    "oomp_word": "snowflake thumbsdown balloon",
+    "oomp_word_list": [
+        "snowflake",
+        "thumbsdown",
+        "balloon"
+    ],
+    "oomp_word_emoji": ":snowflake: :thumbsdown: :balloon:",
+    "oomp_word_emoji_list": [
+        ":snowflake:",
+        ":thumbsdown:",
+        ":balloon:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "",

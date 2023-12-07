@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6Y2N0",
     "md5_10": "b207dccf0d",
     "md5_10_upper": "B207DCCF0D",
+    "oomp_word": "handbag cry factory",
+    "oomp_word_list": [
+        "handbag",
+        "cry",
+        "factory"
+    ],
+    "oomp_word_emoji": ":handbag: :cry: :factory:",
+    "oomp_word_emoji_list": [
+        ":handbag:",
+        ":cry:",
+        ":factory:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "37",

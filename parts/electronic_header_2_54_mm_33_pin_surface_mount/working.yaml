@@ -71,6 +71,16 @@ name_no_size: 33 Pin Surface Mount
 name_no_size_short: 33 Pin Surface Mount
 name_no_type: 2 54 Mm 33 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_54_mm_33_pin_surface_mount
+oomp_word: eyeglasses camel princess
+oomp_word_emoji: ':eyeglasses: :camel: :princess:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':camel:'
+- ':princess:'
+oomp_word_list:
+- eyeglasses
+- camel
+- princess
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

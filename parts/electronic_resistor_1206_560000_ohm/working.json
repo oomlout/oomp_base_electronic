@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "ZNK4",
     "md5_10": "196204d57a",
     "md5_10_upper": "196204D57A",
+    "oomp_word": "pray tulip wink",
+    "oomp_word_list": [
+        "pray",
+        "tulip",
+        "wink"
+    ],
+    "oomp_word_emoji": ":pray: :tulip: :wink:",
+    "oomp_word_emoji_list": [
+        ":pray:",
+        ":tulip:",
+        ":wink:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "560000",

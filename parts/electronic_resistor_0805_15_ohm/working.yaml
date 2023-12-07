@@ -95,6 +95,16 @@ name_no_size: 15 Ohm
 name_no_size_short: 15 Ohm
 name_no_type: 0805 15 Ohm
 oomp_key: oomp_electronic_resistor_0805_15_ohm
+oomp_word: bell three pushpin
+oomp_word_emoji: ':bell: :three: :pushpin:'
+oomp_word_emoji_list:
+- ':bell:'
+- ':three:'
+- ':pushpin:'
+oomp_word_list:
+- bell
+- three
+- pushpin
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

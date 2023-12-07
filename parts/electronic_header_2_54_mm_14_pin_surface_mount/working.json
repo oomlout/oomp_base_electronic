@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "5PTFS",
     "md5_10": "9286488f8a",
     "md5_10_upper": "9286488F8A",
+    "oomp_word": "paperclip bath hatched_chick",
+    "oomp_word_list": [
+        "paperclip",
+        "bath",
+        "hatched_chick"
+    ],
+    "oomp_word_emoji": ":paperclip: :bath: :hatched_chick:",
+    "oomp_word_emoji_list": [
+        ":paperclip:",
+        ":bath:",
+        ":hatched_chick:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "14",

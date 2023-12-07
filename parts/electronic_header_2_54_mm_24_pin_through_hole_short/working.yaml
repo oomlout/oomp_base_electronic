@@ -64,6 +64,16 @@ name_no_size: 24 Pin Through Hole Short
 name_no_size_short: 24 Pin Through Hole Short
 name_no_type: 2 54 Mm 24 Pin Through Hole Short
 oomp_key: oomp_electronic_header_2_54_mm_24_pin_through_hole_short
+oomp_word: lock pig gift
+oomp_word_emoji: ':lock: :pig: :gift:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':pig:'
+- ':gift:'
+oomp_word_list:
+- lock
+- pig
+- gift
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

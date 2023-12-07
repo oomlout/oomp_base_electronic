@@ -73,6 +73,18 @@
     "md5_6_alpha_upper": "641PV",
     "md5_10": "9ca7b3f936",
     "md5_10_upper": "9CA7B3F936",
+    "oomp_word": "spades guitar eyeglasses",
+    "oomp_word_list": [
+        "spades",
+        "guitar",
+        "eyeglasses"
+    ],
+    "oomp_word_emoji": ":spades: :guitar: :eyeglasses:",
+    "oomp_word_emoji_list": [
+        ":spades:",
+        ":guitar:",
+        ":eyeglasses:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "7",

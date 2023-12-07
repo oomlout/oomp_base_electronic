@@ -67,6 +67,16 @@ name_no_size: 75000 Ohm
 name_no_size_short: 75k Ohm
 name_no_type: 0603 75000 Ohm
 oomp_key: oomp_electronic_resistor_0603_75000_ohm
+oomp_word: school rat snowflake
+oomp_word_emoji: ':school: :rat: :snowflake:'
+oomp_word_emoji_list:
+- ':school:'
+- ':rat:'
+- ':snowflake:'
+oomp_word_list:
+- school
+- rat
+- snowflake
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

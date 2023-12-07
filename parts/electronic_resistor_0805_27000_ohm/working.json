@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "9AUR7",
     "md5_10": "ee6333676e",
     "md5_10_upper": "EE6333676E",
+    "oomp_word": "ambulance rose dog",
+    "oomp_word_list": [
+        "ambulance",
+        "rose",
+        "dog"
+    ],
+    "oomp_word_emoji": ":ambulance: :rose: :dog:",
+    "oomp_word_emoji_list": [
+        ":ambulance:",
+        ":rose:",
+        ":dog:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "27000",

@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "7KHVR",
     "md5_10": "c1fe87b8af",
     "md5_10_upper": "C1FE87B8AF",
+    "oomp_word": "doughnut recycle toilet",
+    "oomp_word_list": [
+        "doughnut",
+        "recycle",
+        "toilet"
+    ],
+    "oomp_word_emoji": ":doughnut: :recycle: :toilet:",
+    "oomp_word_emoji_list": [
+        ":doughnut:",
+        ":recycle:",
+        ":toilet:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "12",

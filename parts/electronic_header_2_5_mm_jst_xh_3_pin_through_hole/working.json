@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "6OSJ5",
     "md5_10": "ab6c71ff1b",
     "md5_10_upper": "AB6C71FF1B",
+    "oomp_word": "boot blossom bamboo",
+    "oomp_word_list": [
+        "boot",
+        "blossom",
+        "bamboo"
+    ],
+    "oomp_word_emoji": ":boot: :blossom: :bamboo:",
+    "oomp_word_emoji_list": [
+        ":boot:",
+        ":blossom:",
+        ":bamboo:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "3",

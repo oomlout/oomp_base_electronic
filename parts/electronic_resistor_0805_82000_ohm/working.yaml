@@ -95,6 +95,16 @@ name_no_size: 82000 Ohm
 name_no_size_short: 82k Ohm
 name_no_type: 0805 82000 Ohm
 oomp_key: oomp_electronic_resistor_0805_82000_ohm
+oomp_word: dolphin sandal foggy
+oomp_word_emoji: ':dolphin: :sandal: :foggy:'
+oomp_word_emoji_list:
+- ':dolphin:'
+- ':sandal:'
+- ':foggy:'
+oomp_word_list:
+- dolphin
+- sandal
+- foggy
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

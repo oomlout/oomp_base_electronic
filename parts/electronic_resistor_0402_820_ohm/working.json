@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "1TTOS",
     "md5_10": "2edc8cfb98",
     "md5_10_upper": "2EDC8CFB98",
+    "oomp_word": "zap factory pill",
+    "oomp_word_list": [
+        "zap",
+        "factory",
+        "pill"
+    ],
+    "oomp_word_emoji": ":zap: :factory: :pill:",
+    "oomp_word_emoji_list": [
+        ":zap:",
+        ":factory:",
+        ":pill:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "820",

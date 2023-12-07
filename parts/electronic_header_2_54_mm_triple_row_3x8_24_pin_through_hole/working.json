@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "4GX59",
     "md5_10": "728fcd45ad",
     "md5_10_upper": "728FCD45AD",
+    "oomp_word": "dolls calendar strawberry",
+    "oomp_word_list": [
+        "dolls",
+        "calendar",
+        "strawberry"
+    ],
+    "oomp_word_emoji": ":dolls: :calendar: :strawberry:",
+    "oomp_word_emoji_list": [
+        ":dolls:",
+        ":calendar:",
+        ":strawberry:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3824",

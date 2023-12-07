@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "2XL9C",
     "md5_10": "4b2be0922e",
     "md5_10_upper": "4B2BE0922E",
+    "oomp_word": "penguin cloud ship",
+    "oomp_word_list": [
+        "penguin",
+        "cloud",
+        "ship"
+    ],
+    "oomp_word_emoji": ":penguin: :cloud: :ship:",
+    "oomp_word_emoji_list": [
+        ":penguin:",
+        ":cloud:",
+        ":ship:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "270",

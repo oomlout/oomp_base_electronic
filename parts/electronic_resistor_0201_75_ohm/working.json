@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8U2FM",
     "md5_10": "e26fd25b85",
     "md5_10_upper": "E26FD25B85",
+    "oomp_word": "sailboat moon pineapple",
+    "oomp_word_list": [
+        "sailboat",
+        "moon",
+        "pineapple"
+    ],
+    "oomp_word_emoji": ":sailboat: :moon: :pineapple:",
+    "oomp_word_emoji_list": [
+        ":sailboat:",
+        ":moon:",
+        ":pineapple:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "75",

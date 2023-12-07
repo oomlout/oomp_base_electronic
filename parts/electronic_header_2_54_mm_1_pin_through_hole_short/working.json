@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "759O5",
     "md5_10": "b727356abd",
     "md5_10_upper": "B727356ABD",
+    "oomp_word": "pizza nose hamster",
+    "oomp_word_list": [
+        "pizza",
+        "nose",
+        "hamster"
+    ],
+    "oomp_word_emoji": ":pizza: :nose: :hamster:",
+    "oomp_word_emoji_list": [
+        ":pizza:",
+        ":nose:",
+        ":hamster:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "1",

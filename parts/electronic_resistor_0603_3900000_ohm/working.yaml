@@ -67,6 +67,16 @@ name_no_size: 3900000 Ohm
 name_no_size_short: 3M9 Ohm
 name_no_type: 0603 3900000 Ohm
 oomp_key: oomp_electronic_resistor_0603_3900000_ohm
+oomp_word: pencil rose golf
+oomp_word_emoji: ':pencil: :rose: :golf:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':rose:'
+- ':golf:'
+oomp_word_list:
+- pencil
+- rose
+- golf
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

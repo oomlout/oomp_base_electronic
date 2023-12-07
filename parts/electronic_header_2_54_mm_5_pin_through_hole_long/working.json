@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "6EOCO",
     "md5_10": "a438c87729",
     "md5_10_upper": "A438C87729",
+    "oomp_word": "book frog apple",
+    "oomp_word_list": [
+        "book",
+        "frog",
+        "apple"
+    ],
+    "oomp_word_emoji": ":book: :frog: :apple:",
+    "oomp_word_emoji_list": [
+        ":book:",
+        ":frog:",
+        ":apple:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "5",

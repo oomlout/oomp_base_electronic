@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "3UW1S",
     "md5_10": "62e0c062e1",
     "md5_10_upper": "62E0C062E1",
+    "oomp_word": "tulip ship bread",
+    "oomp_word_list": [
+        "tulip",
+        "ship",
+        "bread"
+    ],
+    "oomp_word_emoji": ":tulip: :ship: :bread:",
+    "oomp_word_emoji_list": [
+        ":tulip:",
+        ":ship:",
+        ":bread:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "680000",

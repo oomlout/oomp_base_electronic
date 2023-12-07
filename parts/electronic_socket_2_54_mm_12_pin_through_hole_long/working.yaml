@@ -54,6 +54,16 @@ name_no_size: 12 Pin Through Hole Long
 name_no_size_short: 12 Pin Through Hole Long
 name_no_type: 2 54 Mm 12 Pin Through Hole Long
 oomp_key: oomp_electronic_socket_2_54_mm_12_pin_through_hole_long
+oomp_word: whale blossom anchor
+oomp_word_emoji: ':whale: :blossom: :anchor:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':blossom:'
+- ':anchor:'
+oomp_word_list:
+- whale
+- blossom
+- anchor
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

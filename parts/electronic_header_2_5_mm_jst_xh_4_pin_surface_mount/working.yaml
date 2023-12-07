@@ -54,6 +54,16 @@ name_no_size: 4 Pin Surface Mount
 name_no_size_short: 4 Pin Surface Mount
 name_no_type: 2 5 Mm Jst Xh 4 Pin Surface Mount
 oomp_key: oomp_electronic_header_2_5_mm_jst_xh_4_pin_surface_mount
+oomp_word: tulip key hammer
+oomp_word_emoji: ':tulip: :key: :hammer:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':key:'
+- ':hammer:'
+oomp_word_list:
+- tulip
+- key
+- hammer
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

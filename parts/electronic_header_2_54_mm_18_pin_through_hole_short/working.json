@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "8ER2J",
     "md5_10": "d7888b5676",
     "md5_10_upper": "D7888B5676",
+    "oomp_word": "office wrench door",
+    "oomp_word_list": [
+        "office",
+        "wrench",
+        "door"
+    ],
+    "oomp_word_emoji": ":office: :wrench: :door:",
+    "oomp_word_emoji_list": [
+        ":office:",
+        ":wrench:",
+        ":door:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "18",

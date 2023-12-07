@@ -67,6 +67,16 @@ name_no_size: 1800000 Ohm
 name_no_size_short: 1M8 Ohm
 name_no_type: Quarter Watt Through Hole 1800000 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_1800000_ohm
+oomp_word: nose dolphin doughnut
+oomp_word_emoji: ':nose: :dolphin: :doughnut:'
+oomp_word_emoji_list:
+- ':nose:'
+- ':dolphin:'
+- ':doughnut:'
+oomp_word_list:
+- nose
+- dolphin
+- doughnut
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

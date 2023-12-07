@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "3N4D7",
     "md5_10": "5d58db80bc",
     "md5_10_upper": "5D58DB80BC",
+    "oomp_word": "blowfish water_buffalo tent",
+    "oomp_word_list": [
+        "blowfish",
+        "water_buffalo",
+        "tent"
+    ],
+    "oomp_word_emoji": ":blowfish: :water_buffalo: :tent:",
+    "oomp_word_emoji_list": [
+        ":blowfish:",
+        ":water_buffalo:",
+        ":tent:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "19",

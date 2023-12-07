@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "1NFB6",
     "md5_10": "2a4e4203ed",
     "md5_10_upper": "2A4E4203ED",
+    "oomp_word": "umbrella honeybee sheep",
+    "oomp_word_list": [
+        "umbrella",
+        "honeybee",
+        "sheep"
+    ],
+    "oomp_word_emoji": ":umbrella: :honeybee: :sheep:",
+    "oomp_word_emoji_list": [
+        ":umbrella:",
+        ":honeybee:",
+        ":sheep:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "6800000",

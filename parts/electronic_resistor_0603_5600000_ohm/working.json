@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "8Q87S",
     "md5_10": "dfb4183226",
     "md5_10_upper": "DFB4183226",
+    "oomp_word": "fountain coffee hand",
+    "oomp_word_list": [
+        "fountain",
+        "coffee",
+        "hand"
+    ],
+    "oomp_word_emoji": ":fountain: :coffee: :hand:",
+    "oomp_word_emoji_list": [
+        ":fountain:",
+        ":coffee:",
+        ":hand:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "5600000",

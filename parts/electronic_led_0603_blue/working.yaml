@@ -78,6 +78,16 @@ name_no_size: Blue
 name_no_size_short: Blue
 name_no_type: 0603 Blue
 oomp_key: oomp_electronic_led_0603_blue
+oomp_word: basketball fireworks four
+oomp_word_emoji: ':basketball: :fireworks: :four:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':fireworks:'
+- ':four:'
+oomp_word_list:
+- basketball
+- fireworks
+- four
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

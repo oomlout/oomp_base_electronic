@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "7EXK",
     "md5_10": "054758a253",
     "md5_10_upper": "054758A253",
+    "oomp_word": "kissing baby_chick water_buffalo",
+    "oomp_word_list": [
+        "kissing",
+        "baby_chick",
+        "water_buffalo"
+    ],
+    "oomp_word_emoji": ":kissing: :baby_chick: :water_buffalo:",
+    "oomp_word_emoji_list": [
+        ":kissing:",
+        ":baby_chick:",
+        ":water_buffalo:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "39000",

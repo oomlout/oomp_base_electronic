@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "KIP",
     "md5_10": "0067e1fded",
     "md5_10_upper": "0067E1FDED",
+    "oomp_word": "bowtie herb boat",
+    "oomp_word_list": [
+        "bowtie",
+        "herb",
+        "boat"
+    ],
+    "oomp_word_emoji": ":bowtie: :herb: :boat:",
+    "oomp_word_emoji_list": [
+        ":bowtie:",
+        ":herb:",
+        ":boat:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "11",

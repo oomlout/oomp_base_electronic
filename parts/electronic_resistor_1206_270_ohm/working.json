@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "TEA9",
     "md5_10": "14ed91a0a9",
     "md5_10_upper": "14ED91A0A9",
+    "oomp_word": "fire bus pushpin",
+    "oomp_word_list": [
+        "fire",
+        "bus",
+        "pushpin"
+    ],
+    "oomp_word_emoji": ":fire: :bus: :pushpin:",
+    "oomp_word_emoji_list": [
+        ":fire:",
+        ":bus:",
+        ":pushpin:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "270",

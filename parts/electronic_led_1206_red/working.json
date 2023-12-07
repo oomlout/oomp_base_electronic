@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "72RJ0",
     "md5_10": "b55edc6836",
     "md5_10_upper": "B55EDC6836",
+    "oomp_word": "tea crocodile factory",
+    "oomp_word_list": [
+        "tea",
+        "crocodile",
+        "factory"
+    ],
+    "oomp_word_emoji": ":tea: :crocodile: :factory:",
+    "oomp_word_emoji_list": [
+        ":tea:",
+        ":crocodile:",
+        ":factory:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "",

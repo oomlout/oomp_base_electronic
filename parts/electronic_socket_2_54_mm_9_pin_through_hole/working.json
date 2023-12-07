@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "216OI",
     "md5_10": "341a12a2bd",
     "md5_10_upper": "341A12A2BD",
+    "oomp_word": "mouse clap anger",
+    "oomp_word_list": [
+        "mouse",
+        "clap",
+        "anger"
+    ],
+    "oomp_word_emoji": ":mouse: :clap: :anger:",
+    "oomp_word_emoji_list": [
+        ":mouse:",
+        ":clap:",
+        ":anger:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "9",

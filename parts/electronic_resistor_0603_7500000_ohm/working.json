@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "YXWR",
     "md5_10": "18e02b619f",
     "md5_10_upper": "18E02B619F",
+    "oomp_word": "hand ship cloud",
+    "oomp_word_list": [
+        "hand",
+        "ship",
+        "cloud"
+    ],
+    "oomp_word_emoji": ":hand: :ship: :cloud:",
+    "oomp_word_emoji_list": [
+        ":hand:",
+        ":ship:",
+        ":cloud:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "7500000",

@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "8CJ0S",
     "md5_10": "d5f34c9d1e",
     "md5_10_upper": "D5F34C9D1E",
+    "oomp_word": "house two turtle",
+    "oomp_word_list": [
+        "house",
+        "two",
+        "turtle"
+    ],
+    "oomp_word_emoji": ":house: :two: :turtle:",
+    "oomp_word_emoji_list": [
+        ":house:",
+        ":two:",
+        ":turtle:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3618",

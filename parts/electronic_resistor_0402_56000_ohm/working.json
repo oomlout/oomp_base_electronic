@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "2C7HU",
     "md5_10": "3bf2f2bf9d",
     "md5_10_upper": "3BF2F2BF9D",
+    "oomp_word": "bear one one",
+    "oomp_word_list": [
+        "bear",
+        "one",
+        "one"
+    ],
+    "oomp_word_emoji": ":bear: :one: :one:",
+    "oomp_word_emoji_list": [
+        ":bear:",
+        ":one:",
+        ":one:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "56000",

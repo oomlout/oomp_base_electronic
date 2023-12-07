@@ -74,6 +74,18 @@
     "md5_6_alpha_upper": "2MCKM",
     "md5_10": "432b2655fe",
     "md5_10_upper": "432B2655FE",
+    "oomp_word": "elephant cloud eyes",
+    "oomp_word_list": [
+        "elephant",
+        "cloud",
+        "eyes"
+    ],
+    "oomp_word_emoji": ":elephant: :cloud: :eyes:",
+    "oomp_word_emoji_list": [
+        ":elephant:",
+        ":cloud:",
+        ":eyes:"
+    ],
     "size_only_numbers": "865",
     "size_only_numbers_no_zeros": "865",
     "description_only_numbers": "220",

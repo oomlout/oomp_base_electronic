@@ -75,6 +75,16 @@ name_no_size: 12 Pin Through Hole
 name_no_size_short: 12 Pin Through Hole
 name_no_type: 2 54 Mm 12 Pin Through Hole
 oomp_key: oomp_electronic_header_2_54_mm_12_pin_through_hole
+oomp_word: fountain turtle one
+oomp_word_emoji: ':fountain: :turtle: :one:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':turtle:'
+- ':one:'
+oomp_word_list:
+- fountain
+- turtle
+- one
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

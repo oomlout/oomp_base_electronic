@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "3KAA9",
     "md5_10": "5b54113645",
     "md5_10_upper": "5B54113645",
+    "oomp_word": "rooster whale dizzy",
+    "oomp_word_list": [
+        "rooster",
+        "whale",
+        "dizzy"
+    ],
+    "oomp_word_emoji": ":rooster: :whale: :dizzy:",
+    "oomp_word_emoji_list": [
+        ":rooster:",
+        ":whale:",
+        ":dizzy:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "10",

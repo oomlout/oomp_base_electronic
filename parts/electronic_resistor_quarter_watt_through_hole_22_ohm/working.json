@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4QCQE",
     "md5_10": "7946f61974",
     "md5_10_upper": "7946F61974",
+    "oomp_word": "balloon bird five",
+    "oomp_word_list": [
+        "balloon",
+        "bird",
+        "five"
+    ],
+    "oomp_word_emoji": ":balloon: :bird: :five:",
+    "oomp_word_emoji_list": [
+        ":balloon:",
+        ":bird:",
+        ":five:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "22",

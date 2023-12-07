@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "6VG71",
     "md5_10": "b029bd5dd6",
     "md5_10_upper": "B029BD5DD6",
+    "oomp_word": "crown sunny rice",
+    "oomp_word_list": [
+        "crown",
+        "sunny",
+        "rice"
+    ],
+    "oomp_word_emoji": ":crown: :sunny: :rice:",
+    "oomp_word_emoji_list": [
+        ":crown:",
+        ":sunny:",
+        ":rice:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "8200000",

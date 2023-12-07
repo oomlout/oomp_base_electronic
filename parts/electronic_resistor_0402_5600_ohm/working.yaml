@@ -84,6 +84,16 @@ name_no_size: 5600 Ohm
 name_no_size_short: 5k6 Ohm
 name_no_type: 0402 5600 Ohm
 oomp_key: oomp_electronic_resistor_0402_5600_ohm
+oomp_word: door foggy computer
+oomp_word_emoji: ':door: :foggy: :computer:'
+oomp_word_emoji_list:
+- ':door:'
+- ':foggy:'
+- ':computer:'
+oomp_word_list:
+- door
+- foggy
+- computer
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

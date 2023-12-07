@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "3X5II",
     "md5_10": "647d2ad2c7",
     "md5_10_upper": "647D2AD2C7",
+    "oomp_word": "sunflower phone umbrella",
+    "oomp_word_list": [
+        "sunflower",
+        "phone",
+        "umbrella"
+    ],
+    "oomp_word_emoji": ":sunflower: :phone: :umbrella:",
+    "oomp_word_emoji_list": [
+        ":sunflower:",
+        ":phone:",
+        ":umbrella:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "82000",

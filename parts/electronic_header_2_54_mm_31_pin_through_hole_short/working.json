@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3D7VI",
     "md5_10": "564c1e7db6",
     "md5_10_upper": "564C1E7DB6",
+    "oomp_word": "ram turtle angel",
+    "oomp_word_list": [
+        "ram",
+        "turtle",
+        "angel"
+    ],
+    "oomp_word_emoji": ":ram: :turtle: :angel:",
+    "oomp_word_emoji_list": [
+        ":ram:",
+        ":turtle:",
+        ":angel:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "31",

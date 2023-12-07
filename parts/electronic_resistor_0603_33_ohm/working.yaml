@@ -95,6 +95,16 @@ name_no_size: 33 Ohm
 name_no_size_short: 33 Ohm
 name_no_type: 0603 33 Ohm
 oomp_key: oomp_electronic_resistor_0603_33_ohm
+oomp_word: sleepy lock heart
+oomp_word_emoji: ':sleepy: :lock: :heart:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':lock:'
+- ':heart:'
+oomp_word_list:
+- sleepy
+- lock
+- heart
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

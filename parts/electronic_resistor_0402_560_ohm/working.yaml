@@ -84,6 +84,16 @@ name_no_size: 560 Ohm
 name_no_size_short: 560 Ohm
 name_no_type: 0402 560 Ohm
 oomp_key: oomp_electronic_resistor_0402_560_ohm
+oomp_word: rabbit whale elephant
+oomp_word_emoji: ':rabbit: :whale: :elephant:'
+oomp_word_emoji_list:
+- ':rabbit:'
+- ':whale:'
+- ':elephant:'
+oomp_word_list:
+- rabbit
+- whale
+- elephant
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

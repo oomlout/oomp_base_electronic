@@ -176,6 +176,18 @@
     "md5_6_alpha_upper": "8R9R7",
     "md5_10": "e07223f344",
     "md5_10_upper": "E07223F344",
+    "oomp_word": "ship dolls kiss",
+    "oomp_word_list": [
+        "ship",
+        "dolls",
+        "kiss"
+    ],
+    "oomp_word_emoji": ":ship: :dolls: :kiss:",
+    "oomp_word_emoji_list": [
+        ":ship:",
+        ":dolls:",
+        ":kiss:"
+    ],
     "size_only_numbers": "20",
     "size_only_numbers_no_zeros": "2",
     "description_only_numbers": "",

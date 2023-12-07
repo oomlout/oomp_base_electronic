@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "1K2YJ",
     "md5_10": "27ecfb7045",
     "md5_10_upper": "27ECFB7045",
+    "oomp_word": "nose taxi ok",
+    "oomp_word_list": [
+        "nose",
+        "taxi",
+        "ok"
+    ],
+    "oomp_word_emoji": ":nose: :taxi: :ok:",
+    "oomp_word_emoji_list": [
+        ":nose:",
+        ":taxi:",
+        ":ok:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "",

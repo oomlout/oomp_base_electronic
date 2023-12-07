@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "1LEN6",
     "md5_10": "28de62080a",
     "md5_10_upper": "28DE62080A",
+    "oomp_word": "tongue rainbow tulip",
+    "oomp_word_list": [
+        "tongue",
+        "rainbow",
+        "tulip"
+    ],
+    "oomp_word_emoji": ":tongue: :rainbow: :tulip:",
+    "oomp_word_emoji_list": [
+        ":tongue:",
+        ":rainbow:",
+        ":tulip:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "14",

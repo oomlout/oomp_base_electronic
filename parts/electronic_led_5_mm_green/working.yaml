@@ -67,6 +67,16 @@ name_no_size: Green
 name_no_size_short: Green
 name_no_type: 5 Mm Green
 oomp_key: oomp_electronic_led_5_mm_green
+oomp_word: pizza muscle spades
+oomp_word_emoji: ':pizza: :muscle: :spades:'
+oomp_word_emoji_list:
+- ':pizza:'
+- ':muscle:'
+- ':spades:'
+oomp_word_list:
+- pizza
+- muscle
+- spades
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

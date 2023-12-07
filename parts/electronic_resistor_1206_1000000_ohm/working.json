@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "1XJCG",
     "md5_10": "31813013b9",
     "md5_10_upper": "31813013B9",
+    "oomp_word": "ocean watch foggy",
+    "oomp_word_list": [
+        "ocean",
+        "watch",
+        "foggy"
+    ],
+    "oomp_word_emoji": ":ocean: :watch: :foggy:",
+    "oomp_word_emoji_list": [
+        ":ocean:",
+        ":watch:",
+        ":foggy:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "1000000",

@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "1T9NW",
     "md5_10": "2e772c6ceb",
     "md5_10_upper": "2E772C6CEB",
+    "oomp_word": "zap gift snowflake",
+    "oomp_word_list": [
+        "zap",
+        "gift",
+        "snowflake"
+    ],
+    "oomp_word_emoji": ":zap: :gift: :snowflake:",
+    "oomp_word_emoji_list": [
+        ":zap:",
+        ":gift:",
+        ":snowflake:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "26",

@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3KPTJ",
     "md5_10": "5ba2b70350",
     "md5_10_upper": "5BA2B70350",
+    "oomp_word": "rooster violin pizza",
+    "oomp_word_list": [
+        "rooster",
+        "violin",
+        "pizza"
+    ],
+    "oomp_word_emoji": ":rooster: :violin: :pizza:",
+    "oomp_word_emoji_list": [
+        ":rooster:",
+        ":violin:",
+        ":pizza:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "13",

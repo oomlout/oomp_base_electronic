@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "31FWR",
     "md5_10": "4de9cbe2de",
     "md5_10_upper": "4DE9CBE2DE",
+    "oomp_word": "bug bike grapes",
+    "oomp_word_list": [
+        "bug",
+        "bike",
+        "grapes"
+    ],
+    "oomp_word_emoji": ":bug: :bike: :grapes:",
+    "oomp_word_emoji_list": [
+        ":bug:",
+        ":bike:",
+        ":grapes:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "3412",

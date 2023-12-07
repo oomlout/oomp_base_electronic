@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "3DRPW",
     "md5_10": "56b0945492",
     "md5_10_upper": "56B0945492",
+    "oomp_word": "ram crown microscope",
+    "oomp_word_list": [
+        "ram",
+        "crown",
+        "microscope"
+    ],
+    "oomp_word_emoji": ":ram: :crown: :microscope:",
+    "oomp_word_emoji_list": [
+        ":ram:",
+        ":crown:",
+        ":microscope:"
+    ],
     "size_only_numbers": "0201",
     "size_only_numbers_no_zeros": "21",
     "description_only_numbers": "12000",

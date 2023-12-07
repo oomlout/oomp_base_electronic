@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "7TCZH",
     "md5_10": "c84dfd680a",
     "md5_10_upper": "C84DFD680A",
+    "oomp_word": "apple bug parking",
+    "oomp_word_list": [
+        "apple",
+        "bug",
+        "parking"
+    ],
+    "oomp_word_emoji": ":apple: :bug: :parking:",
+    "oomp_word_emoji_list": [
+        ":apple:",
+        ":bug:",
+        ":parking:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "18000",

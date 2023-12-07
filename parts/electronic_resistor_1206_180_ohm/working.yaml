@@ -95,6 +95,16 @@ name_no_size: 180 Ohm
 name_no_size_short: 180 Ohm
 name_no_type: 1206 180 Ohm
 oomp_key: oomp_electronic_resistor_1206_180_ohm
+oomp_word: shirt sunny basketball
+oomp_word_emoji: ':shirt: :sunny: :basketball:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':sunny:'
+- ':basketball:'
+oomp_word_list:
+- shirt
+- sunny
+- basketball
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

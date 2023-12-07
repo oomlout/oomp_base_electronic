@@ -84,6 +84,18 @@
     "md5_6_alpha_upper": "6I97M",
     "md5_10": "a6c5228bac",
     "md5_10_upper": "A6C5228BAC",
+    "oomp_word": "trumpet candy lips",
+    "oomp_word_list": [
+        "trumpet",
+        "candy",
+        "lips"
+    ],
+    "oomp_word_emoji": ":trumpet: :candy: :lips:",
+    "oomp_word_emoji_list": [
+        ":trumpet:",
+        ":candy:",
+        ":lips:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "4",

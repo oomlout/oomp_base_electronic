@@ -84,6 +84,16 @@ name_no_size: 270 Ohm
 name_no_size_short: 270 Ohm
 name_no_type: 0402 270 Ohm
 oomp_key: oomp_electronic_resistor_0402_270_ohm
+oomp_word: hamburger rabbit fries
+oomp_word_emoji: ':hamburger: :rabbit: :fries:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':rabbit:'
+- ':fries:'
+oomp_word_list:
+- hamburger
+- rabbit
+- fries
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

@@ -95,6 +95,16 @@ name_no_size: 330 Ohm
 name_no_size_short: 330 Ohm
 name_no_type: 0805 330 Ohm
 oomp_key: oomp_electronic_resistor_0805_330_ohm
+oomp_word: truck skull lollipop
+oomp_word_emoji: ':truck: :skull: :lollipop:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':skull:'
+- ':lollipop:'
+oomp_word_list:
+- truck
+- skull
+- lollipop
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

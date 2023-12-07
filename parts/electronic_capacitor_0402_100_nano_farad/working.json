@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "3HO2K",
     "md5_10": "59771c4331",
     "md5_10_upper": "59771C4331",
+    "oomp_word": "dragon gift dancer",
+    "oomp_word_list": [
+        "dragon",
+        "gift",
+        "dancer"
+    ],
+    "oomp_word_emoji": ":dragon: :gift: :dancer:",
+    "oomp_word_emoji_list": [
+        ":dragon:",
+        ":gift:",
+        ":dancer:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "100",

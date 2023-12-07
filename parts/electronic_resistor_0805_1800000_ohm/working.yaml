@@ -67,6 +67,16 @@ name_no_size: 1800000 Ohm
 name_no_size_short: 1M8 Ohm
 name_no_type: 0805 1800000 Ohm
 oomp_key: oomp_electronic_resistor_0805_1800000_ohm
+oomp_word: sparkles pray taxi
+oomp_word_emoji: ':sparkles: :pray: :taxi:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':pray:'
+- ':taxi:'
+oomp_word_list:
+- sparkles
+- pray
+- taxi
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

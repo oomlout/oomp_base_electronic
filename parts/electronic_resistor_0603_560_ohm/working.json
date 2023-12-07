@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "YD1H",
     "md5_10": "1876855051",
     "md5_10_upper": "1876855051",
+    "oomp_word": "hand santa bulb",
+    "oomp_word_list": [
+        "hand",
+        "santa",
+        "bulb"
+    ],
+    "oomp_word_emoji": ":hand: :santa: :bulb:",
+    "oomp_word_emoji_list": [
+        ":hand:",
+        ":santa:",
+        ":bulb:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "560",

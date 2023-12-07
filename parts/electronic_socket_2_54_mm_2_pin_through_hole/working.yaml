@@ -54,6 +54,16 @@ name_no_size: 2 Pin Through Hole
 name_no_size_short: 2 Pin Through Hole
 name_no_type: 2 54 Mm 2 Pin Through Hole
 oomp_key: oomp_electronic_socket_2_54_mm_2_pin_through_hole
+oomp_word: pizza hatched_chick helicopter
+oomp_word_emoji: ':pizza: :hatched_chick: :helicopter:'
+oomp_word_emoji_list:
+- ':pizza:'
+- ':hatched_chick:'
+- ':helicopter:'
+oomp_word_list:
+- pizza
+- hatched_chick
+- helicopter
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

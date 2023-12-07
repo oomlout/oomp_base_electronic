@@ -66,6 +66,16 @@ name_no_size: 68 Ohm
 name_no_size_short: 68 Ohm
 name_no_type: 0201 68 Ohm
 oomp_key: oomp_electronic_resistor_0201_68_ohm
+oomp_word: baseball dragon helicopter
+oomp_word_emoji: ':baseball: :dragon: :helicopter:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':dragon:'
+- ':helicopter:'
+oomp_word_list:
+- baseball
+- dragon
+- helicopter
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

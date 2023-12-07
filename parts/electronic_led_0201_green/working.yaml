@@ -67,6 +67,16 @@ name_no_size: Green
 name_no_size_short: Green
 name_no_type: 0201 Green
 oomp_key: oomp_electronic_led_0201_green
+oomp_word: envelope lollipop tomato
+oomp_word_emoji: ':envelope: :lollipop: :tomato:'
+oomp_word_emoji_list:
+- ':envelope:'
+- ':lollipop:'
+- ':tomato:'
+oomp_word_list:
+- envelope
+- lollipop
+- tomato
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

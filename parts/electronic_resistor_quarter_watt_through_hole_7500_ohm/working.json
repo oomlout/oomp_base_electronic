@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "188L",
     "md5_10": "00dff531eb",
     "md5_10_upper": "00DFF531EB",
+    "oomp_word": "bowtie fountain four",
+    "oomp_word_list": [
+        "bowtie",
+        "fountain",
+        "four"
+    ],
+    "oomp_word_emoji": ":bowtie: :fountain: :four:",
+    "oomp_word_emoji_list": [
+        ":bowtie:",
+        ":fountain:",
+        ":four:"
+    ],
     "size_only_numbers": "",
     "size_only_numbers_no_zeros": "",
     "description_only_numbers": "7500",

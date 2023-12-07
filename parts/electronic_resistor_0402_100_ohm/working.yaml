@@ -84,6 +84,16 @@ name_no_size: 100 Ohm
 name_no_size_short: 100 Ohm
 name_no_type: 0402 100 Ohm
 oomp_key: oomp_electronic_resistor_0402_100_ohm
+oomp_word: snail poop car
+oomp_word_emoji: ':snail: :poop: :car:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':poop:'
+- ':car:'
+oomp_word_list:
+- snail
+- poop
+- car
 package_style: smd_tape
 part_number: ''
 part_number_capital: ''

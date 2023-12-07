@@ -64,6 +64,16 @@ name_no_size: I2C Double Through Hole Right Angle
 name_no_size_short: I2C Double Through Hole Right Angle
 name_no_type: Oobb I2C Double Through Hole Right Angle
 oomp_key: oomp_electronic_header_oobb_i2c_double_through_hole_right_angle
+oomp_word: snowflake thumbsdown balloon
+oomp_word_emoji: ':snowflake: :thumbsdown: :balloon:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':thumbsdown:'
+- ':balloon:'
+oomp_word_list:
+- snowflake
+- thumbsdown
+- balloon
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

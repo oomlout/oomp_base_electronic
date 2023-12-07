@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "9CTI8",
     "md5_10": "efc9609038",
     "md5_10_upper": "EFC9609038",
+    "oomp_word": "truck lemon poodle",
+    "oomp_word_list": [
+        "truck",
+        "lemon",
+        "poodle"
+    ],
+    "oomp_word_emoji": ":truck: :lemon: :poodle:",
+    "oomp_word_emoji_list": [
+        ":truck:",
+        ":lemon:",
+        ":poodle:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "24080",

@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "5UCO2",
     "md5_10": "95c0a23c93",
     "md5_10_upper": "95C0A23C93",
+    "oomp_word": "telescope bread violin",
+    "oomp_word_list": [
+        "telescope",
+        "bread",
+        "violin"
+    ],
+    "oomp_word_emoji": ":telescope: :bread: :violin:",
+    "oomp_word_emoji_list": [
+        ":telescope:",
+        ":bread:",
+        ":violin:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "22",

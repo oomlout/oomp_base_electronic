@@ -66,6 +66,16 @@ name_no_size_short: M6
 name_no_type: M6
 notes: []
 oomp_key: oomp_electronic_mounting_hole_m6
+oomp_word: ok tractor maple_leaf
+oomp_word_emoji: ':ok: :tractor: :maple_leaf:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':tractor:'
+- ':maple_leaf:'
+oomp_word_list:
+- ok
+- tractor
+- maple_leaf
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

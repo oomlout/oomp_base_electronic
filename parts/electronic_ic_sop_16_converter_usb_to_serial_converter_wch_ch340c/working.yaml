@@ -72,6 +72,16 @@ name_no_size_short: Converter Usb To Serial Converter Wch Ch340C
 name_no_type: Sop 16 Converter Usb To Serial Converter Wch Ch340C
 notes: []
 oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+oomp_word: door tiger turtle
+oomp_word_emoji: ':door: :tiger: :turtle:'
+oomp_word_emoji_list:
+- ':door:'
+- ':tiger:'
+- ':turtle:'
+oomp_word_list:
+- door
+- tiger
+- turtle
 part_number: ch340c
 part_number_capital: Ch340C
 part_number_first_letter: c

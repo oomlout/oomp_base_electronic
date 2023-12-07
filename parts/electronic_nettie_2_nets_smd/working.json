@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "32WD9",
     "md5_10": "4ef35d1f2d",
     "md5_10_upper": "4EF35D1F2D",
+    "oomp_word": "honeybee two blowfish",
+    "oomp_word_list": [
+        "honeybee",
+        "two",
+        "blowfish"
+    ],
+    "oomp_word_emoji": ":honeybee: :two: :blowfish:",
+    "oomp_word_emoji_list": [
+        ":honeybee:",
+        ":two:",
+        ":blowfish:"
+    ],
     "size_only_numbers": "2",
     "size_only_numbers_no_zeros": "2",
     "description_only_numbers": "",

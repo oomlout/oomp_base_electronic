@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "55NUB",
     "md5_10": "842cf3c820",
     "md5_10_upper": "842CF3C820",
+    "oomp_word": "key snowflake two",
+    "oomp_word_list": [
+        "key",
+        "snowflake",
+        "two"
+    ],
+    "oomp_word_emoji": ":key: :snowflake: :two:",
+    "oomp_word_emoji_list": [
+        ":key:",
+        ":snowflake:",
+        ":two:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "14",

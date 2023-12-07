@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "9L7LK",
     "md5_10": "f5c2b8589a",
     "md5_10_upper": "F5C2B8589A",
+    "oomp_word": "four birthday hamburger",
+    "oomp_word_list": [
+        "four",
+        "birthday",
+        "hamburger"
+    ],
+    "oomp_word_emoji": ":four: :birthday: :hamburger:",
+    "oomp_word_emoji_list": [
+        ":four:",
+        ":birthday:",
+        ":hamburger:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "270",

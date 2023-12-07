@@ -65,6 +65,18 @@
     "md5_6_alpha_upper": "8SN40",
     "md5_10": "e16c004232",
     "md5_10_upper": "E16C004232",
+    "oomp_word": "boat blossom bowtie",
+    "oomp_word_list": [
+        "boat",
+        "blossom",
+        "bowtie"
+    ],
+    "oomp_word_emoji": ":boat: :blossom: :bowtie:",
+    "oomp_word_emoji_list": [
+        ":boat:",
+        ":blossom:",
+        ":bowtie:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "5",

@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "4LO65",
     "md5_10": "75f19daec4",
     "md5_10_upper": "75F19DAEC4",
+    "oomp_word": "ghost ticket hearts",
+    "oomp_word_list": [
+        "ghost",
+        "ticket",
+        "hearts"
+    ],
+    "oomp_word_emoji": ":ghost: :ticket: :hearts:",
+    "oomp_word_emoji_list": [
+        ":ghost:",
+        ":ticket:",
+        ":hearts:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "35",

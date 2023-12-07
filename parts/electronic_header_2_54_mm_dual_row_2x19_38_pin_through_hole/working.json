@@ -78,6 +78,18 @@
     "md5_6_alpha_upper": "7X3QF",
     "md5_10": "caf8278986",
     "md5_10_upper": "CAF8278986",
+    "oomp_word": "cherries seven nose",
+    "oomp_word_list": [
+        "cherries",
+        "seven",
+        "nose"
+    ],
+    "oomp_word_emoji": ":cherries: :seven: :nose:",
+    "oomp_word_emoji_list": [
+        ":cherries:",
+        ":seven:",
+        ":nose:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "21938",

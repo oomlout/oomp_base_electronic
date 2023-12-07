@@ -72,6 +72,18 @@
     "md5_6_alpha_upper": "EP9O",
     "md5_10": "0a776cd7db",
     "md5_10_upper": "0A776CD7DB",
+    "oomp_word": "sleepy gift blossom",
+    "oomp_word_list": [
+        "sleepy",
+        "gift",
+        "blossom"
+    ],
+    "oomp_word_emoji": ":sleepy: :gift: :blossom:",
+    "oomp_word_emoji_list": [
+        ":sleepy:",
+        ":gift:",
+        ":blossom:"
+    ],
     "size_only_numbers": "254",
     "size_only_numbers_no_zeros": "254",
     "description_only_numbers": "236",

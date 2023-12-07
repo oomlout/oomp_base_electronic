@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "5IN7",
     "md5_10": "03eda3159c",
     "md5_10_upper": "03EDA3159C",
+    "oomp_word": "grin bus pencil",
+    "oomp_word_list": [
+        "grin",
+        "bus",
+        "pencil"
+    ],
+    "oomp_word_emoji": ":grin: :bus: :pencil:",
+    "oomp_word_emoji_list": [
+        ":grin:",
+        ":bus:",
+        ":pencil:"
+    ],
     "size_only_numbers": "0402",
     "size_only_numbers_no_zeros": "42",
     "description_only_numbers": "27",

@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "21ULJ",
     "md5_10": "349327e1e8",
     "md5_10_upper": "349327E1E8",
+    "oomp_word": "mouse books nose",
+    "oomp_word_list": [
+        "mouse",
+        "books",
+        "nose"
+    ],
+    "oomp_word_emoji": ":mouse: :books: :nose:",
+    "oomp_word_emoji_list": [
+        ":mouse:",
+        ":books:",
+        ":nose:"
+    ],
     "size_only_numbers": "1206",
     "size_only_numbers_no_zeros": "126",
     "description_only_numbers": "330000",

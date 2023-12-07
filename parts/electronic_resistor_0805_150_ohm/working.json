@@ -102,6 +102,18 @@
     "md5_6_alpha_upper": "76U8E",
     "md5_10": "b8458e703c",
     "md5_10_upper": "B8458E703C",
+    "oomp_word": "hamburger snake clipboard",
+    "oomp_word_list": [
+        "hamburger",
+        "snake",
+        "clipboard"
+    ],
+    "oomp_word_emoji": ":hamburger: :snake: :clipboard:",
+    "oomp_word_emoji_list": [
+        ":hamburger:",
+        ":snake:",
+        ":clipboard:"
+    ],
     "size_only_numbers": "0805",
     "size_only_numbers_no_zeros": "85",
     "description_only_numbers": "150",

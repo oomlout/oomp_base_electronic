@@ -71,6 +71,18 @@
     "md5_6_alpha_upper": "9Q8TQ",
     "md5_10": "f9582e745a",
     "md5_10_upper": "F9582E745A",
+    "oomp_word": "eight water_buffalo zap",
+    "oomp_word_list": [
+        "eight",
+        "water_buffalo",
+        "zap"
+    ],
+    "oomp_word_emoji": ":eight: :water_buffalo: :zap:",
+    "oomp_word_emoji_list": [
+        ":eight:",
+        ":water_buffalo:",
+        ":zap:"
+    ],
     "size_only_numbers": "0603",
     "size_only_numbers_no_zeros": "63",
     "description_only_numbers": "820000",

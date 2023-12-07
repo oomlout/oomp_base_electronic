@@ -67,6 +67,16 @@ name_no_size: 7500 Ohm
 name_no_size_short: 7k5 Ohm
 name_no_type: Quarter Watt Through Hole 7500 Ohm
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_7500_ohm
+oomp_word: bowtie fountain four
+oomp_word_emoji: ':bowtie: :fountain: :four:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':fountain:'
+- ':four:'
+oomp_word_list:
+- bowtie
+- fountain
+- four
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
